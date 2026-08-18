@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T03:57:49.844698+00:00",
+  "updated": "2026-08-18T04:03:21.553553+00:00",
   "summary": {
-    "total": 77,
-    "success": 29,
-    "fail": 48,
-    "total_articles": 404
+    "total": 78,
+    "success": 33,
+    "fail": 45,
+    "total_articles": 424
   },
   "articles": {
     "hot": [
@@ -1811,6 +1811,16 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "为什么中国的“新农具”这么“聪明”？",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679405.shtml",
+        "summary": "\n　　为什么中国的“新农具”这么“聪明”？(外国网友趣问中国#9322;)",
+        "pubDate": "2026-08-18T11:56:55+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "国家疾控局发布HPV疫苗科普问答",
         "link": "https://www.chinanews.com.cn/jk/2026/08-18/10679532.shtml",
         "summary": "\n　　中新网8月18日电 据国家疾控局网站消息，8月18日，国家疾控局发布HPV疫苗科普问答。",
@@ -1995,16 +2005,6 @@
         "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679511.shtml",
         "summary": "\n　　山东滨州市市场监管局组织年轻干部开展体验式调研",
         "pubDate": "2026-08-18T11:15:17+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "国际最新研究：人工智能揭秘音乐“指纹” 辨识爵士音乐家",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679491.shtml",
-        "summary": "\n　　中新网北京8月18日电(记者 孙自法)施普林格·自然旗下专业学术期刊《自然-机器智能》最新发表一篇人工智能(AI)研究论文称，一项针对20位知名爵士钢琴家的研究显示，机器学习模型能从录音中辨认不同的爵士钢琴家，并揭示使表演者具有可辨认度的音乐“指纹”。",
-        "pubDate": "2026-08-18T11:14:13+08:00",
         "author": "",
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
@@ -3304,7 +3304,208 @@
         "feedColor": "#7cffb0"
       }
     ],
-    "edu": [],
+    "edu": [
+      {
+        "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+        "link": "https://arxiv.org/abs/2608.14550",
+        "summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for assessing computatio",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+        "link": "https://arxiv.org/abs/2608.14552",
+        "summary": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+        "link": "https://arxiv.org/abs/2608.14558",
+        "summary": "arXiv:2608.14558v1 Announce Type: new \nAbstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+        "link": "https://arxiv.org/abs/2608.14559",
+        "summary": "arXiv:2608.14559v1 Announce Type: new \nAbstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+        "link": "https://arxiv.org/abs/2608.14562",
+        "summary": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that m",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+        "link": "https://arxiv.org/abs/2608.14565",
+        "summary": "arXiv:2608.14565v1 Announce Type: new \nAbstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's societal impacts (including unemployment risk and labor market disruption). However, an e",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+        "link": "https://arxiv.org/abs/2608.14566",
+        "summary": "arXiv:2608.14566v1 Announce Type: new \nAbstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whether model outputs align with human moral values. In contrast, the moral norm problem, i.e., whether",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+        "link": "https://arxiv.org/abs/2608.14567",
+        "summary": "arXiv:2608.14567v1 Announce Type: new \nAbstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief change implementation. Seeded by Doyle and London's foundational 1980 taxonomy, we trace the evolution of belief revision ",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+        "link": "https://arxiv.org/abs/2608.14568",
+        "summary": "arXiv:2608.14568v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust governance frameworks has intensified. However, current approaches, led by jurisdiction-specific laws, policies, and voluntary",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+        "link": "https://arxiv.org/abs/2608.14569",
+        "summary": "arXiv:2608.14569v1 Announce Type: new \nAbstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent constraint violations occur under distribution shifts even when the model reports high conf",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+        "link": "https://arxiv.org/abs/2608.14571",
+        "summary": "arXiv:2608.14571v1 Announce Type: new \nAbstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and without the offsetting pressure of publication fees, the machine learning (ML) community has one of the largest scholarly presen",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+        "link": "https://arxiv.org/abs/2608.14578",
+        "summary": "arXiv:2608.14578v1 Announce Type: new \nAbstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline characteristics, longitudinal trajectories, and relational context remains unclear. Using data from approximately 11,860 par",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+        "link": "https://arxiv.org/abs/2608.14579",
+        "summary": "arXiv:2608.14579v1 Announce Type: new \nAbstract: Logic synthesis optimization poses significant challenges due to exponentially growing search spaces, sparse reward signals, and diverse logic structures. Traditional expert-designed flows lack adaptability, while reinforcement learning (RL) methods o",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+        "link": "https://arxiv.org/abs/2608.14580",
+        "summary": "arXiv:2608.14580v1 Announce Type: new \nAbstract: OGX (Open GenAI Stack) is an open-source AI application server and Python library that implements the APIs of major frontier labs (OpenAI, Anthropic, Google) with pluggable backend providers. Developers building agentic AI applications--such as retrie",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
+        "link": "https://arxiv.org/abs/2608.14585",
+        "summary": "arXiv:2608.14585v1 Announce Type: new \nAbstract: Euclidean geometry is a compelling testbed for AI reasoning, as it demands the combination of intuitive diagram understanding, axiomatic deduction, and algebraic computation. Yet, existing approaches typically address only a subset of these abilities ",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case",
+        "link": "https://arxiv.org/abs/2608.14587",
+        "summary": "arXiv:2608.14587v1 Announce Type: new \nAbstract: Background: Recent advances in information retrieval (IR) leverage both dense and sparse representations, large language models (LLMs), and specialized retrieval models to improve ranking accuracy, relevance, and cross-lingual performance. Complementa",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+        "link": "https://arxiv.org/abs/2608.14588",
+        "summary": "arXiv:2608.14588v1 Announce Type: new \nAbstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences. We show that hallucinations injected at Stage 1 do not merely persist; they transform: ",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+        "link": "https://arxiv.org/abs/2608.14590",
+        "summary": "arXiv:2608.14590v1 Announce Type: new \nAbstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools. However, no existing system provides formally grounded, task-level safety guarantees for the plans th",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Position: Medical AI Neglects Real Treatment Outcomes",
+        "link": "https://arxiv.org/abs/2608.14598",
+        "summary": "arXiv:2608.14598v1 Announce Type: new \nAbstract: Medical AI has rapidly improved its ability to perform diagnostic and prognostic tasks that lead to treatment decisions. But understanding of treatment itself is still inadequately trained and evaluated, using human opinions and syntheses (especially ",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+        "link": "https://arxiv.org/abs/2608.14610",
+        "summary": "arXiv:2608.14610v1 Announce Type: new \nAbstract: Legal reasoning tasks such as legal judgment prediction (LJP) require identifying the temporally correct version of the law governing a case -- a capability we term temporal applicable-law determination. However, whether large language models (LLMs) c",
+        "pubDate": "2026-08-18T00:00:00-04:00",
+        "author": "",
+        "feedTitle": "cs.AI updates on arXiv.org",
+        "feedName": "arXivAI论文",
+        "feedColor": "#7c9aff"
+      }
+    ],
     "culture": [
       {
         "title": " 项目频道 - 字节 Seedance 2.5官方宣传片：《消失的袜子》",
@@ -3314,7 +3515,7 @@
         "author": " 盘马弯弓 PMWG",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 太抽象了！《牛来》爆火，品牌连夜玩梗整活",
@@ -3324,7 +3525,7 @@
         "author": " 志豪",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 作为广告公司，我们做产品是认真的",
@@ -3334,7 +3535,7 @@
         "author": " TIMA",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 天猫绿动生活公益短片：垃圾堆不是它们的家",
@@ -3344,7 +3545,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 《牛来》爆火3天，流量反噬开始了",
@@ -3354,7 +3555,7 @@
         "author": " 广告洞察",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 英国药品广告抗议：放屁不要再甩锅给狗了",
@@ -3364,7 +3565,7 @@
         "author": " 云舒",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 得物单核挑战赛：想赢自会出手",
@@ -3374,7 +3575,7 @@
         "author": " Mdigi 马克笑逸 北京",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 无内涵，纯猎奇，影院集体为《牛来》手搓海报",
@@ -3384,7 +3585,7 @@
         "author": " Circle",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 《欢迎来龙餐馆》票房口碑都爆了！海报埋下许多伏笔",
@@ -3394,7 +3595,7 @@
         "author": " 小鱼",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 招聘频道 - 创意文案（ATL）",
@@ -3404,7 +3605,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 招聘频道 - 资深文案-ATL",
@@ -3414,7 +3615,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 淘宝国际左撇子日：感谢这世界有宝贝向左",
@@ -3424,7 +3625,7 @@
         "author": " 走神OGK",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 招聘频道 - 美术指导Art Director",
@@ -3434,7 +3635,7 @@
         "author": " 好旺角 GMKOK 上海",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 招聘频道 - AE/SAE",
@@ -3444,7 +3645,7 @@
         "author": " 赞意",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 广告提案百年变革：从黑板到HTML",
@@ -3454,7 +3655,7 @@
         "author": " 共振体数字整合营销&AI",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 淘宝买药：夏天的橙色「贴」心提醒",
@@ -3464,7 +3665,7 @@
         "author": " 有点意思",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 假如经典广告，遇上国内甲方反馈",
@@ -3474,7 +3675,7 @@
         "author": " 洪流的广告流言",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 利郎西服：没事穿什么西服？万一呢",
@@ -3484,7 +3685,7 @@
         "author": " MATCH 马马也 上海",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 文章频道 - 睁眼说瞎话，AI女主拍广告被抵制",
@@ -3494,7 +3695,7 @@
         "author": " 顶尖广告",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": " 项目频道 - 星巴克×余华：一个「潦草读书局」，让阅读更容易发生",
@@ -3504,7 +3705,7 @@
         "author": " HS Creation 和势 北京",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#ffd47c"
+        "feedColor": "#7c9aff"
       }
     ],
     "other": [
@@ -3516,7 +3717,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于推动外贸稳规模优结构的意见",
@@ -3526,7 +3727,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于调整第19届亚运会和第4届亚残运会工作领导小组组成人员等有关事项的通知",
@@ -3536,7 +3737,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于上市公司独立董事制度改革的意见",
@@ -3546,7 +3747,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "征兵工作条例",
@@ -3556,7 +3757,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于成立第五次全国经济普查领导小组的通知",
@@ -3566,7 +3767,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于印发《国务院工作规则》的通知",
@@ -3576,7 +3777,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于印发食品安全工作评议考核办法的通知",
@@ -3586,7 +3787,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于同意在海南省暂时调整实施有关行政法规规定的批复",
@@ -3596,7 +3797,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于部委管理的国家局设置的通知",
@@ -3606,7 +3807,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于机构设置的通知",
@@ -3616,7 +3817,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于同意将云南省剑川县列为国家历史文化名城的批复",
@@ -3626,7 +3827,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于印发中医药振兴发展重大工程实施方案的通知",
@@ -3636,7 +3837,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于《长三角生态绿色一体化发展示范区国土空间总体规划（2021—2035年）》的批复",
@@ -3646,7 +3847,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于废止部分行政法规和文件的决定",
@@ -3656,7 +3857,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅关于深入推进跨部门综合监管的指导意见",
@@ -3666,7 +3867,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于新时代洞庭湖生态经济区规划的批复",
@@ -3676,7 +3877,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于同意设立中国—菲律宾经贸创新发展示范园区的批复",
@@ -3686,7 +3887,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院关于同意设立中国—印度尼西亚经贸创新发展示范园区的批复",
@@ -3696,7 +3897,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "国务院办公厅转发商务部科技部关于进一步鼓励外商投资设立研发中心若干措施的通知",
@@ -3706,7 +3907,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7cff7c"
+        "feedColor": "#7c9aff"
       },
       {
         "title": "假如用AI做牛来要花多少钱",
@@ -3716,7 +3917,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "3分钟告诉你，AI产品经理跟普通PM区别，不看亏哭",
@@ -3726,7 +3927,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "一张脸被AI复制以后，为什么没有“撤回”按钮？",
@@ -3736,7 +3937,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "商业新词典：九大关键词转向，重塑领导者思考、行动与价值创造",
@@ -3746,7 +3947,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "Prompt Engineering正在失效，Harness Engineering才是AI Agent的下一个竞争点",
@@ -3756,7 +3957,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "AI 产品经理，正在从“设计功能”转向“设计不确定性”",
@@ -3766,7 +3967,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "AI进入影视行业：一次关于生产方式和商业模式的重构",
@@ -3776,7 +3977,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "大模型为什么会答错：从生成机制到 RAG 的可信回答证据链",
@@ -3786,7 +3987,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "零食巨头集体卖菜的生存逻辑",
@@ -3796,7 +3997,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "拼多多新链接冷启动的一些方法",
@@ -3806,7 +4007,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "B2B生鲜对账系统：从“月底翻箱倒柜”到“T+0实时核销”，差异率降75%背后的产品方法论",
@@ -3816,7 +4017,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "从“AI 临时工”到“Agent 工作流”：养了三个TOB市场营销数字分身替我干活",
@@ -3826,7 +4027,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "我对 FDE 的判断：它不是驻场写 Prompt，而是把 AI 项目变成产品",
@@ -3836,7 +4037,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "一个AI短剧创业者，用七个月讲完了整个行业的生命周期",
@@ -3846,7 +4047,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
         "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
@@ -3856,207 +4057,207 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "厄尔尼诺现象催化下农业产业链走强，农业ETF嘉实(516550)布局农业板块投资机遇",
-        "link": "https://www.jiemian.com/article/14939296.html",
-        "summary": "2026年8月18日早盘，农林牧渔、农业种植等表现活跃，截至11:04，中证大农业指数强势上涨1.25%，成分股北大荒上涨8.42%，大北农上涨7.17%，隆平高科上涨7.16%，苏垦农发，新洋丰等个股跟涨。",
-        "pubDate": "2026-08-18T11:29:24+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
         "feedColor": "#c97cff"
       },
       {
-        "title": "成立仅三个月即上马亿元项目！中新资源循环7.2万吨EPS再生循环利用项目落子潍坊",
-        "link": "https://www.jiemian.com/article/14939208.html",
-        "summary": "近日，潍坊市生态环境局峡山分局发布公示，正式受理中新资源循环科技（山东）有限公司（下称“中新资源循环”）申报的年产7.2万吨EPS材料再生循环利用项目环境影响评价文件，公示期为8月13日至8月26日。",
-        "pubDate": "2026-08-18T11:29:17+08:00",
-        "author": "jianli@jiemian.com(界面山东)",
+        "title": "恩华药业：NH130片和NH302注射液临床试验获批",
+        "link": "https://www.jiemian.com/article/14939569.html",
+        "summary": "恩华药业8月18日午间公告，公司于近日收到1类创新药NH130枸橼酸盐片《药物临床试验批准通知书》，同意开展临床试验。申请的适应症：拟用于治疗精神分裂症；拟用于治疗阿尔茨海默病精神病性障碍（ADP）。另外，公司于近日收到1类创新药NH302注射液《药物临床试验批准通知书》，同意开展急性疼痛的临床试验。",
+        "pubDate": "2026-08-18T11:57:41+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "险资加码权益释放配置信号！高股息赛道可关注",
-        "link": "https://www.jiemian.com/article/14939298.html",
-        "summary": "截至 2026 年 8 月 18 日 11:17，港股通央企红利 ETF 华夏（513910）盘中小幅下行 0.46%，最新价格报 1.529 元；场内成交额达到 0.57 亿元，换手率 1.84%。",
-        "pubDate": "2026-08-18T11:29:16+08:00",
-        "author": "jianli@jiemian.com(有连云)",
+        "title": "德塔智能与光轮智能达成战略合作",
+        "link": "https://www.jiemian.com/article/14939567.html",
+        "summary": "8月18日，人形机器人基础模型公司德塔智能（Delta Intelligence）与物理AI数据与评测基础设施企业光轮智能（Lightwheel AI）达成战略合作。双方将围绕着德塔智能头戴式全身全景数据采集设备Delta D1开展人类数据采集，数据治理，人形基础模型闭环评测等一系列深度协同。",
+        "pubDate": "2026-08-18T11:55:51+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "粮食ETF鹏华(159698)盘中净申购3750万份，厄尔尼诺效应冲击全球粮食安全",
-        "link": "https://www.jiemian.com/article/14939329.html",
-        "summary": "消息面上，气候风险正在升级。国家气候中心监测显示，6-7月厄尔尼诺持续加强，后期转为超强事件的概率增大，预计至少延续至明年春季，对国内秋粮生产或带来农田涝渍、病虫害风险。",
-        "pubDate": "2026-08-18T11:29:08+08:00",
-        "author": "jianli@jiemian.com(有连云)",
+        "title": "河南省第十五届运动会开幕式彩排火炬掉落，官方发布情况说明",
+        "link": "https://www.jiemian.com/article/14939559.html",
+        "summary": "河南省第十五届运动会暨第九届残运会、安阳执行委员会8月18日发布《关于河南省第十五届运动会开幕式彩排火炬掉落有关情况说明》：8月16日晚，河南省第十五届运动会暨第九届残运会开幕式彩排期间，一名志愿者将火炬掉落地上，引发社会关注。经核实，本次彩排系志愿者代替火炬手排练，使用的是火炬道具。志愿者因对道具火焰调节操作不熟悉，在调整火焰装置时，出现短暂火焰波动，将道具丢至地上，无人员受伤。",
+        "pubDate": "2026-08-18T11:55:00+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "国资股东退出，南山集团接手龙口港屺母岛发展有限公司",
-        "link": "https://www.jiemian.com/article/14939194.html",
-        "summary": "国家企业信用信息公示系统显示，近日，龙口港屺母岛发展有限公司发生股权变动。",
-        "pubDate": "2026-08-18T11:28:14+08:00",
-        "author": "jianli@jiemian.com(界面山东)",
+        "title": "四部门发布《关于加强医院法治建设的意见》",
+        "link": "https://www.jiemian.com/article/14939526.html",
+        "summary": "一是坚持和加强党对医院法治建设的领导。二是健全和完善医院法治建设制度。主要是明确加强医院合规审核全流程管理、加强涉法典型案例评析和法律风险评估制度建设、完善医院依法报告处置传染病机制，以及强化依法依规执业自查自纠、以案促改促治、健全完善医院内部控制体系和合规治理机制等。三是保障和提升人民群众法治获得感。主要是明确依法保障人民群众看病就医权益、规范优化就医良好秩序、妥善调处医患争议和矛盾纠纷，以及从严落实患者隐私和个人诊疗信息保护制度，建立多元纠纷处理机制等。四是促进和强化医院法治能力建设。五是强化组织实施和指导评估。",
+        "pubDate": "2026-08-18T11:51:31+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "一年吸金超10亿的商场“顶流”，一夜之间不再是“大王”",
-        "link": "https://www.jiemian.com/article/14939229.html",
-        "summary": "存量时代，餐饮正在告别大单品叙事。",
-        "pubDate": "2026-08-18T11:28:09+08:00",
-        "author": "jianli@jiemian.com(天下网商)",
+        "title": "直击平安银行中期业绩会：重回增长，净息差回升",
+        "link": "https://www.jiemian.com/article/14937636.html",
+        "summary": "平安银行半年度营收和净利润增速同比双双转正。",
+        "pubDate": "2026-08-18T11:49:29+08:00",
+        "author": "jianli@jiemian.com(曾令俊ZLJ)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "国家疾控局发布HPV疫苗科普问答",
-        "link": "https://www.jiemian.com/article/14939333.html",
+        "title": "启明星辰：公司目前尚未与英伟达开展合作",
+        "link": "https://www.jiemian.com/article/14939514.html",
         "summary": "",
-        "pubDate": "2026-08-18T11:28:08+08:00",
+        "pubDate": "2026-08-18T11:48:47+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "海关总署：中国7月稀土及其制品出口10314吨",
-        "link": "https://www.jiemian.com/article/14939307.html",
-        "summary": "8月18日，海关总署公布的数据显示，中国7月稀土及其制品出口10,314吨，年累计稀土及其制品出口76,861吨。",
-        "pubDate": "2026-08-18T11:26:12+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
+        "title": "黄金股ETF平安(159322)交投活跃，多重利好催化下，机构看好贵金属板块",
+        "link": "https://www.jiemian.com/article/14939505.html",
+        "summary": "截至2026年8月18日 11:30，中证沪深港黄金产业股票指数(931238)成分股方面涨跌互现，中国黄金国际领涨1.54%，赤峰黄金上涨1.50%，周大福上涨0.55%；江西铜业股份领跌。",
+        "pubDate": "2026-08-18T11:43:44+08:00",
+        "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "“老登股”，迷失2026？",
-        "link": "https://www.jiemian.com/article/14937742.html",
-        "summary": "AI新贵上位，“老登股”如何证明自己？",
-        "pubDate": "2026-08-18T11:25:33+08:00",
-        "author": "jianli@jiemian.com(定焦One)",
+        "title": "AI依然是半导体产业成长最强驱动力，布局科创板宽基ETF选哪个？科创50ETF景顺(588950)跟踪标的权重高度集中半导体产业链",
+        "link": "https://www.jiemian.com/article/14939424.html",
+        "summary": "科创50ETF景顺（588950）紧密跟踪上证科创板50成份指数(000688.SH)，Wind数据显示，按照申万一级行业分类，指数前三大权重行业为电子(81.74%)，医药生物(4.67%)，计算机(3.32%)。",
+        "pubDate": "2026-08-18T11:41:28+08:00",
+        "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作",
-        "link": "https://www.jiemian.com/article/14939246.html",
-        "summary": "近期，受强台风“白海豚”残余环流影响。河南出现大范围持续性强降雨，引发灾情险情。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，在前期预拨4000万元中央自然灾害救灾资金的基础上，8月18日，财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作，重点做好受灾群众转移安置、排危除险等应急处置、过渡期生活救助以及倒损民房修复等工作，切实减轻灾害损失，保障受灾群众基本生活。",
-        "pubDate": "2026-08-18T11:17:55+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
+        "title": "气候与成本双重扰动加剧农业产业链分化，布局农业板块选哪个ETF？粮食ETF景顺(159072)备受市场关注",
+        "link": "https://www.jiemian.com/article/14939433.html",
+        "summary": "粮食ETF景顺（159072）紧密跟踪国证粮食产业指数（399365.SZ），从沪深北交易所选取粮食产业链相关上市公司，覆盖上游化肥、农药，中游粮食种植，下游粮油加工、饲料等核心环节。",
+        "pubDate": "2026-08-18T11:41:22+08:00",
+        "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "湖北一对父子因非法经营罪被判刑：向境外贩运销售敏感化学品金额超169万",
-        "link": "https://www.jiemian.com/article/14939207.html",
-        "summary": "夏某某父子于2021年11月至2024年7月间，组织他人非法销售管制兴奋剂类物质123笔。",
-        "pubDate": "2026-08-18T11:12:55+08:00",
-        "author": "jianli@jiemian.com(翟瑞民)",
+        "title": "A股中报分红超千亿元，红利策略中长期配置价值显著，红利ETF博时(515890)红盘冲击3连涨",
+        "link": "https://www.jiemian.com/article/14939458.html",
+        "summary": "红利ETF博时（515890）上涨0.34%，冲击3连涨；中证红利指数（000922）涨0.20%；A股中报分红超千亿元，红利策略配置价值凸显。",
+        "pubDate": "2026-08-18T11:41:14+08:00",
+        "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "创业板指跌逾2%，全市场下跌个股超4000只",
-        "link": "https://www.jiemian.com/article/14939201.html",
+        "title": "中汽协：7月乘用车出口92.2万辆，同比增长84.6%",
+        "link": "https://www.jiemian.com/article/14939487.html",
         "summary": "",
-        "pubDate": "2026-08-18T11:11:17+08:00",
+        "pubDate": "2026-08-18T11:41:07+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "智谱盘中一度跌近17%，股价最低触及1000港元关口",
-        "link": "https://www.jiemian.com/article/14939198.html",
-        "summary": "智谱(02513.HK)盘中一度跌近17%，股价最低触及1000港元关口，成交额超66亿港元。",
-        "pubDate": "2026-08-18T11:10:31+08:00",
+        "title": "石油ETF平安(159199)上涨1%，地缘局势支撑油价上行",
+        "link": "https://www.jiemian.com/article/14939459.html",
+        "summary": "截至2026年8月18日11:30，国证石油天然气指数上涨1.02%，石油ETF平安(159199)冲击3连涨。",
+        "pubDate": "2026-08-18T11:41:05+08:00",
+        "author": "jianli@jiemian.com(有连云)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "菲律宾官员：校园枪击案致1死9伤，枪手已自杀",
+        "link": "https://www.jiemian.com/article/14939445.html",
+        "summary": "菲律宾三宝颜市市长奥拉索8月18日对媒体表示，当天发生在雅典耀大学中学部的枪击事件已造成至少1人死亡、9人受伤，死伤者均为该校师生，枪手已在校园内自杀。奥拉索说，枪击事件发生在当天8时30分左右，枪手为一名7年级学生。他当天携带一支步枪和一支手枪进入学校，行凶后在校园内自杀。当地警方正在开展进一步调查。目前校园已封闭，家长陆续赶到学校撤离学生。（央视新闻）",
+        "pubDate": "2026-08-18T11:39:37+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "沪深两市成交额突破1.5万亿",
-        "link": "https://www.jiemian.com/article/14939193.html",
+        "title": "中汽协：7月汽车出口104.3万辆，同比增长81.3%",
+        "link": "https://www.jiemian.com/article/14939437.html",
         "summary": "",
-        "pubDate": "2026-08-18T11:08:37+08:00",
+        "pubDate": "2026-08-18T11:39:32+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "国内大炼化企业全球竞争力正持续验证，化工ETF嘉实(159129)备受关注",
-        "link": "https://www.jiemian.com/article/14939149.html",
-        "summary": "截至2026年8月18日 10:52，中证细分化工产业主题指数下跌0.06%。成分股方面涨跌互现，卫星化学领涨3.88%，新洋丰上涨3.54%，金发科技上涨3.20%；圣泉集团领跌，新宙邦、华峰化学跟跌。",
-        "pubDate": "2026-08-18T11:08:08+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": "稀有金属供需格局持续优化，价格中枢有望持续上移，稀有金属ETF嘉实(562800)聚焦小金属板块投资机遇",
-        "link": "https://www.jiemian.com/article/14939157.html",
-        "summary": "截至2026年8月18日 10:40，中证稀有金属主题指数下跌0.71%。成分股方面涨跌互现，中钨高新领涨4.95%，三祥新材上涨2.66%，有研新材上涨2.51%；融捷股份领跌，天华新能、西部超导跟跌。",
-        "pubDate": "2026-08-18T11:08:00+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": "稀土行业需求有望迎来边际回暖，稀土ETF嘉实(516150)备受市场资金关注",
-        "link": "https://www.jiemian.com/article/14939161.html",
-        "summary": "截至2026年8月18日 10:46，中证稀土产业指数下跌0.78%。成分股方面涨跌互现，大地熊领涨8.98%，卧龙电驱上涨4.93%，有研新材上涨1.77%；中科三环领跌，新莱福、宁波韵升跟跌。",
-        "pubDate": "2026-08-18T11:07:52+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": "美国ITC正式对变压器及其部件启动337调查",
-        "link": "https://www.jiemian.com/article/14939176.html",
-        "summary": "8月17日，美国国际贸易委员会（ITC）投票决定对特定变压器及其部件启动337调查（调查编码：337-TA-1517）。",
-        "pubDate": "2026-08-18T11:07:50+08:00",
+        "title": "午间涨跌停股分析：56只涨停股、3只跌停股，猪肉产业概念活跃，罗牛山2连板，金字火腿、天邦食品等涨停",
+        "link": "https://www.jiemian.com/article/14939412.html",
+        "summary": "8月18日午间，A股半日下来共有56只涨停股、3只跌停股。猪肉产业概念活跃，罗牛山2连板，金字火腿、天邦食品等涨停；农业种植概念走强，农发种业、京粮控股等2连板，登海种业、亚盛集团等涨停；农林牧渔板块上涨，天山生物2连板。",
+        "pubDate": "2026-08-18T11:37:34+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "中国开源大模型领先全球，AI人工智能ETF平安(512930)盘中回调，板块布局机遇凸显",
-        "link": "https://www.jiemian.com/article/14939173.html",
-        "summary": "联接基金(A类：023384；C类：023385；E类：024610)。",
-        "pubDate": "2026-08-18T11:07:43+08:00",
+        "title": "四川：加快建设“一带一路”进出口商品集散中心，打造三文鱼、榴莲等特色单品进口集散中心",
+        "link": "https://www.jiemian.com/article/14939406.html",
+        "summary": "",
+        "pubDate": "2026-08-18T11:37:16+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "21家上市券商披露2026年半年报业绩预告，券商板块估值低位引关注，证券ETF哪个好？证券ETF景顺(159008)配置性价比凸显",
+        "link": "https://www.jiemian.com/article/14939383.html",
+        "summary": "Wind数据显示，截至2026年8月13日，21家上市券商披露2026年半年报业绩预告，其中20家实现预盈，行业整体业绩表现稳健。",
+        "pubDate": "2026-08-18T11:36:45+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
       },
       {
-        "title": "由北向南四座车站“一站一景”   西康高铁站房配套工程加速建设",
-        "link": "https://www.jiemian.com/article/14939164.html",
-        "summary": "建成后西安至安康一小时可达，将补全陕西“米”字形高铁南向关键通道。",
-        "pubDate": "2026-08-18T11:07:31+08:00",
-        "author": "jianli@jiemian.com(界面陕西)",
+        "title": "四川：积极参与长江经济带多式联运分布式协同数据链建设，打造“沪川多式联运分布式数据服务中心”",
+        "link": "https://www.jiemian.com/article/14939392.html",
+        "summary": "",
+        "pubDate": "2026-08-18T11:36:39+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#c97cff"
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "57岁黄建军空降接任申万宏源总经理，能否突破发展瓶颈？",
+        "link": "https://www.jiemian.com/article/14935520.html",
+        "summary": "最近两年，申万宏源内部管理团队已进行多轮调整，覆盖总部高管、业务条线、旗下子公司多个层级。",
+        "pubDate": "2026-08-18T11:36:12+08:00",
+        "author": "jianli@jiemian.com(孙艺真)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "北京：1-7月，全市居民消费价格同比上涨0.6%",
+        "link": "https://www.jiemian.com/article/14939374.html",
+        "summary": "8月18日，北京市统计局发布数据显示，1-7月，全市居民消费价格同比上涨0.6%。其中，消费品价格上涨0.6%，服务价格上涨0.6%。八大类商品和服务项目中，其他用品及服务类价格上涨10.2%，生活用品及服务类、教育文化娱乐类、交通通信类、衣着类、医疗保健类价格分别上涨2.1%、1.7%、1.5%、1.1%和0.9%；食品烟酒及在外餐饮类和居住类价格分别下降0.9%和0.4%。7月份，居民消费价格同比、环比均上涨0.2%。",
+        "pubDate": "2026-08-18T11:35:52+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
       }
     ]
   }
