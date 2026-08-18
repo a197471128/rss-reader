@@ -1,0 +1,45 @@
+name: Update RSS Feeds
+
+on:
+  # 定时更新：每2小时
+  schedule:
+    - cron: '0 */2 * * *'
+  # 代码推送时也触发
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_feeds.py'
+      - '.github/workflows/update-feeds.yml'
+  # 手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install python-dateutil
+
+      - name: Fetch all RSS feeds
+        run: python scripts/update_feeds.py
+
+      - name: Commit and push data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Auto-update RSS data [$(date +'%Y-%m-%d %H:%M')]"
+          git push
