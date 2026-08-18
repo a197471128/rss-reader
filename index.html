@@ -719,6 +719,8 @@ const state = {
   articles: {},       // cat -> [{feed, title, link, summary, pubDate, ...}]
   feedColors: {},
   loaded: false,
+  dataUpdated: null,  // ISO timestamp from data.json
+  dataFromJson: false,
 };
 
 // localStorage
@@ -738,7 +740,6 @@ function init() {
   // restore settings
   const saved = LS.get('settings', {});
   if (saved.proxyUrl) {
-    // Try to match saved proxy to a preset
     const select = document.getElementById('proxySelect');
     let matched = false;
     for (const opt of select.options) {
@@ -757,7 +758,46 @@ function init() {
   if (saved.maxItems) document.getElementById('maxItems').value = saved.maxItems;
 
   buildSidebar();
-  loadCategory('hot');
+
+  // 先尝试加载 data.json（同域，无 CORS 问题）
+  loadFromDataJson().then(loaded => {
+    if (loaded) {
+      // 成功加载，直接显示
+      loadCategory(state.currentCat);
+    } else {
+      // data.json 不可用，走原先的实时抓取
+      loadCategory(state.currentCat);
+    }
+  });
+}
+
+async function loadFromDataJson() {
+  try {
+    const resp = await fetch('data.json', {
+      signal: AbortSignal.timeout(5000),
+      headers: { 'Accept': 'application/json' },
+    });
+    if (!resp.ok) return false;
+    const data = await resp.json();
+    if (!data.articles) return false;
+
+    state.articles = data.articles;
+    state.dataUpdated = data.updated || null;
+    state.dataFromJson = true;
+
+    // 恢复 feedColors
+    for (const catId in data.articles) {
+      for (const article of data.articles[catId]) {
+        if (article.feedColor) {
+          state.feedColors[article.feedName] = article.feedColor;
+        }
+      }
+    }
+
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 // ============================================================
@@ -868,7 +908,6 @@ async function loadCategory(catId) {
 
   // Update sidebar
   document.querySelectorAll('.cat-btn').forEach((b, i) => {
-    // cat buttons are in order: categories + 3 utility buttons
     if (i < CATEGORIES.length) {
       b.classList.toggle('active', CATEGORIES[i].id === catId);
     }
@@ -876,6 +915,37 @@ async function loadCategory(catId) {
 
   const cat = CATEGORIES.find(c => c.id === catId);
   document.getElementById('catTitle').textContent = `${cat.icon} ${cat.label}`;
+
+  // 如果是从 data.json 加载的数据，直接渲染
+  if (state.dataFromJson) {
+    const articles = state.articles[catId] || [];
+    state.loaded = true;
+
+    document.getElementById('loadingArea').style.display = 'none';
+    document.getElementById('cardGrid').style.display = 'none';
+    document.getElementById('emptyState').style.display = 'none';
+    document.getElementById('loadProgress').textContent = '';
+
+    // 显示数据更新时间
+    let subtitle = `${articles.length} 条内容`;
+    if (state.dataUpdated) {
+      const age = getDataAge(state.dataUpdated);
+      subtitle += ` · ${age}`;
+    }
+    document.getElementById('catSubtitle').textContent = subtitle;
+
+    if (articles.length === 0) {
+      document.getElementById('emptyState').style.display = 'block';
+      document.getElementById('emptyState').textContent = '暂无内容';
+      return;
+    }
+
+    buildSourceFilters(articles);
+    renderArticles(articles);
+    return;
+  }
+
+  // 没有 data.json，走实时抓取
   document.getElementById('catSubtitle').textContent = '';
 
   // Show loading
@@ -890,7 +960,6 @@ async function loadCategory(catId) {
   let successCount = 0;
   let failCount = 0;
 
-  // Fetch all feeds in parallel (with concurrency limit)
   const concurrency = 6;
   for (let i = 0; i < feeds.length; i += concurrency) {
     const batch = feeds.slice(i, i + concurrency);
@@ -925,9 +994,9 @@ async function loadCategory(catId) {
 
   if (allArticles.length === 0) {
     document.getElementById('emptyState').style.display = 'block';
-document.getElementById('emptyState').textContent = failCount > 0
-        ? `暂无内容（${failCount} 个源获取失败）。部分源需要 CORS 代理，请在左下角「管理订阅源」中配置`
-        : '暂无内容';
+    document.getElementById('emptyState').textContent = failCount > 0
+      ? `暂无内容（${failCount} 个源获取失败）。部分源需要 CORS 代理，请在左下角「管理订阅源」中配置`
+      : '暂无内容';
     return;
   }
 
@@ -1232,7 +1301,15 @@ function setView(mode) {
 //  Refresh
 // ============================================================
 function refreshCurrent() {
-  loadCategory(state.currentCat);
+  if (state.dataFromJson) {
+    // 重新加载 data.json
+    state.dataFromJson = false;
+    loadFromDataJson().then(loaded => {
+      loadCategory(state.currentCat);
+    });
+  } else {
+    loadCategory(state.currentCat);
+  }
 }
 
 // ============================================================
@@ -1331,6 +1408,18 @@ function formatTime(date) {
   if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
   if (diff < 604800000) return Math.floor(diff / 86400000) + '天前';
   return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+}
+
+function getDataAge(isoStr) {
+  if (!isoStr) return '';
+  const then = new Date(isoStr);
+  if (isNaN(then.getTime())) return '';
+  const now = new Date();
+  const diff = now - then;
+  if (diff < 60000) return '刚刚更新';
+  if (diff < 3600000) return Math.floor(diff / 60000) + '分钟前更新';
+  if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前更新';
+  return Math.floor(diff / 86400000) + '天前更新';
 }
 
 function escapeHtml(str) {
