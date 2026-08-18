@@ -1228,14 +1228,17 @@ function saveSettings() {
 //  Utilities
 // ============================================================
 function formatTime(date) {
-  if (!date || date.getTime() === 0) return '';
+  if (!date) return '';
+  // 兼容字符串和 Date 对象
+  const d = typeof date === 'string' ? new Date(date) : date;
+  if (!d || isNaN(d.getTime())) return '';
   const now = new Date();
-  const diff = now - date;
+  const diff = now - d;
   if (diff < 60000) return '刚刚';
   if (diff < 3600000) return Math.floor(diff / 60000) + '分钟前';
   if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
   if (diff < 604800000) return Math.floor(diff / 86400000) + '天前';
-  return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+  return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
 }
 
 function getDataAge(isoStr) {
