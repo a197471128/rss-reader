@@ -576,11 +576,19 @@ function init() {
   // 先尝试加载 data.json（同域，无 CORS 问题）
   loadFromDataJson().then(loaded => {
     if (loaded) {
-      // 成功加载，直接显示
+      // 更新侧边栏显示实际文章数
+      buildSidebar();
+      // 找到第一个有内容的分类作为默认
+      for (const cat of CATEGORIES) {
+        const articles = state.articles[cat.id];
+        if (articles && articles.length > 0) {
+          state.currentCat = cat.id;
+          break;
+        }
+      }
       loadCategory(state.currentCat);
     } else {
-      // data.json 不可用，走原先的实时抓取
-      loadCategory(state.currentCat);
+      loadCategory('hot');
     }
   });
 }
@@ -621,7 +629,13 @@ function buildSidebar() {
   const list = document.getElementById('categoryList');
   list.innerHTML = '';
   CATEGORIES.forEach(cat => {
-    const count = FEEDS.filter(f => f.cat === cat.id).length;
+    // 优先显示 data.json 中的文章数，否则显示订阅源数
+    let count;
+    if (state.dataFromJson && state.articles[cat.id]) {
+      count = state.articles[cat.id].length;
+    } else {
+      count = FEEDS.filter(f => f.cat === cat.id).length + '源';
+    }
     const btn = document.createElement('button');
     btn.className = 'cat-btn' + (cat.id === state.currentCat ? ' active' : '');
     btn.innerHTML = `${cat.icon} ${cat.label} <span class="badge">${count}</span>`;
