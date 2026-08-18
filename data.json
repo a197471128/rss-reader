@@ -1,13 +1,414 @@
 {
-  "updated": "2026-08-18T03:29:15.090312+00:00",
+  "updated": "2026-08-18T03:57:49.844698+00:00",
   "summary": {
-    "total": 75,
-    "success": 23,
-    "fail": 52,
-    "total_articles": 344
+    "total": 77,
+    "success": 29,
+    "fail": 48,
+    "total_articles": 404
   },
   "articles": {
-    "hot": [],
+    "hot": [
+      {
+        "title": "杨瀚森晒训练日记用36公斤哑铃卧推 热度：3206505",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%99%92%E8%AE%AD%E7%BB%83%E6%97%A5%E8%AE%B0%E7%94%A836%E5%85%AC%E6%96%A4%E5%93%91%E9%93%83%E5%8D%A7%E6%8E%A8&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "张睿辟谣被《披哥》拒绝4次 热度：3340156",
+        "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%9D%BF%E8%BE%9F%E8%B0%A3%E8%A2%AB%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E6%8B%92%E7%BB%9D4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月16日，张睿在《披荆斩棘2026》直播中回应“连续4年被拒”传言：可能《披荆斩棘》刚进行到第三季吧，说我被拒了四次，我也不知道那次哪来的。",
+        "pubDate": "2026-08-18T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "全国田径锦标赛饶欣雨女子800米夺冠 热度：3394651",
+        "link": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%E9%A5%B6%E6%AC%A3%E9%9B%A8%E5%A5%B3%E5%AD%90800%E7%B1%B3%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "瑞幸联名漫画被指抄袭多个日漫 热度：3490524",
+        "link": "https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E6%BC%AB%E7%94%BB%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E5%A4%9A%E4%B8%AA%E6%97%A5%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，瑞幸七夕联动动画《王焕君和张缤智》引发网络热议。不少网友吐槽，购买联名产品如同给陌生情侣随份子钱。多位网友指画风疑似多处拼凑自《好想告诉你》《...",
+        "pubDate": "2026-08-18T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "杨澜对谈功勋教练郎平 热度：3966684",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E5%AF%B9%E8%B0%88%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83%E9%83%8E%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "北大数院发布王虹万字专访 热度：4359150",
+        "link": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%B0%E9%99%A2%E5%8F%91%E5%B8%83%E7%8E%8B%E8%99%B9%E4%B8%87%E5%AD%97%E4%B8%93%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "川妹子刘英兰极限逆转助队夺冠 热度：4567295",
+        "link": "https://www.baidu.com/s?wd=%E5%B7%9D%E5%A6%B9%E5%AD%90%E5%88%98%E8%8B%B1%E5%85%B0%E6%9E%81%E9%99%90%E9%80%86%E8%BD%AC%E5%8A%A9%E9%98%9F%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "《欢迎来龙餐馆》票房破10亿 热度：4742531",
+        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "电影《欢迎来龙餐馆》自上映后，口碑、票房持续走高。截至8月17日，影片票房已超10亿元（含预售）。",
+        "pubDate": "2026-08-18T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "乘客开门杀撞伤路人赔偿怎么划分 热度：4838151",
+        "link": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%BC%80%E9%97%A8%E6%9D%80%E6%92%9E%E4%BC%A4%E8%B7%AF%E4%BA%BA+%E8%B5%94%E5%81%BF%E6%80%8E%E4%B9%88%E5%88%92%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，上海市普陀区人民法院审结了一起“开门杀”事故，一辆网约车违停在非机动车道，乘客推门下车时撞伤途经的骑车人，最终司机和乘客分别赔偿伤者2.3万元...",
+        "pubDate": "2026-08-18T05:01:27+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "暴食后真有“后悔药”吗 热度：5240105",
+        "link": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%A3%9F%E5%90%8E%E7%9C%9F%E6%9C%89%E2%80%9C%E5%90%8E%E6%82%94%E8%8D%AF%E2%80%9D%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，面对暴饮暴食后的体重焦虑，不少人开始寻找所谓“后悔药”，催吐、吃泻药、喝醋刮油等方法在网上流传。专家提醒，这些做法不仅难以抵消热量，还可能损伤...",
+        "pubDate": "2026-08-18T05:01:27+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "公积金用途又变多 热度：7713015",
+        "link": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "石宇奇世锦赛止步首轮 热度：3145872",
+        "link": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%87%E5%A5%87%E4%B8%96%E9%94%A6%E8%B5%9B%E6%AD%A2%E6%AD%A5%E9%A6%96%E8%BD%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "万众期待的2026年羽毛球世锦赛，这一个比赛日，在印度新德里大幕拉开。石宇奇在1/32决赛遭遇到了印度超新星阿尤什。本场比赛石宇奇状态不佳，一直在失...",
+        "pubDate": "2026-08-18T00:02:33+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "徐一丁被“双开”农发行表态 热度：3228729",
+        "link": "https://www.baidu.com/s?wd=%E5%BE%90%E4%B8%80%E4%B8%81%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D+%E5%86%9C%E5%8F%91%E8%A1%8C%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "中国农业发展银行17日发布消息，近日，中国农业发展银行党委召开会议，传达中央纪委国家监委关于给予中国农业发展银行原党委委员、副行长徐一丁开除党籍、开...",
+        "pubDate": "2026-08-18T00:02:33+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "美国一黑熊转动门把手试图开门进屋 热度：3294825",
+        "link": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%BB%91%E7%86%8A%E8%BD%AC%E5%8A%A8%E9%97%A8%E6%8A%8A%E6%89%8B%E8%AF%95%E5%9B%BE%E5%BC%80%E9%97%A8%E8%BF%9B%E5%B1%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-08-18T00:02:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "多部AI漫剧集体停更 热度：3432771",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8AI%E6%BC%AB%E5%89%A7%E9%9B%86%E4%BD%93%E5%81%9C%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，多部AI漫剧因番茄小说平台新规集体宣布停更。新规要求拉新视频总时长不得超过15分钟，内容不得超过小说原文的10%，且标题和封面不得出现“第1集...",
+        "pubDate": "2026-08-18T00:02:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中国男篮又输了对手仅集训5天 热度：3527389",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8F%88%E8%BE%93%E4%BA%86+%E5%AF%B9%E6%89%8B%E4%BB%85%E9%9B%86%E8%AE%AD5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月17日，中国男篮77比84不敌新西兰，热身赛1胜2负收官。值得注意的是，新西兰队来华前仅集训5天，合练四五次，中国男篮却备战近一个月，最终仍遭两...",
+        "pubDate": "2026-08-18T00:02:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "湘西“长满”外国人 热度：3699640",
+        "link": "https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E2%80%9C%E9%95%BF%E6%BB%A1%E2%80%9D%E5%A4%96%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "2026年夏天，湖南张家界、湘西州凭借独特景观与文化成为海外游客热门目的地。2026年1-7月，张家界累计接待来自195个国家和地区的入境游客86....",
+        "pubDate": "2026-08-18T00:02:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "宇树科技：将于8月19日科创板上市 热度：3810738",
+        "link": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E8%E6%9C%8819%E6%97%A5%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "宇树科技8月17日公告，公司股票将于2026年8月19日在上海证券交易所科创板上市。",
+        "pubDate": "2026-08-18T00:02:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中国男篮不敌新西兰男篮 热度：3979410",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月17日晚，中国男篮在佛山迎来了系列热身赛的第三场比赛，对手是新西兰队。在前三节落后12分的不利形势下，中国男篮第四节打出12比2的小高潮，但最终...",
+        "pubDate": "2026-08-18T00:02:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "公司组织无人岛旅游被罚11万元 热度：4100132",
+        "link": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，广州海事法院公布一起案件，趣某公司组织游客到大辣甲无居民海岛开展旅游项目，被处以11万元罚款，该公司不服提起诉讼，法院实地勘验后开展行政调解，...",
+        "pubDate": "2026-08-18T00:02:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 具身融资“快进”到按天算 ",
+        "link": "https://www.huxiu.com/article/4883871.html?f=rss",
+        "summary": " 本文来自微信公众号： 小饭桌 ，作者：关注具身的，编辑：张丽娟融资能倍速播放，但产品技术的进度条未必跟得上。2025年2月，星海图完成A轮融资，当时距离它完成天使轮已经过去了一年多；自变量机器人同年5月完成A轮融资时，距天使轮也将近一年半。放在前几年，这种以“年”为单位来衡量的融资节奏再正常不过，但在今天的具身赛道，这种速度已经不够看了。以临界点为例，这家公司今年1月成立，12天后完成天使轮，又过了15天完成A轮融资，从天使轮到A轮前后不到一个月；德塔智能从1月注册成立到第6轮融资落地，只用了不过半年时间。还有昆仑行机器人今年3月成立，不到90天连续完成天使轮、Pre-A轮和A轮3轮融资；同",
+        "pubDate": "2026-08-18T11:50:57+08:00",
+        "author": " 小饭桌 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 39岁儿科医生离世千人送别  他为何成了医疗圈最不合群的“异类”？ ",
+        "link": "https://www.huxiu.com/article/4883868.html?f=rss",
+        "summary": " 本文来自微信公众号： 评论员毕舸 ，作者：毕舸，原文标题：《39岁儿科医生离世千人送别  他为何成了医疗圈最不合群的“异类”？》江苏沭阳儿科医生杨国辉，是一个不折不扣的异类。杨国辉，39岁，骑自行车锻炼时突发心脏骤停，经抢救无效去世。8月17日杨的追悼会现场，近千名患儿家属自发赶来送别，送别的人群里，有人带着孩子，有人捧着白菊花，还有人没法到场，只能通过骑手把鲜花送到他家中。在一个时常讨论医患关系为何紧张的时代，这一幕显得不太寻常。不是什么三甲医院名医，也没有显赫的学术成就，杨国辉把自己活成了当下医疗场域里不太合群的那一类，这就是上千人追思的原因所在。留在家长记忆里的杨国辉，很多行为与别的医",
+        "pubDate": "2026-08-18T11:50:25+08:00",
+        "author": " 南漂分子毕舸 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 5年倒闭15000家，曾经的街边小吃之王，为什么没人吃了？ ",
+        "link": "https://www.huxiu.com/article/4883195.html?f=rss",
+        "summary": " 5年倒闭15000家，正新鸡排从街边小吃之王沦为年轻人集体脱粉。你上次吃正新鸡排是什么时候？ ",
+        "pubDate": "2026-08-18T11:45:00+08:00",
+        "author": " 财经不眠姐 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 如何让老外爱上中国科技股？ ",
+        "link": "https://www.huxiu.com/article/4883831.html?f=rss",
+        "summary": " 出品 | 妙投APP作者 | 刘国辉编辑 | 丁萍头图｜AI制图在投资市场，外资往往被视为&ldquo;聪明钱&rdquo;。但聪明钱进入国内投资市场的体量，与中国公司的国际竞争实力还极不相称。中国科技产业的影响力，越来越被海外重视。DeepSeek、kimi K3、光模块、比亚迪与宁德时代在新能源链的碾压、Biotech研发成本优势，等等，都已表明，中国已从价值链低端代工的地位，进化到了全球唯一可与美国竞争国家的阶段。但在资本市场，却是另一番景象。中国的科技股，在全球被配置的比例还是很低的，高盛测算，中国在全球AI相关市值占比约10%、收入占比16%，但截至2026年1月，全球共同基金对中",
+        "pubDate": "2026-08-18T11:33:58+08:00",
+        "author": " 刘国辉 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 被生产出来的排队：网红餐饮背后的造浪链条 ",
+        "link": "https://www.huxiu.com/article/4883863.html?f=rss",
+        "summary": " 本文来自微信公众号： 白熊消费 ，作者：五童五童铁心男最爱吃的那家泰国菜，又被她“吃死了”。从门店围挡上看，这里不久会有一家云贵山野Bistro开张。或许是距离够近，重庆的商场几乎被云贵菜包围。从包浆豆腐、酸汤火锅、夺夺粉，到烧椒牛肉、野生菌、小锅米线……一阵风一样吹得各个商场遍地开花，又一阵风一样集体换招牌继续排队。这两年，餐饮楼层的招牌可谓换得越来越快。雀巢专业餐饮《2026中国中式餐饮白皮书》估算，2025年全国餐饮门店数约825万家，关店率为48.9%，开店率则达到50%。开一半关一半，忙傻了餐饮守尸人。如此高频的行业迭代，过于惨烈，以至于人们往往会同情那些亏得血本无归的餐饮加盟商。",
+        "pubDate": "2026-08-18T11:32:22+08:00",
+        "author": " 白熊消费 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 一家头部猪企，走上“破产边缘” ",
+        "link": "https://www.huxiu.com/article/4883856.html?f=rss",
+        "summary": " 本文来自微信公众号： 红餐供应链指南 ，作者：专注餐饮供应链的猪养得不算差，但钱欠得有点多。本文由红餐供应链指南（ID：cygylzn）原创题图来源：图虫创意8月11日，一纸公告将“建德农发牧业科技有限公司”推到了台前。公告显示，截至今年6月17日，建德农发被执行案件4件，执行标的金额2.6亿元，总负债5亿余元，整体资产评估价值约3.14亿元。简单算一下：缺口接近2个亿。单看这组数字，不过是一家养殖场撑不下去了，但建德农发的股东穿透上去，指向的是天邦食品，建德农发是天邦食品在浙江区域布局的规模化养殖项目之一。而且，天邦食品最新的公告里还埋了一句话：截至披露日，公司及下属子公司连续十二个月累计",
+        "pubDate": "2026-08-18T11:26:45+08:00",
+        "author": " 红餐网 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 985毕业到底能赚多少 ",
+        "link": "https://www.huxiu.com/article/4883861.html?f=rss",
+        "summary": " 本文来自微信公众号： 九边 ，作者：九边上篇文章评论区有问到这个问题，我回复了一下，发现大家对这个话题非常感兴趣。我自己是80年代末的，我身边包括我自己，几乎都是985出来的，通过身边的样本，跟大家聊聊。本文样本比较窄，不过写完之后给不同行业的人看了下，大家竟然都表示确实有共鸣，里边很多事在不同行业竟然殊途同归。所以批判着看吧，可以跟其他人的文章结合着看。首先得说一句，不同大学的差别非常大，有些大学文科比较强，校友混的好的都在体制内。还有一些跟研究所对接，毕业之后直接进了研究所，可能十几年没挪窝，收入上限也一般，但贵在稳定。比较惨的是跟建筑相关的那些，上大学的时候分数高的要死，毕业的时候就开",
+        "pubDate": "2026-08-18T11:25:57+08:00",
+        "author": " 九边 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 多地约谈不落实休假单位，为什么现在全国统一对加班亮剑？ ",
+        "link": "https://www.huxiu.com/article/4883381.html?f=rss",
+        "summary": " 你以为多休假就少了GDP？研究证明，休假多了经济反而更旺。 ",
+        "pubDate": "2026-08-18T11:20:00+08:00",
+        "author": " 晓芳聊财经 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " AI做电影，远比想象中难 ",
+        "link": "https://www.huxiu.com/article/4883853.html?f=rss",
+        "summary": " 本文来自微信公众号： 深响 ，作者：深响AI电影，真的来了。刚结束的大众电影百花奖首次给AIGC影像开了专属赛道，一个月就收到了2038件投稿。《奇谭：纸刃渡荒墟》《热血大陈岛》等作品陆续“持证”上线优爱腾，博纳影业出品的《三星堆：未来往事》“龙标”到手，就等一个好时机登陆院线。海外，《Hell Grind》刚从戛纳展映回来，团队几个月后又推一部114分钟新片。诺兰的《奥德赛》刚全球上映，AI版的《奥德修斯：陨落》已经做了出来。但热闹背后，大部分人都把AI电影想得太简单，它绝不是输入几句提示词就能完成的，其复杂程度甚至不亚于真人实景的传统电影。“使用模型的价格涨了超二十倍。”以《盗梦特工》入",
+        "pubDate": "2026-08-18T11:09:31+08:00",
+        "author": " 深响 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 这个靠中国开源模型\"撑\"起的美国公司，要70亿美元卖身了 ",
+        "link": "https://www.huxiu.com/article/4883849.html?f=rss",
+        "summary": " 本文来自微信公众号： 硅星人Pro ，作者：孙芮一家超过一半\"流量\"来自中国开源模型的美国初创公司，即将成为这一轮AI热潮里最成功的创业公司退出之一：成立3年，估值一路暴涨，并即将以70亿美元的天价被大厂收购。简直没有什么比这个收购更能反映出今天模型市场的特点了。8月17日，Axios报道称，Stripe已同意收购模型路由公司OpenRouter。而彭博此前也报道，双方已签署协议，交易价格超过70亿美元；Axios给出的数字更高，称交易价值超过80亿美元，由现金和股票组成。这笔交易多少有点宿命感。今年5月，OpenRouter创始人Alex Atallah在接受《纽约时报》采访时，把Open",
+        "pubDate": "2026-08-18T11:03:16+08:00",
+        "author": " 硅星人 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 你值得拥有更好的 ",
+        "link": "https://www.huxiu.com/article/4883843.html?f=rss",
+        "summary": " 本文来自微信公众号： caoz的梦呓 ，作者：caoz还在国内浪，最近回了一趟天津，看到满街的老味刨冰，然后就不小心试了一下。你说这玩意正宗么，你放心，绝对不正宗，正宗的谁还吃啊。啥叫正宗的老味刨冰，我是天津长大的，我告诉你们，早年间物资匮乏，也没有冷链保鲜，新鲜水果都很稀缺，就纯白水冰锉碎了，浇上廉价色素香精勾兑的所谓果汁，然后上面放点葡萄干，杏干，在那个时代就是夏天解暑的奢侈品了。若干年后去了厦门，厦门绵绵冰，台湾传来的做法，鲜牛奶冰+炼乳，鲜芒果+纯芒果酱，原材料是碾压的，那味道能比么。现在你去天津吃所谓老味刨冰，其实都是近似于绵绵冰的版本了，很简单，时代进步了，冷链服务发达了，当然原",
+        "pubDate": "2026-08-18T10:40:31+08:00",
+        "author": " caoz的梦呓 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 《牛来》反向爆火：沙比驱逐冥币 ",
+        "link": "https://www.huxiu.com/article/4883841.html?f=rss",
+        "summary": " 本文来自微信公众号： 骑桶跑路人 ，作者：骑桶跑路人《牛来》的反向爆火，文艺界的老资历认为是“劣币驱逐良币”，卢诗翰认为是“劣币驱逐假币”，我则认为是“沙币驱逐冥币”。“沙币”之“沙”，在于粗粝。《牛来》的画面颇具老黄牛质感，后来被扒出来是用土木老哥常用的sketchup搓出来的。“冥币”之“冥”，在于阴间。在诸多阴间电影里，最令笔者闻风丧胆的一种，莫过于“宗教附魔片”。所谓“宗教附魔片”，有三大构成要件：一、票房或者评分极高二、极高的票房或者评分，并不是源于电影质量本身。三、谁都知道极高的票房或者评分的来源是什么，但你不能说也不敢说，没人愿意为了几十块的电影票作布鲁诺。有的电影是明牌的宗教",
+        "pubDate": "2026-08-18T10:34:24+08:00",
+        "author": " 骑桶跑路人© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 日本失守、韩国登顶，中国能复制存储霸权吗？ ",
+        "link": "https://www.huxiu.com/article/4883367.html?f=rss",
+        "summary": " 存储的王座，从来坐不热：日本、韩国，然后轮到中国？ ",
+        "pubDate": "2026-08-18T10:30:00+08:00",
+        "author": " 伯虎财经 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 营收利润双转正，平安银行离真正的拐点还有多远？ ",
+        "link": "https://www.huxiu.com/article/4883834.html?f=rss",
+        "summary": " 本文来自微信公众号： 万点研究 ，作者：成才8月14日，平安银行披露2026年半年报，成为首家披露半年报A股上市银行。财报显示，2026年上半年，平安银行实现营业收入706.17亿元，同比增长1.8%；实现净利润256.96亿元，同比增长3.3%。净息差1.80%，与上年同期持平，较上年全年上升2个基点。不良率1.05%，拨备覆盖率219.58%。客观而言，营利双增、不良持平、净息差筑底，这份“稳字当头”的中报不乏亮点。但营收增长主要由非息收入拉动，利息净收入仍承压。与向好数据并存的是，零售贷款零增长、信用卡流通户数负增长、消费贷不良率逆势上行等隐忧。曾被市场寄予厚望的“零售之王”，在居民消",
+        "pubDate": "2026-08-18T10:22:09+08:00",
+        "author": " 万点研究 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 阿里“大生态”退潮，AI成唯一主线 ",
+        "link": "https://www.huxiu.com/article/4883832.html?f=rss",
+        "summary": " 本文来自微信公众号： 识礁Farsight ，作者：识礁团队AI转型进入攻坚阶段，阿里再次出售旗下业务。2026年8月17日，灵犀互娱CEO周炳枢发布内部信称，经过多轮充分沟通与深度磋商，阿里已与信宸资本达成交易协议。根据协议安排，阿里将出让所持灵犀互娱股份，信宸资本将成为灵犀互娱新任股东。据彭博社报道，为购得灵犀互娱，信宸资本击败了诸多竞购者。作为待价而沽的标的，灵犀互娱的估值或超15亿美元（约合人民币101.23亿元）。内部信中，周炳枢透露，阿里之所以选择出售灵犀互娱，主要是“基于自身战略聚焦的整体布局”。据悉，为了抓住AI风口，现阶段阿里正全力推进“AI+云”战略。作为移动互联网赛道的",
+        "pubDate": "2026-08-18T10:20:22+08:00",
+        "author": " 识礁Farsight ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 50个员工，估值471亿元 ",
+        "link": "https://www.huxiu.com/article/4883833.html?f=rss",
+        "summary": " 本文来自微信公众号： 投中网 ，作者：陶辉东全球最大的大模型聚合平台卖了。本文字数3416手搓量丨90%AI含量丨10%AI圈又增添了一个造富神话。8月16日，多家媒体报道称，美国支付巨头Stripe已就收购OpenRouter达成最终协议，交易估值超过70亿美元（约合471亿元人民币）。该交易若顺利完成，将成为2026年AI基础设施领域规模最大的并购案之一。OpenRouter的大名在AI圈内无人不晓，它是全球最大的大模型聚合平台。每当开源模型发布，基本都要去OpenRouter混个\"token使用量全球第一\"来作为宣传点。在大模型公司们卷评分、卷价格的时候，OpenRouter这个AI\"",
+        "pubDate": "2026-08-18T10:17:41+08:00",
+        "author": " 投中网 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 人形机器人第一股，到底能不能买？ ",
+        "link": "https://www.huxiu.com/article/4883614.html?f=rss",
+        "summary": " 人形机器人第一股，现阶段进场大概率是接盘侠。行业还没实现大规模商用，真正靠人形机器人赚钱的场景少之又少。 ",
+        "pubDate": "2026-08-18T10:00:00+08:00",
+        "author": " 杜雨说AI ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 商业银行将是直接融资的总协调人 ",
+        "link": "https://www.huxiu.com/article/4883826.html?f=rss",
+        "summary": " 本文来自微信公众号： 王剑的角度 ，作者：王剑的角度，原文标题：《【随笔】商业银行将是直接融资的总协调人》本文为金融业研究方法探讨。本文不是证券研究报告，不构成任何投资建议，涉及个股也仅为举例或陈述事实之用，不代表我们对他们的证券或产品的推荐。具体投资建议请参考我们的研究报告。王剑我们在2000年代便开始讲“金融脱媒”的故事，因为西方发达国家大约在更早的1970年代开始这一过程，1980年之后开始加速。这个故事是说，将来资本市场发展，直接融资盛行，融资方和投资方直接通过在资本市场上以证券为工具，直接实现融资，不需要通过银行的存贷款业务了。而我国近年来直接融资发展加速，对银行资产业务的影响确实",
+        "pubDate": "2026-08-18T09:41:10+08:00",
+        "author": " 王剑的角度© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " “老登股”，迷失2026 ",
+        "link": "https://www.huxiu.com/article/4883823.html?f=rss",
+        "summary": " 本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳AI新贵上位，“老登股”如何证明自己？定焦One（dingjiaoone）原创股票买的是预期，一家公司值多少钱，从来不取决于它现在赚多少，而是取决于市场相信它以后能赚多少。2026年的中国股市，把这一点推向了极致。宇树科技于8月10日启动申购，发行价150.8元。一家一季度扣非净利润还在下滑的公司，市盈率是219倍，而它所在的通用设备制造行业平均市盈率只有38倍。到8月17日，长鑫科技市值（4.1万亿元）位居A股市值第一。再往前，寒武纪市值一度突破了万亿。几年前上市的快手，以及一年前上市的蜜雪冰城，也曾获得类似的估值待遇。那",
+        "pubDate": "2026-08-18T09:18:58+08:00",
+        "author": " 定焦One ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 这个项目得舔啊，包赚的 ",
+        "link": "https://www.huxiu.com/article/4883820.html?f=rss",
+        "summary": " 本文来自微信公众号： 数星星的星哥 ，作者：singsing2020周一的会议室。胡总敲着桌子，一字一句地读着：“头部量子计算公司，额度稀缺，要进实控人的SPV，产业方优先，5000万起投，快速决策，不接受尽调。”公司首席风控官推了推眼镜：“前端6%+后端20%，我们投他，还得给他发carry？”胡总摇了摇头：“我们基金还要6%+20%，项目还没投，LP已经亏了12%，肯定不行。”正当大家都以为这个项目要被胡总pass了。他清了清喉咙：“还是得争取额度，只要能上市，包赚的。”“可是领导，人家优先产业方，而且不接受尽调。”小李有点着急。“哎”胡总赶紧打断了他：“今天先立项，剩下来的，你就要发挥",
+        "pubDate": "2026-08-18T09:16:15+08:00",
+        "author": " 数星星的星哥© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      }
+    ],
     "media": [
       {
         "title": "学习卡丨“人不负青山，青山定不负人”",
@@ -1410,6 +1811,126 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "国家疾控局发布HPV疫苗科普问答",
+        "link": "https://www.chinanews.com.cn/jk/2026/08-18/10679532.shtml",
+        "summary": "\n　　中新网8月18日电 据国家疾控局网站消息，8月18日，国家疾控局发布HPV疫苗科普问答。",
+        "pubDate": "2026-08-18T11:49:08+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "四部门发布《关于加强医院法治建设的意见》",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679534.shtml",
+        "summary": "\n　　国家卫生健康委、教育部、国家中医药局、国家疾控局今天联合印发《关于加强医院法治建设的意见》。",
+        "pubDate": "2026-08-18T11:47:18+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "60万亿元，打开消费增长新空间",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679435.shtml",
+        "summary": "\n　　60万亿元，打开消费增长新空间(“十五五”消费新图鉴①)",
+        "pubDate": "2026-08-18T11:43:08+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "从“宅兹中国”到笔墨丹青：《图说何以中国画集》亮相2026上海书展",
+        "link": "https://www.chinanews.com.cn/cul/2026/08-18/10679527.shtml",
+        "summary": "\n　　中新网上海8月18日电 (记者 陈静)三千多年前，青铜器“何尊”铭文镌刻“宅兹中国”，留下“中国”二字最早的文字印记。17日，《图说何以中国画集》亮相2026上海书展。",
+        "pubDate": "2026-08-18T11:42:50+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "宜（昌）兴（山）高铁启动试运行",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679525.shtml",
+        "summary": "\n　　中新网宜昌8月18日电 (董晓斌 李斌 余晓钦)随着55103次列车于18日上午6时40分驶入兴山站，宜昌至兴山高速铁路(下称宜兴高铁)正式进入试运行阶段，全线开通运营进入倒计时。",
+        "pubDate": "2026-08-18T11:42:22+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "骗子冒充白宫幕僚长与英首相互发信息，特朗普回应",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679526.shtml",
+        "summary": "\n　　中新网8月18日电 据美国政治新闻网(POLITICO)18日报道，多名官员透露，英国首相伯纳姆曾与美国白宫幕僚长怀尔斯的冒充者互发信息，后来才意识到自己遭遇了骗局。",
+        "pubDate": "2026-08-18T11:40:42+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "两部门再次预拨6000万元 支持河南做好防汛应急抢险救灾工作",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679520.shtml",
+        "summary": "\n　　中新网8月18日电 据财政部网站消息，近期，受强台风“白海豚”残余环流影响。河南出现大范围持续性强降雨，引发灾情险情。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，在前期预拨4000万元中央自然灾害救灾资金的基础上，8月18日，财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作，重点做好受灾群众转移安置、排危除险等应急处置、过渡期生活救助以及倒损民房修复等工作，切实减轻灾害损失，保障受灾群众基本生活。",
+        "pubDate": "2026-08-18T11:30:01+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "印度一酒店发生火灾致9人死亡 莫迪发声",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679523.shtml",
+        "summary": "\n　　中新网8月18日电 据《印度时报》18日报道，印度西孟加拉邦比尔布姆县塔拉皮特一家酒店17日凌晨发生火灾，造成9人死亡。另有34人获救，其中7人正在医院接受治疗。酒店负责人目前已被警方逮捕。",
+        "pubDate": "2026-08-18T11:28:31+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "扎根基层沃土 广大青年在祖国最需要的地方绽放光彩",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679438.shtml",
+        "summary": "\n　　焦点访谈 | 扎根基层沃土 广大青年在祖国最需要的地方绽放光彩",
+        "pubDate": "2026-08-18T11:26:47+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "菲律宾官员：校园枪击案致1死9伤 枪手已自杀",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679521.shtml",
+        "summary": "\n　　菲律宾三宝颜市市长奥拉索18日对媒体表示，当天发生在雅典耀大学中学部的枪击事件已造成至少1人死亡、9人受伤，死伤者均为该校师生，枪手已在校园内自杀。",
+        "pubDate": "2026-08-18T11:25:55+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "总体平稳 向新向优——透视前7个月国民经济数据",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679431.shtml",
+        "summary": "\n　　新华社北京8月17日电 题：总体平稳 向新向优——透视前7个月国民经济数据",
+        "pubDate": "2026-08-18T11:25:43+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "上海海关首票“海铁中转多式联运”海关监管新模式落地",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679516.shtml",
+        "summary": "\n　　中新网上海8月18日电 (记者 姜煜)8月17日，一批来自广州的集装箱，装载服装、小家电等出口货物，搭乘铁路班列运抵上海芦潮港铁路集装箱中心站后，衔接公路运输无缝流转至上海外高桥港区码头，直接登船出海。这标志着上海海关首票“海铁中转多式联运”海关监管新模式顺利落地。",
+        "pubDate": "2026-08-18T11:25:19+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "跨界投身“农文旅” 台商在重庆拓创业新赛道",
         "link": "https://www.chinanews.com.cn/txy/2026/08-18/10679507.shtml",
         "summary": "\n　　中新社重庆8月18日电 题：跨界投身“农文旅” 台商在重庆拓创业新赛道",
@@ -1488,130 +2009,280 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "美军被霉菌困扰，“林肯”号航母为何状态如此糟糕？",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679382.shtml",
-        "summary": "\n　　中新网8月18日电(记者 刁炜)受强烈太阳辐射与热带季风影响，盛夏时节的阿拉伯海湿热难耐，再配合封闭的船舱环境、拥挤的生活与工作空间，最终让在此超期部署的美军“林肯”号航母变成了霉菌滋生的温床。",
-        "pubDate": "2026-08-18T11:13:36+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "澳门山东社团总会：当好“精准联络人” 探索合作新赛道",
-        "link": "https://www.chinanews.com.cn/txy/2026/08-18/10679487.shtml",
-        "summary": "\n　　中新网济南8月18日电 (吕妍)“这次考察，一个细节令我印象深刻：穿梭在澳门街头的部分巴士，原来是山东制造。”澳门山东社团总会理事长冷垚告诉记者，他希望依托社团平台深挖两地合作的互补性，利用好澳门“1+4”经济适度多元发展策略与山东高质量发展的契合点，推动山东优质资源落地澳门。",
-        "pubDate": "2026-08-18T11:13:28+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "和谐共生丨长江的答案",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679499.shtml",
-        "summary": "\n\n视频：和谐共生丨长江的答案来源：人民网-中国共产党新闻网",
-        "pubDate": "2026-08-18T11:13:14+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国9部门发文进一步活跃县域消费",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679485.shtml",
-        "summary": "\n　　中新社北京8月18日电 (记者 尹倩芸)中国商务部等9部门18日对外发布《关于进一步激发下沉市场活力 活跃县域消费的意见》(下称意见)，推进服务业扩能提质，活跃县域消费。",
-        "pubDate": "2026-08-18T11:12:10+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "生态环境法典“第一案”传递的信号",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679400.shtml",
-        "summary": "\n　　8月15日，我国第二部法典——《中华人民共和国生态环境法典》正式施行。当日，全国首例适用生态环境法典审理的噪声污染责任纠纷案在浙江省衢州市衢江区人民法院开庭并当庭宣判。(见8月15日央视新闻客户端)",
-        "pubDate": "2026-08-18T11:07:44+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "海南推进国际教育创新岛建设调查",
-        "link": "https://www.chinanews.com.cn/edu/2026/08-18/10679492.shtml",
-        "summary": "\n　　“家门口留学”到底香不香 ",
-        "pubDate": "2026-08-18T11:02:44+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "从石狮到纽约，再从世界回到海边：杨紫明的“归去来”",
-        "link": "https://www.chinanews.com.cn/txy/2026/08-18/10679484.shtml",
-        "summary": "\n　　中新网北京8月18日电 题：从石狮到纽约，再从世界回到海边：杨紫明的“归去来”",
-        "pubDate": "2026-08-18T11:00:08+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "伪造的下单页面、诱导共享屏幕……揭秘免费探店、免费试吃诈骗链条",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679496.shtml",
-        "summary": "\n　　免费探店、免费试吃，对于喜欢分享美食的年轻人来说并不陌生。商家提供餐食，消费者体验后发布图文笔记，这类真实存在的推广模式，正在被诈骗分子盯上，一些诈骗分子在社交平台发布“免费探店”“素人也可报名”等信息，以高额餐券、先付款后返还等方式，将消费者引向伪造的下单页面。",
-        "pubDate": "2026-08-18T11:00:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "日本民众集会抗议高市政府政策：为了党派利益忽视国民生活",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679488.shtml",
-        "summary": "\n　　中新网8月18日电 综合日媒18日报道，近日，大批日本民众及代表在东京众议院第二议员会馆前举行集会，抗议高市政府强行推进包括“国家情报会议设置法”在内的多项“恶法”，批评其“为了党派利益而忽视国民生活”。",
-        "pubDate": "2026-08-18T10:59:27+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "勇立潮头大湾区｜“一站式”出海 国产汽车跑出“加速度”",
-        "link": "https://www.chinanews.com.cn/dwq/2026/08-18/10679426.shtml",
-        "summary": "\n“到港即整备、整备即出海”",
-        "pubDate": "2026-08-18T10:58:53+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "未来产业大会将于8月26日至27日在成都举行",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679482.shtml",
-        "summary": "\n　　中新网北京8月18日电(记者 张尼)17日，未来产业大会新闻发布会在北京召开。记者获悉，由中国电子信息产业发展研究院、成都市经济和信息化局共同主办的未来产业大会，将于2026年8月26日-27日在四川省成都市举行，本次大会主题是“创新源动力 智启新未来”。",
-        "pubDate": "2026-08-18T10:57:21+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "溃口合龙后——沙颍河畔，河南周口接续迎战防汛大考",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679472.shtml",
-        "summary": "\n　　中新网周口8月18日电 题：溃口合龙后——沙颍河畔，河南周口接续迎战防汛大考",
-        "pubDate": "2026-08-18T10:54:49+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "The Defender’s Window",
+        "link": "https://openai.com/index/the-defenders-window",
+        "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+        "pubDate": "2026-08-17T05:30:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "OpenAI joins PORTS-Pike project",
+        "link": "https://openai.com/index/openai-joins-ports-pike-project",
+        "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+        "pubDate": "2026-08-17T05:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "New policy ideas for the Intelligence Age",
+        "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+        "pubDate": "2026-08-17T03:15:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "The builder’s guide to GPT‑5.6",
+        "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "pubDate": "2026-08-13T11:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "link": "https://openai.com/index/previewing-ultrafast",
+        "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+        "pubDate": "2026-08-13T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+        "pubDate": "2026-08-13T09:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "From assistance to execution: How enterprises put AI to work",
+        "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+        "pubDate": "2026-08-12T06:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "How RingCentral builds AI-native work from engineering to ops",
+        "link": "https://openai.com/index/ringcentral",
+        "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+        "pubDate": "2026-08-12T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Testing ads in ChatGPT",
+        "link": "https://openai.com/index/testing-ads-in-chatgpt",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+        "pubDate": "2026-08-11T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Daybreak models are now available on AWS",
+        "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+        "pubDate": "2026-08-11T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+        "pubDate": "2026-08-10T14:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "link": "https://openai.com/index/model-ml",
+        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+        "pubDate": "2026-08-10T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "What building an AI-native finance function taught me",
+        "link": "https://openai.com/index/building-an-ai-native-finance-function",
+        "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+        "pubDate": "2026-08-10T17:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Putting frontier cyber models in more trusted hands",
+        "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+        "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+        "pubDate": "2026-08-10T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+        "pubDate": "2026-08-10T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Premium seats are coming to ChatGPT Business",
+        "link": "https://openai.com/index/premium-seats-chatgpt-business",
+        "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+        "pubDate": "2026-08-10T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+        "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+        "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+        "pubDate": "2026-08-10T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+        "link": "https://openai.com/index/zapier",
+        "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+        "pubDate": "2026-08-10T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+        "pubDate": "2026-08-07T15:20:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "link": "https://openai.com/index/hsp-gruppe",
+        "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+        "pubDate": "2026-08-07T09:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": " 具身融资“快进”到按天算 ",
+        "link": "https://www.huxiu.com/article/4883871.html?f=rss",
+        "summary": " 本文来自微信公众号： 小饭桌 ，作者：关注具身的，编辑：张丽娟融资能倍速播放，但产品技术的进度条未必跟得上。2025年2月，星海图完成A轮融资，当时距离它完成天使轮已经过去了一年多；自变量机器人同年5月完成A轮融资时，距天使轮也将近一年半。放在前几年，这种以“年”为单位来衡量的融资节奏再正常不过，但在今天的具身赛道，这种速度已经不够看了。以临界点为例，这家公司今年1月成立，12天后完成天使轮，又过了15天完成A轮融资，从天使轮到A轮前后不到一个月；德塔智能从1月注册成立到第6轮融资落地，只用了不过半年时间。还有昆仑行机器人今年3月成立，不到90天连续完成天使轮、Pre-A轮和A轮3轮融资；同",
+        "pubDate": "2026-08-18T11:50:57+08:00",
+        "author": " 小饭桌 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 39岁儿科医生离世千人送别  他为何成了医疗圈最不合群的“异类”？ ",
+        "link": "https://www.huxiu.com/article/4883868.html?f=rss",
+        "summary": " 本文来自微信公众号： 评论员毕舸 ，作者：毕舸，原文标题：《39岁儿科医生离世千人送别  他为何成了医疗圈最不合群的“异类”？》江苏沭阳儿科医生杨国辉，是一个不折不扣的异类。杨国辉，39岁，骑自行车锻炼时突发心脏骤停，经抢救无效去世。8月17日杨的追悼会现场，近千名患儿家属自发赶来送别，送别的人群里，有人带着孩子，有人捧着白菊花，还有人没法到场，只能通过骑手把鲜花送到他家中。在一个时常讨论医患关系为何紧张的时代，这一幕显得不太寻常。不是什么三甲医院名医，也没有显赫的学术成就，杨国辉把自己活成了当下医疗场域里不太合群的那一类，这就是上千人追思的原因所在。留在家长记忆里的杨国辉，很多行为与别的医",
+        "pubDate": "2026-08-18T11:50:25+08:00",
+        "author": " 南漂分子毕舸 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 5年倒闭15000家，曾经的街边小吃之王，为什么没人吃了？ ",
+        "link": "https://www.huxiu.com/article/4883195.html?f=rss",
+        "summary": " 5年倒闭15000家，正新鸡排从街边小吃之王沦为年轻人集体脱粉。你上次吃正新鸡排是什么时候？ ",
+        "pubDate": "2026-08-18T11:45:00+08:00",
+        "author": " 财经不眠姐 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 如何让老外爱上中国科技股？ ",
+        "link": "https://www.huxiu.com/article/4883831.html?f=rss",
+        "summary": " 出品 | 妙投APP作者 | 刘国辉编辑 | 丁萍头图｜AI制图在投资市场，外资往往被视为&ldquo;聪明钱&rdquo;。但聪明钱进入国内投资市场的体量，与中国公司的国际竞争实力还极不相称。中国科技产业的影响力，越来越被海外重视。DeepSeek、kimi K3、光模块、比亚迪与宁德时代在新能源链的碾压、Biotech研发成本优势，等等，都已表明，中国已从价值链低端代工的地位，进化到了全球唯一可与美国竞争国家的阶段。但在资本市场，却是另一番景象。中国的科技股，在全球被配置的比例还是很低的，高盛测算，中国在全球AI相关市值占比约10%、收入占比16%，但截至2026年1月，全球共同基金对中",
+        "pubDate": "2026-08-18T11:33:58+08:00",
+        "author": " 刘国辉 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 被生产出来的排队：网红餐饮背后的造浪链条 ",
+        "link": "https://www.huxiu.com/article/4883863.html?f=rss",
+        "summary": " 本文来自微信公众号： 白熊消费 ，作者：五童五童铁心男最爱吃的那家泰国菜，又被她“吃死了”。从门店围挡上看，这里不久会有一家云贵山野Bistro开张。或许是距离够近，重庆的商场几乎被云贵菜包围。从包浆豆腐、酸汤火锅、夺夺粉，到烧椒牛肉、野生菌、小锅米线……一阵风一样吹得各个商场遍地开花，又一阵风一样集体换招牌继续排队。这两年，餐饮楼层的招牌可谓换得越来越快。雀巢专业餐饮《2026中国中式餐饮白皮书》估算，2025年全国餐饮门店数约825万家，关店率为48.9%，开店率则达到50%。开一半关一半，忙傻了餐饮守尸人。如此高频的行业迭代，过于惨烈，以至于人们往往会同情那些亏得血本无归的餐饮加盟商。",
+        "pubDate": "2026-08-18T11:32:22+08:00",
+        "author": " 白熊消费 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 一家头部猪企，走上“破产边缘” ",
+        "link": "https://www.huxiu.com/article/4883856.html?f=rss",
+        "summary": " 本文来自微信公众号： 红餐供应链指南 ，作者：专注餐饮供应链的猪养得不算差，但钱欠得有点多。本文由红餐供应链指南（ID：cygylzn）原创题图来源：图虫创意8月11日，一纸公告将“建德农发牧业科技有限公司”推到了台前。公告显示，截至今年6月17日，建德农发被执行案件4件，执行标的金额2.6亿元，总负债5亿余元，整体资产评估价值约3.14亿元。简单算一下：缺口接近2个亿。单看这组数字，不过是一家养殖场撑不下去了，但建德农发的股东穿透上去，指向的是天邦食品，建德农发是天邦食品在浙江区域布局的规模化养殖项目之一。而且，天邦食品最新的公告里还埋了一句话：截至披露日，公司及下属子公司连续十二个月累计",
+        "pubDate": "2026-08-18T11:26:45+08:00",
+        "author": " 红餐网 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 985毕业到底能赚多少 ",
+        "link": "https://www.huxiu.com/article/4883861.html?f=rss",
+        "summary": " 本文来自微信公众号： 九边 ，作者：九边上篇文章评论区有问到这个问题，我回复了一下，发现大家对这个话题非常感兴趣。我自己是80年代末的，我身边包括我自己，几乎都是985出来的，通过身边的样本，跟大家聊聊。本文样本比较窄，不过写完之后给不同行业的人看了下，大家竟然都表示确实有共鸣，里边很多事在不同行业竟然殊途同归。所以批判着看吧，可以跟其他人的文章结合着看。首先得说一句，不同大学的差别非常大，有些大学文科比较强，校友混的好的都在体制内。还有一些跟研究所对接，毕业之后直接进了研究所，可能十几年没挪窝，收入上限也一般，但贵在稳定。比较惨的是跟建筑相关的那些，上大学的时候分数高的要死，毕业的时候就开",
+        "pubDate": "2026-08-18T11:25:57+08:00",
+        "author": " 九边 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
       {
         "title": " 多地约谈不落实休假单位，为什么现在全国统一对加班亮剑？ ",
         "link": "https://www.huxiu.com/article/4883381.html?f=rss",
@@ -1738,76 +2409,6 @@
         "summary": " 本文来自微信公众号： 数星星的星哥 ，作者：singsing2020周一的会议室。胡总敲着桌子，一字一句地读着：“头部量子计算公司，额度稀缺，要进实控人的SPV，产业方优先，5000万起投，快速决策，不接受尽调。”公司首席风控官推了推眼镜：“前端6%+后端20%，我们投他，还得给他发carry？”胡总摇了摇头：“我们基金还要6%+20%，项目还没投，LP已经亏了12%，肯定不行。”正当大家都以为这个项目要被胡总pass了。他清了清喉咙：“还是得争取额度，只要能上市，包赚的。”“可是领导，人家优先产业方，而且不接受尽调。”小李有点着急。“哎”胡总赶紧打断了他：“今天先立项，剩下来的，你就要发挥",
         "pubDate": "2026-08-18T09:16:15+08:00",
         "author": " 数星星的星哥© ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " AI时代，网吧卷土重来 ",
-        "link": "https://www.huxiu.com/article/4883819.html?f=rss",
-        "summary": " 本文来自微信公众号： 商业评论零售现场 ，作者：响马前段时间，网友“Nccrri”随手发布的一则帖子，引发不少人的点赞和共鸣。这背后，是一个产业事实。简单来说，曾经被视为“夕阳产业”“过气行业”的网吧正强势复活。中国互联网上网服务行业协会此前发布的数据显示，2023年至2025年，我国网吧的数量从7.7万家增长到12.26万家，行业营收规模也从534亿元增长到1016.8亿元。这些数据相当亮眼，不过有点反直觉。毕竟，眼下已经迎来AI时代，AI PC热销，AI手机也掀起热潮，电脑和手机的硬件配置、产品性能均快速提升，上网冲浪、玩游戏随时都能高效满足，但网吧的复兴表明，人们还是离不开网吧这个空间",
-        "pubDate": "2026-08-18T09:13:28+08:00",
-        "author": " 商业评论 ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " 从美国“硅和平”到“AI朋友圈”：香港必须重新思考自己的科技金融战略 ",
-        "link": "https://www.huxiu.com/article/4883817.html?f=rss",
-        "summary": " 本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士深度观察美国正在重新组织全球AI产业链，香港的机会窗口在哪里？席席春迎博士香港中小上市公司协会主席这几天，一则看似属于科技外交领域的消息，可能比一场新模型发布更值得香港关注。据路透社报道，美国政府正在准备向数十个国家发出一封措辞相当明确的信函：如果这些国家加入中国倡议的人工智能合作框架，就可能被排除在美国主导的人工智能合作体系之外。美国正在推动的这套体系，有一个很有象征意义的名字——\"Pax Silica\"，中文可以译作\"硅和平\"。这个名字本身就值得琢磨。历史上有\"Pax Romana\"，即\"罗马和平\"，后来又有\"Pax Bri",
-        "pubDate": "2026-08-18T09:10:22+08:00",
-        "author": " 席春迎博士 ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " 年轻人新三大件，居然是赛博“生产资料”？ ",
-        "link": "https://www.huxiu.com/article/4882603.html?f=rss",
-        "summary": " 如果你现在突然有15000块的零花钱，你会买什么？ 一台顶配的iPhone 17 Pro Max？ 一台用上金子内存和硬盘的游戏本？ 还是游戏里的抽23次648？&nbsp;&nbsp;父母那一辈，他们可能会选择三大件：冰箱、彩电、洗衣机。&nbsp;而到了8090后这一点，成了这三大件：手机、电脑、平板。&nbsp;但是现在一批新的年轻人给了全新的三大件：NAS、3D打印机和Mac Mini。&nbsp;三件东西分别对应三个能力：&nbsp;一个存储和数据中心、&nbsp;一个物体制造中心、&nbsp;一个AI和生产力中心。 ",
-        "pubDate": "2026-08-18T09:00:00+08:00",
-        "author": " 动动枪DongDongGun ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " 特洛伊的海伦可能是黑人吗？ ",
-        "link": "https://www.huxiu.com/article/4883816.html?f=rss",
-        "summary": " 本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园著名导演诺兰的新作《奥德赛》正在影院热映，口碑与票房双双走高，再度证明诺兰是当下好莱坞少数能同时拿下专业影评与大众号召力的全能导演。但《奥德赛》选角在电影上映前就引发了巨大争议，尤其是其中“世界上最美的女人”海伦由黑人影星Lupita饰演，网上不少人拿04年的电影《特洛伊》对比：个人觉得最狠的一条评论：如果长《奥德赛》电影里的样子，特洛伊战争应该打不起来。其实“世界上最美”本就很难客观判定，海伦的脸在后世文学作品里被形容为“让千艘战舰起航”，和中国古代的倾国倾城是一个修辞手法，无论找哪位演员来演海伦，恐怕都会有人说不至于为此倾国",
-        "pubDate": "2026-08-18T08:55:05+08:00",
-        "author": " 一个生物狗的科普小园© ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " 《牛来》走红，因为它读懂了时代 ",
-        "link": "https://www.huxiu.com/article/4883812.html?f=rss",
-        "summary": " 本文来自微信公众号： 波波夫同学 ，作者：波波夫，题图来自：视觉中国一、无意识的喜剧一部电影上映十天，票房只有7711元。然后上了热搜。人们开始找排片，开车几十公里，进影院，把票根发到网上，再把别的电影海报改成&ldquo;牛版&rdquo;。院线跟着加场。票房在8月17日突破1000万元。这个数字还在上涨。《牛来》的制作水准，观众只要看一分钟，心里就有数了。低精度建模，动作僵硬，场景重复，穿模频发，配音缺少控制，叙事松散，人物动机时常断裂。影片想讲成长、担当、牺牲，也安排了牛群迁徙、母子关系、异类朋友等元素，可这些东西没有被组织成稳定的戏剧推进。很多段落像刚学会软件的人把想法一件件摆上去，",
-        "pubDate": "2026-08-18T08:48:25+08:00",
-        "author": " 波波夫 ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " “想要投诉国航空乘。” ",
-        "link": "https://www.huxiu.com/article/4883814.html?f=rss",
-        "summary": " 本文来自微信公众号： 停机坪 ，作者：停机坪大表哥刷到一篇笔记。博主坐国航公务舱，刚上飞机，旁边来了个“中东旅客”。他没坐下，但哐哐打开公务舱行李架，往里面塞自己的两个大包。乘务员发现以后马上阻止，用英文告诉他这里是公务舱区域，不能放，还得往前走。这男的肯定听明白了，但选择性失聪，乘务员说乘务员的，他放他的。两个包塞进去，人就跑了。乘务员面面相觑，也没再追。飞行过程中，这人又从后面跑到公务舱，找乘务员要公务舱发的坚果。落地以后，飞机刚停稳，这男的已经冲到公务舱，把自己的包拿下来，准备跟着公务舱旅客一起下飞机。临走前还顺便问乘务员：能不能把飞机上的坚果都给我？乘务员尴尬的说，没多少了。下了飞机",
-        "pubDate": "2026-08-18T08:47:07+08:00",
-        "author": " 停机坪大表哥 ",
-        "feedTitle": " 虎嗅 ",
-        "feedName": "虎嗅",
-        "feedColor": "#c97cff"
-      },
-      {
-        "title": " 南极电商卖吊牌卖出了六亿官司 ",
-        "link": "https://www.huxiu.com/article/4883813.html?f=rss",
-        "summary": " 本文来自微信公众号： 界面新闻 ，作者：朱咏玲近期，南极电商与昔日授权合作伙伴上海新和兆（全称为“上海新和兆企业发展有限公司”）的诉讼进一步升级，南极电商方面将诉请金额从8000多万元大幅提升至2.96亿元。而在上海新和兆诉南极电商案中，上海新和兆目前提出的诉请金额为3.13亿元。换言之，无论哪一方败诉，损失都堪称惨重。南极电商与上海新和兆本是合作关系。南极电商在2018年授权上海新和兆使用其旗下的“卡帝乐（Cartelo）”系列商标，许可期限到2027年底。“卡帝乐”更为人熟知的形象是一只头朝左的鳄鱼，有消费者常常将它与法国品牌Lacoste的品牌logo——一只头朝右的鳄鱼相混淆。而也正",
-        "pubDate": "2026-08-18T08:44:44+08:00",
-        "author": " 界面新闻© ",
         "feedTitle": " 虎嗅 ",
         "feedName": "虎嗅",
         "feedColor": "#c97cff"
@@ -2213,6 +2814,66 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "三星 Galaxy A08/A07s 手机曝光：联发科 Helio G99 芯片、水滴屏",
+        "link": "https://www.ithome.com/0/991/042.htm",
+        "summary": "IT之家 8 月 18 日消息，科技媒体 91Mobile 昨日（8 月 17 日）发布博文，报道称在 Google Play Console 数据库中，挖掘发现 Galaxy A08 和 Galaxy A07s 两款三星手机踪迹。根据页面信息，三星 &nbsp;Galaxy A08 型号为 SM-A085F。根据信息显示，这款入门级手机将搭载联发科处理器（此前曝光信息为联发科 Helio G99 芯片），并配备双 ARM Mali G57 GPU，配备 8GB 运行内存。IT之家附上相关图片如下：Galaxy A08 将配备 HD 水滴屏，分辨率为 720×1600 像素，屏幕密度为 300",
+        "pubDate": "2026-08-18T03:51:16+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "英国政府资助梅赛德斯-奔驰旗下 YASA，减少电动汽车电机稀土依赖",
+        "link": "https://www.ithome.com/0/991/041.htm",
+        "summary": "IT之家 8 月 18 日消息，梅赛德斯-奔驰旗下牛津大学衍生企业 YASA 当地时间本月 10 日宣布，该公司获得英国政府 DRIVE35 零排放汽车技术创新计划拨款，将作为牵头方领导 Project Resilience“韧性计划”。IT之家获悉，“韧性计划”旨在降低电动汽车电机对稀土磁性材料的依赖，强化供应链安全，同时保障电机可满足未来车辆对质量、体积、效率的要求。其包括两条互补技术路径：面向高性能产品的无重稀土永磁电机、覆盖多样化需求的完全无稀土轴向磁通电机。YASA 表示，两条路线都将基于其定子技术，共享工程、设计、开发、制造知识，为转子技术多样化的模块化电机架构创造可能。",
+        "pubDate": "2026-08-18T03:48:35+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "三星 Galaxy S26 FE 手机曝光：Exynos 2500 芯片，8GB 内存",
+        "link": "https://www.ithome.com/0/991/039.htm",
+        "summary": "IT之家 8 月 18 日消息，科技媒体 YtechB 昨日（8 月 17 日）发布博文，报道称三星 Galaxy S26 FE（型号 SM-S741U）手机现身 Google Play Console 数据库，显示其搭载 Exynos 2500 芯片以及三星 Xclipse 950 GPU。页面信息显示，三星 Galaxy S26 FE 手机配备 8GB 内存，屏幕分辨率为 1080 x 2340 像素，屏幕密度为 450 DPI。该设备预计将提供紫色、绿色和黑色三种配色。此外，据传它还将支持 45W 有线充电。消息源 @.samsungcentralsquare 还在 TikTok 平台分",
+        "pubDate": "2026-08-18T03:43:20+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "【IT之家图赏】石头迷你洗烘一体机 Z1 Mini Pro 实拍：1.08 超高洗净比，2kg/1kg 洗烘旗舰",
+        "link": "https://www.ithome.com/0/991/038.htm",
+        "summary": "8 月 18 日，石头科技正式发布石头迷你洗烘一体机 Z1 Mini Pro，限时到手价 2999.7 元。作为主打母婴、贴身衣物洗护领域的“性能小钢炮”，其具备 2kg 洗涤与 1kg 烘干容量，小巧的机身内塞入了 1.08 洗净比、石头蓝氧慕斯洗 3.0 以及蓝氧 +UV 双重除菌等配置。IT之家现已拿到这款产品的云霜白版本，接下来为大家带来一组实拍图赏。在外观设计上，石头 Z1 Mini Pro 采用了相对方正且边角圆润的极简造型。纯白色的机身搭配正面银黑色渐变的圆形大舱门，整体呈现出一种温润且克制的科技美感，能够轻松融入各种现代家装风格。机器的三围尺寸为宽 400mm × 深 436m",
+        "pubDate": "2026-08-18T03:42:25+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "思特威推出超星光级 1/2.8 英寸 CMOS 图像传感器，主打高清夜视全彩",
+        "link": "https://www.ithome.com/0/991/037.htm",
+        "summary": "IT之家 8 月 18 日消息，近日，CMOS 图像传感器供应商思特威正式推出其 Star Light（SL）超星光级系列智能安防应用图像传感器新品 ——SC185SL。作为 1/2.8 英寸大靶面背照式图像传感器，SC185SL 基于思特威 SmartClarity-3 工艺技术打造，搭载 SFCPixel、Micro-Pillar 近红外增强等核心技术，具备高感度、低噪声、超低功耗等多项性能优势，适用于智能门铃、智能门锁及高端安防夜视全彩应用，可呈现清晰细腻的夜间全彩成像。此外，SC185SL 采用 4:3 优化画幅规格，有效扩展视场角覆盖范围，与鱼眼镜头及广角镜头高度适配，能够显著提升入",
+        "pubDate": "2026-08-18T03:36:04+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "铭凡推出 8.47L MoDT 整机 139D7、895D7，支持双槽半高显卡",
+        "link": "https://www.ithome.com/0/991/033.htm",
+        "summary": "IT之家 8 月 18 日消息，MINISFORUM（铭凡）今日宣布推出两款基于移动端处理器的紧凑型台式整机，即 139D7 和 895D7。139D7 基于英特尔酷睿 i9-13900HX、895D7 则基于 AMD 锐龙 9 8945HX。考虑到这两款处理器本就是桌面端产品的移动端 BGA 化移植版，139D7 和 895D7 甚至可被称为 \"DToMoDT\" 系统。139D7 &amp; 895D7 内置 2 个 DDR5 SO-DIMM 内存插槽和 2 个 PCIe Gen4 ×4 的 M.2 2280 盘位，提供支持双槽半高 AIC 的全长 PCIe Gen5 插槽，支持 2.5Gb",
+        "pubDate": "2026-08-18T03:29:59+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "Meta 专利探索智能眼镜未来：可识别人脸自动梳理、AI 提取精彩片段",
         "link": "https://www.ithome.com/0/991/025.htm",
         "summary": "IT之家 8 月 18 日消息，科技媒体 404Media 昨日（8 月 17 日）发布博文，报道称 Meta 公司申请新专利，探索让智能眼镜借助内置人脸识别技术，识别视频画面中的人物及其与佩戴者的关系，并自动生成带人物标签的集锦片段。IT之家援引博文介绍，专利描述称系统可以标注画面中有哪些人、他们正在做什么，以及他们与佩戴者的关系。根据专利构想的 1 个应用场景，用户在晚宴或聚会上佩戴眼镜录制视频后，AI 可以询问用户是否想查看这场活动的精彩片段。Meta 在专利文件中将相关技术描述为一种工具，目标是“以适当的系统和使用方式，协助用户完成适当的、基于摄像头的任务”。该媒体认为除智能眼镜外，类",
@@ -2347,66 +3008,6 @@
         "link": "https://www.ithome.com/0/990/995.htm",
         "summary": "8 月 18 日，石头迷你洗烘一体机 Z1 Mini Pro 正式上市。这是一款面向精细化洗护场景的迷你洗烘产品，重点放在了小容量机身下的洗净、除菌、烘干以及衣物护理能力上，满足宝宝衣物、贴身衣物等小件织物的独立洗护需求。事实上，随着家庭生活方式不断变化，洗衣这件事也正在变得更加细分。过去，一台大容量洗衣机基本可以覆盖一家人的日常衣物清洁需求，衣服集中洗、集中烘也是不少家庭的常见选择。宝宝衣物、女性贴身衣物等特殊织物往往有着更加独立的洗护需求，“一台洗衣机全家用”的模式也开始面临新的挑战。这一点，笔者其实也深有体会。有了宝宝之后，很多过去不会特别在意的细节，都会不自觉地多想一步。比如宝宝的小衣",
         "pubDate": "2026-08-18T02:36:39+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "伪造下单页面、诱导共享屏幕，总台揭秘免费探店、免费试吃诈骗链条",
-        "link": "https://www.ithome.com/0/990/994.htm",
-        "summary": "IT之家 8 月 18 日消息，中央广播电视总台中国之声今日揭秘了免费探店、免费试吃诈骗链条。免费探店、免费试吃，是指商家提供免费餐食，消费者体验后发布图文笔记。然而这类推广模式正在被诈骗分子盯上，一些诈骗分子在社交平台发布“免费探店”“素人也可报名”等信息，以高额餐券、先付款后返还等方式，将消费者引向伪造的下单页面。除此之外，随着餐饮品牌与热门 IP 联名活动增多，类似套路又延伸到“免费代吃”“企业代付”等场景。消费者本想免费吃顿饭、帮人领取限定周边，却可能在一次扫码之后，稀里糊涂地付了钱。从发布帖子、私信沟通，到扫码付款、退款失败，再到诱导共享屏幕，此类诈骗链条究竟是如何一步步完成的？图源",
-        "pubDate": "2026-08-18T02:34:00+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
-        "link": "https://www.ithome.com/0/990/989.htm",
-        "summary": "IT之家 8 月 18 日消息，第三方机构 Signal65 今天（8 月 18 日）在 X 平台发布推文，指出在电池供电、平衡模式下，搭载高通骁龙 X2 Elite Extreme 芯片的笔记本的性能要优于英特尔酷睿 Ultra X9 388H 和 AMD Ryzen AI 9 465 处理器。该机构对比测试以下芯片：高通骁龙 X2 Elite Extreme X2E-96-100：拥有 18 个 CPU 核心（12 个 Oryon Prime 核心 + 6 个 Oryon Performance 核心），最高频率为 5.0GHz，配备 Adreno X2-90 GPU、性能为 80 TOP",
-        "pubDate": "2026-08-18T02:30:04+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
-        "link": "https://www.ithome.com/0/990/988.htm",
-        "summary": "IT之家 8 月 18 日消息，谷歌现已在 Play 商店悄悄上架了 Desktop Camera 相机应用，相应应用主要为 Googlebook 设计，主要用于帮助相应笔记本调用摄像头进行二维码扫描和文档扫描。事实上，该应用也提前展示了 Googlebook 软件界面设计风格，可帮助用户了解相应产品设计思路，其整体操作逻辑与 Pixel Tablet 上的 Pixel Camera 应用有些类似。谷歌在今年 2026 年 I/O 开发者大会期间首次公布了 Googlebook 高端安卓笔记本，将由 Acer、ASUS、Dell、HP、Lenovo 率先推出首批高端机型，首发时间定在今年秋季。",
-        "pubDate": "2026-08-18T02:26:27+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "致态 Ti600s 固态硬盘发售：新一代 Xtacking 4.0 QLC，随机写入提升 114%",
-        "link": "https://www.ithome.com/0/990/981.htm",
-        "summary": "IT之家 8 月 18 日消息，致态 (ZHITAI) 此前在 2023 年推出了基于 Xtacking 3.0 QLC NAND 闪存的 M.2 固态硬盘 Ti600。而在今日，致态宣布推出升级至 Xtacking 4.0 QLC 的 Ti600s。Ti600s 依旧采用 PCIe Gen4 ×4 接口，符合 NVMe 2.0 协议。其最高顺序读写速率从前代的 7000MB/s 与 6000MB/s 上升至 7400MB/s 与 6900MB/s，最高随机写入至多提升 114% 至 1500K IOPS，随机读取也有 44% 的提升幅度。Ti600s 基于 DRAM-less 无外置缓存方案",
-        "pubDate": "2026-08-18T02:18:20+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "海南文昌商业航天发射场 1、2 号工位实现常态化运营，卫星超级工厂进入试生产",
-        "link": "https://www.ithome.com/0/990/973.htm",
-        "summary": "IT之家 8 月 18 日消息，据海南日报今日报道，8 月 17 日上午，海南省“开局起步‘十五五’”系列主题新闻发布会迎来市县层面第二场 —— 文昌市专场。面向未来五年，文昌将锚定航天强国使命，全力建设国际一流航天科技城，形成具有全球影响力的航天产业集群，加速实现“文昌造、文昌发”。文昌国际航天城管理局副局长袁世英表示，文昌着力提升发射制造能级，目前商业发射场 1、2 号工位已实现常态化运营，卫星超级工厂进入试生产，海上回收平台和测控系统加速建设。今年年底前，3、4 号新工位将具备发射能力，卫星超级工厂首星同步下线，中国商火、快舟空间、天兵科技、箭元科技等火箭链重大项目已陆续开工。通过持续完",
-        "pubDate": "2026-08-18T02:14:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "酷态科推出 CP 模块风扇 Plus“夹式延长线套装”：底座支持夹 / 立两用，109 元",
-        "link": "https://www.ithome.com/0/990/972.htm",
-        "summary": "IT之家 8 月 18 日消息，酷态科宣布推出 CP 模块风扇 Plus“夹式延长线套装”，其中套装版定价为 109 元，延长线单体版定价为 49 元。据介绍，相应夹式延长线配备 Power-Pin 磁吸接口，可以快速连接 CP 模块风扇 Plus，为其进行 1 米距离的有线供电。同时延长线底座支持夹 / 立两用，支持 360° 旋转，线缆本身使用 48 锭编织线身，具有较高强度。IT之家附产品参数：",
-        "pubDate": "2026-08-18T02:13:45+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2603,6 +3204,16 @@
         "feedColor": "#ff7c7c"
       },
       {
+        "title": "7月音乐精选：夏天赠予我们的 9张专辑",
+        "link": "https://sspai.com/post/113454",
+        "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
+        "pubDate": "2026-08-18T10:52:11+08:00",
+        "author": "麻乐",
+        "feedTitle": "少数派",
+        "feedName": "少数派",
+        "feedColor": "#7cffb0"
+      },
+      {
         "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
         "link": "https://sspai.com/post/113566",
         "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...查看全文",
@@ -2691,20 +3302,40 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
-      },
-      {
-        "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-        "link": "https://sspai.com/post/113416",
-        "summary": "纪念并且感谢他为我们留下的推理世界。查看全文",
-        "pubDate": "2026-08-14T15:00:00+08:00",
-        "author": "潘誉晗",
-        "feedTitle": "少数派",
-        "feedName": "少数派",
-        "feedColor": "#7cffb0"
       }
     ],
     "edu": [],
     "culture": [
+      {
+        "title": " 项目频道 - 字节 Seedance 2.5官方宣传片：《消失的袜子》",
+        "link": " https://www.digitaling.com/projects/374968.html",
+        "summary": " 「视频」项目背景如果告诉你，视频里堪比好莱坞黑色电影、连人物微表情和衣物褶皱都无比真实的镜头，全部都是由AI生成的，你敢信吗？这是我们为字节跳动 Seedance 2.5&nbsp;视频生成大模型倾力打造的创意实战项目——《消失的袜子》。在接到这个 Brief 时，我们的核心挑战是：如何不干巴巴地堆砌技术参数，而是用一个好故事，把 Seedance 2.5 模型强大的长视频生成、多模态参考一致性、物理规律模拟能力以及三维模型渲染能力，直观地“砸”进观众心里？创意洞察：把鸡毛蒜皮，放大成史诗级灾难在视频开头，我们刻意营造了一种严肃、甚至有些压抑的“黑色电影”氛围。深邃的打光、绝望的中年男人、眼",
+        "pubDate": "2026-08-18T11:28:00+08:00",
+        "author": " 盘马弯弓 PMWG",
+        "feedTitle": "数英网 DIGITALING",
+        "feedName": "数英网",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": " 文章频道 - 太抽象了！《牛来》爆火，品牌连夜玩梗整活",
+        "link": " https://www.digitaling.com/articles/1563302.html",
+        "summary": " 开团秒跟！这两天，我看到有很多品牌的广告开始“粗制滥造”起来了。这年头大家卷了这么久的画面精致、特效逼真，怎么突然开始反向进化了？一个比一个粗糙，一个比一个潦草。放出其中的两个代表作请大家欣赏下：伊利：《奶来》雪王：《雪来》就这居然还有人说缺点是制作过于精良，多处使用人工AI痕迹。而且两个视频的播放量和点赞量都不低。《奶来》在抖音上的点赞是19w，《雪来》的点赞有35.2w。妥妥的爆款了，网速慢点的可能都不知道，这是在玩什么梗。事情的起因是，今年电影暑期档冲出了个黑牛。《牛来》这部电影在8月5日正式上映，上映9天，累计票房只有7000多块。本以为这又是一个悄悄上映、悄悄下映，最后连电影院自己",
+        "pubDate": "2026-08-18T11:06:00+08:00",
+        "author": " 志豪",
+        "feedTitle": "数英网 DIGITALING",
+        "feedName": "数英网",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": " 文章频道 - 作为广告公司，我们做产品是认真的",
+        "link": " https://www.digitaling.com/articles/1560999.html",
+        "summary": " 广告里的洞察，拥有了具体的形态。一、一个创意，可以活多久？一个项目结束之后，会发生什么？复盘、庆祝，还是平淡地转发，然后继续下一个项目？对于广告行业来说，一次传播的生命周期往往很短。团队花费一两个月甚至更久打磨出来的作品，上线、刷屏、被讨论，随后又迅速被新的热点覆盖。“有才华的年轻人激情输出一两个月，却只能换来短短几天的刷屏。”这是很多广告人都熟悉的一种复杂感受。一个作品似乎总在上线之后，昙花一现，迅速走向结束。TIMA 也经历过这样的时刻，直到2021年，TIMA 参与天猫超品牌日×红星美凯龙618超级企划「超梦享家」，为年轻人设计了一系列反映真实精神状态的脑洞家具。其中，一件名为「 防秃",
+        "pubDate": "2026-08-18T10:59:00+08:00",
+        "author": " TIMA",
+        "feedTitle": "数英网 DIGITALING",
+        "feedName": "数英网",
+        "feedColor": "#ffd47c"
+      },
       {
         "title": " 项目频道 - 天猫绿动生活公益短片：垃圾堆不是它们的家",
         "link": " https://www.digitaling.com/projects/375297.html",
@@ -2713,7 +3344,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 《牛来》爆火3天，流量反噬开始了",
@@ -2723,7 +3354,7 @@
         "author": " 广告洞察",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 英国药品广告抗议：放屁不要再甩锅给狗了",
@@ -2733,7 +3364,7 @@
         "author": " 云舒",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 得物单核挑战赛：想赢自会出手",
@@ -2743,7 +3374,7 @@
         "author": " Mdigi 马克笑逸 北京",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 无内涵，纯猎奇，影院集体为《牛来》手搓海报",
@@ -2753,7 +3384,7 @@
         "author": " Circle",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 《欢迎来龙餐馆》票房口碑都爆了！海报埋下许多伏笔",
@@ -2763,7 +3394,7 @@
         "author": " 小鱼",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 招聘频道 - 创意文案（ATL）",
@@ -2773,7 +3404,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 招聘频道 - 资深文案-ATL",
@@ -2783,7 +3414,7 @@
         "author": " SG胜加",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 淘宝国际左撇子日：感谢这世界有宝贝向左",
@@ -2793,7 +3424,7 @@
         "author": " 走神OGK",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 招聘频道 - 美术指导Art Director",
@@ -2803,7 +3434,7 @@
         "author": " 好旺角 GMKOK 上海",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 招聘频道 - AE/SAE",
@@ -2813,7 +3444,7 @@
         "author": " 赞意",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 广告提案百年变革：从黑板到HTML",
@@ -2823,7 +3454,7 @@
         "author": " 共振体数字整合营销&AI",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 淘宝买药：夏天的橙色「贴」心提醒",
@@ -2833,7 +3464,7 @@
         "author": " 有点意思",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 假如经典广告，遇上国内甲方反馈",
@@ -2843,7 +3474,7 @@
         "author": " 洪流的广告流言",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 利郎西服：没事穿什么西服？万一呢",
@@ -2853,7 +3484,7 @@
         "author": " MATCH 马马也 上海",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 文章频道 - 睁眼说瞎话，AI女主拍广告被抵制",
@@ -2863,7 +3494,7 @@
         "author": " 顶尖广告",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       },
       {
         "title": " 项目频道 - 星巴克×余华：一个「潦草读书局」，让阅读更容易发生",
@@ -2873,37 +3504,7 @@
         "author": " HS Creation 和势 北京",
         "feedTitle": "数英网 DIGITALING",
         "feedName": "数英网",
-        "feedColor": "#7cfff0"
-      },
-      {
-        "title": " 文章频道 - 广告公司忙活一年，利润没有把钱存在银行里高",
-        "link": " https://www.digitaling.com/articles/1560334.html",
-        "summary": " 垫款还是不垫款，这是个问题。前两天，见了个自己开广告公司的朋友，得了抑郁症。前两年她接了个活儿，是个挺大的客户。结果活儿干完了，款拖了一年，最后看到新闻才发现，甲方倒闭了，欠她的钱也不给了。但是丙方的钱还得结啊。于是她拿出自己本来准备买房的钱给供应商先垫上了。然后打官司，官司是赢了，但是账上的钱优先给甲方员工发工资了，轮到她的时候已经没了，还是没用。后来她的婚事也黄了，男朋友分手了。她整个人也抑郁了，吃药吃了一年。整个人每天都在复盘，是不是自己太轻信别人了？是不是甲方的资质没审核好，为什么没上网到处多看看新闻判断下企业的经营状况？是不是只接朋友的项目就好了？到底哪一步出了问题？另一个朋友，接",
-        "pubDate": "2026-08-16T09:08:00+08:00",
-        "author": " 姜茶茶",
-        "feedTitle": "数英网 DIGITALING",
-        "feedName": "数英网",
-        "feedColor": "#7cfff0"
-      },
-      {
-        "title": " 文章频道 - 从山姆30年里，看见长期主义",
-        "link": " https://www.digitaling.com/articles/1561986.html",
-        "summary": " 永远会被真实的人感动。这两天，营销圈好几个朋友在群里转了山姆三十周年的品牌片《三十年与一日》，感慨片子的制作水准之外，也都共同提到了一个点：这似乎是山姆第一次让它背后的人集体走到了台前，还挺新鲜的。其实最近被讨论的山姆视频不止它，前些天朋友圈还刷到一支竖屏的短片叫《我的山姆瞬间》，用的是会员在山姆店里的UGC素材混剪，跟《三十年与一日》风格不太一样，生活感很足。两支片子都是山姆中国30周年的品牌作品，网上的留言，证明了它们对观众的情感触动：印象里的山姆，似乎总是通过“物”在沟通，默默地做产品、做服务，很少喊什么话，显得理性、克制。而这次山姆在30岁生日时想讲的话，不管形式如何，对象反而是人。",
-        "pubDate": "2026-08-15T15:20:00+08:00",
-        "author": " Weavy",
-        "feedTitle": "数英网 DIGITALING",
-        "feedName": "数英网",
-        "feedColor": "#7cfff0"
-      },
-      {
-        "title": " 项目频道 - 王者荣耀夏日奇幻短片：AI驯服人类实录",
-        "link": " https://www.digitaling.com/projects/374863.html",
-        "summary": " 原标题：惊！王者荣耀AI夏日奇幻短片居然是这样的——AI驯服人类实录今年夏天，我们做了一条“不一样”的王者荣耀农友节短片。话不多说，先上正片↓从接到Brief时，就很“不一样”，客户想要和我们一起尝试，如何将AI+实拍结合，创造一个奇幻世界！王者无限流副本？神的游戏？巨物峡谷？中世纪小镇？农梗入侵现实？哪个词单拎出来都足以写成一篇小作文，而这一次我们要将这些元素融在一起。最最最最重要的是，作为夏日农友节的短片，让农友们看了绷不住的农梗必须是其中的主角。经过数轮的打磨，就有大家现在看到的三个截然不同的副本——巨物峡谷、无尽小镇、农梗都市。脚本完成的时候，客户和我们都忍不住调侃，这分明是农梗上长",
-        "pubDate": "2026-08-15T10:12:00+08:00",
-        "author": " TINY 小牌 深圳",
-        "feedTitle": "数英网 DIGITALING",
-        "feedName": "数英网",
-        "feedColor": "#7cfff0"
+        "feedColor": "#ffd47c"
       }
     ],
     "other": [
@@ -2915,7 +3516,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于推动外贸稳规模优结构的意见",
@@ -2925,7 +3526,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于调整第19届亚运会和第4届亚残运会工作领导小组组成人员等有关事项的通知",
@@ -2935,7 +3536,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于上市公司独立董事制度改革的意见",
@@ -2945,7 +3546,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "征兵工作条例",
@@ -2955,7 +3556,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于成立第五次全国经济普查领导小组的通知",
@@ -2965,7 +3566,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于印发《国务院工作规则》的通知",
@@ -2975,7 +3576,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于印发食品安全工作评议考核办法的通知",
@@ -2985,7 +3586,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于同意在海南省暂时调整实施有关行政法规规定的批复",
@@ -2995,7 +3596,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于部委管理的国家局设置的通知",
@@ -3005,7 +3606,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于机构设置的通知",
@@ -3015,7 +3616,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于同意将云南省剑川县列为国家历史文化名城的批复",
@@ -3025,7 +3626,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于印发中医药振兴发展重大工程实施方案的通知",
@@ -3035,7 +3636,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于《长三角生态绿色一体化发展示范区国土空间总体规划（2021—2035年）》的批复",
@@ -3045,7 +3646,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于废止部分行政法规和文件的决定",
@@ -3055,7 +3656,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅关于深入推进跨部门综合监管的指导意见",
@@ -3065,7 +3666,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于新时代洞庭湖生态经济区规划的批复",
@@ -3075,7 +3676,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于同意设立中国—菲律宾经贸创新发展示范园区的批复",
@@ -3085,7 +3686,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院关于同意设立中国—印度尼西亚经贸创新发展示范园区的批复",
@@ -3095,7 +3696,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "国务院办公厅转发商务部科技部关于进一步鼓励外商投资设立研发中心若干措施的通知",
@@ -3105,7 +3706,7 @@
         "author": "",
         "feedTitle": "政策最新",
         "feedName": "国务院新闻",
-        "feedColor": "#7c9aff"
+        "feedColor": "#7cff7c"
       },
       {
         "title": "假如用AI做牛来要花多少钱",
@@ -3115,17 +3716,17 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "3分钟告诉你，AI产品经理跟普通PM区别，不看亏哭",
         "link": "https://www.woshipm.com/ai/6449398.html",
-        "summary": "AI产品经理与传统PM的差异远不止技术门槛。本文从决策依据、协作半径、成功标准到能力结构，层层拆解AI PM的独特挑战，并揭示其作为翻译官、调教师、守门员的三重角色。一张能力地图，帮你定位短板，避开新人常踩的三个坑。\n\n\n前阵子，我刷到一条招聘JD，差点把咖啡喷在屏幕上。\n&#8220;精通Transformer架构、能独立训练百亿参数大模型、熟悉CUDA优化。&#8221;\n岗位名称——AI产品经理。\n我当时就想问这位HR一句：你这是在招PM，还是在招一个挺贵的算法工程师？\n后来我想明白了。不是HR不懂，是连业务负责人自己都没想清楚：AI PM到底是个什么岗。于是干脆把能想到的技术词往JD里",
+        "summary": "AI产品经理与传统PM的差异远不止技术门槛。本文从决策依据、协作半径、成功标准到能力结构，层层拆解AI PM的独特挑战，并揭示其作为翻译官、调教师、守门员的三重角色。一张能力地图，帮你定位短板，避开新人常踩的三个坑。\n\n前阵子，我刷到一条招聘JD，差点把咖啡喷在屏幕上。\n&#8220;精通Transformer架构、能独立训练百亿参数大模型、熟悉CUDA优化。&#8221;\n岗位名称——AI产品经理。\n我当时就想问这位HR一句：你这是在招PM，还是在招一个挺贵的算法工程师？\n后来我想明白了。不是HR不懂，是连业务负责人自己都没想清楚：AI PM到底是个什么岗。于是干脆把能想到的技术词往JD里堆",
         "pubDate": "2026-08-18T03:17:17+00:00",
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "一张脸被AI复制以后，为什么没有“撤回”按钮？",
@@ -3135,7 +3736,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "商业新词典：九大关键词转向，重塑领导者思考、行动与价值创造",
@@ -3145,7 +3746,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "Prompt Engineering正在失效，Harness Engineering才是AI Agent的下一个竞争点",
@@ -3155,7 +3756,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "AI 产品经理，正在从“设计功能”转向“设计不确定性”",
@@ -3165,7 +3766,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "AI进入影视行业：一次关于生产方式和商业模式的重构",
@@ -3175,7 +3776,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "大模型为什么会答错：从生成机制到 RAG 的可信回答证据链",
@@ -3185,7 +3786,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "零食巨头集体卖菜的生存逻辑",
@@ -3195,7 +3796,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "拼多多新链接冷启动的一些方法",
@@ -3205,7 +3806,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "B2B生鲜对账系统：从“月底翻箱倒柜”到“T+0实时核销”，差异率降75%背后的产品方法论",
@@ -3215,7 +3816,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "从“AI 临时工”到“Agent 工作流”：养了三个TOB市场营销数字分身替我干活",
@@ -3225,7 +3826,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "我对 FDE 的判断：它不是驻场写 Prompt，而是把 AI 项目变成产品",
@@ -3235,7 +3836,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "一个AI短剧创业者，用七个月讲完了整个行业的生命周期",
@@ -3245,7 +3846,7 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
         "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
@@ -3255,207 +3856,207 @@
         "author": "",
         "feedTitle": "人人都是产品经理",
         "feedName": "产品经理",
-        "feedColor": "#7cffb0"
+        "feedColor": "#ffb347"
       },
       {
-        "title": "中报期医药进入“业绩与临床数据共振”阶段，科创医药ETF华夏(588130)近1周日均成交1.53亿元",
-        "link": "https://www.jiemian.com/article/14939081.html",
-        "summary": "截至2026年8月18日 10:45，上证科创板生物医药指数(000683)成分股方面涨跌互现，惠泰医疗领涨2.88%，华恒生物上涨2.51%，欧林生物上涨2.11%；热景生物领跌。",
-        "pubDate": "2026-08-18T10:57:46+08:00",
+        "title": "厄尔尼诺现象催化下农业产业链走强，农业ETF嘉实(516550)布局农业板块投资机遇",
+        "link": "https://www.jiemian.com/article/14939296.html",
+        "summary": "2026年8月18日早盘，农林牧渔、农业种植等表现活跃，截至11:04，中证大农业指数强势上涨1.25%，成分股北大荒上涨8.42%，大北农上涨7.17%，隆平高科上涨7.16%，苏垦农发，新洋丰等个股跟涨。",
+        "pubDate": "2026-08-18T11:29:24+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "食品ETF鹏华(560130)涨近1%，消费市场呈现稳步恢复态势",
-        "link": "https://www.jiemian.com/article/14939078.html",
-        "summary": "消息面上，国家统计局相关负责人表示，我国1—7月份服务零售额增长5.0%，快于商品零售额3.9个百分点，居民消费重点从“买商品”到“享服务”“重体验”转变。",
-        "pubDate": "2026-08-18T10:56:04+08:00",
+        "title": "成立仅三个月即上马亿元项目！中新资源循环7.2万吨EPS再生循环利用项目落子潍坊",
+        "link": "https://www.jiemian.com/article/14939208.html",
+        "summary": "近日，潍坊市生态环境局峡山分局发布公示，正式受理中新资源循环科技（山东）有限公司（下称“中新资源循环”）申报的年产7.2万吨EPS材料再生循环利用项目环境影响评价文件，公示期为8月13日至8月26日。",
+        "pubDate": "2026-08-18T11:29:17+08:00",
+        "author": "jianli@jiemian.com(界面山东)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "险资加码权益释放配置信号！高股息赛道可关注",
+        "link": "https://www.jiemian.com/article/14939298.html",
+        "summary": "截至 2026 年 8 月 18 日 11:17，港股通央企红利 ETF 华夏（513910）盘中小幅下行 0.46%，最新价格报 1.529 元；场内成交额达到 0.57 亿元，换手率 1.84%。",
+        "pubDate": "2026-08-18T11:29:16+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "信用债ETF华夏(511200)近8天获得连续资金净流入，合计“吸金”11.35亿元，冲击9连涨",
-        "link": "https://www.jiemian.com/article/14939069.html",
-        "summary": "截至2026年8月18日10:48，信用债ETF华夏(511200)冲击9连涨。",
-        "pubDate": "2026-08-18T10:55:48+08:00",
+        "title": "粮食ETF鹏华(159698)盘中净申购3750万份，厄尔尼诺效应冲击全球粮食安全",
+        "link": "https://www.jiemian.com/article/14939329.html",
+        "summary": "消息面上，气候风险正在升级。国家气候中心监测显示，6-7月厄尔尼诺持续加强，后期转为超强事件的概率增大，预计至少延续至明年春季，对国内秋粮生产或带来农田涝渍、病虫害风险。",
+        "pubDate": "2026-08-18T11:29:08+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "中信证券全程参与宇树科技发行获1.45亿收入，证券ETF华夏(515010)有望受益“三投联动”常态化",
-        "link": "https://www.jiemian.com/article/14939073.html",
-        "summary": "截至2026年8月18日10:40，中信证券全程参与宇树科技发行获1.45亿收入，证券ETF华夏(515010)有望受益“三投联动”常态化",
-        "pubDate": "2026-08-18T10:55:39+08:00",
-        "author": "jianli@jiemian.com(有连云)",
+        "title": "国资股东退出，南山集团接手龙口港屺母岛发展有限公司",
+        "link": "https://www.jiemian.com/article/14939194.html",
+        "summary": "国家企业信用信息公示系统显示，近日，龙口港屺母岛发展有限公司发生股权变动。",
+        "pubDate": "2026-08-18T11:28:14+08:00",
+        "author": "jianli@jiemian.com(界面山东)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "灵朔生物完成4000万元种子轮融资",
-        "link": "https://www.jiemian.com/article/14939036.html",
-        "summary": "由陕投成长基金领投、西安财金跟投。",
-        "pubDate": "2026-08-18T10:55:26+08:00",
-        "author": "jianli@jiemian.com(界面陕西)",
+        "title": "一年吸金超10亿的商场“顶流”，一夜之间不再是“大王”",
+        "link": "https://www.jiemian.com/article/14939229.html",
+        "summary": "存量时代，餐饮正在告别大单品叙事。",
+        "pubDate": "2026-08-18T11:28:09+08:00",
+        "author": "jianli@jiemian.com(天下网商)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "对面的基民看过来，证券ETF国联安(159848)官宣降费",
-        "link": "https://www.jiemian.com/article/14939034.html",
-        "summary": "证券ETF国联安（159848）自8月17日起管理费由0.50%降至0.15%，综合费率降至0.20%/年，为同类最低；跟踪中证全指证券公司指数，覆盖49只券商股。",
-        "pubDate": "2026-08-18T10:55:15+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "砸超55亿扩产高端光芯片，源杰科技豪赌AI算力红利",
-        "link": "https://www.jiemian.com/article/14939024.html",
-        "summary": "为此番扩产“兜底”，源杰科技不惜选择提高授信额度至60亿元并抵押资产。",
-        "pubDate": "2026-08-18T10:55:07+08:00",
-        "author": "jianli@jiemian.com(界面陕西)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "CXO板块8月以来涨33%，港股通医疗ETF华夏(520510)今日盘中上涨0.32%，CXO含量全市场第一!",
-        "link": "https://www.jiemian.com/article/14939042.html",
-        "summary": "截至2026年8月18日10:47，港股通医疗ETF华夏(520510)上涨0.32%。上证科创板生物医药指数(000683)下跌1.05%，科创医药ETF华夏(588130)下跌1.02%。",
-        "pubDate": "2026-08-18T10:55:06+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "长久期债券仍具相对配置价值，国债ETF华夏(511100)近5个交易日净流入1.64亿元",
-        "link": "https://www.jiemian.com/article/14939044.html",
-        "summary": "截至2026年8月18日10:43，国债ETF华夏(511100)近5个交易日净流入1.64亿元。",
-        "pubDate": "2026-08-18T10:54:58+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "成交额超9亿元，国债ETF华夏(511100)近5个交易日净流入1.64亿元",
-        "link": "https://www.jiemian.com/article/14939045.html",
-        "summary": "截至2026年08月18日10:49，成交额超9亿元，国债ETF华夏(511100)近5个交易日净流入1.64亿元。",
-        "pubDate": "2026-08-18T10:54:49+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "成交额超11亿元，信用债ETF华夏(511200)冲击9连涨",
-        "link": "https://www.jiemian.com/article/14939054.html",
-        "summary": "截至2026年08月18日10:50，成交额超11亿元，信用债ETF华夏(511200)冲击9连涨。",
-        "pubDate": "2026-08-18T10:54:41+08:00",
-        "author": "jianli@jiemian.com(有连云)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "2026上合组织数字经济论坛将于9月14日至16日举办",
-        "link": "https://www.jiemian.com/article/14939067.html",
-        "summary": "国家数据局消息，2026上合组织数字经济论坛将于9月14日至16日在新疆乌鲁木齐举办，本届论坛的主题为“数连上合 智启未来”。",
-        "pubDate": "2026-08-18T10:53:14+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "被问及“是否应金正恩的要求缩减美韩军演规模”，特朗普怒怼记者",
-        "link": "https://www.jiemian.com/article/14939041.html",
-        "summary": "当地时间8月17日下午，美国总统特朗普在白宫会见日前救起落海男孩的16岁加州救生员时，被现场的美国有线电视新闻网（CNN）记者追问“是否应朝鲜最高领导人金正恩的要求缩减美韩军演规模”。明显不愿回答对方这个问题的特朗普怒怼CNN记者，要求她“别吵”，称CNN为“假新闻”，称这名记者为“专报假新闻的假记者”。（CCTV国际时讯）",
-        "pubDate": "2026-08-18T10:51:40+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "格力技工学校将于近期启动首届招生，董明珠任校长",
-        "link": "https://www.jiemian.com/article/14939043.html",
+        "title": "国家疾控局发布HPV疫苗科普问答",
+        "link": "https://www.jiemian.com/article/14939333.html",
         "summary": "",
-        "pubDate": "2026-08-18T10:50:47+08:00",
+        "pubDate": "2026-08-18T11:28:08+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "恒生科技指数跌幅扩大至2%",
-        "link": "https://www.jiemian.com/article/14939035.html",
-        "summary": "恒生科技指数跌幅扩大至2%，恒生指数跌0.71%。",
-        "pubDate": "2026-08-18T10:49:51+08:00",
+        "title": "海关总署：中国7月稀土及其制品出口10314吨",
+        "link": "https://www.jiemian.com/article/14939307.html",
+        "summary": "8月18日，海关总署公布的数据显示，中国7月稀土及其制品出口10,314吨，年累计稀土及其制品出口76,861吨。",
+        "pubDate": "2026-08-18T11:26:12+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "韩国综指跌幅扩大至1%",
-        "link": "https://www.jiemian.com/article/14939029.html",
-        "summary": "韩国综指跌幅扩大至1%，现报6905.25点。个股方面，三星电子跌超2%。",
-        "pubDate": "2026-08-18T10:47:38+08:00",
+        "title": "“老登股”，迷失2026？",
+        "link": "https://www.jiemian.com/article/14937742.html",
+        "summary": "AI新贵上位，“老登股”如何证明自己？",
+        "pubDate": "2026-08-18T11:25:33+08:00",
+        "author": "jianli@jiemian.com(定焦One)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作",
+        "link": "https://www.jiemian.com/article/14939246.html",
+        "summary": "近期，受强台风“白海豚”残余环流影响。河南出现大范围持续性强降雨，引发灾情险情。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，在前期预拨4000万元中央自然灾害救灾资金的基础上，8月18日，财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作，重点做好受灾群众转移安置、排危除险等应急处置、过渡期生活救助以及倒损民房修复等工作，切实减轻灾害损失，保障受灾群众基本生活。",
+        "pubDate": "2026-08-18T11:17:55+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "中国创新药迈入深耕期，全球前十交易中国占八席，企业转向源头创新与全球化布局，南方基金关注大类资产与全球配置价值",
-        "link": "https://www.jiemian.com/article/14938950.html",
-        "summary": "南方基金旗下司南投顾以长远眼光和理性视角，关注大类资产配置与全球配置价值，力求在不同市场、不同资产类别之间关注配置机会。",
-        "pubDate": "2026-08-18T10:47:36+08:00",
+        "title": "湖北一对父子因非法经营罪被判刑：向境外贩运销售敏感化学品金额超169万",
+        "link": "https://www.jiemian.com/article/14939207.html",
+        "summary": "夏某某父子于2021年11月至2024年7月间，组织他人非法销售管制兴奋剂类物质123笔。",
+        "pubDate": "2026-08-18T11:12:55+08:00",
+        "author": "jianli@jiemian.com(翟瑞民)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "创业板指跌逾2%，全市场下跌个股超4000只",
+        "link": "https://www.jiemian.com/article/14939201.html",
+        "summary": "",
+        "pubDate": "2026-08-18T11:11:17+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "智谱盘中一度跌近17%，股价最低触及1000港元关口",
+        "link": "https://www.jiemian.com/article/14939198.html",
+        "summary": "智谱(02513.HK)盘中一度跌近17%，股价最低触及1000港元关口，成交额超66亿港元。",
+        "pubDate": "2026-08-18T11:10:31+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "沪深两市成交额突破1.5万亿",
+        "link": "https://www.jiemian.com/article/14939193.html",
+        "summary": "",
+        "pubDate": "2026-08-18T11:08:37+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "国内大炼化企业全球竞争力正持续验证，化工ETF嘉实(159129)备受关注",
+        "link": "https://www.jiemian.com/article/14939149.html",
+        "summary": "截至2026年8月18日 10:52，中证细分化工产业主题指数下跌0.06%。成分股方面涨跌互现，卫星化学领涨3.88%，新洋丰上涨3.54%，金发科技上涨3.20%；圣泉集团领跌，新宙邦、华峰化学跟跌。",
+        "pubDate": "2026-08-18T11:08:08+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "海峡博弈升级！布油站上91美元！6000万吨煤矿产能暂时停产！兖矿能源、中海油涨超2%，能源ETF汇添富(159930)逆市涨近2%，冲击三连阳",
-        "link": "https://www.jiemian.com/article/14939011.html",
-        "summary": "8月18日，A股市场震荡走弱，中东地缘冲突升级叠加煤炭顶层规划出台，能源板块强劲冲高！截至10:24，“仅含24只煤油股”的能源ETF汇添富（159930）逆市涨超1.5%，冲击三连阳！",
-        "pubDate": "2026-08-18T10:47:28+08:00",
+        "title": "稀有金属供需格局持续优化，价格中枢有望持续上移，稀有金属ETF嘉实(562800)聚焦小金属板块投资机遇",
+        "link": "https://www.jiemian.com/article/14939157.html",
+        "summary": "截至2026年8月18日 10:40，中证稀有金属主题指数下跌0.71%。成分股方面涨跌互现，中钨高新领涨4.95%，三祥新材上涨2.66%，有研新材上涨2.51%；融捷股份领跌，天华新能、西部超导跟跌。",
+        "pubDate": "2026-08-18T11:08:00+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "油气“十五五”规划落地，2030年供应量目标4.4亿吨，全球深海资本开支扩张，南方基金关注大类资产与全球配置价值",
-        "link": "https://www.jiemian.com/article/14938958.html",
-        "summary": "南方基金旗下司南投顾认为，深地深海勘探、智能钻采装备等都是新质生产力在能源生产端的重要落地场景。",
-        "pubDate": "2026-08-18T10:47:26+08:00",
+        "title": "稀土行业需求有望迎来边际回暖，稀土ETF嘉实(516150)备受市场资金关注",
+        "link": "https://www.jiemian.com/article/14939161.html",
+        "summary": "截至2026年8月18日 10:46，中证稀土产业指数下跌0.78%。成分股方面涨跌互现，大地熊领涨8.98%，卧龙电驱上涨4.93%，有研新材上涨1.77%；中科三环领跌，新莱福、宁波韵升跟跌。",
+        "pubDate": "2026-08-18T11:07:52+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
       },
       {
-        "title": "黄金股ETF平安(159322)多股飘红，机构：年内加息概率下降，黄金配置价值凸显",
-        "link": "https://www.jiemian.com/article/14939015.html",
-        "summary": "截至2026年8月18日 10:29，中证沪深港黄金产业股票指数(931238)上涨0.07%，成分股赤峰黄金上涨3.02%，中国黄金国际上涨1.54%，菜百股份上涨1.51%，紫金黄金国际上涨1.33%。",
-        "pubDate": "2026-08-18T10:47:19+08:00",
+        "title": "美国ITC正式对变压器及其部件启动337调查",
+        "link": "https://www.jiemian.com/article/14939176.html",
+        "summary": "8月17日，美国国际贸易委员会（ITC）投票决定对特定变压器及其部件启动337调查（调查编码：337-TA-1517）。",
+        "pubDate": "2026-08-18T11:07:50+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "中国开源大模型领先全球，AI人工智能ETF平安(512930)盘中回调，板块布局机遇凸显",
+        "link": "https://www.jiemian.com/article/14939173.html",
+        "summary": "联接基金(A类：023384；C类：023385；E类：024610)。",
+        "pubDate": "2026-08-18T11:07:43+08:00",
         "author": "jianli@jiemian.com(有连云)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
-        "feedColor": "#ffb347"
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": "由北向南四座车站“一站一景”   西康高铁站房配套工程加速建设",
+        "link": "https://www.jiemian.com/article/14939164.html",
+        "summary": "建成后西安至安康一小时可达，将补全陕西“米”字形高铁南向关键通道。",
+        "pubDate": "2026-08-18T11:07:31+08:00",
+        "author": "jianli@jiemian.com(界面陕西)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#c97cff"
       }
     ]
   }
