@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RSS 看板</title>
+<style>
+/* ====== Reset & Base ====== */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: rgba(20, 22, 28, 0.65);
+  --card-bg: rgba(255, 255, 255, 0.06);
+  --card-hover: rgba(255, 255, 255, 0.10);
+  --border: rgba(255, 255, 255, 0.08);
+  --text: #e8eaed;
+  --text-secondary: rgba(255, 255, 255, 0.55);
+  --accent: #7c9aff;
+  --accent-glow: rgba(124, 154, 255, 0.25);
+  --sidebar-w: 200px;
+  --radius: 12px;
+  --radius-lg: 18px;
+  --shadow: 0 8px 32px rgba(0,0,0,0.3);
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+html, body { height: 100%; overflow: hidden; }
+body {
+  font-family: var(--font);
+  color: var(--text);
+  background: #0a0c10;
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(124,154,255,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(124,154,255,0.05) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(255,124,124,0.05) 0%, transparent 50%);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* ====== Layout ====== */
+.app { display: flex; height: 100vh; width: 100vw; }
+.app-inner { display: flex; width: 100%; height: 100%; }
+
+/* ====== Glass Panel ====== */
+.glass {
+  background: var(--bg);
+  backdrop-filter: blur(24px) saturate(1.2);
+  -webkit-backdrop-filter: blur(24px) saturate(1.2);
+  border-right: 1px solid var(--border);
+}
+
+/* ====== Sidebar ====== */
+.sidebar {
+  width: var(--sidebar-w);
+  min-width: var(--sidebar-w);
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0;
+  gap: 2px;
+  overflow-y: auto;
+  z-index: 10;
+}
+.sidebar::-webkit-scrollbar { width: 3px; }
+.sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 3px; }
+.sidebar-header {
+  padding: 8px 16px 16px;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text);
+  border-bottom: 1px solid var(--border);
+  margin: 0 12px 8px;
+}
+.sidebar-header .logo-icon { width: 22px; height: 22px; background: var(--accent); border-radius: 6px; display: inline-flex; align-items: center; justify-content: center; font-size: 13px; color: #fff; }
+.cat-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  margin: 0 8px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 13px;
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: left;
+  width: calc(100% - 16px);
+  font-family: var(--font);
+  position: relative;
+}
+.cat-btn:hover { background: rgba(255,255,255,0.06); color: var(--text); }
+.cat-btn.active { background: rgba(124,154,255,0.15); color: #fff; }
+.cat-btn .badge {
+  margin-left: auto;
+  font-size: 11px;
+  background: rgba(255,255,255,0.08);
+  padding: 1px 7px;
+  border-radius: 10px;
+  color: var(--text-secondary);
+}
+.cat-btn.active .badge { background: rgba(124,154,255,0.25); color: var(--accent); }
+.cat-divider { height: 1px; background: var(--border); margin: 6px 16px; }
+
+/* ====== Main Area ====== */
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 0;
+}
+
+/* ====== Top Bar ====== */
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  background: var(--bg);
+  backdrop-filter: blur(24px) saturate(1.2);
+  -webkit-backdrop-filter: blur(24px) saturate(1.2);
+  border-bottom: 1px solid var(--border);
+  z-index: 5;
+  flex-shrink: 0;
+}
+.topbar .cat-title { font-size: 16px; font-weight: 600; white-space: nowrap; }
+.topbar .cat-subtitle { font-size: 12px; color: var(--text-secondary); white-space: nowrap; }
+.search-box {
+  flex: 1;
+  max-width: 360px;
+  position: relative;
+  margin-left: auto;
+}
+.search-box input {
+  width: 100%;
+  padding: 7px 12px 7px 34px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.05);
+  color: var(--text);
+  font-size: 13px;
+  font-family: var(--font);
+  outline: none;
+  transition: var(--transition);
+}
+.search-box input::placeholder { color: var(--text-secondary); }
+.search-box input:focus { border-color: var(--accent); background: rgba(255,255,255,0.08); }
+.search-box .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); font-size: 14px; color: var(--text-secondary); pointer-events: none; }
+.topbar-actions { display: flex; gap: 6px; align-items: center; }
+.topbar-btn {
+  width: 32px; height: 32px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.04);
+  color: var(--text-secondary);
+  font-size: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+  font-family: var(--font);
+}
+.topbar-btn:hover { background: rgba(255,255,255,0.10); color: var(--text); }
+.topbar-btn.active { background: rgba(124,154,255,0.15); color: var(--accent); border-color: rgba(124,154,255,0.3); }
+
+/* ====== Sort & Filter Bar ====== */
+.filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 20px;
+  background: var(--bg);
+  backdrop-filter: blur(24px) saturate(1.2);
+  -webkit-backdrop-filter: blur(24px) saturate(1.2);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+.filter-bar .label { font-size: 12px; color: var(--text-secondary); }
+.filter-btn {
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: rgba(255,255,255,0.04);
+  color: var(--text-secondary);
+  font-size: 12px;
+  cursor: pointer;
+  transition: var(--transition);
+  font-family: var(--font);
+  white-space: nowrap;
+}
+.filter-btn:hover { background: rgba(255,255,255,0.08); color: var(--text); }
+.filter-btn.active { background: rgba(124,154,255,0.15); color: var(--accent); border-color: rgba(124,154,255,0.3); }
+.filter-btn .src-dot {
+  display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-right: 4px; vertical-align: middle;
+}
+
+/* ====== Content Grid ====== */
+.content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px 32px;
+}
+.content::-webkit-scrollbar { width: 4px; }
+.content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 4px; }
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 12px;
+}
+.card-grid.compact { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px; }
+.card-grid.list { grid-template-columns: 1fr; gap: 6px; }
+
+/* ====== Card ====== */
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+.card:hover { background: var(--card-hover); transform: translateY(-1px); box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+.card:active { transform: translateY(0); }
+.card .card-source {
+  font-size: 11px;
+  color: var(--accent);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+.card .card-source .src-dot { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
+.card .card-title {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card .card-summary {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+.card .card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: var(--text-secondary);
+}
+.card .card-meta .card-time { flex: 1; }
+.card .card-actions {
+  display: flex;
+  gap: 2px;
+  opacity: 0;
+  transition: var(--transition);
+}
+.card:hover .card-actions { opacity: 1; }
+.card-action {
+  width: 26px; height: 26px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+}
+.card-action:hover { background: rgba(255,255,255,0.10); color: var(--text); }
+.card-action.bookmarked { color: #ffb347; }
+.card-action.readlater { color: var(--accent); }
+.card.read .card-title { opacity: 0.5; }
+
+/* ====== Loading ====== */
+.loading-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  gap: 16px;
+}
+.loading-spinner {
+  width: 32px; height: 32px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text { font-size: 13px; color: var(--text-secondary); }
+.loading-progress { font-size: 11px; color: var(--text-secondary); }
+.empty-state { padding: 60px 20px; text-align: center; color: var(--text-secondary); font-size: 14px; }
+.feed-loading {
+  grid-column: 1 / -1;
+  padding: 12px 16px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.feed-loading .mini-spinner {
+  width: 16px; height: 16px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+/* ====== Modal ====== */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 100;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s ease;
+}
+.modal-overlay.open { display: flex; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.modal {
+  background: rgba(26, 28, 36, 0.92);
+  backdrop-filter: blur(32px) saturate(1.3);
+  -webkit-backdrop-filter: blur(32px) saturate(1.3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  width: 90%;
+  max-width: 640px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  animation: modalIn 0.25s ease;
+}
+@keyframes modalIn { from { opacity: 0; transform: scale(0.95) translateY(10px); } to { opacity: 1; transform: scale(1) translateY(0); } }
+.modal-header {
+  display: flex;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  gap: 12px;
+}
+.modal-header h2 { font-size: 16px; font-weight: 600; flex: 1; }
+.modal-close {
+  width: 30px; height: 30px;
+  border: none; border-radius: 8px;
+  background: transparent; color: var(--text-secondary);
+  font-size: 18px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: var(--transition);
+}
+.modal-close:hover { background: rgba(255,255,255,0.10); color: var(--text); }
+.modal-body { padding: 20px; overflow-y: auto; flex: 1; }
+.modal-body::-webkit-scrollbar { width: 4px; }
+.modal-body::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 4px; }
+
+/* ====== Settings ====== */
+.setting-group { margin-bottom: 20px; }
+.setting-group h3 { font-size: 13px; font-weight: 600; color: var(--text-secondary); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+.setting-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.setting-row label { font-size: 13px; min-width: 80px; color: var(--text); }
+.setting-row input[type="text"], .setting-row input[type="number"] {
+  flex: 1;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: rgba(255,255,255,0.05);
+  color: var(--text);
+  font-size: 13px;
+  font-family: var(--font);
+  outline: none;
+}
+.setting-row input:focus { border-color: var(--accent); }
+.setting-desc { font-size: 11px; color: var(--text-secondary); margin-top: 4px; margin-left: 90px; }
+
+/* ====== Article Detail ====== */
+.article-detail { padding: 12px 0; }
+.article-detail .art-source { font-size: 12px; color: var(--accent); margin-bottom: 8px; }
+.article-detail .art-title { font-size: 20px; font-weight: 700; line-height: 1.4; margin-bottom: 10px; }
+.article-detail .art-time { font-size: 12px; color: var(--text-secondary); margin-bottom: 20px; }
+.article-detail .art-body { font-size: 14px; line-height: 1.8; color: var(--text); }
+.article-detail .art-body p { margin-bottom: 12px; }
+.article-detail .art-body a { color: var(--accent); text-decoration: none; }
+.article-detail .art-body a:hover { text-decoration: underline; }
+.article-detail .art-open { display: inline-block; margin-top: 16px; padding: 8px 20px; background: var(--accent); color: #fff; border: none; border-radius: 8px; font-size: 13px; cursor: pointer; font-family: var(--font); transition: var(--transition); text-decoration: none; }
+.article-detail .art-open:hover { background: #6a86e8; }
+
+/* ====== Tabs ====== */
+.tab-bar {
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  background: rgba(255,255,255,0.04);
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  flex: 1;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 13px;
+  cursor: pointer;
+  transition: var(--transition);
+  font-family: var(--font);
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { background: rgba(124,154,255,0.15); color: var(--accent); }
+
+/* ====== View Mode ====== */
+.view-options { display: flex; gap: 4px; }
+.view-btn {
+  width: 28px; height: 28px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+}
+.view-btn:hover { background: rgba(255,255,255,0.06); color: var(--text); }
+.view-btn.active { background: rgba(124,154,255,0.15); color: var(--accent); border-color: rgba(124,154,255,0.3); }
+
+/* ====== Responsive ====== */
+@media (max-width: 720px) {
+  .sidebar { display: none; }
+  .card-grid { grid-template-columns: 1fr; }
+  .topbar { padding: 10px 12px; flex-wrap: wrap; }
+  .search-box { max-width: 100%; order: 10; margin-left: 0; }
+}
+</style>
+</head>
+<body>
+
+<div class="app">
+<div class="app-inner" id="app">
+
+<!-- ====== Sidebar ====== -->
+<nav class="sidebar glass" id="sidebar">
+  <div class="sidebar-header">
+    <span class="logo-icon">R</span>
+    <span>RSS 看板</span>
+  </div>
+  <div id="categoryList"></div>
+  <div class="cat-divider"></div>
+  <button class="cat-btn" onclick="openSettings()" style="color:var(--text-secondary);font-size:12px;">
+    ⚙ 管理订阅源
+  </button>
+  <button class="cat-btn" onclick="showBookmarks()" style="color:var(--text-secondary);font-size:12px;">
+    🔖 收藏夹
+  </button>
+  <button class="cat-btn" onclick="showReadLater()" style="color:var(--text-secondary);font-size:12px;">
+    📑 稍后读
+  </button>
+</nav>
+
+<!-- ====== Main ====== -->
+<main class="main">
+
+  <!-- Top Bar -->
+  <div class="topbar">
+    <span class="cat-title" id="catTitle">🔥 实时热点</span>
+    <span class="cat-subtitle" id="catSubtitle"></span>
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="搜索文章..." oninput="debouncedSearch()">
+    </div>
+    <div class="view-options">
+      <button class="view-btn active" onclick="setView('grid')" title="卡片视图">▦</button>
+      <button class="view-btn" onclick="setView('compact')" title="紧凑视图">▤</button>
+      <button class="view-btn" onclick="setView('list')" title="列表视图">☰</button>
+    </div>
+    <div class="topbar-actions">
+      <button class="topbar-btn" onclick="refreshCurrent()" title="刷新">↻</button>
+    </div>
+  </div>
+
+  <!-- Filter Bar -->
+  <div class="filter-bar" id="filterBar">
+    <span class="label">排序：</span>
+    <button class="filter-btn active" data-sort="time" onclick="setSort('time')">最新</button>
+    <button class="filter-btn" data-sort="source" onclick="setSort('source')">来源</button>
+    <span class="label" style="margin-left:12px;">来源：</span>
+    <div id="sourceFilters" style="display:flex;gap:4px;flex-wrap:wrap;"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="content" id="content">
+    <div class="loading-area" id="loadingArea">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">正在获取订阅...</div>
+      <div class="loading-progress" id="loadProgress"></div>
+    </div>
+    <div class="card-grid" id="cardGrid" style="display:none;"></div>
+    <div class="empty-state" id="emptyState" style="display:none;">暂无内容</div>
+  </div>
+
+</main>
+</div>
+</div>
+
+<!-- ====== Settings Modal ====== -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>⚙ 管理订阅源</h2>
+      <button class="modal-close" onclick="closeSettings()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="setting-group">
+        <h3>代理设置</h3>
+        <div class="setting-row">
+          <label>选择代理</label>
+          <select id="proxySelect" style="flex:1;padding:6px 10px;border:1px solid var(--border);border-radius:6px;background:rgba(255,255,255,0.05);color:var(--text);font-size:13px;font-family:var(--font);outline:none;" onchange="onProxyChange()">
+            <option value="">不使用代理（直连）</option>
+            <option value="https://api.allorigins.win/raw?url=">allorigins.win</option>
+            <option value="https://proxy.killcors.com?url=">KillCORS</option>
+            <option value="https://api.cors.lol/?url=">CORS.lol</option>
+            <option value="https://api.cors.syrins.tech/?url=">Cors-Bridge</option>
+            <option value="https://test.cors.workers.dev/?url=">Cloudflare Workers</option>
+            <option value="__custom__">自定义</option>
+          </select>
+        </div>
+        <div class="setting-row" id="customProxyRow" style="display:none;">
+          <label>自定义 URL</label>
+          <input type="text" id="proxyUrl" placeholder="输入完整的代理 URL，如 https://xxx.com/proxy?url=">
+        </div>
+        <div class="setting-desc" style="margin-left:0;">
+          直连失败后会自动尝试所选代理。如果都不行，试试「自定义」填入你手头能用的代理地址。
+          <button class="filter-btn" onclick="testCurrentProxy()" style="margin-left:8px;">测试代理</button>
+          <span id="proxyTestResult" style="margin-left:8px;font-size:12px;"></span>
+        </div>
+      </div>
+      <div class="setting-group">
+        <h3>每源最大条数</h3>
+        <div class="setting-row">
+          <label>最大条数</label>
+          <input type="number" id="maxItems" value="20" min="5" max="50">
+        </div>
+      </div>
+      <div class="setting-group">
+        <h3>订阅源列表</h3>
+        <div style="font-size:12px;color:var(--text-secondary);margin-bottom:10px;">
+          共 <span id="feedCount">0</span> 个订阅源。点击分类可展开/收起。
+        </div>
+        <div id="feedList"></div>
+      </div>
+      <div style="display:flex;gap:8px;margin-top:16px;">
+        <button class="art-open" onclick="saveSettings()" style="flex:1;text-align:center;">保存设置</button>
+        <button class="art-open" onclick="closeSettings()" style="flex:0;background:rgba(255,255,255,0.10);">关闭</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ====== Article Modal ====== -->
+<div class="modal-overlay" id="articleModal">
+  <div class="modal" style="max-width:720px;">
+    <div class="modal-header">
+      <h2>📄 文章</h2>
+      <button class="modal-close" onclick="closeArticle()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="article-detail" id="articleDetail"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ============================================================
+//  RSS 订阅源配置
+// ============================================================
+const CATEGORIES = [
+  { id: 'hot',     icon: '🔥', label: '实时热点' },
+  { id: 'media',   icon: '📰', label: '媒体新闻' },
+  { id: 'finance', icon: '💰', label: '财经资讯' },
+  { id: 'tech',    icon: '💻', label: '科技前沿' },
+  { id: 'edu',     icon: '🎓', label: '教育学术' },
+  { id: 'culture', icon: '📚', label: '文化娱乐' },
+  { id: 'other',   icon: '📡', label: '其他' },
+];
+
+const FEEDS = [
+  // ====== 🔥 实时热点 ======
+  { cat: 'hot', name: '实时资讯',        url: 'https://dicomp.net/hotnews/' },
+  { cat: 'hot', name: '知乎热榜',        url: 'https://rsshub.dicomp.net/zhihu/hot' },
+  { cat: 'hot', name: '知乎日报',        url: 'https://rsshub.dicomp.net/zhihu/daily' },
+  { cat: 'hot', name: 'B站排行榜',       url: 'https://rsshub.dicomp.net/bilibili/ranking/all' },
+  { cat: 'hot', name: '36Kr热榜',        url: 'https://rsshub.dicomp.net/36kr/hot-list' },
+  { cat: 'hot', name: '虎嗅24h',         url: 'https://rsshub.dicomp.net/huxiu/moment' },
+  { cat: 'hot', name: '虎嗅资讯',        url: 'https://rsshub.dicomp.net/huxiu/article' },
+
+  // ====== 📰 媒体新闻 ======
+  { cat: 'media', name: '央视新闻联播',   url: 'https://rsshub.dicomp.net/cctv/tv/lm/xwlb' },
+  { cat: 'media', name: '联合早报中港台', url: 'https://rsshub.dicomp.net/zaobao/realtime/china' },
+  { cat: 'media', name: '联合早报中国',   url: 'https://rsshub.dicomp.net/zaobao/znews/china' },
+  { cat: 'media', name: '人民日报时政',   url: 'http://www.people.com.cn/rss/politics.xml' },
+  { cat: 'media', name: '人民日报社会',   url: 'http://www.people.com.cn/rss/society.xml' },
+  { cat: 'media', name: '人民日报法治',   url: 'http://www.people.com.cn/rss/legal.xml' },
+  { cat: 'media', name: '人民日报国际',   url: 'http://www.people.com.cn/rss/world.xml' },
+  { cat: 'media', name: '人民日报台港澳', url: 'http://www.people.com.cn/rss/haixia.xml' },
+  { cat: 'media', name: '人民日报军事',   url: 'http://www.people.com.cn/rss/military.xml' },
+  { cat: 'media', name: '人民日报全部',   url: 'http://www.people.com.cn/rss/ywkx.xml' },
+  { cat: 'media', name: '参考消息第一关注', url: 'https://rsshub.dicomp.net/cankaoxiaoxi/column/diyi' },
+  { cat: 'media', name: '参考消息中国',   url: 'https://rsshub.dicomp.net/cankaoxiaoxi/column/zhongguo' },
+  { cat: 'media', name: '环球网国内',     url: 'https://rsshub.dicomp.net/huanqiu/news/china' },
+  { cat: 'media', name: '环球网国际',     url: 'https://rsshub.dicomp.net/huanqiu/news/world' },
+  { cat: 'media', name: '观察者网',       url: 'https://rsshub.dicomp.net/guancha/gundong' },
+  { cat: 'media', name: '凤凰网',         url: 'https://rsshub.dicomp.net/ifeng/news' },
+  { cat: 'media', name: '南方周末推荐',   url: 'https://rsshub.dicomp.net/infzm/1' },
+  { cat: 'media', name: '南方周末新闻',   url: 'https://rsshub.dicomp.net/infzm/2' },
+  { cat: 'media', name: '中国新闻周刊',   url: 'https://rsshub.dicomp.net/inewsweek/survey' },
+  { cat: 'media', name: '半月谈',         url: 'https://rsshub.dicomp.net/banyuetan/jinritan' },
+  { cat: 'media', name: '求是网',         url: 'https://rsshub.dicomp.net/qstheory/toutiao' },
+  { cat: 'media', name: '人民日报电子版', url: 'https://rsshub.dicomp.net/people/paper' },
+  { cat: 'media', name: '中新网',         url: 'https://www.chinanews.com.cn/rss/scroll-news.xml' },
+  { cat: 'media', name: '中国互联网辟谣', url: 'https://rsshub.dicomp.net/piyao/jrpy' },
+
+  // ====== 💰 财经资讯 ======
+  { cat: 'finance', name: '第一财经',     url: 'https://rsshub.dicomp.net/yicai/news' },
+  { cat: 'finance', name: '财联社头条',   url: 'https://rsshub.dicomp.net/cls/depth/1000' },
+  { cat: 'finance', name: '格隆汇快讯',   url: 'https://rsshub.dicomp.net/gelonghui/live' },
+  { cat: 'finance', name: '金十数据',     url: 'https://rsshub.dicomp.net/jin10' },
+  { cat: 'finance', name: '华尔街见闻',   url: 'https://rsshub.dicomp.net/wallstreetcn/live' },
+  { cat: 'finance', name: '同花顺财经',   url: 'https://rsshub.dicomp.net/10jqka/realtimenews' },
+  { cat: 'finance', name: '36Kr快讯',     url: 'https://rsshub.dicomp.net/36kr/newsflashes' },
+  { cat: 'finance', name: '雪球热帖',     url: 'https://rsshub.dicomp.net/xueqiu/hots' },
+
+  // ====== 💻 科技前沿 ======
+  { cat: 'tech', name: 'OPENAI',         url: 'https://rsshub.dicomp.net/openai/news' },
+  { cat: 'tech', name: '每日AI资讯',      url: 'https://rsshub.dicomp.net/ai-bot/daily-ai-news' },
+  { cat: 'tech', name: 'AI新闻资讯',      url: 'https://rsshub.dicomp.net/aibase/news' },
+  { cat: 'tech', name: 'AI日报',         url: 'https://rsshub.dicomp.net/aibase/daily' },
+  { cat: 'tech', name: '36氪',           url: 'https://36kr.com/feed' },
+  { cat: 'tech', name: '虎嗅',           url: 'https://rss.huxiu.com/' },
+  { cat: 'tech', name: '爱范儿',         url: 'https://rsshub.dicomp.net/ifanr/digest' },
+  { cat: 'tech', name: '数字尾巴',       url: 'https://www.dgtle.com/rss/dgtle.xml' },
+  { cat: 'tech', name: '极客公园',       url: 'https://www.geekpark.net/rss' },
+  { cat: 'tech', name: 'IT之家',         url: 'https://www.ithome.com/rss/' },
+  { cat: 'tech', name: 'cnBeta',         url: 'https://www.cnbeta.com/backend.php' },
+  { cat: 'tech', name: '品玩',           url: 'https://www.pingwest.com/feed/all' },
+  { cat: 'tech', name: '钛媒体',         url: 'https://www.tmtpost.com/feed' },
+  { cat: 'tech', name: '少数派',         url: 'https://sspai.com/feed' },
+  { cat: 'tech', name: '异次元软件',     url: 'https://feed.iplaysoft.com/' },
+
+  // ====== 🎓 教育学术 ======
+  { cat: 'edu', name: '教育部最新文件',   url: 'https://rsshub.dicomp.net/gov/moe/newest_file' },
+  { cat: 'edu', name: '教育部政策解读',   url: 'https://rsshub.dicomp.net/gov/moe/policy_anal' },
+  { cat: 'edu', name: '教师资格考试',     url: 'https://rsshub.dicomp.net/neea/local/ntce' },
+  { cat: 'edu', name: 'PubScholar学术',  url: 'https://rsshub.dicomp.net/pubscholar/explore' },
+
+  // ====== 📚 文化娱乐 ======
+  { cat: 'culture', name: '豆瓣热门书影音', url: 'https://rsshub.dicomp.net/douban/list/subject_real_time_hotest' },
+  { cat: 'culture', name: '豆瓣热门电影',   url: 'https://rsshub.dicomp.net/douban/list/movie_real_time_hotest' },
+  { cat: 'culture', name: '豆瓣热门电视',   url: 'https://rsshub.dicomp.net/douban/list/tv_real_time_hotest' },
+  { cat: 'culture', name: '豆瓣热门书籍',   url: 'https://rsshub.dicomp.net/douban/book/rank/fiction' },
+  { cat: 'culture', name: '中文播客榜',     url: 'https://rsshub.dicomp.net/xyzrank' },
+  { cat: 'culture', name: '国博资讯',       url: 'https://rsshub.dicomp.net/chnmuseum/zx/xwzt' },
+  { cat: 'culture', name: '国博要闻',       url: 'https://rsshub.dicomp.net/chnmuseum/zx/xingnew' },
+  { cat: 'culture', name: '煎蛋',           url: 'http://jandan.net/feed' },
+  { cat: 'culture', name: '数英网',         url: 'https://www.digitaling.com/rss' },
+
+  // ====== 📡 其他 ======
+  { cat: 'other', name: '国家统计局',       url: 'http://www.stats.gov.cn/tjsj/zxfb/rss.xml' },
+  { cat: 'other', name: '国务院新闻',       url: 'http://www.gov.cn/govweb/jsonTag/tp/rss.xml' },
+  { cat: 'other', name: '人社部',           url: 'http://www.mohrss.gov.cn/SYrlzyhshbzb/zxhd/RSS/' },
+  { cat: 'other', name: '麦肯锡',           url: 'https://rsshub.dicomp.net/mckinsey/cn' },
+  { cat: 'other', name: '律动',             url: 'https://rsshub.dicomp.net/theblockbeats/newsflash' },
+  { cat: 'other', name: '产品经理',         url: 'http://www.woshipm.com/feed' },
+  { cat: 'other', name: '界面新闻',         url: 'https://a.jiemian.com/index.php?m=article&a=rss' },
+  { cat: 'other', name: 'C114通信网',       url: 'http://www.c114.com.cn/rss/' },
+];
+
+// ============================================================
+//  State
+// ============================================================
+const state = {
+  currentCat: 'hot',
+  currentView: 'grid',
+  sortBy: 'time',
+  searchQuery: '',
+  sourceFilter: null, // null = all
+  articles: {},       // cat -> [{feed, title, link, summary, pubDate, ...}]
+  feedColors: {},
+  loaded: false,
+};
+
+// localStorage
+const LS = {
+  get(k, def) { try { const v = localStorage.getItem('rss_' + k); return v ? JSON.parse(v) : def; } catch { return def; } },
+  set(k, v) { try { localStorage.setItem('rss_' + k, JSON.stringify(v)); } catch {} },
+};
+
+// ============================================================
+//  Init
+// ============================================================
+function init() {
+  // assign colors to feeds
+  const palette = ['#7c9aff','#ff7c7c','#7cffb0','#ffb347','#c97cff','#ff7cd4','#7cfff0','#ffd47c','#7c9aff','#7cff7c'];
+  FEEDS.forEach((f, i) => { state.feedColors[f.name] = palette[i % palette.length]; });
+
+  // restore settings
+  const saved = LS.get('settings', {});
+  if (saved.proxyUrl) {
+    // Try to match saved proxy to a preset
+    const select = document.getElementById('proxySelect');
+    let matched = false;
+    for (const opt of select.options) {
+      if (opt.value === saved.proxyUrl) {
+        select.value = saved.proxyUrl;
+        matched = true;
+        break;
+      }
+    }
+    if (!matched) {
+      select.value = '__custom__';
+      document.getElementById('proxyUrl').value = saved.proxyUrl;
+      document.getElementById('customProxyRow').style.display = 'flex';
+    }
+  }
+  if (saved.maxItems) document.getElementById('maxItems').value = saved.maxItems;
+
+  buildSidebar();
+  loadCategory('hot');
+}
+
+// ============================================================
+//  Sidebar
+// ============================================================
+function buildSidebar() {
+  const list = document.getElementById('categoryList');
+  list.innerHTML = '';
+  CATEGORIES.forEach(cat => {
+    const count = FEEDS.filter(f => f.cat === cat.id).length;
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (cat.id === state.currentCat ? ' active' : '');
+    btn.innerHTML = `${cat.icon} ${cat.label} <span class="badge">${count}</span>`;
+    btn.onclick = () => loadCategory(cat.id);
+    list.appendChild(btn);
+  });
+}
+
+// ============================================================
+//  Fetch & Parse RSS
+// ============================================================
+async function fetchRSS(url) {
+  // 获取代理列表：选中的预设 + 自定义
+  const select = document.getElementById('proxySelect');
+  const proxies = [];
+  const selVal = select.value;
+  if (selVal === '__custom__') {
+    const custom = document.getElementById('proxyUrl').value.trim();
+    if (custom) proxies.push(custom);
+  } else if (selVal) {
+    proxies.push(selVal);
+  }
+  // 始终先尝试直连
+  proxies.unshift(''); // '' 表示直连
+
+  const maxItems = parseInt(document.getElementById('maxItems').value) || 20;
+
+  async function doFetch(fetchUrl) {
+    const resp = await fetch(fetchUrl, {
+      signal: AbortSignal.timeout(15000),
+      headers: { 'Accept': 'application/xml, text/xml, application/rss+xml, text/html, */*' },
+      mode: 'cors',
+    });
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    return resp.text();
+  }
+
+  function parseXML(text) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/xml');
+    const parseError = doc.querySelector('parsererror');
+    if (parseError) throw new Error('XML 解析失败');
+
+    let items = Array.from(doc.querySelectorAll('rss > channel > item'));
+    let feedTitle = doc.querySelector('rss > channel > title')?.textContent || '';
+    if (!items.length) {
+      items = Array.from(doc.querySelectorAll('feed > entry'));
+      feedTitle = feedTitle || doc.querySelector('feed > title')?.textContent || '';
+    }
+    return { items, feedTitle };
+  }
+
+  function extractItem(item, feedTitle) {
+    const get = (sel) => {
+      const el = item.querySelector(sel);
+      return el ? el.textContent.trim() : '';
+    };
+    const getAttr = (sel, attr) => {
+      const el = item.querySelector(sel);
+      return el ? el.getAttribute(attr) || '' : '';
+    };
+    const title = get('title');
+    const link = getAttr('link', 'href') || get('link') || get('guid') || '';
+    const summary = get('description') || get('summary') || '';
+    const pubDate = get('pubDate') || get('published') || get('updated') || get('dc\\:date') || '';
+    const author = get('author') || get('dc\\:creator') || '';
+    const plainSummary = summary.replace(/<[^>]*>/g, '').substring(0, 300);
+    return { title, link, summary: plainSummary, pubDate: parseDate(pubDate), author, feedTitle };
+  }
+
+  let lastError = '';
+  for (const proxy of proxies) {
+    try {
+      const fetchUrl = proxy ? proxy + encodeURIComponent(url) : url;
+      const text = await doFetch(fetchUrl);
+      const { items, feedTitle } = parseXML(text);
+      return items.slice(0, maxItems).map(item => extractItem(item, feedTitle));
+    } catch (e) {
+      lastError = e.message;
+      // 继续尝试下一个方式
+    }
+  }
+  throw new Error(lastError || '所有方式均失败');
+}
+
+function parseDate(str) {
+  if (!str) return new Date(0);
+  const d = new Date(str);
+  return isNaN(d.getTime()) ? new Date(0) : d;
+}
+
+// ============================================================
+//  Load Category
+// ============================================================
+async function loadCategory(catId) {
+  state.currentCat = catId;
+  state.sourceFilter = null;
+
+  // Update sidebar
+  document.querySelectorAll('.cat-btn').forEach((b, i) => {
+    // cat buttons are in order: categories + 3 utility buttons
+    if (i < CATEGORIES.length) {
+      b.classList.toggle('active', CATEGORIES[i].id === catId);
+    }
+  });
+
+  const cat = CATEGORIES.find(c => c.id === catId);
+  document.getElementById('catTitle').textContent = `${cat.icon} ${cat.label}`;
+  document.getElementById('catSubtitle').textContent = '';
+
+  // Show loading
+  document.getElementById('loadingArea').style.display = 'flex';
+  document.getElementById('cardGrid').style.display = 'none';
+  document.getElementById('emptyState').style.display = 'none';
+  document.getElementById('loadProgress').textContent = '';
+
+  const feeds = FEEDS.filter(f => f.cat === catId);
+
+  let allArticles = [];
+  let successCount = 0;
+  let failCount = 0;
+
+  // Fetch all feeds in parallel (with concurrency limit)
+  const concurrency = 6;
+  for (let i = 0; i < feeds.length; i += concurrency) {
+    const batch = feeds.slice(i, i + concurrency);
+    const results = await Promise.allSettled(
+      batch.map(async (feed) => {
+        try {
+          const items = await fetchRSS(feed.url);
+          return items.map(item => ({ ...item, feedName: feed.name, feedColor: state.feedColors[feed.name], feedUrl: feed.url }));
+        } catch (e) {
+          throw { feed: feed.name, error: e };
+        }
+      })
+    );
+
+    results.forEach(r => {
+      if (r.status === 'fulfilled') {
+        allArticles = allArticles.concat(r.value);
+        successCount++;
+      } else {
+        failCount++;
+      }
+    });
+
+    document.getElementById('loadProgress').textContent = `已获取 ${successCount}/${feeds.length} 个源`;
+  }
+
+  state.articles[catId] = allArticles;
+  state.loaded = true;
+
+  document.getElementById('loadingArea').style.display = 'none';
+  document.getElementById('catSubtitle').textContent = `${allArticles.length} 条内容 · ${successCount} 个源`;
+
+  if (allArticles.length === 0) {
+    document.getElementById('emptyState').style.display = 'block';
+document.getElementById('emptyState').textContent = failCount > 0
+        ? `暂无内容（${failCount} 个源获取失败）。部分源需要 CORS 代理，请在左下角「管理订阅源」中配置`
+        : '暂无内容';
+    return;
+  }
+
+  buildSourceFilters(allArticles);
+  renderArticles(allArticles);
+}
+
+// ============================================================
+//  Source Filters
+// ============================================================
+function buildSourceFilters(articles) {
+  const container = document.getElementById('sourceFilters');
+  container.innerHTML = '';
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-btn active';
+  allBtn.textContent = '全部';
+  allBtn.onclick = () => { state.sourceFilter = null; updateFilters(); renderCurrent(); };
+  container.appendChild(allBtn);
+
+  const sources = [...new Set(articles.map(a => a.feedName))];
+  sources.forEach(src => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.innerHTML = `<span class="src-dot" style="background:${state.feedColors[src] || '#888'}"></span>${src}`;
+    btn.dataset.src = src;
+    btn.onclick = () => {
+      state.sourceFilter = state.sourceFilter === src ? null : src;
+      updateFilters();
+      renderCurrent();
+    };
+    container.appendChild(btn);
+  });
+}
+
+function updateFilters() {
+  document.querySelectorAll('#sourceFilters .filter-btn').forEach(btn => {
+    if (btn.dataset.src) {
+      btn.classList.toggle('active', state.sourceFilter === btn.dataset.src);
+    } else {
+      btn.classList.toggle('active', state.sourceFilter === null);
+    }
+  });
+  // Update sort buttons
+  document.querySelectorAll('[data-sort]').forEach(b => {
+    b.classList.toggle('active', b.dataset.sort === state.sortBy);
+  });
+}
+
+// ============================================================
+//  Render
+// ============================================================
+function renderCurrent() {
+  const articles = getFilteredArticles();
+  renderArticles(articles);
+}
+
+function getFilteredArticles() {
+  let articles = state.articles[state.currentCat] || [];
+  const q = state.searchQuery.toLowerCase().trim();
+
+  if (q) {
+    articles = articles.filter(a =>
+      (a.title || '').toLowerCase().includes(q) ||
+      (a.summary || '').toLowerCase().includes(q) ||
+      (a.feedName || '').toLowerCase().includes(q)
+    );
+  }
+
+  if (state.sourceFilter) {
+    articles = articles.filter(a => a.feedName === state.sourceFilter);
+  }
+
+  // Sort
+  if (state.sortBy === 'time') {
+    articles.sort((a, b) => b.pubDate - a.pubDate);
+  } else if (state.sortBy === 'source') {
+    articles.sort((a, b) => a.feedName.localeCompare(b.feedName));
+  }
+
+  return articles;
+}
+
+function renderArticles(articles) {
+  const grid = document.getElementById('cardGrid');
+  const empty = document.getElementById('emptyState');
+
+  if (!articles.length) {
+    grid.style.display = 'none';
+    empty.style.display = 'block';
+    empty.textContent = '没有匹配的内容';
+    return;
+  }
+
+  grid.style.display = 'grid';
+  empty.style.display = 'none';
+  grid.className = 'card-grid' + (state.currentView !== 'grid' ? ' ' + state.currentView : '');
+
+  // Read status
+  const readStatus = LS.get('readStatus', {});
+  const bookmarks = LS.get('bookmarks', {});
+  const readLater = LS.get('readLater', {});
+
+  grid.innerHTML = articles.map((a, i) => {
+    const key = a.link || a.title + a.feedName;
+    const isRead = readStatus[key];
+    const isBookmarked = bookmarks[key];
+    const isReadLater = readLater[key];
+    const timeStr = formatTime(a.pubDate);
+
+    return `
+      <div class="card${isRead ? ' read' : ''}" data-idx="${i}">
+        <div class="card-source">
+          <span class="src-dot" style="background:${a.feedColor || '#888'}"></span>
+          ${escapeHtml(a.feedName)}
+        </div>
+        <div class="card-title">${escapeHtml(a.title || '无标题')}</div>
+        ${a.summary ? `<div class="card-summary">${escapeHtml(a.summary.substring(0, 150))}</div>` : ''}
+        <div class="card-meta">
+          <span class="card-time">${timeStr}</span>
+          <div class="card-actions">
+            <button class="card-action bm-btn${isBookmarked ? ' bookmarked' : ''}" data-key="${btoa(encodeURIComponent(key))}" title="收藏">${isBookmarked ? '★' : '☆'}</button>
+            <button class="card-action rl-btn${isReadLater ? ' readlater' : ''}" data-key="${btoa(encodeURIComponent(key))}" title="稍后读">${isReadLater ? '📑' : '📄'}</button>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  // Store articles for detail view
+  grid._articles = articles;
+}
+
+// ============================================================
+//  Article Detail
+// ============================================================
+// ====== Event Delegation ======
+document.getElementById('cardGrid').addEventListener('click', function(e) {
+  const articles = this._articles || [];
+  // Card click -> open article
+  const card = e.target.closest('.card');
+  if (card && !e.target.closest('.card-actions')) {
+    const idx = parseInt(card.dataset.idx);
+    if (!isNaN(idx) && articles[idx]) openArticle(articles[idx]);
+    return;
+  }
+  // Bookmark button
+  const bmBtn = e.target.closest('.bm-btn');
+  if (bmBtn) {
+    e.stopPropagation();
+    const key = decodeURIComponent(atob(bmBtn.dataset.key));
+    toggleBookmark(key);
+    return;
+  }
+  // Read later button
+  const rlBtn = e.target.closest('.rl-btn');
+  if (rlBtn) {
+    e.stopPropagation();
+    const key = decodeURIComponent(atob(rlBtn.dataset.key));
+    toggleReadLater(key);
+    return;
+  }
+});
+
+function openArticle(a) {
+  if (!a) return;
+
+  // Mark as read
+  const key = a.link || a.title + a.feedName;
+  const readStatus = LS.get('readStatus', {});
+  readStatus[key] = true;
+  LS.set('readStatus', readStatus);
+  renderCurrent();
+
+  // Show modal
+  const detail = document.getElementById('articleDetail');
+  detail.innerHTML = `
+    <div class="art-source" style="color:${a.feedColor || '#888'}">${escapeHtml(a.feedName)}</div>
+    <div class="art-title">${escapeHtml(a.title || '无标题')}</div>
+    <div class="art-time">${formatTime(a.pubDate)}${a.author ? ' · ' + escapeHtml(a.author) : ''}</div>
+    ${a.summary ? `<div class="art-body">${a.summary.replace(/\n/g, '<br>')}</div>` : '<div class="art-body" style="color:var(--text-secondary)">暂无摘要内容</div>'}
+    ${a.link ? `<a class="art-open" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">🔗 打开原文</a>` : ''}
+  `;
+  document.getElementById('articleModal').classList.add('open');
+}
+
+function closeArticle() {
+  document.getElementById('articleModal').classList.remove('open');
+}
+
+// ============================================================
+//  Bookmarks & Read Later
+// ============================================================
+function toggleBookmark(key) {
+  const bm = LS.get('bookmarks', {});
+  if (bm[key]) { delete bm[key]; } else { bm[key] = true; }
+  LS.set('bookmarks', bm);
+  renderCurrent();
+}
+
+function toggleReadLater(key) {
+  const rl = LS.get('readLater', {});
+  if (rl[key]) { delete rl[key]; } else { rl[key] = true; }
+  LS.set('readLater', rl);
+  renderCurrent();
+}
+
+function showBookmarks() {
+  const bm = LS.get('bookmarks', {});
+  const keys = Object.keys(bm);
+  if (!keys.length) {
+    document.getElementById('catTitle').textContent = '🔖 收藏夹';
+    document.getElementById('catSubtitle').textContent = '暂无收藏';
+    document.getElementById('loadingArea').style.display = 'none';
+    document.getElementById('emptyState').style.display = 'block';
+    document.getElementById('emptyState').textContent = '还没有收藏过文章';
+    document.getElementById('cardGrid').style.display = 'none';
+    document.getElementById('sourceFilters').innerHTML = '';
+    return;
+  }
+
+  // Collect bookmarked articles from all categories
+  let allArticles = [];
+  Object.values(state.articles).forEach(arr => {
+    arr.forEach(a => {
+      const key = a.link || a.title + a.feedName;
+      if (bm[key]) allArticles.push(a);
+    });
+  });
+
+  document.getElementById('catTitle').textContent = '🔖 收藏夹';
+  document.getElementById('catSubtitle').textContent = `${allArticles.length} 条收藏`;
+  document.getElementById('loadingArea').style.display = 'none';
+  document.getElementById('sourceFilters').innerHTML = '';
+  document.getElementById('emptyState').style.display = allArticles.length ? 'none' : 'block';
+  document.getElementById('cardGrid').style.display = allArticles.length ? 'grid' : 'none';
+  if (allArticles.length) renderArticles(allArticles);
+}
+
+function showReadLater() {
+  const rl = LS.get('readLater', {});
+  const keys = Object.keys(rl);
+  if (!keys.length) {
+    document.getElementById('catTitle').textContent = '📑 稍后读';
+    document.getElementById('catSubtitle').textContent = '暂无内容';
+    document.getElementById('loadingArea').style.display = 'none';
+    document.getElementById('emptyState').style.display = 'block';
+    document.getElementById('emptyState').textContent = '还没有标记稍后读的文章';
+    document.getElementById('cardGrid').style.display = 'none';
+    document.getElementById('sourceFilters').innerHTML = '';
+    return;
+  }
+
+  let allArticles = [];
+  Object.values(state.articles).forEach(arr => {
+    arr.forEach(a => {
+      const key = a.link || a.title + a.feedName;
+      if (rl[key]) allArticles.push(a);
+    });
+  });
+
+  document.getElementById('catTitle').textContent = '📑 稍后读';
+  document.getElementById('catSubtitle').textContent = `${allArticles.length} 条待读`;
+  document.getElementById('loadingArea').style.display = 'none';
+  document.getElementById('sourceFilters').innerHTML = '';
+  document.getElementById('emptyState').style.display = allArticles.length ? 'none' : 'block';
+  document.getElementById('cardGrid').style.display = allArticles.length ? 'grid' : 'none';
+  if (allArticles.length) renderArticles(allArticles);
+}
+
+// ============================================================
+//  Search
+// ============================================================
+let searchTimer;
+function debouncedSearch() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    state.searchQuery = document.getElementById('searchInput').value;
+    renderCurrent();
+  }, 300);
+}
+
+// ============================================================
+//  Sort & Filter
+// ============================================================
+function setSort(mode) {
+  state.sortBy = mode;
+  updateFilters();
+  renderCurrent();
+}
+
+function setView(mode) {
+  state.currentView = mode;
+  document.querySelectorAll('.view-btn').forEach(b => {
+    const icons = ['▦','▤','☰'];
+    b.classList.toggle('active', b.textContent === icons[['grid','compact','list'].indexOf(mode)]);
+  });
+  renderCurrent();
+}
+
+// ============================================================
+//  Refresh
+// ============================================================
+function refreshCurrent() {
+  loadCategory(state.currentCat);
+}
+
+// ============================================================
+//  Settings
+// ============================================================
+function openSettings() {
+  buildFeedList();
+  document.getElementById('feedCount').textContent = FEEDS.length;
+  document.getElementById('settingsModal').classList.add('open');
+}
+
+function closeSettings() {
+  document.getElementById('settingsModal').classList.remove('open');
+}
+
+function buildFeedList() {
+  const container = document.getElementById('feedList');
+  container.innerHTML = '';
+
+  CATEGORIES.forEach(cat => {
+    const feeds = FEEDS.filter(f => f.cat === cat.id);
+    if (!feeds.length) return;
+
+    const details = document.createElement('details');
+    details.open = true;
+    const summary = document.createElement('summary');
+    summary.style.cssText = 'cursor:pointer;font-size:13px;font-weight:600;padding:6px 0;color:var(--text);';
+    summary.textContent = `${cat.icon} ${cat.label} (${feeds.length})`;
+    details.appendChild(summary);
+
+    feeds.forEach(f => {
+      const row = document.createElement('div');
+      row.style.cssText = 'display:flex;align-items:center;gap:8px;padding:4px 0 4px 16px;font-size:12px;';
+      row.innerHTML = `
+        <span class="src-dot" style="width:6px;height:6px;border-radius:50%;background:${state.feedColors[f.name]};flex-shrink:0;"></span>
+        <span style="color:var(--text);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${escapeHtml(f.name)}</span>
+        <span style="color:var(--text-secondary);font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:200px;">${escapeHtml(f.url)}</span>
+      `;
+      details.appendChild(row);
+    });
+
+    container.appendChild(details);
+  });
+}
+
+function onProxyChange() {
+  const sel = document.getElementById('proxySelect');
+  const row = document.getElementById('customProxyRow');
+  row.style.display = sel.value === '__custom__' ? 'flex' : 'none';
+  document.getElementById('proxyTestResult').textContent = '';
+}
+
+function testCurrentProxy() {
+  const sel = document.getElementById('proxySelect');
+  const result = document.getElementById('proxyTestResult');
+  let proxyUrl = '';
+  if (sel.value === '__custom__') {
+    proxyUrl = document.getElementById('proxyUrl').value.trim();
+  } else {
+    proxyUrl = sel.value;
+  }
+  if (!proxyUrl) { result.textContent = '当前为直连模式，无需测试'; result.style.color = 'var(--text-secondary)'; return; }
+
+  result.textContent = '测试中...';
+  result.style.color = 'var(--text-secondary)';
+  const testUrl = proxyUrl + encodeURIComponent('https://rsshub.dicomp.net/zhihu/hot');
+  fetch(testUrl, { signal: AbortSignal.timeout(10000), mode: 'cors' })
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
+    .then(() => { result.textContent = '✅ 可用'; result.style.color = '#7cffb0'; })
+    .catch(e => { result.textContent = '❌ 失败: ' + e.message.substring(0, 30); result.style.color = '#ff7c7c'; });
+}
+
+function saveSettings() {
+  const sel = document.getElementById('proxySelect');
+  const proxyUrl = sel.value === '__custom__'
+    ? document.getElementById('proxyUrl').value.trim()
+    : sel.value;
+  LS.set('settings', {
+    proxyUrl: proxyUrl,
+    maxItems: document.getElementById('maxItems').value,
+  });
+  closeSettings();
+  // Reload if we have content
+  if (state.loaded) refreshCurrent();
+}
+
+// ============================================================
+//  Utilities
+// ============================================================
+function formatTime(date) {
+  if (!date || date.getTime() === 0) return '';
+  const now = new Date();
+  const diff = now - date;
+  if (diff < 60000) return '刚刚';
+  if (diff < 3600000) return Math.floor(diff / 60000) + '分钟前';
+  if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
+  if (diff < 604800000) return Math.floor(diff / 86400000) + '天前';
+  return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// ============================================================
+//  Keyboard shortcuts
+// ============================================================
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') {
+    closeArticle();
+    closeSettings();
+  }
+  if (e.key === '/' && !e.ctrlKey && !e.metaKey) {
+    const input = document.getElementById('searchInput');
+    if (document.activeElement !== input) {
+      e.preventDefault();
+      input.focus();
+    }
+  }
+  if (e.key === 'r' && (e.ctrlKey || e.metaKey)) {
+    e.preventDefault();
+    refreshCurrent();
+  }
+});
+
+// ============================================================
+//  Start
+// ============================================================
+init();
+</script>
+</body>
+</html>
