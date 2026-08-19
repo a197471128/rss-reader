@@ -1,212 +1,232 @@
 {
-  "updated": "2026-08-19T16:37:33.228022+00:00",
+  "updated": "2026-08-19T18:39:20.345135+00:00",
   "summary": {
     "total": 78,
-    "success": 32,
-    "fail": 46,
-    "total_articles": 387
+    "success": 33,
+    "fail": 45,
+    "total_articles": 411
   },
   "articles": {
     "hot": [
       {
-        "title": "毛宁分享“中国火箭陆地回收” 热度：3146152",
-        "link": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%88%86%E4%BA%AB%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月19日，外交部发言人毛宁在海外社交平台分享一段视频。视频中，中国朱雀三号遥二运载火箭发射升空后，成功实现陆地回收。外国网友纷纷点赞：太棒了，这是...",
-        "pubDate": "2026-08-19T20:02:40+08:00",
+        "title": "台湾坠毁“导弹”技术可能来自印度 热度：3202632",
+        "link": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9D%A0%E6%AF%81%E2%80%9C%E5%AF%BC%E5%BC%B9%E2%80%9D%E6%8A%80%E6%9C%AF%E5%8F%AF%E8%83%BD%E6%9D%A5%E8%87%AA%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "据报道，台军19日清晨在屏东九鹏基地“发射不明导弹”，但在升空后失控坠毁，有周边目击者看到“导弹”成螺旋形下坠并听到巨响，引发附近民众担忧。台“中科...",
+        "pubDate": "2026-08-20T00:02:57+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "多地安排“集中供冷” 热度：3197234",
-        "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%89%E6%8E%92%E2%80%9C%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近年来，一些城市关于集中供冷的探索越来越多：在广东深圳，集中冷站制备的空调冷水经市政管网为楼群降温；在湖北武汉、江苏南京，取自长江的江水通过热泵机组...",
-        "pubDate": "2026-08-19T20:02:40+08:00",
+        "title": "李云霄《戏中七夕》 热度：3336338",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%91%E9%9C%84%E3%80%8A%E6%88%8F%E4%B8%AD%E4%B8%83%E5%A4%95%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日晚，李云霄携手戏曲演员演绎《戏中七夕》，婉转唱腔里见证绵长浪漫！",
+        "pubDate": "2026-08-20T00:02:57+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "华为“天才少年”回应离职后卖玉米 热度：3306154",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%90%8E%E5%8D%96%E7%8E%89%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "日前，华为“天才少年”宁博宇离职后卖玉米一事引热议。宁博宇接受记者采访时回应：离职无关绩效，更非被“体面辞退”，而是希望回归学术界、持续成长。他同时...",
-        "pubDate": "2026-08-19T20:02:39+08:00",
+        "title": "重大跨境赌博犯罪集团骨干落网 热度：3410234",
+        "link": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E9%AA%A8%E5%B9%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日，中国驻菲律宾大使馆发布消息称，近日，中菲两国执法部门合作抓获并遣返一名涉嫌组织跨境赌博犯罪的逃犯陈某。陈所属跨境赌博犯罪集团在菲律宾设立...",
+        "pubDate": "2026-08-20T00:02:56+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "王兴兴谈离开大疆创办宇树 热度：3426539",
-        "link": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E7%A6%BB%E5%BC%80%E5%A4%A7%E7%96%86%E5%88%9B%E5%8A%9E%E5%AE%87%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "惠英红早年拿命拍戏买不了保险 热度：3509056",
+        "link": "https://www.baidu.com/s?wd=%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%97%A9%E5%B9%B4%E6%8B%BF%E5%91%BD%E6%8B%8D%E6%88%8F%E4%B9%B0%E4%B8%8D%E4%BA%86%E4%BF%9D%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:39+08:00",
+        "pubDate": "2026-08-20T00:02:56+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "中国上市公司告赢美国国防部 热度：3503344",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%91%8A%E8%B5%A2%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "上海地铁要涨价了 热度：3622163",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日，上海市发改委发布了优化轨道交通票价机制听证会第二次公告。记者注意到，根据公告显示票价优化听证方案包括两种，在起乘价、起乘间距、加价间距调...",
+        "pubDate": "2026-08-20T00:02:56+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "《欢迎来龙餐馆》票房破12亿元 热度：3686294",
+        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B412%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "据灯塔专业版实时数据，截至8月19日20时27分，影片《欢迎来龙餐馆》票房突破12亿元。",
+        "pubDate": "2026-08-20T00:02:55+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "6人点88元双人餐被拒男子发避雷视频 热度：3791245",
+        "link": "https://www.baidu.com/s?wd=6%E4%BA%BA%E7%82%B988%E5%85%83%E5%8F%8C%E4%BA%BA%E9%A4%90%E8%A2%AB%E6%8B%92+%E7%94%B7%E5%AD%90%E5%8F%91%E9%81%BF%E9%9B%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，甘肃武威一名男子发布视频吐槽一家餐饮店，不料因过于离谱引发网友热议。据悉，该男子一行六人到店聚餐，为了省钱只团购了一份88元的双人套餐，还自带...",
+        "pubDate": "2026-08-20T00:02:55+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "隔热层“飞”了责任谁担 热度：3967429",
+        "link": "https://www.baidu.com/s?wd=%E9%9A%94%E7%83%AD%E5%B1%82%E2%80%9C%E9%A3%9E%E2%80%9D%E4%BA%86+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:39+08:00",
+        "pubDate": "2026-08-20T00:02:55+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "美国男子向AI透露奸杀计划被平台报警 热度：3600244",
-        "link": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%90%91AI%E9%80%8F%E9%9C%B2%E5%A5%B8%E6%9D%80%E8%AE%A1%E5%88%92%E8%A2%AB%E5%B9%B3%E5%8F%B0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "螺蛳粉加不加花生？情侣吵到报警 热度：4169310",
+        "link": "https://www.baidu.com/s?wd=%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8A%A0%E4%B8%8D%E5%8A%A0%E8%8A%B1%E7%94%9F%EF%BC%9F%E6%83%85%E4%BE%A3%E5%90%B5%E5%88%B0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，浙江一对情侣因螺蛳粉要不要加花生发生争执。女友不想放花生，男友却坚持要加。女子本想拨打110吓唬对方，电话接通后却没来得及挂断。警方接到报警赶...",
+        "pubDate": "2026-08-20T00:02:54+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "任贤齐温柔献唱《我是一只鱼》 热度：4270905",
+        "link": "https://www.baidu.com/s?wd=%E4%BB%BB%E8%B4%A4%E9%BD%90%E6%B8%A9%E6%9F%94%E7%8C%AE%E5%94%B1%E3%80%8A%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E9%B1%BC%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日晚，总台七夕晚会，任贤齐温柔献唱《我是一只鱼》，用熟悉的旋律把相守相伴唱进心里。",
+        "pubDate": "2026-08-20T00:02:54+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "长沙84岁爷爷单手盲拧魔方表白妻子 热度：4381641",
+        "link": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%9984%E5%B2%81%E7%88%B7%E7%88%B7%E5%8D%95%E6%89%8B%E7%9B%B2%E6%8B%A7%E9%AD%94%E6%96%B9%E8%A1%A8%E7%99%BD%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:39+08:00",
+        "pubDate": "2026-08-20T00:02:54+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "买票占座放零食这座位该让吗 热度：3679988",
-        "link": "https://www.baidu.com/s?wd=%E4%B9%B0%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%AF%A5%E8%AE%A9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，一列车上两名女生购买三张车票，其中一个座位专门用来放置零食。一位持站票的大姐，希望临时坐一下该座位，遭到女生拒绝，引发网友热议。花钱买下的空位...",
-        "pubDate": "2026-08-19T20:02:38+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "妈妈忙到深夜6岁娃爬上货垛睡着 热度：3806844",
-        "link": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%BF%99%E5%88%B0%E6%B7%B1%E5%A4%9C+6%E5%B2%81%E5%A8%83%E7%88%AC%E4%B8%8A%E8%B4%A7%E5%9E%9B%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "被问副总统是谁美国年轻人宕机 热度：4474557",
+        "link": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%89%AF%E6%80%BB%E7%BB%9F%E6%98%AF%E8%B0%81+%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%95%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:38+08:00",
+        "pubDate": "2026-08-20T00:02:53+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "宇树科技首日收涨460.34% 热度：3883885",
-        "link": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%A6%96%E6%97%A5%E6%94%B6%E6%B6%A8460.34%25&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "金莎再唱《星月神话》 热度：4570735",
+        "link": "https://www.baidu.com/s?wd=%E9%87%91%E8%8E%8E%E5%86%8D%E5%94%B1%E3%80%8A%E6%98%9F%E6%9C%88%E7%A5%9E%E8%AF%9D%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日，总台七夕晚会现场，金莎再唱《星月神话》。舞台上，古韵新意相融相生，流转的光影伴着歌声，续写古往今来不变的浪漫爱意。",
+        "pubDate": "2026-08-20T00:02:53+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "媒体：董明珠办技校学费可以再低点 热度：4638025",
+        "link": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%91%A3%E6%98%8E%E7%8F%A0%E5%8A%9E%E6%8A%80%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%8F%AF%E4%BB%A5%E5%86%8D%E4%BD%8E%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:37+08:00",
+        "pubDate": "2026-08-20T00:02:53+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "中国兵器伏羲特种人形机器人 热度：3997829",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8+%E4%BC%8F%E7%BE%B2%E7%89%B9%E7%A7%8D%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "不怒自威！一个视频带你感受中国兵器“伏羲特种人形机器人”防暴处突能力。",
-        "pubDate": "2026-08-19T20:02:37+08:00",
+        "title": "穿武磊球衣小球迷遭围攻？警方通报 热度：4765118",
+        "link": "https://www.baidu.com/s?wd=%E7%A9%BF%E6%AD%A6%E7%A3%8A%E7%90%83%E8%A1%A3%E5%B0%8F%E7%90%83%E8%BF%B7%E9%81%AD%E5%9B%B4%E6%94%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月18日，中超第18轮补赛，上海申花主场0比3不敌北京国安。赛后，一名身着武磊国家队7号球衣的小球迷，在父亲陪同下离场，遭到3名申花球迷的围堵。1...",
+        "pubDate": "2026-08-20T00:02:52+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "俄“末日潜艇”开始首次试航 热度：4086050",
-        "link": "https://www.baidu.com/s?wd=%E4%BF%84%E2%80%9C%E6%9C%AB%E6%97%A5%E6%BD%9C%E8%89%87%E2%80%9D%E5%BC%80%E5%A7%8B%E9%A6%96%E6%AC%A1%E8%AF%95%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "一款抗癌疫苗引爆美股医药股 热度：4836597",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "一款抗癌疫苗，引爆美股医药股！8月19日，美股医药股大涨，BioNTechSE涨超23%，诺瓦瓦克斯医药涨超7%。Moderna涨超126%，消息...",
+        "pubDate": "2026-08-20T00:02:52+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "河南暴雨农户蹚没腰积水抢收花生 热度：4927350",
+        "link": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%86%9C%E6%88%B7%E8%B9%9A%E6%B2%A1%E8%85%B0%E7%A7%AF%E6%B0%B4%E6%8A%A2%E6%94%B6%E8%8A%B1%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:37+08:00",
+        "pubDate": "2026-08-20T00:02:52+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "中方：对马来西亚总理的表态表示赞赏 热度：4169405",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%AF%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%80%BB%E7%90%86%E7%9A%84%E8%A1%A8%E6%80%81%E8%A1%A8%E7%A4%BA%E8%B5%9E%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "就马来西亚总理安瓦尔近日接受采访时关于台湾问题的表态，外交部发言人林剑19日在例行记者会上答问时表示，坚持一个中国原则是人心所向、大义所在，国际社会...",
-        "pubDate": "2026-08-19T20:02:36+08:00",
+        "title": "多地官宣今年秋假时间 热度：5132019",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%81%87%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近年来，我国假期安排不断优化，错峰出行越来越多。目前全国已有14个省份全省推行中小学春秋假。而暑假即将进入尾声，多地近日已经公布了今年秋假时间安排。",
+        "pubDate": "2026-08-20T00:02:51+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "班主任出嫁学生组电动车队一路护送 热度：4277472",
-        "link": "https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%87%BA%E5%AB%81%E5%AD%A6%E7%94%9F%E7%BB%84%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%98%9F%E4%B8%80%E8%B7%AF%E6%8A%A4%E9%80%81&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "老人别把“没力气”当正常衰老 热度：5316570",
+        "link": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%88%AB%E6%8A%8A%E2%80%9C%E6%B2%A1%E5%8A%9B%E6%B0%94%E2%80%9D%E5%BD%93%E6%AD%A3%E5%B8%B8%E8%A1%B0%E8%80%81&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-08-19T20:02:36+08:00",
+        "pubDate": "2026-08-20T00:02:51+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "宇树IPO王兴兴表情平静得像打工人 热度：4366316",
-        "link": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91IPO+%E7%8E%8B%E5%85%B4%E5%85%B4%E8%A1%A8%E6%83%85%E5%B9%B3%E9%9D%99%E5%BE%97%E5%83%8F%E6%89%93%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月19日，宇树科技IPO名场面，王兴兴表情极为平静，像“打工人”。目前，王兴兴身价超千亿，成90后新首富。",
-        "pubDate": "2026-08-19T20:02:36+08:00",
+        "title": "现货黄金日内涨幅达3% 热度：5510430",
+        "link": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E6%97%A5%E5%86%85%E6%B6%A8%E5%B9%85%E8%BE%BE3%25&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月19日，现货黄金日内涨幅达3%，现报4464美元/盎司，创6月8日以来新高。现货白银价格涨2.70%，报65.01美元/盎司。",
+        "pubDate": "2026-08-20T00:02:51+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "“如果是真人剧十几万开机都别想” 热度：4448304",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A6%82%E6%9E%9C%E6%98%AF%E7%9C%9F%E4%BA%BA%E5%89%A7+%E5%8D%81%E5%87%A0%E4%B8%87%E5%BC%80%E6%9C%BA%E9%83%BD%E5%88%AB%E6%83%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，AI剧《被裁掉的女孩》爆火，导演菲菲飞在采访中透露第一季制作花了十几万，“如果是真人剧，十几万开机都别想”，并表示很多品牌方想来打广告，她都拒...",
-        "pubDate": "2026-08-19T20:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 《牛来》：把一坨屎吃出巧克力味 ",
+        "link": "https://www.huxiu.com/article/4884408.html?f=rss",
+        "summary": " 本文来自微信公众号： 锵稿 ，编辑：徐元，作者：子戈，原文标题：《《牛来》：把一坨屎吃出巧克力味｜子戈专栏》未来的中国电影史，不会写下《牛来》。可是，我们这一代人恐怕都不会忘记它。关于这部电影，无论从哪个角度出发，得出哪种结论，似乎都很有道理，但显然都不够全面。最关键的是，这部电影究竟是怎么制作和发行的，至今没有任何真正有媒体价值的新闻报道。所以，如果说它是一面哈哈镜，那它何止照出了中国电影的窘态呢？——锵稿主编徐元《牛来》占领电影院作者介绍：影评人，锵稿主理人。不够温和的中间派，文字比本人犀利十倍。01《牛来》本身不值一提，谈它，是因为背后的文化现象。从前有道题让无数人挠破了头，是选择巧克",
+        "pubDate": "2026-08-20T00:45:00+08:00",
+        "author": " 锵稿© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
-        "title": "老外在中国做臭鳜鱼披萨走红 热度：4560207",
-        "link": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9A%E8%87%AD%E9%B3%9C%E9%B1%BC%E6%8A%AB%E8%90%A8%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "日前，在最新一期播出的美食综艺《家乡美食大赛》中，来自美国的美食博主卓文受邀参加比赛并接受采访。他和几百个徽菜名厨比赛做臭鳜鱼，一个臭鳜鱼披萨引爆全...",
-        "pubDate": "2026-08-19T20:02:35+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "“七年之痒”夫妻七夕复婚“打嘴仗” 热度：4643082",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%83%E5%B9%B4%E4%B9%8B%E7%97%92%E2%80%9D%E5%A4%AB%E5%A6%BB%E4%B8%83%E5%A4%95%E5%A4%8D%E5%A9%9A%E2%80%9C%E6%89%93%E5%98%B4%E4%BB%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "",
-        "pubDate": "2026-08-19T20:02:35+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "宇树科技收盘市值超3400亿元 热度：4751582",
-        "link": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%94%B6%E7%9B%98%E5%B8%82%E5%80%BC%E8%B6%853400%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "备受关注的宇树科技19日正式登陆A股。当天宇树科技股价开盘大涨，随后涨幅有所收窄；截至收盘，宇树科技股价报每股845元，涨幅为460.34%，市值超...",
-        "pubDate": "2026-08-19T20:02:34+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "人民日报评朱雀三号回收成功 热度：4831101",
-        "link": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月19日07时35分，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，运载火箭全程飞行正常，一子级成功着陆于回收场预定位置，二子级将搭载的鸿...",
-        "pubDate": "2026-08-19T20:02:34+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "公积金新政来了有哪些利好 热度：4938127",
-        "link": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86+%E6%9C%89%E5%93%AA%E4%BA%9B%E5%88%A9%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "新版《住房公积金管理条例》将于2026年9月20日起施行。这项涉及1.76亿缴存人、10.9万亿元资金的制度变革，到底改了什么？细细梳理本次修改的内...",
-        "pubDate": "2026-08-19T20:02:34+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 王兴很开心，王兴兴不一定 ",
+        "link": "https://www.huxiu.com/article/4884415.html?f=rss",
+        "summary": " 本文来自微信公众号： 版面之外 ，作者：画画今天关于宇树IPO的讨论，最热闹的地方都在算钱。王兴兴身家涨了多少，美团王兴赚了多少，早期投资人浮盈多少，员工又拿到了多少财富。这些数字确实足够诱人，也很惊人。但在上市现场，我反而注意到了另一个细节。王兴兴看起来很平静。当然，我们不能仅凭一张照片判断一个人的情绪。但这个细节放进今天的宇树IPO里，确实有点意味。同一场上市，对于王兴和王兴兴来说，可能是两件完全不同的事情。王兴押中的一笔投资，终于开始兑现。王兴兴亲手做出来的公司，则从今天开始接受另一套规则的检验。一、王兴很开心，王兴兴很平静8月19日，宇树科技正式登陆科创板。发行价150.80元盘中最",
+        "pubDate": "2026-08-20T00:43:08+08:00",
+        "author": " 版面之外 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 如果宇宙也逃不过达尔文 ",
@@ -1641,6 +1661,26 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "金与正：对朝美领导人近期沟通事宜一无所知",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680714.shtml",
+        "summary": "\n　　据朝中社19日报道，朝鲜劳动党中央委员会部长金与正说，对华盛顿方面关于朝美两国领导人最近进行沟通的消息，“我一无所知”。",
+        "pubDate": "2026-08-20T00:51:00+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "受南海热带低压影响 广西沿海多个海上项目停航",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+        "summary": "\n　　中新社北海8月19日电 (张广权)受南海热带低压影响，广西沿海多个海上客运及旅游项目将于8月20日实施停航。",
+        "pubDate": "2026-08-20T00:49:16+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
         "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
         "summary": "\n　　美国总统特朗普19日接受媒体采访时表示，可能在“某个时候”恢复与伊朗的谈判，但伊朗必须彻底放弃核武器。",
@@ -1819,30 +1859,20 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026广东（连山）“七月香”壮家戏水暨非遗民俗系列活动在清远开幕",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680677.shtml",
-        "summary": "\n　　中新网清远8月19日电 (张璐 唐震)广东省“四季村晚”秋季展示活动之2026广东(连山)“七月香”壮家戏水暨非遗民俗系列活动(简称“活动”)19日在清远开幕。活动现场，各族群众与来自全国各地的游客们手持水盆、水枪戏水狂欢。",
-        "pubDate": "2026-08-19T21:57:21+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "辽宁营口：力争2030年临港工业产值突破1500亿元",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml",
-        "summary": "\n　　中新网沈阳8月19日电 (王翕瞳)辽宁省政府新闻办19日发布消息称，营口推进高水平对外开放，力争到2030年港口货物吞吐量达到2.85亿吨、集装箱吞吐量达670万标箱。",
-        "pubDate": "2026-08-19T21:56:39+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+        "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "pubDate": "2026-08-19T19:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "Replit expands access to software creation with GPT-5.6 Luna",
         "link": "https://openai.com/index/replit",
@@ -2034,14 +2064,24 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "link": "https://openai.com/index/model-ml",
-        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-        "pubDate": "2026-08-10T12:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 《牛来》：把一坨屎吃出巧克力味 ",
+        "link": "https://www.huxiu.com/article/4884408.html?f=rss",
+        "summary": " 本文来自微信公众号： 锵稿 ，编辑：徐元，作者：子戈，原文标题：《《牛来》：把一坨屎吃出巧克力味｜子戈专栏》未来的中国电影史，不会写下《牛来》。可是，我们这一代人恐怕都不会忘记它。关于这部电影，无论从哪个角度出发，得出哪种结论，似乎都很有道理，但显然都不够全面。最关键的是，这部电影究竟是怎么制作和发行的，至今没有任何真正有媒体价值的新闻报道。所以，如果说它是一面哈哈镜，那它何止照出了中国电影的窘态呢？——锵稿主编徐元《牛来》占领电影院作者介绍：影评人，锵稿主理人。不够温和的中间派，文字比本人犀利十倍。01《牛来》本身不值一提，谈它，是因为背后的文化现象。从前有道题让无数人挠破了头，是选择巧克",
+        "pubDate": "2026-08-20T00:45:00+08:00",
+        "author": " 锵稿© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 王兴很开心，王兴兴不一定 ",
+        "link": "https://www.huxiu.com/article/4884415.html?f=rss",
+        "summary": " 本文来自微信公众号： 版面之外 ，作者：画画今天关于宇树IPO的讨论，最热闹的地方都在算钱。王兴兴身家涨了多少，美团王兴赚了多少，早期投资人浮盈多少，员工又拿到了多少财富。这些数字确实足够诱人，也很惊人。但在上市现场，我反而注意到了另一个细节。王兴兴看起来很平静。当然，我们不能仅凭一张照片判断一个人的情绪。但这个细节放进今天的宇树IPO里，确实有点意味。同一场上市，对于王兴和王兴兴来说，可能是两件完全不同的事情。王兴押中的一笔投资，终于开始兑现。王兴兴亲手做出来的公司，则从今天开始接受另一套规则的检验。一、王兴很开心，王兴兴很平静8月19日，宇树科技正式登陆科创板。发行价150.80元盘中最",
+        "pubDate": "2026-08-20T00:43:08+08:00",
+        "author": " 版面之外 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 如果宇宙也逃不过达尔文 ",
@@ -2932,6 +2972,206 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
+      },
+      {
+        "title": "Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)",
+        "link": "https://www.iplaysoft.com/motrix2.html",
+        "summary": "用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。\n这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……\n「 前往查看原文.... 」异次元还有这些值得一看：“狗屁下载器”？Gopeed - 开源全平台下载器 (免费轻量 /",
+        "pubDate": "2026-08-18T19:19:33+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了",
+        "link": "https://www.iplaysoft.com/p/deepseek-harness",
+        "summary": "如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。\n\n就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;",
+        "pubDate": "2026-08-14T18:55:46+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)",
+        "link": "https://www.iplaysoft.com/deepseek-v4.html",
+        "summary": "今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！\n现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……\n「 前往查看原文.... 」异次元还有这些值得一看：被吹爆的 DeepSeek！拥有“东",
+        "pubDate": "2026-08-13T10:02:41+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件",
+        "link": "https://www.iplaysoft.com/linkly-ai-clipper.html",
+        "summary": "我的浏览器长期收藏着很多宝藏网站，如一些行业洞察、还有 YouTube 上的深度采访视频、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。\n但收藏夹既无法变成可被搜索的资料，也无法成为 Workbuddy、Codex 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 Linkly AI Clipper，它做的事情很简单：把当前网页转换成 Markdown 格式，在浏览器侧边栏可以预览、复制或直接下载 .md 到本地永久保存……\n「 前往查看原文.... 」异次元还有这些值得一看：Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收",
+        "pubDate": "2026-08-11T19:09:52+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)",
+        "link": "https://www.iplaysoft.com/readfrog.html",
+        "summary": "我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。\n直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……\n「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉",
+        "pubDate": "2026-08-07T17:19:21+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)",
+        "link": "https://www.iplaysoft.com/andromeld.html",
+        "summary": "在日常工作中，我们经常要使用电脑和手机来协同完成工作。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。\n但如果用的是 Mac + 安卓手机，那光是文件传输，就让人头大了。AndroMeld 就是一款能让你的 Android 设备和 macOS 电脑无缝连接的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……\n「 前往查看原文.... 」异次元还有这些值得一看：Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)Escrc",
+        "pubDate": "2026-08-03T16:47:45+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件",
+        "link": "https://www.iplaysoft.com/eagle-sale-202603.html",
+        "summary": "相信大家都平时都会收藏一些壁纸，设计素材，摄影照片等等资源。加上现在人工智能 AI 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。\nEagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，帮你轻松收集及整理「案例、灵感、图片、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有效率。而在过去一年仅一次打折的 Eagle，这次跟随「夏季大促」也带来 7 折优惠！绝对值得入手……\n「 前往查看原文.... 」异次元还有这些值得一看：超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)快到离谱",
+        "pubDate": "2026-08-01T13:30:21+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…",
+        "link": "https://www.iplaysoft.com/news/6580",
+        "summary": "最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！\n\n正版软件夏促会场\n活动时间：2026 年 7 月 28 日 - 8 月 13 日，结算时使用优惠码：异次元帮我省还能获得折上折！特惠软件重点推介：\n…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-07-30T10:00:39+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "CloudCone 低价美国 VPS 服务器：“九周年促销” $18年付/续费同价…",
+        "link": "https://www.iplaysoft.com/p/cloudcone",
+        "summary": "CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。\n\n和 RackNerd 定位相似，CC 的产品定价较低，遇到打折促销活动还会出现一些性价比超高的打折机型，十多美金的年付主机，无论是用来建站…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nb",
+        "pubDate": "2026-07-28T18:07:51+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "这香吗？Scramble Cloud 终身永久 20TB 网盘 (支持 WebDAV / 适合长期备份)",
+        "link": "https://www.iplaysoft.com/p/scramble-cloud",
+        "summary": "随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。\n\n除了之前主打永久的「Koofr」之外，最近又看到了一款德国的 Scramble Cloud 网盘，提供多个更大容量档位的终身版订…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-07-26T16:34:35+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)",
+        "link": "https://www.iplaysoft.com/obsidian.html",
+        "summary": "以前我也觉得，笔记软件不就那回事吗？能记、能搜索、能同步，差不多就行。Notion、思源笔记、印象笔记、有道云、OneNote，基本都轮了一圈，结果总是这样或那样的失望……\n存了一大堆笔记，用的时候不是找不到，就是资料太多太乱人工难以整理；而想换工具，导出功能各种限制；好不容易养成习惯，平台一改规则又得重来。加上 AI 时代彻底变革，在经历反复横跳后，我最终决定把免费的 Obsidian 当成主力工具，用它来做学习/写作/知识管理……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离",
+        "pubDate": "2026-07-25T14:14:01+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Listary 7 Pro 效率神器“进化”免费升级！文件搜索定位更快更流畅，界面更优雅……",
+        "link": "https://www.iplaysoft.com/listary7.html",
+        "summary": "最近「文件搜索+定位神器」 Listary v7 发布了最新的 Beta 版本，于是我把它作为主力工具深度体验了一番。说实话，这次的大版本更新有不少让人眼前一亮的细节。\n如果你每天都要在电脑办公，需要「快速查找和定位文件」，或者想要「快速启动应用」，一定要试试这款老牌的 Windows 本地文件搜索神器。新版使用 Rust 重构，性能获得成倍的提升，界面也更舒适。跟「Fences」一样，绝对能让你的操作效率和用户体验上到另一个台阶……\n「 前往查看原文.... 」异次元还有这些值得一看：Listary 6.3 Pro - 能极大提高 Windows 文件浏览与搜索速度效率的“超级神器”Fenc",
+        "pubDate": "2026-07-20T16:27:57+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "UniClipboard - 告别给自己发微信！无需账号的跨设备复制粘贴开源工具 (Win/Mac/Linux/iOS/安卓)",
+        "link": "https://www.iplaysoft.com/uniclipboard.html",
+        "summary": "我们经常在台式机电脑上复制拷贝内容，想在笔记本或手机上继续用，只能打开微信、QQ 或邮箱，把内容发给自己，然后切到另一台设备，打开微信，找到那条消息，点开，复制，再粘贴。\n这件事我们做了好多年，虽然很烦人、效率也很慢，但因为已经习惯了，就不觉得是问题了。但其实挺离谱的。为了粘贴一段文字，结果内容绕了一大圈，还在别人服务器上留下了不可抹去的聊天记录。这不仅是效率问题，因为剪贴板里啥都会有：密码、API Key……\n「 前往查看原文.... 」异次元还有这些值得一看：ALT-C - 电脑手机之间跨设备跨平台同步剪贴板的实用免费工具Flix 快传 - 免费手机电脑高速 WiFi 文件传输工具！(内网",
+        "pubDate": "2026-07-16T19:17:12+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了",
+        "link": "https://www.iplaysoft.com/fluentcleaner.html",
+        "summary": "大家肯定都经历过 C 盘空间不足，手工删除半天只腾出几百 MB。去搜第三方清理工具，除极少部分付费软件还算干净，其他不是满屏的广告弹窗、就是装一个就送“全家桶”的流氓。\n而老用户可能还记得当年的 CCleaner 有多好用，体积小、干净、清爽，清理垃圾特实用，可谓装机必备。后来被收购后，广告弹窗来了，付费诱导来了，变成了它曾经最讨厌的样子。甚至网上的“中文特供版”更离谱！现在终于有开发者，动手做了一款更好的替代品 FluentCleaner……\n「 前往查看原文.... 」异次元还有这些值得一看：腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具Tree",
+        "pubDate": "2026-07-09T15:47:17+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Immich v3 - 手机自动备份照片视频到 NAS！开源自部署私有云相册 (替代群晖/谷歌)",
+        "link": "https://www.iplaysoft.com/immich.html",
+        "summary": "如果说「群晖 NAS」最让我喜爱的一个用途就是它的 Photos 相册 APP 手机自动备份+智能整理功能了。而对于其他品牌 NAS 或有迷你主机的朋友，今天也发现了一款相当不错的替代品。\nImmich 是一款能直接从 iPhone、Android 手机备份照片与视频的开源免费「AI 私有云相册」软件，用户可将它部署到自己电脑、NAS 或 VPS 服务器中，然后通过网页或手机浏览。APP 支持自动备份，相册能 AI 自动整理归类。使用体验堪比 Google Photos 谷歌相册和群晖相册……\n「 前往查看原文.... 」异次元还有这些值得一看：PicHome 简单开源搭建相册网站！将照片目录",
+        "pubDate": "2026-07-06T12:08:54+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "手慢无！DMIT 香港特价 VPS 补货！还有日本/香港 CN2 GIA 三网优化线路",
+        "link": "https://www.iplaysoft.com/p/dmithk",
+        "summary": "随着内存和存储价格的一路攀升，像 DMIT、般佤工、RackNerd 等一众知名 VPS 厂商的服务器也都一度进入长期缺货状态，打折机型更是难得一见。而最近，DMIT 的香港 VPS 终于补货了。\n\nDMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界双雄，它俩的 CN2 GIA 线路一直都是稳定和速度的标杆！DMIT 家…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;",
+        "pubDate": "2026-07-02T17:20:22+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "LitePan - 将115/夸克/百度盘挂载成 WebDAV！简单开源网盘聚合工具 (支持直链播放)",
+        "link": "https://www.iplaysoft.com/litepan.html",
+        "summary": "现在玩 NAS 的同学都会手握多个网盘账号。但麻烦就在于资源全散落在 115、123、百度、夸克等不同网盘上，不仅需要下载客户端，而且它们的空间也无法直接被利用起来。\n异次元推荐过 OpenList 能将云网盘空间转换成 WebDAV 挂载，供播放器在线点播、或“对接”第三方 APP 使用、甚至映射成本地硬盘直接读写，极大提升网盘实用性！ 而 LitePan 则是更简单轻量的开源网盘聚合挂载工具，支持 WebDAV 与 STRM、跨网盘秒传，还能有效避免风控……\n「 前往查看原文.... 」异次元还有这些值得一看：OpenList 白嫖网盘空间 (开源 Alist 替代品) - 支持 WebD",
+        "pubDate": "2026-06-30T11:24:55+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "雷电模拟器 v14 - 电脑流畅玩安卓手游运行 APK！支持多开/ 高性能 Android 模拟器",
+        "link": "https://www.iplaysoft.com/ldmnq.html",
+        "summary": "无论是想在 PC 电脑上运行 Android 手机 APP 应用，或者将手机游戏搬到电脑大屏上，用键盘鼠标爽玩手游，我们都需要一款速度够快、兼容性好、支持高帧率的「Windows 安卓模拟器」。\n最近雷电模拟器 (LDPlayer) 推出了大版本更新——「雷电模拟器 14」，底层直接从 Android 9 一步升级到 Android 14，跨过整整四个大版本，也是目前国内首款基于 Android 14 内核开发的 PC 端安卓模拟器。之前很多头疼的兼容性、卡顿问题，都基本被解决了，而且性能还更快……\n「 前往查看原文.... 」异次元还有这些值得一看：在 Mac 上使用安卓手机 APP 游戏！",
+        "pubDate": "2026-06-25T15:08:18+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "香爆了！Qwen3.6 无限 Token 免费用！放开随便玩各种 Agent、AI 编程…",
+        "link": "https://www.iplaysoft.com/xunfei-coding-plan.html",
+        "summary": "如果你经常重度使用 Codex、Claude Code、Hermes、OpenClaw 这类 Agent 或 AI 编程工具，或者大量使用 AI 翻译、ChatWise、Cherry Studio 等工具，那应该对“Token 焦虑”深有体会。\n毕竟消耗 Token 就等于烧钱。但科大讯飞旗下的「讯飞星辰 MaaS 平台」(类似 阿里云百炼、七牛、腾讯云 TokenHub 的多模型聚合平台) 最近搞了个大福利：旗舰级的 Qwen 3.6 模型限时免费开放 API 调用，官方明确说“不限量”，限免一直到 6 月 30 日，快来薅羊毛了！\n「 前往查看原文.... 」异次元还有这些值得一看：被吹爆",
+        "pubDate": "2026-06-24T13:49:38+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "苹果 macOS Golden Gate 27 最新镜像 ISO 下载 - Mac 官方系统完整安装包 (网盘地址)",
+        "link": "https://www.iplaysoft.com/macos-golden-gate.html",
+        "summary": "苹果发布了最新 iOS 27、iPadOS 固件。作为「Windows 11」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 AI 到系统去。\n最新的 macOS Golden Gate 27 操作系统 在继承了 Tahoe、Sequoia 特性同时，也给 Mac 从底层带来很更显著的性能优化、稳定性增强，正式全面整合苹果智能 Apple Intelligence，全新的 Siri，视觉交互设计升级等，让 Mac 变得更高效、更聪明好用……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 macOS Tahoe",
+        "pubDate": "2026-06-22T20:44:45+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
       }
     ],
     "edu": [
