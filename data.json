@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T18:42:35.490295+00:00",
+  "updated": "2026-08-20T20:31:40.664286+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 394
+    "total_articles": 393
   },
   "articles": {
     "hot": [
@@ -1874,6 +1874,16 @@
     "finance": [],
     "tech": [
       {
+        "title": "Introducing AI Futures",
+        "link": "https://openai.com/index/introducing-ai-futures",
+        "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "pubDate": "2026-08-20T07:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "How ChatGPT Work helps Stampli move ideas to market",
         "link": "https://openai.com/index/stampli",
         "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
@@ -2057,16 +2067,6 @@
         "title": "Testing ads in ChatGPT",
         "link": "https://openai.com/index/testing-ads-in-chatgpt",
         "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-        "pubDate": "2026-08-11T10:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Daybreak models are now available on AWS",
-        "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
         "pubDate": "2026-08-11T10:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -2738,16 +2738,6 @@
         "link": "https://www.tmtpost.com/8110835.html",
         "summary": "这场席卷两市的行情，导火索是大洋彼岸一则足以改写mRNA产业路径的临床进展。",
         "pubDate": "2026-08-20T22:37:31+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
-        "title": "在艰难市场环境中依然表现稳健的7只成长股",
-        "link": "https://www.tmtpost.com/8111062.html",
-        "summary": "Wolfe Research 甄选出七只股票，它们在严峻的市场环境中同时具备强劲的盈利能力、快速的销售增长以及积极的上涨动能。",
-        "pubDate": "2026-08-20T21:45:36+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
