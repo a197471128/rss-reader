@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T18:43:16.376106+00:00",
+  "updated": "2026-08-24T20:33:23.525026+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 380
+    "total_articles": 381
   },
   "articles": {
     "hot": [
@@ -207,6 +207,16 @@
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": " AI for Science最难学会的，是换一个问题 ",
+        "link": "https://www.huxiu.com/article/4885667.html?f=rss",
+        "summary": " 本文来自微信公众号： AIGC从0到1 ，作者：王零壹今年，《Nature》发表过一项颇有反讽意味的研究。研究者分析了4130万篇自然科学论文，发现使用AI工具的科学家，平均发表论文更多，引用更多，也更早成为项目负责人。按个人生产率看，AI几乎是一个无可挑剔的助手。但另一半结果不太让人轻松：随着AI被采用，集体研究覆盖的主题范围缩小了4.63%，科学家之间的互动减少了22%。一个人的手更快了，整个科学共同体看的方向却可能更少了。这件事让我重新想起一个很基本的问题。我们正进入人类历史上获取答案最便宜的时期。以前，学习的难处是一本书拿不到、一篇论文找不着、一个领域的专家见不到。现在，一个模型几秒",
+        "pubDate": "2026-08-25T03:54:44+08:00",
+        "author": " AIGC从0到1 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       }
     ],
     "media": [
@@ -1814,6 +1824,16 @@
     "finance": [],
     "tech": [
       {
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "link": "https://openai.com/index/gpt-5-6-in-kiro",
+        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "pubDate": "2026-08-24T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "Introducing AI Futures",
         "link": "https://openai.com/index/introducing-ai-futures",
         "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
@@ -2004,14 +2024,14 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Testing ads in ChatGPT",
-        "link": "https://openai.com/index/testing-ads-in-chatgpt",
-        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-        "pubDate": "2026-08-11T10:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " AI for Science最难学会的，是换一个问题 ",
+        "link": "https://www.huxiu.com/article/4885667.html?f=rss",
+        "summary": " 本文来自微信公众号： AIGC从0到1 ，作者：王零壹今年，《Nature》发表过一项颇有反讽意味的研究。研究者分析了4130万篇自然科学论文，发现使用AI工具的科学家，平均发表论文更多，引用更多，也更早成为项目负责人。按个人生产率看，AI几乎是一个无可挑剔的助手。但另一半结果不太让人轻松：随着AI被采用，集体研究覆盖的主题范围缩小了4.63%，科学家之间的互动减少了22%。一个人的手更快了，整个科学共同体看的方向却可能更少了。这件事让我重新想起一个很基本的问题。我们正进入人类历史上获取答案最便宜的时期。以前，学习的难处是一本书拿不到、一篇论文找不着、一个领域的专家见不到。现在，一个模型几秒",
+        "pubDate": "2026-08-25T03:54:44+08:00",
+        "author": " AIGC从0到1 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": "赴一场出行的科技漫游 | 比亚迪&数字尾巴活动回顾",
@@ -2614,26 +2634,6 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "随着美加关税争端升级，钢铁股大涨",
-        "link": "https://www.tmtpost.com/8115384.html",
-        "summary": "随着美加贸易紧张局势不断升级、钢铁关税再次成为关注焦点，Steel Dynamics、Nucor 和 Cleveland-Cliffs 的股价上涨。",
-        "pubDate": "2026-08-24T22:57:05+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
-        "title": "四个正在大赚特赚的甲烷中间商",
-        "link": "https://www.tmtpost.com/8115381.html",
-        "summary": "像塔加资源（Targa Resources）这样的公司，正因二叠纪盆地天然气需求激增而显得更加强劲。现在投资还不算晚。",
-        "pubDate": "2026-08-24T22:52:12+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
         "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
         "link": "https://www.tmtpost.com/8113703.html",
         "summary": "AI是印钞机，怎么最后印的是新股？",
@@ -2758,6 +2758,16 @@
         "link": "https://www.tmtpost.com/8114785.html",
         "summary": "中国PD-1，不仅仅是一个关于竞争的故事，也是关于泡沫、淘汰与重生的寓言。",
         "pubDate": "2026-08-24T18:01:03+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "给快手和可灵算笔账",
+        "link": "https://www.tmtpost.com/8114783.html",
+        "summary": "AI 时代两张确定性的“船票”，可灵拿到其一。",
+        "pubDate": "2026-08-24T17:51:45+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
