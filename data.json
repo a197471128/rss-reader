@@ -1,13 +1,93 @@
 {
-  "updated": "2026-08-31T17:27:37.043905+00:00",
+  "updated": "2026-08-31T22:38:05.828831+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 386
+    "total_articles": 406
   },
   "articles": {
     "hot": [
+      {
+        "title": "世预赛日本男篮狂胜卡塔尔53分 热度：3140452",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%E7%8B%82%E8%83%9C%E5%8D%A1%E5%A1%94%E5%B0%9453%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-01T05:01:38+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "杨瀚森：在技术上藐视对手 热度：4171303",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%A8%E7%80%9A%E6%A3%AE%EF%BC%9A%E5%9C%A8%E6%8A%80%E6%9C%AF%E4%B8%8A%E8%97%90%E8%A7%86%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-01T05:01:37+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "男子连环诈骗12人超百万获刑12年 热度：4378958",
+        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%8E%AF%E8%AF%88%E9%AA%9712%E4%BA%BA%E8%B6%85%E7%99%BE%E4%B8%87%E8%8E%B7%E5%88%9112%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-01T05:01:37+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "车企的利润去哪了 热度：4447392",
+        "link": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BC%81%E7%9A%84%E5%88%A9%E6%B6%A6%E5%8E%BB%E5%93%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "上市车企2026年上半年业绩陆续放榜。从已公布的半年报看，部分车企销量、营收飘红，但利润却悄然“瘦身”。一面是成本高企，一面是价格承压。优化产品结构...",
+        "pubDate": "2026-09-01T05:01:36+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "驾考“保过”名单曝光823人求关照 热度：4563465",
+        "link": "https://www.baidu.com/s?wd=%E9%A9%BE%E8%80%83%E2%80%9C%E4%BF%9D%E8%BF%87%E2%80%9D%E5%90%8D%E5%8D%95%E6%9B%9D%E5%85%89+823%E4%BA%BA%E6%B1%82%E5%85%B3%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "今年5月，山西吕梁临县一帆驾校驾考作弊现象，引发广泛关注。7月15日，吕梁车管所机动车驾驶人考试中心场长王某波等5人因涉嫌组织考试作弊罪被提起公诉。...",
+        "pubDate": "2026-09-01T05:01:36+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中方正全力搜救国内外失联人员 热度：4663245",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E5%9B%BD%E5%86%85%E5%A4%96%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "8月31日，外交部发言人郭嘉昆表示，尼泊尔边境突发冰川崩塌引发泥石流，造成中尼重大伤亡与失联。截至昨天中午，在尼泊尔灾区取得联系的中方人员已经全部得...",
+        "pubDate": "2026-09-01T05:01:36+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "皇马4比0马拉加 热度：4851969",
+        "link": "https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间8月30日晚，西甲第三轮，马拉加对战皇家马德里。最终，皇马4比0马拉加。",
+        "pubDate": "2026-09-01T05:01:35+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "吴易昺闯入美网男单第二轮 热度：5139283",
+        "link": "https://www.baidu.com/s?wd=%E5%90%B4%E6%98%93%E6%98%BA%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间8月31日凌晨，2026美网男单首轮，中国选手吴易昺连胜三盘，以7-6(2)、6-2、7-5战胜澳大利亚选手沃尔顿，时隔三年第三次闯入美网男...",
+        "pubDate": "2026-09-01T05:01:35+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "上学路“修”到了云端 热度：3240228",
         "link": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%AD%A6%E8%B7%AF%E2%80%9C%E4%BF%AE%E2%80%9D%E5%88%B0%E4%BA%86%E4%BA%91%E7%AB%AF&sa=fyb_news&rsv_dl=fyb_news",
@@ -123,86 +203,6 @@
         "link": "https://www.baidu.com/s?wd=%E8%B5%9B%E8%80%83%E6%96%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%AB%98%E9%93%81+%E7%9B%B4%E5%91%BC%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "近日，外籍人士“赛考斯”首次乘坐中国高铁，从洛阳到北京仅需两个半小时，直呼太不可思议，他惊叹高铁配备的各种炫酷高科技，并表示中国已经跨入未来时代。",
         "pubDate": "2026-09-01T00:01:54+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "华为上半年收入4678亿元 热度：4556042",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%85%A54678%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月31日，北京金融资产交易所等网站公布了华为投资控股有限公司2026年半年度报告。报告显示，2026年1月至6月，华为营业收入4678.19亿元，...",
-        "pubDate": "2026-09-01T00:01:54+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "老人2天被拔除21颗牙？区卫健委回应 热度：4733508",
-        "link": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA2%E5%A4%A9%E8%A2%AB%E6%8B%94%E9%99%A421%E9%A2%97%E7%89%99%EF%BC%9F%E5%8C%BA%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，无锡71岁老人在中诺口腔医院2天内被拔除21颗牙齿，家属称仅3颗松动、其余为好牙。区卫健委专家组未否定医院诊疗方案，但指出不规范并责令整改。院...",
-        "pubDate": "2026-09-01T00:01:53+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《重案六组：消失的警号》热度 热度：4857652",
-        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7%E3%80%8B%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月31日，“北京大视听”精品网络微短剧《重案六组：消失的警号》开播，刷新爱奇艺分账剧历史最高首日热度记录！经典IP强势回归，市井谜案徐徐铺展。",
-        "pubDate": "2026-09-01T00:01:53+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "科大讯飞公关副总裁被解职 热度：5042528",
-        "link": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E5%85%AC%E5%85%B3%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月31日，科大讯飞内部人士证实，该公司品牌市场中心副总经理、集团公关副总裁韩煜尘已被解除职务，暂不清楚解职原因。",
-        "pubDate": "2026-09-01T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "女子误诊抑郁症治疗3个月暴瘦20斤 热度：5146892",
-        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AF%AF%E8%AF%8A%E6%8A%91%E9%83%81%E7%97%87%E6%B2%BB%E7%96%973%E4%B8%AA%E6%9C%88%E6%9A%B4%E7%98%A620%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，福州45岁王女士因情绪低落、睡眠障碍被按抑郁症治疗3个月，病情反而加重，出现进食困难、恶心、呕吐等症状，暴瘦20斤。后经福建医科大学附属第一医...",
-        "pubDate": "2026-09-01T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "我的新能源车为何难进自家车位 热度：5240125",
-        "link": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E9%9A%BE%E8%BF%9B%E8%87%AA%E5%AE%B6%E8%BD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月25日，武汉刘女士驾车驶入武昌百瑞景小区，因车身近2米宽、车位仅2.4米，被迫在车外下车遥控泊入。当前新能源车宽集体突破2米，而车位标准仍沿用2...",
-        "pubDate": "2026-09-01T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "3名小学生狂奔报警救下同学 热度：5310547",
-        "link": "https://www.baidu.com/s?wd=3%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%8B%82%E5%A5%94%E6%8A%A5%E8%AD%A6%E6%95%91%E4%B8%8B%E5%90%8C%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "",
-        "pubDate": "2026-09-01T00:01:51+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国男篮险胜黎巴嫩男篮 热度：5411945",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%99%A9%E8%83%9C%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "8月31日，中国男篮在诸暨迎来2027年男篮世界杯亚洲区预选赛第二阶段的关键战役，以89比87战胜黎巴嫩男篮，杨瀚森19+9+3贡献准绝杀。",
-        "pubDate": "2026-09-01T00:01:51+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
@@ -1631,6 +1631,56 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "美媒：美国陆军部长向特朗普递交辞呈",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687584.shtml",
+        "summary": "\n　　中新网9月1日电 据美国《华尔街日报》报道，美国陆军部长丹·德里斯科尔当地时间8月31日向美国总统特朗普提交辞呈。此前，德里斯科尔与美国国防部长赫格塞思之间的矛盾已持续数月。",
+        "pubDate": "2026-09-01T06:32:23+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国大峡谷国家公园突发山洪已致2人死亡",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687583.shtml",
+        "summary": "\n　　当地时间8月31日，美国国家公园管理局表示，位于亚利桑那州的大峡谷国家公园8月29日突发山洪，已造成至少2人死亡。目前仍有至少14人被该局列为可能失联或下落不明人员。",
+        "pubDate": "2026-09-01T06:32:03+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "法国总统马克龙访问瑞典 推进法瑞军事合作",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687582.shtml",
+        "summary": "\n　　中新社巴黎8月31日电 法国总统马克龙当地时间8月31日对瑞典进行访问，推进法国与瑞典的军事合作。",
+        "pubDate": "2026-09-01T06:29:39+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中国男篮险胜黎巴嫩队 世预赛第二阶段收获两连胜",
+        "link": "https://www.chinanews.com.cn/ty/2026/09-01/10687581.shtml",
+        "summary": "\n　　中新社浙江诸暨8月31日电 在浙江诸暨举行的2027年国际篮联男篮世界杯亚洲区预选赛中，中国男篮8月31日以89:87战胜黎巴嫩队，在第二阶段比赛中收获两连胜。",
+        "pubDate": "2026-09-01T06:27:43+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "习近平在埃及媒体发表署名文章",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+        "summary": "\n　　新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+        "pubDate": "2026-09-01T05:30:26+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
         "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
         "summary": "\n　　新华社比什凯克8月31日电",
@@ -1779,56 +1829,6 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "科技助力田管 推动粮食稳产增收",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687565.shtml",
-        "summary": "\n　　央视网消息(新闻联播)：8月下旬，秋粮进入产量形成关键期。各地依靠科技，加强智慧化田间管理，推动粮食稳产增收。",
-        "pubDate": "2026-08-31T22:38:29+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "量质齐升 2026年中国电影暑期档收官",
-        "link": "https://www.chinanews.com.cn/cul/2026/08-31/10687562.shtml",
-        "summary": "\n　　中新社北京8月31日电 (记者 高凯)据灯塔专业版数据，截至北京时间8月31日19时，2026年中国内地电影暑期档(6月1日至8月31日)总票房已超124.85亿元(人民币，下同)，同比增长4.4%；观影人次3.39亿，同比增长5.6%。",
-        "pubDate": "2026-08-31T22:38:19+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "争分夺秒！移民管理抢险救援突击队在吉隆口岸联检大楼附近开展地毯式搜救",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687563.shtml",
-        "summary": "　　8月30日，移民管理抢险救援突击队队员们携带生命探测仪、无人机、卫星电话、急救药品、攀登绳、脱困板等装备联合消防救援队伍搭乘军用直升机抵达吉隆口岸受灾核心区，在口岸联检大楼附近就地开展地毯式搜救。",
-        "pubDate": "2026-08-31T22:36:45+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "事业单位招聘存在“高分断层”情况？吉林白城通报",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687517.shtml",
-        "summary": "\n　　中新网8月31日电 据“白城发布”微信公众号消息，吉林省白城市人民政府发布情况通报称，8月31日，部分媒体报道有考生质疑2026年白城市市直事业单位公开招聘存在“高分断层”情况。白城市高度重视，立即组织纪检、人社、公安、工信等部门成立联合调查组，对此次招聘工作进行全面调查。白城市人民政府将及时向社会发布相关情况，回应公众关切。",
-        "pubDate": "2026-08-31T22:35:41+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "“十五五”，如何培养更多大国工匠（解码“十五五”专项规划）",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687558.shtml",
-        "summary": "\n　　技能人才是支撑中国制造、中国创造的重要力量。“十四五”以来，我国技能人才规模进一步壮大、结构持续改善、作用更加突显，全国技能人才总量超过2.2亿人，其中高技能人才超7200万人，为经济社会高质量发展提供了坚实人才支撑。",
-        "pubDate": "2026-08-31T22:33:23+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
@@ -1884,9 +1884,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Learning never stops: How AI makes learning continuous",
-        "link": "https://openai.com/index/learning-never-stops",
-        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
         "pubDate": "2026-08-26T10:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1894,9 +1894,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+        "title": "Learning never stops: How AI makes learning continuous",
+        "link": "https://openai.com/index/learning-never-stops",
+        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
         "pubDate": "2026-08-26T10:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1975,16 +1975,6 @@
       },
       {
         "title": "Introducing Intelligence Age",
-        "link": "https://openai.com/index/introducing-ai-futures",
-        "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-        "pubDate": "2026-08-20T07:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Introducing Intelligence Age",
         "link": "https://openai.com/index/introducing-intelligence-age",
         "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
         "pubDate": "2026-08-20T07:00:00+00:00",
@@ -2028,6 +2018,16 @@
         "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
         "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
         "pubDate": "2026-08-18T22:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Strengthening democratic oversight in national security",
+        "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+        "pubDate": "2026-08-18T19:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2454,6 +2454,66 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "2017/2018 款 MacBook Pro 与 2018 款 MacBook Air 正式进入苹果过时名单",
+        "link": "https://www.ithome.com/0/996/699.htm",
+        "summary": "IT之家 9 月 1 日消息，苹果今日更新了过时产品名单，新增的设备包括：2018 款 13 英寸视网膜显示屏 MacBook Air；配备四个雷雳 3 端口的 2018 款 13 英寸 MacBook Pro；配备两个雷雳 3 端口的 2017 款 13 英寸 MacBook Pro。根据苹果的政策，当一款产品停止销售满五年即被归为“老旧产品”（Vintage），满七年则被列为“过时产品”（Obsolete）。老旧产品在零件供应充足的情况下仍可维修，而过时产品通常不再享有官方硬件维修服务，苹果也会停止生产相关维修部件。IT之家注：苹果对 Mac 笔记本电脑提供最长十年的电池专项维修政策，期限",
+        "pubDate": "2026-08-31T22:29:09+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "华为、小米、荣耀手机今日集体调价",
+        "link": "https://www.ithome.com/0/996/694.htm",
+        "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。华为 Mate 80：12GB+256GB 调价前 4,699 元，调价后 5,499 元12GB+512GB 调价前 5,199 元，调价后 5,999 元16GB+512GB 调价前 5,499 元，调价后 6,299 元16GB+1TB 调价前 6,499 元，调价后 7,299 元华为 Mate 80 Pro：12GB+256GB 调价前 5,999 元，调价后 6,999 元12GB+512GB 调价前 6,499 元，调价后 7,49",
+        "pubDate": "2026-08-31T17:54:32+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 watchOS 27.0 开发者预览版 Beta 8 发布",
+        "link": "https://www.ithome.com/0/996/693.htm",
+        "summary": " 【点此直达升级教程】  IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹",
+        "pubDate": "2026-08-31T17:30:07+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 visionOS 27.0 开发者预览版 Beta 8 发布",
+        "link": "https://www.ithome.com/0/996/692.htm",
+        "summary": " IT之家 9 月 1 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24M5361a），本次更新距离上次发布 Beta/RC 间隔 7 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史：  2026-08-25：visionOS 27.0 Beta 7 (24M5359a) 2026-08-18：visionOS 27.0 Beta 6 ",
+        "pubDate": "2026-08-31T17:30:07+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 macOS 27.0 开发者预览版 Beta 8 发布",
+        "link": "https://www.ithome.com/0/996/691.htm",
+        "summary": " IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / mac",
+        "pubDate": "2026-08-31T17:30:07+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 8 发布",
+        "link": "https://www.ithome.com/0/996/690.htm",
+        "summary": " 【点此直达升级教程】  IT之家 9 月 1 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24A5430a），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载",
+        "pubDate": "2026-08-31T17:30:06+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "菲尔 · 席勒卸任苹果 App Store 及产品发布会负责人职务",
         "link": "https://www.ithome.com/0/996/689.htm",
         "summary": "IT之家 9 月 1 日消息，据彭博社今日报道，Phil Schiller（菲尔 · 席勒）将辞去领导 App Store 和苹果发布会的职务。公开资料显示，菲尔 · 席勒（Phil Schiller）于 1960 年 6 月 8 日出生，毕业于波士顿学院并获得生物学学士学位，现任苹果院士（Apple Fellow）。菲尔 · 席勒于 1987 年加入苹果公司，1997 年随史蒂夫 · 乔布斯回归苹果。他曾担任苹果公司首席营销官。2020 年 8 月，席勒升任苹果院士，并负责领导 App Store 和苹果发布会（Apple Events）。报道还称，菲尔 · 席勒仍将担任苹果院士，并参与“未",
@@ -2588,66 +2648,6 @@
         "link": "https://www.ithome.com/0/996/669.htm",
         "summary": "IT之家 8 月 31 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日透露，方程 S 和方程 S GT 将在 9 月上市。据IT之家此前报道，8 月 20 日，两款新车开启全国预订，预订价格区间 23～28 万元。在 2026 成都车展上，比亚迪方程豹全新轿跑车型方程 S 和方程 S GT 两款新车完成实车全球首秀。工信部申报信息显示，方程 S 长宽高分别为 5060×1967×1483/1458mm，轴距 2960mm，整备质量 2140kg，总质量 2580kg，最高车速达到 240km/h。该车搭载一台峰值功率 245kW 或 300kW 的单电机，还有 190/300kW 的双电机可",
         "pubDate": "2026-08-31T14:55:35+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "水月雨「月之暗面」 平面磁式头戴式耳机 9 月 2 日发售，19999 元",
-        "link": "https://www.ithome.com/0/996/668.htm",
-        "summary": "IT之家 8 月 31 日消息，水月雨官方今天在微博宣布，旗下「月之暗面」 平面磁式头戴式耳机将于 9 月 2 日发售。据IT之家此前报道，这款耳机定价 19999 元，整体造型简洁，在外形材料方面引入“全多层复合碳纤维框架”，号称“源自腕表 / 赛车 / 航天材质工艺”，匹配柔性 3D 打印可调节头梁垫，号称拥有“优秀的抗冲击性和柔韧性”。此外，该耳机搭载 FDT 全面驱动技术，匹配 500nm 超薄振膜以及纯金驱动电路加玻璃 PCB 振膜固定板及高硬度 PMMA 单元框架，号称从“声学性能、谐波失真等多个维度入手，不计成本地投入研发，最终将之打磨至当下预想中的最优状态”。",
-        "pubDate": "2026-08-31T14:42:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "腾讯 QQ 鸿蒙版 App 获 9.2.60 正式版升级，好友聊天支持发送闪照",
-        "link": "https://www.ithome.com/0/996/666.htm",
-        "summary": "IT之家 8 月 31 日消息，腾讯 QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）推送了 9.2.60（3378）正式版升级。IT之家附更新内容如下：好友聊天支持发送闪照。空间动态支持收藏。扫一扫支持转文字。新增支持精选照片、匿问我答。新增支持手机联系人加好友。视频支持静音播放。新增支持首页下拉小程序。频道支持图片和视频发帖。新增收款码、群收款和转账功能。目前 QQ 鸿蒙版获 4.6 万个评分（评分 2.4），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端登录等功能。此外，QQ 还在去年 7 月正式上线鸿蒙电脑版，整",
-        "pubDate": "2026-08-31T14:33:09+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "火星地下存在巨大“热异常”：南半球内部温度比北半球高 400℃",
-        "link": "https://www.ithome.com/0/996/665.htm",
-        "summary": "IT之家 8 月 31 日消息，一项针对火星内部结构的新研究再次表明，这颗红色星球实际上是一个由两个截然不同“半球”组成的世界。研究发现，在火星南半球深处，其内部温度可能比北半球地下高出最高 750 华氏度（约 400 摄氏度），进一步加深了人们对火星奇特南北二分现象的疑问：为什么北部是一片相对平坦的低地，而南部却分布着崎岖的高原？“科学家通常假设，行星天体的内部结构总体上具有球对称性，但事实并不一定如此。”论文第一作者、曾任职于加州理工学院、现就职于亚利桑那大学的亚历山大 · 伯恩在一份声明中表示。伯恩及其团队重新分析了美国宇航局三艘火星探测器的历史数据，包括“火星全球勘测者号”、“火星奥德",
-        "pubDate": "2026-08-31T14:29:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "微信 2026 年 8 月朋友圈热度谣言公布，含“青岛大学新校徽像旭日旗”“新疆阿勒泰八月就能滑雪”等",
-        "link": "https://www.ithome.com/0/996/664.htm",
-        "summary": "IT之家 8 月 31 日消息，“微信安全中心”公众号今日公布 2026 年 8 月朋友圈热度谣言，主要涉及台风期间各类涉灾谣言、虚假骑手补贴等内容。IT之家附本月朋友圈热度谣言合集如下：1、浙江台州餐饮停业、骑手补贴 200 元？近期，网络流传“受台风‘白海豚’影响，8 月 8 日 18 时至 8 月 9 日 18 时，台州全市餐饮停业一天、外卖骑手统一休息并发放 200 元补贴，如有未发放，请拨打 12345 举报，举报属实可奖励 500–1000 元”等信息，引发部分市民关注。真相：经浙江省台州市有关部门核实，上述内容纯属谣言，台州市从未发布此类通知或安排。所谓“拨打 12345 举报奖",
-        "pubDate": "2026-08-31T14:22:49+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "快手：国家人工智能基金向北京可灵注入现金资本 14 亿元",
-        "link": "https://www.ithome.com/0/996/663.htm",
-        "summary": "IT之家 8 月 31 日消息，快手今日在港交所公告，北京可灵今日分别与国家人工智能基金及 Charoen Pokphand Robot Limited（正大机器人）订立加入协议。据此，国家人工智能基金及正大机器人各自同意作为额外投资者成为增资协议的订约方，并分别向北京可灵注入现金资本人民币 14 亿元及约 1929 万美元（相当于约人民币 1.31 亿元）。同日，北京可灵分别与国家人工智能基金及正大机器人订立股东协议的加入协议，国家人工智能基金及正大机器人均获授予回购权。IT之家注：国家人工智能产业投资基金（简称“国家人工智能基金”）总出资额约为 600.6 亿元人民币，由国家集成电路产业投",
-        "pubDate": "2026-08-31T14:16:24+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "技嘉 Brix 系列迷你主机现身官网：锐龙 AI 7 450/AI 5 430 处理器",
-        "link": "https://www.ithome.com/0/996/662.htm",
-        "summary": "IT之家 8 月 31 日消息，技嘉近日在官网悄悄上线了几款 Brix 系列迷你主机，新机采用 AMD Gorgon Point 平台，内存最高支持扩展至 96GB。IT之家了解到，本次技嘉官网上线的新机有 GB-BRR7-450 和 GB-BRR5-430 两款。前者搭载锐龙 AI 7 450 处理器、Radeon 860M 核显，后者配备锐龙 AI 5 430、Radeon 840M。规格方面，这两款迷你主机可通过 USB4 接口外接显卡。除此之外还提供 USB 2.0 Type-A、USB 3.2 Gen 2 Type-C、HDMI、2.5GbE 等接口。同时，这两款产品还可通过 SO-",
-        "pubDate": "2026-08-31T14:12:12+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2922,6 +2922,206 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
+      },
+      {
+        "title": "UPDF：AI 加持的全能 PDF 编辑器 (用过才知为啥大家都超级推荐！功能超全)",
+        "link": "https://www.iplaysoft.com/updf-editor.html",
+        "summary": "现在的工作与学习几乎离不开 PDF 文件：论文、发票、合同、课件、方案……但现实是，很多人仍在为“PDF 无法编辑”、“格式转换麻烦”、“批注不方便”而无比头疼。\n如果你需要寻找一款 功能强、速度快、支持 AI 的 PDF 编辑器，那「UPDF」很可能就是那个最佳答案！它不仅支持电脑和手机 APP，还提供网页版，功能覆盖学习办公中与 PDF 相关的所有需求。重点是，UPDF 界面非常精美，操作现代化， PDF 编辑、标注的体验也提高到新高度……\n「 前往查看原文.... 」异次元还有这些值得一看：MarginNote 4 - 颠覆学习方式的 iPad Mac 读书阅读笔记工具 (思维导图/知识",
+        "pubDate": "2026-08-31T14:44:53+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "白嫖 68 元 Token 额度！OpenSquilla 开源 Agent 送羊毛，多款模型随便调",
+        "link": "https://www.iplaysoft.com/p/opensquilla",
+        "summary": "玩过 AI Agent 的朋友应该都有同一个感受：这玩意儿好玩好用，但一个稍微复杂点的任务跑下来，多步规划、工具调用、长记忆加载，每一步都在疯狂吃 token，最要命的是很多人图省事，不管任务简单还是复杂，一股脑全都选旗舰贵模型，结果就是账单爆炸。明明一个摘要、格式整理这种轻量活儿，交…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-08-30T12:11:22+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Windows 11 25H2 最新官方正式版 ISO 镜像下载 (微软 MSDN 原版系统 / 网盘 BT 地址)",
+        "link": "https://www.iplaysoft.com/windows11.html",
+        "summary": "最近苹果发布了新版 macOS 系统之后，微软终于也更新了其最新一代的操作系统——Windows 11 2026 正式版 了！并且微软还很厚道地宣布「Win11 可从 Win7/8/10 完全免费升级」。\n新版的 Windows 11 系统相比 Win10 带来很多显著的变化，比如全新设计的现代化界面、集成 Copilot AI 助手 、窗口布局管理、Linux 子系统 / Android 子系统、Widgets 小工具、新的应用商店、支持 XBox Game Pass 订阅、支持云游戏、DirectX 12、AutoHDR 等更强大的游戏体验……\n「 前往查看原文.... 」异次元还有这些值",
+        "pubDate": "2026-08-30T06:40:31+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Ubuntu 26.04.1 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统",
+        "link": "https://www.iplaysoft.com/ubuntu.html",
+        "summary": "说到最红火的 Linux 发行版当属 Ubuntu 了！它拥有漂亮的 UI 界面，跟 macOS 风格相比也有过之而无不及，而当你试过这款操作系统后，可能会对 Linux 刻板枯燥的印象产生巨大的改变。\n在 Ubuntu 的世界里，已经不再只是简陋的界面+命令行，而是一款时尚易用同时又足够实用的操作系统，网上也有着最丰富的资料。对大多数没接触过 Linux 想尝鲜学习的话，Ubuntu 绝对是入门首选。那么，究竟有什么魅力让那么多非技术爱好者也为之疯狂？我们一起来看看吧……\n「 前往查看原文.... 」异次元还有这些值得一看：《Linux 就该这么学》PDF 电子书下载 - 更适合零基础新手入",
+        "pubDate": "2026-08-29T14:03:00+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "微软 Windows Server 2025 LTSC 最新正式版官方 ISO 镜像下载 - 服务器系统 MSDN 原版",
+        "link": "https://www.iplaysoft.com/windows-server-2025.html",
+        "summary": "随着 Windows 11 新版本发布之后，微软终于也正式推出了 Windows Server 2025 服务器操作系统了！这是一款专门面向企业和服务提供商的先进可靠的服务器系统。\nWindows Server 2025 LTSC 是微软迄今为止成功的企业级服务器系统，它继承了 2022 的优点并基于 Win11 作为内核，进一步提升了安全性、性能、稳定性和灵活性，引入了许多服务器相关创新。无论是运行各类网络服务、Iot、大数据分析、虚拟化、AI 的支持，都提供了卓越能力...\n「 前往查看原文.... 」异次元还有这些值得一看：微软 Windows Server 2022 LTSC 最新正式",
+        "pubDate": "2026-08-29T12:30:53+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "最新 Parallels Desktop 27 虚拟机下载！在 Mac 上流畅运行 Win11 系统和软件",
+        "link": "https://www.iplaysoft.com/pd27.html",
+        "summary": "买了 Mac 之后，你是不是也遇到过这种抓狂时刻：公司指定的软件只有 Windows 版，券商看盘软件不支持 Mac，财务软件死活装不上，好不容易在 Epic 领个免费游戏，压根没 Mac 版。\n就为了这偶尔的需求再添一台 PC？钱包和桌面都受不了。其实真不用纠结，在 Mac 上装一个 Parallels Desktop 27 虚拟机，就能让 Win+Mac 两套系统同时运行！不用重启、不用来回切换，直接在 macOS 上运行 Win 应用软件。 PD27 升级后跑得更流畅，AI 计算也搬上了本地……\n「 前往查看原文.... 」异次元还有这些值得一看：Parallels Desktop 27",
+        "pubDate": "2026-08-27T10:35:23+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "最新 Windows 11 ARM 系统原版 ISO 镜像下载 - 支持苹果 M 芯片 Mac 安装 (PD 虚拟机)",
+        "link": "https://www.iplaysoft.com/windows11-arm.html",
+        "summary": "苹果在新款的 Mac 电脑上推出了 Apple M 系列自研芯片处理器，出色的性能和功耗使其大获成功！然而苹果芯片采用的 ARM 架构与以往常用的 X86 / X64 架构软件并不兼容。\n想要在苹果芯片的 Mac 上安装 Windows，除了需要最新版的 Parallels Desktop 虚拟机外，还必须下载 Windows ARM 架构版本镜像！目前微软已发布 Windows 11 ARM 正式版的 ISO 镜像了。我们终于能在一些 ARM 设备 / 服务器 / 手机和新 Mac 上安装流畅运行 Win11 了……\n「 前往查看原文.... 」异次元还有这些值得一看：VirtualBox ",
+        "pubDate": "2026-08-26T07:29:52+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Tessoa - 极致性能的 Win / Mac / Linux 跨平台文件管理器 (分栏/分屏/键盘/文件标签)",
+        "link": "https://www.iplaysoft.com/tessoa.html",
+        "summary": "Windows 上有 File Pilot，macOS 上有 QSpace，都很好用，可惜各自只有一个平台。我三个系统都在用，来回换机器就得完全换一套操作习惯，非常烦！！所以决定自己开发 Tessoa。\n技术上：全 Rust 开发追求性能优先！界面直接调 GPU 绘制，没有 Electron、没有 WebView、没有 Qt/GTK。单文件，解压就能跑，性能卓越。最重要的是，Tessoa 在 Win / Mac / Linux 三个平台同一套代码，操作习惯完全一致！而且在功能和追求效率上也完全不妥协……\n「 前往查看原文.... 」异次元还有这些值得一看：Directory Opus 13 -",
+        "pubDate": "2026-08-24T05:33:54+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Mole - 在 Github 上好评如潮的 Mac 清理软件！垃圾缓存清理/卸载/优化效果出色",
+        "link": "https://www.iplaysoft.com/mole.html",
+        "summary": "今年一款 Mac 工具在开发者圈子里悄然走红，目前在 GitHub 上已收获 6 万多星标收藏，连 Paul Graham (保罗·格雷厄姆，世界知名程序员、投资人) 都曾专门发文讨论它。它就是 Mole！\nMole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，获得了无数好评。但命令行始终难以上手，于是作者用 Swift 原生开发了 Mole for Mac 版，并增加缓存清理、应用卸载、磁盘分析、硬件监控、系统优化五大功能，让更多用户都能用上这款好评如潮的清理优化工具……\n「 前往查看原文.... 」异次元还有这些值得一看：FluentCleaner 开源垃圾清理工具 - 在 C",
+        "pubDate": "2026-08-22T03:54:32+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)",
+        "link": "https://www.iplaysoft.com/motrix2.html",
+        "summary": "用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。\n这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……\n「 前往查看原文.... 」异次元还有这些值得一看：“狗屁下载器”？Gopeed - 开源全平台下载器 (免费轻量 /",
+        "pubDate": "2026-08-18T19:19:33+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了",
+        "link": "https://www.iplaysoft.com/p/deepseek-harness",
+        "summary": "如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。\n\n就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;",
+        "pubDate": "2026-08-14T18:55:46+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)",
+        "link": "https://www.iplaysoft.com/deepseek-v4.html",
+        "summary": "今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！\n现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……\n「 前往查看原文.... 」异次元还有这些值得一看：被吹爆的 DeepSeek！拥有“东",
+        "pubDate": "2026-08-13T10:02:41+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件",
+        "link": "https://www.iplaysoft.com/linkly-ai-clipper.html",
+        "summary": "我的浏览器长期收藏着很多宝藏网站，如一些行业洞察、还有 YouTube 上的深度采访视频、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。\n但收藏夹既无法变成可被搜索的资料，也无法成为 Workbuddy、Codex 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 Linkly AI Clipper，它做的事情很简单：把当前网页转换成 Markdown 格式，在浏览器侧边栏可以预览、复制或直接下载 .md 到本地永久保存……\n「 前往查看原文.... 」异次元还有这些值得一看：Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收",
+        "pubDate": "2026-08-11T19:09:52+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)",
+        "link": "https://www.iplaysoft.com/readfrog.html",
+        "summary": "我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。\n直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……\n「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉",
+        "pubDate": "2026-08-07T17:19:21+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)",
+        "link": "https://www.iplaysoft.com/andromeld.html",
+        "summary": "在日常工作中，我们经常要使用电脑和手机来协同完成工作。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。\n但如果用的是 Mac + 安卓手机，那光是文件传输，就让人头大了。AndroMeld 就是一款能让你的 Android 设备和 macOS 电脑无缝连接的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……\n「 前往查看原文.... 」异次元还有这些值得一看：Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)Escrc",
+        "pubDate": "2026-08-03T16:47:45+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件",
+        "link": "https://www.iplaysoft.com/eagle-sale-202603.html",
+        "summary": "相信大家都平时都会收藏一些壁纸，设计素材，摄影照片等等资源。加上现在人工智能 AI 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。\nEagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，帮你轻松收集及整理「案例、灵感、图片、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有效率。而在过去一年仅一次打折的 Eagle，这次跟随「夏季大促」也带来 7 折优惠！绝对值得入手……\n「 前往查看原文.... 」异次元还有这些值得一看：超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)快到离谱",
+        "pubDate": "2026-08-01T13:30:21+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…",
+        "link": "https://www.iplaysoft.com/news/6580",
+        "summary": "最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！\n\n正版软件夏促会场\n活动时间：2026 年 7 月 28 日 - 8 月 13 日，结算时使用优惠码：异次元帮我省还能获得折上折！特惠软件重点推介：\n…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-07-30T10:00:39+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "CloudCone 低价美国 VPS 服务器：“九周年促销” $18年付/续费同价…",
+        "link": "https://www.iplaysoft.com/p/cloudcone",
+        "summary": "CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。\n\n和 RackNerd 定位相似，CC 的产品定价较低，遇到打折促销活动还会出现一些性价比超高的打折机型，十多美金的年付主机，无论是用来建站…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nb",
+        "pubDate": "2026-07-28T18:07:51+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "这香吗？Scramble Cloud 终身永久 20TB 网盘 (支持 WebDAV / 适合长期备份)",
+        "link": "https://www.iplaysoft.com/p/scramble-cloud",
+        "summary": "随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。\n\n除了之前主打永久的「Koofr」之外，最近又看到了一款德国的 Scramble Cloud 网盘，提供多个更大容量档位的终身版订…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-07-26T16:34:35+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)",
+        "link": "https://www.iplaysoft.com/obsidian.html",
+        "summary": "以前我也觉得，笔记软件不就那回事吗？能记、能搜索、能同步，差不多就行。Notion、思源笔记、印象笔记、有道云、OneNote，基本都轮了一圈，结果总是这样或那样的失望……\n存了一大堆笔记，用的时候不是找不到，就是资料太多太乱人工难以整理；而想换工具，导出功能各种限制；好不容易养成习惯，平台一改规则又得重来。加上 AI 时代彻底变革，在经历反复横跳后，我最终决定把免费的 Obsidian 当成主力工具，用它来做学习/写作/知识管理……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离",
+        "pubDate": "2026-07-25T14:14:01+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
       }
     ],
     "edu": [
