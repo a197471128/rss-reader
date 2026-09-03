@@ -1,13 +1,103 @@
 {
-  "updated": "2026-09-03T19:11:26.754581+00:00",
+  "updated": "2026-09-03T22:24:35.856762+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 385
+    "total_articles": 387
   },
   "articles": {
     "hot": [
+      {
+        "title": "拜仁慕尼黑胜奥斯纳布吕克 热度：3206489",
+        "link": "https://www.baidu.com/s?wd=%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E8%83%9C%E5%A5%A5%E6%96%AF%E7%BA%B3%E5%B8%83%E5%90%95%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间9月2日，在德国奥斯纳布吕克举行的2026-2027赛季德国杯足球赛首轮比赛中，拜仁慕尼黑队客场4比1战胜奥斯纳布吕克队。",
+        "pubDate": "2026-09-04T05:01:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "佛得角大使携夫人抵达湖南永州 热度：3524654",
+        "link": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A4%A7%E4%BD%BF%E6%90%BA%E5%A4%AB%E4%BA%BA%E6%8A%B5%E8%BE%BE%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-04T05:01:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "00后陈玉婕任女篮世界杯队长 热度：3888122",
+        "link": "https://www.baidu.com/s?wd=00%E5%90%8E%E9%99%88%E7%8E%89%E5%A9%95%E4%BB%BB%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%9F%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，中国女篮公布世界杯12人大名单，00后陈玉婕出任队长。此前，陈玉婕曾在大运会决赛率队夺冠并砍下19分。仅一年时间，她从首次入选五人制国家队到戴...",
+        "pubDate": "2026-09-04T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "两大飓风和热带风暴罕见共舞 热度：4191359",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E9%A3%93%E9%A3%8E%E5%92%8C%E7%83%AD%E5%B8%A6%E9%A3%8E%E6%9A%B4%E7%BD%95%E8%A7%81%E5%85%B1%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "据法新社9月2日报道，两个强大的飓风“洛厄尔”和“卡琳娜”与一个正在加强的热带风暴“玛丽”已形成，2日穿越到了太平洋，这是历史罕见的强大的厄尔尼诺现...",
+        "pubDate": "2026-09-04T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "人人影视回归变正版会员25元1个月 热度：4373728",
+        "link": "https://www.baidu.com/s?wd=%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86%E5%9B%9E%E5%BD%92%E5%8F%98%E6%AD%A3%E7%89%88+%E4%BC%9A%E5%91%9825%E5%85%831%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月3日，人人影视更名“人人影视分享精彩”并上架正版APP，月费25元，有用户称“带着情怀下载”。此前，人人影视因侵犯著作权于2021年被查处，创始...",
+        "pubDate": "2026-09-04T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "法学本科生较真告赢华夏航空 热度：5512388",
+        "link": "https://www.baidu.com/s?wd=%E6%B3%95%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BE%83%E7%9C%9F%E5%91%8A%E8%B5%A2%E5%8D%8E%E5%A4%8F%E8%88%AA%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-04T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "福建暴雨致二十头牛被困河滩 热度：5610507",
+        "link": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%9A%B4%E9%9B%A8%E8%87%B4%E4%BA%8C%E5%8D%81%E5%A4%B4%E7%89%9B%E8%A2%AB%E5%9B%B0%E6%B2%B3%E6%BB%A9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "3日，受台风影响，福州闽清遭遇暴雨，二十头牛被洪水围困在河滩。当地村委表示，水位下退，牛群已自行赶到防洪堤下离开。起因是台风过境导致河水猛涨，牛群退...",
+        "pubDate": "2026-09-04T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "男子为逃避结石手术术前反复跳跃蹲起 热度：6272387",
+        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E9%80%83%E9%81%BF%E7%BB%93%E7%9F%B3%E6%89%8B%E6%9C%AF%E6%9C%AF%E5%89%8D%E5%8F%8D%E5%A4%8D%E8%B7%B3%E8%B7%83%E8%B9%B2%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-04T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小团队做了台AI对讲机3天众筹1000% 热度：6380924",
+        "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%9B%A2%E9%98%9F%E5%81%9A%E4%BA%86%E5%8F%B0AI%E5%AF%B9%E8%AE%B2%E6%9C%BA+3%E5%A4%A9%E4%BC%97%E7%AD%B91000%25&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，杭州一个小团队研发的AI对讲机在Kickstarter众筹到13.45万美元（约105万港币）。相比上架时的目标1.27万美元（约10万港币）...",
+        "pubDate": "2026-09-04T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "希望韩方切实践行一个中国原则 热度：3101230",
         "link": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%9C%9B%E9%9F%A9%E6%96%B9%E5%88%87%E5%AE%9E%E8%B7%B5%E8%A1%8C%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99&sa=fyb_news&rsv_dl=fyb_news",
@@ -119,94 +209,14 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "“20后”小学生的古风名来了 热度：4355571",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C20%E5%90%8E%E2%80%9D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%A4%E9%A3%8E%E5%90%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，“子涵梓萱的时代已成过去式”话题引发热议。此前多地小学迎来首批“20后”新生报到，花名册中曾经扎堆的“子涵”“梓萱”被“皓荀”“瑾熙”等古风名...",
-        "pubDate": "2026-09-04T00:01:48+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "2小时推进不到5米抢通为何这么难 热度：4462057",
-        "link": "https://www.baidu.com/s?wd=2%E5%B0%8F%E6%97%B6%E6%8E%A8%E8%BF%9B%E4%B8%8D%E5%88%B05%E7%B1%B3+%E6%8A%A2%E9%80%9A%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月2日上午，G216线通往吉隆口岸的3公里国道经七昼夜抢修基本抢通。此次抢通极为艰难，因峡谷地带大型机械受限只能“一线推进”，且部分路段流速达每秒...",
-        "pubDate": "2026-09-04T00:01:48+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "4年亏超200亿康佳拟主动退市 热度：4544238",
-        "link": "https://www.baidu.com/s?wd=4%E5%B9%B4%E4%BA%8F%E8%B6%85200%E4%BA%BF+%E5%BA%B7%E4%BD%B3%E6%8B%9F%E4%B8%BB%E5%8A%A8%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月3日，康佳集团发布公告，股票自9月4日起停牌B股在深交所的上市交易。此前，因激进跨界及主业失血，公司2022年至2025年累亏超200亿元，20...",
-        "pubDate": "2026-09-04T00:01:47+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "大一新生还没入学先背上分期债 热度：4735576",
-        "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E8%BF%98%E6%B2%A1%E5%85%A5%E5%AD%A6%E5%85%88%E8%83%8C%E4%B8%8A%E5%88%86%E6%9C%9F%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近期，记者调查发现不少大学新生落入“先学后付”陷阱。起因是营销人员伪装学长，以“边学边赚”诱导学生分期购买粗制滥造的培训课，想解约却被索要高额违约金...",
-        "pubDate": "2026-09-04T00:01:47+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "男子陪小三打胎签200万分手协议 热度：4839635",
-        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%99%AA%E5%B0%8F%E4%B8%89%E6%89%93%E8%83%8E%E7%AD%BE200%E4%B8%87%E5%88%86%E6%89%8B%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "",
-        "pubDate": "2026-09-04T00:01:47+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "AI短剧“千人一面” 热度：4937087",
-        "link": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%8D%83%E4%BA%BA%E4%B8%80%E9%9D%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近期，多家短剧平台出台新规整治高频AI脸。“千人一面”是技术难题还是创作取舍？据河南郑州某机构负责人介绍，若放弃量产路线改做差异化，精品剧制作耗时...",
-        "pubDate": "2026-09-04T00:01:46+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "教官在新生面前像个新兵蛋子 热度：5039104",
-        "link": "https://www.baidu.com/s?wd=%E6%95%99%E5%AE%98%E5%9C%A8%E6%96%B0%E7%94%9F%E9%9D%A2%E5%89%8D%E5%83%8F%E4%B8%AA%E6%96%B0%E5%85%B5%E8%9B%8B%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，北京体育大学军训期间，两位女生进行武术表演，动作干净利落且充满气势。教官看后感叹自己在新生面前像个“新兵蛋子”，并称隔着屏幕都热血沸腾。",
-        "pubDate": "2026-09-04T00:01:46+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "财商祖师爷欠了85亿 热度：5128374",
-        "link": "https://www.baidu.com/s?wd=%E8%B4%A2%E5%95%86%E7%A5%96%E5%B8%88%E7%88%B7%E6%AC%A0%E4%BA%8685%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月1日，《富爸爸穷爸爸》作者罗伯特·清崎自曝背负约12亿美元（约85亿元人民币）债务。其前妻解释，该债务系清崎与合伙人共同持有的约1500套公寓项...",
-        "pubDate": "2026-09-04T00:01:45+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "男子在夜市被5名大妈按摩按到发红 热度：5222818",
-        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A4%9C%E5%B8%82%E8%A2%AB5%E5%90%8D%E5%A4%A7%E5%A6%88%E6%8C%89%E6%91%A9%E6%8C%89%E5%88%B0%E5%8F%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "",
-        "pubDate": "2026-09-04T00:01:45+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 阿里又多了一个Agent赛马 ",
+        "link": "https://www.huxiu.com/article/4888426.html?f=rss",
+        "summary": " 本文来自微信公众号： 奇点湃AI ，作者：王橙澄9月2日，阿里又上线了一个Agent产品。名字叫“万有无界”。按照阿里云的定义，这是一款企业级“人与Agent协作平台”。复杂任务可以被拆给多个Agent，人和Agent共同参与项目，过程和结果最终沉淀进企业账户。过去是一个Agent替人干活，现在是一群Agent一起干活。方向并不意外，意外的是时间。一个月前，阿里刚刚整合过一轮Agent。QoderWork、MuleRun和来自钉钉体系的悟空，被重新收进千问办公。一个负责电脑操作，一个强调云端执行，一个依托企业协同，三条不同路线最终被放到了“千问”下面。看起来像一次收口。一个月后，万有无界出现",
+        "pubDate": "2026-09-04T05:47:19+08:00",
+        "author": " 奇点湃 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 车企扎堆造机器人：四个轮子的焦虑与两条腿的赌局 ",
@@ -1824,6 +1834,46 @@
     "finance": [],
     "tech": [
       {
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "pubDate": "2026-09-03T13:15:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+        "pubDate": "2026-09-03T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "pubDate": "2026-09-03T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Safety overview: GPT-6 Astra",
+        "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+        "pubDate": "2026-09-03T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
         "link": "https://openai.com/index/atv-big-air-tour",
         "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
@@ -1984,44 +2034,14 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "The full stack behind abundant intelligence",
-        "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-        "pubDate": "2026-08-25T07:05:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-        "pubDate": "2026-08-25T07:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-        "pubDate": "2026-08-25T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-        "link": "https://openai.com/index/introducing-admin-plugin",
-        "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-        "pubDate": "2026-08-25T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 阿里又多了一个Agent赛马 ",
+        "link": "https://www.huxiu.com/article/4888426.html?f=rss",
+        "summary": " 本文来自微信公众号： 奇点湃AI ，作者：王橙澄9月2日，阿里又上线了一个Agent产品。名字叫“万有无界”。按照阿里云的定义，这是一款企业级“人与Agent协作平台”。复杂任务可以被拆给多个Agent，人和Agent共同参与项目，过程和结果最终沉淀进企业账户。过去是一个Agent替人干活，现在是一群Agent一起干活。方向并不意外，意外的是时间。一个月前，阿里刚刚整合过一轮Agent。QoderWork、MuleRun和来自钉钉体系的悟空，被重新收进千问办公。一个负责电脑操作，一个强调云端执行，一个依托企业协同，三条不同路线最终被放到了“千问”下面。看起来像一次收口。一个月后，万有无界出现",
+        "pubDate": "2026-09-04T05:47:19+08:00",
+        "author": " 奇点湃 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 车企扎堆造机器人：四个轮子的焦虑与两条腿的赌局 ",
