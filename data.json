@@ -1,212 +1,232 @@
 {
-  "updated": "2026-09-05T16:38:27.362625+00:00",
+  "updated": "2026-09-05T20:07:27.529655+00:00",
   "summary": {
     "total": 78,
-    "success": 33,
-    "fail": 45,
-    "total_articles": 411
+    "success": 32,
+    "fail": 46,
+    "total_articles": 395
   },
   "articles": {
     "hot": [
       {
-        "title": "男子看“小姐姐暴露视频”被骗上万 热度：3108607",
-        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E2%80%9C%E5%B0%8F%E5%A7%90%E5%A7%90%E6%9A%B4%E9%9C%B2%E8%A7%86%E9%A2%91%E2%80%9D%E8%A2%AB%E9%AA%97%E4%B8%8A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，家住宁波市海曙区的王先生在刷网络视频时，被一条露骨的内容吸引。接着自称“红娘”“数据专员”的人接连登场，最终骗取王先生14000多块钱。",
-        "pubDate": "2026-09-05T20:02:37+08:00",
+        "title": "王赫野回应跳舞像赵四 热度：3111250",
+        "link": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%B5%AB%E9%87%8E%E5%9B%9E%E5%BA%94%E8%B7%B3%E8%88%9E%E5%83%8F%E8%B5%B5%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "此前，王赫野在跳舞时被网友调侃像赵四。对此王赫野回应：我自己看了都笑了。他表示能给大家带来欢乐很荣幸，自己跳舞进步空间很大，以后会多多挑战舞蹈。",
+        "pubDate": "2026-09-06T00:02:24+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "兰州榆中通报莴笋收购环节染色 热度：3300293",
-        "link": "https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%A6%86%E4%B8%AD%E9%80%9A%E6%8A%A5%E8%8E%B4%E7%AC%8B%E6%94%B6%E8%B4%AD%E7%8E%AF%E8%8A%82%E6%9F%93%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月5日，甘肃兰州榆中县农业农村局、市场监管局发布通报。针对此前网上反映的“莴笋收购环节染色”问题，两部门近日对全县53家蔬菜收购主体开展联合检查，...",
-        "pubDate": "2026-09-05T20:02:37+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《虹猫蓝兔七侠传》发长文 热度：3433412",
-        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E8%99%B9%E7%8C%AB%E8%93%9D%E5%85%94%E4%B8%83%E4%BE%A0%E4%BC%A0%E3%80%8B%E5%8F%91%E9%95%BF%E6%96%87&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月5日，《虹猫蓝兔七侠传》主创团队发布二十周年长文，回顾动画创作历程，感谢观众二十年来的陪伴，并透露全新动画项目已启动，4K高清修复版播出，二十周...",
-        "pubDate": "2026-09-05T20:02:37+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "上大学前几天档案被当垃圾扔了 热度：3520497",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%87%A0%E5%A4%A9%E6%A1%A3%E6%A1%88%E8%A2%AB%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，东莞一名准大学生小谢（化名）临近读大学，却在聚餐时将学籍档案遗落在店内，并被烧烤店人员误当成垃圾丢弃。最终，民警联合环卫工人成功找回。",
-        "pubDate": "2026-09-05T20:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "闽超：南平vs漳州 热度：3582795",
-        "link": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%EF%BC%9A%E5%8D%97%E5%B9%B3vs%E6%BC%B3%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年福建省城市足球联赛第十三轮比赛南平队VS漳州队，9月5日在南平市体育中心体育场开战，请锁定直播间！",
-        "pubDate": "2026-09-05T20:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "母子湖边吹风全身多处莫名刺痛 热度：3685243",
-        "link": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%AD%90%E6%B9%96%E8%BE%B9%E5%90%B9%E9%A3%8E%E5%85%A8%E8%BA%AB%E5%A4%9A%E5%A4%84%E8%8E%AB%E5%90%8D%E5%88%BA%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月3日，江苏昆山周女士受访回忆，8月27日下午她与儿子在淀山湖边休息后，身体多处陆续出现针刺般疼痛。就医时医生借助皮肤镜从两人身上取出近三十处细小...",
-        "pubDate": "2026-09-05T20:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "原来骑牦牛上学是真的 热度：3799690",
-        "link": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E9%AA%91%E7%89%A6%E7%89%9B%E4%B8%8A%E5%AD%A6%E6%98%AF%E7%9C%9F%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，草原趣味活动中，一萌娃骑小牦牛上场。网友：原来骑牦牛上学是真的！",
-        "pubDate": "2026-09-05T20:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "特斯拉Cybercab“出师不利” 热度：3881945",
-        "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E2%80%9C%E5%87%BA%E5%B8%88%E4%B8%8D%E5%88%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月4日晚，特斯拉股价收跌5.92%，市值蒸发约900亿美元（约6040亿元人民币）。此前，9月3日特斯拉在美国得州奥斯汀举行Cybercab发布会...",
-        "pubDate": "2026-09-05T20:02:35+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "闽超：宁德vs平潭 热度：3982876",
-        "link": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%EF%BC%9A%E5%AE%81%E5%BE%B7vs%E5%B9%B3%E6%BD%AD&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年福建省城市足球联赛第十三轮比赛宁德队VS平潭队，9月5日在宁德市体育中心体育场开战，请锁定直播间！",
-        "pubDate": "2026-09-05T20:02:35+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "直击东北超：延边vs大连 热度：4098410",
-        "link": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%B8%9C%E5%8C%97%E8%B6%85%EF%BC%9A%E5%BB%B6%E8%BE%B9vs%E5%A4%A7%E8%BF%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "社牛新生与校领导畅谈求合影 热度：3425865",
+        "link": "https://www.baidu.com/s?wd=%E7%A4%BE%E7%89%9B%E6%96%B0%E7%94%9F%E4%B8%8E%E6%A0%A1%E9%A2%86%E5%AF%BC%E7%95%85%E8%B0%88%E6%B1%82%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-09-05T20:02:34+08:00",
+        "pubDate": "2026-09-06T00:02:23+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "保时捷密密麻麻贴满寻亲信息 热度：4188027",
-        "link": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E8%B4%B4%E6%BB%A1%E5%AF%BB%E4%BA%B2%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，在云南昆明，27岁车主杜林将其保时捷贴满90余份失踪儿童寻亲信息，化作流动寻亲告示牌。此前，他刷到寻人贴纸公益内容，觉得零散派发传播有限，便萌...",
-        "pubDate": "2026-09-05T20:02:34+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "福建泉州出现绿色天空当地回应 热度：4267025",
-        "link": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E%E5%87%BA%E7%8E%B0%E7%BB%BF%E8%89%B2%E5%A4%A9%E7%A9%BA+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月4日，福建石狮市祥芝中心渔港及镇政府工作人员回应“泉州夜空现绿光”称，实为渔船捕捞作业灯光。据悉，因鱿鱼对绿光最敏感，渔船开灯以诱捕聚集，属正常...",
-        "pubDate": "2026-09-05T20:02:34+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "直击苏超：盐城vs徐州 热度：4364675",
-        "link": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8B%8F%E8%B6%85%EF%BC%9A%E7%9B%90%E5%9F%8Evs%E5%BE%90%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月5日19:10，直播联赛2026赛季第二十周盐城VS徐州，谁能取胜？一起来看。",
-        "pubDate": "2026-09-05T20:02:33+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "特斯拉无人驾驶电车内只有座椅和屏幕 热度：4460319",
-        "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%94%B5%E8%BD%A6%E5%86%85%E5%8F%AA%E6%9C%89%E5%BA%A7%E6%A4%85%E5%92%8C%E5%B1%8F%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月3日，特斯拉在美国得州奥斯汀正式发布并投入运营Cybercab赛博无人驾驶电动车。该车彻底取消方向盘、踏板和后视镜，座舱内仅保留两张长椅式座椅与...",
-        "pubDate": "2026-09-05T20:02:33+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "长沙女子新房门窗缝隙能塞进4根手指 热度：4544073",
-        "link": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A5%B3%E5%AD%90%E6%96%B0%E6%88%BF%E9%97%A8%E7%AA%97%E7%BC%9D%E9%9A%99%E8%83%BD%E5%A1%9E%E8%BF%9B4%E6%A0%B9%E6%89%8B%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "佛山两名小学生凑钱给陌生人买伞 热度：3509612",
+        "link": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E4%B8%A4%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%87%91%E9%92%B1%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA%E4%B9%B0%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-09-05T20:02:33+08:00",
+        "pubDate": "2026-09-06T00:02:23+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "美总统特使抵达莫斯科 热度：4657020",
-        "link": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E7%89%B9%E4%BD%BF%E6%8A%B5%E8%BE%BE%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间9月5日，美国总统特使威特科夫和特朗普女婿库什纳乘专机抵达莫斯科。两人将访问俄罗斯和乌克兰，并携带特朗普提出的“结束战争”方案，计划与俄乌方...",
-        "pubDate": "2026-09-05T20:02:32+08:00",
+        "title": "4架退役客机将以400万元底价拍卖 热度：3615382",
+        "link": "https://www.baidu.com/s?wd=4%E6%9E%B6%E9%80%80%E5%BD%B9%E5%AE%A2%E6%9C%BA%E5%B0%86%E4%BB%A5400%E4%B8%87%E5%85%83%E5%BA%95%E4%BB%B7%E6%8B%8D%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月5日，记者从拍卖平台获悉，空客A321、A320、A319和波音737-700共4架退役客机，将于2天后打包拍卖，起拍价为400万元。",
+        "pubDate": "2026-09-06T00:02:23+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "闽超：泉州vs厦门 热度：4756743",
-        "link": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%EF%BC%9A%E6%B3%89%E5%B7%9Evs%E5%8E%A6%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年福建省城市足球联赛第十三轮比赛泉州队VS厦门队，9月5日在泉州市海峡体育中心场开战，请锁定直播间！",
-        "pubDate": "2026-09-05T20:02:32+08:00",
+        "title": "77岁老人伙同61岁前狱友入室盗窃 热度：3704061",
+        "link": "https://www.baidu.com/s?wd=77%E5%B2%81%E8%80%81%E4%BA%BA%E4%BC%99%E5%90%8C61%E5%B2%81%E5%89%8D%E7%8B%B1%E5%8F%8B%E5%85%A5%E5%AE%A4%E7%9B%97%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，上海奉贤警方侦破一起入室盗窃案，77岁张某因与前女友分手心生怨气，伙同61岁前狱友李某实施盗窃。两人趁前女友外出翻墙入室，盗走现金、黄金及首饰...",
+        "pubDate": "2026-09-06T00:02:22+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "多地精神病院更名 热度：5037123",
-        "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%9B%B4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，多地精神病院更名引发关注。郴州市精神病医院正式更名为郴州市第六人民医院，防城港市精神病医院更名为防城港市第四人民医院，株洲市精神病医院也改为株...",
-        "pubDate": "2026-09-05T20:02:32+08:00",
+        "title": "雷军公布小米澎程武士黑套装 热度：3795572",
+        "link": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%85%AC%E5%B8%83%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E6%AD%A6%E5%A3%AB%E9%BB%91%E5%A5%97%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-06T00:02:22+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "厄尔尼诺即将达“超强”级别 热度：5124653",
-        "link": "https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8D%B3%E5%B0%86%E8%BE%BE%E2%80%9C%E8%B6%85%E5%BC%BA%E2%80%9D%E7%BA%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "日前，国家气候中心监测显示本次厄尔尼诺即将达“超强”级别，有望成观测史最强。8月监测区海温指数达2.59℃，为1951年来同期最高。",
-        "pubDate": "2026-09-05T20:02:31+08:00",
+        "title": "异宠店2万元金刚鹦鹉飞走后又被抓回 热度：3879194",
+        "link": "https://www.baidu.com/s?wd=%E5%BC%82%E5%AE%A0%E5%BA%972%E4%B8%87%E5%85%83%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E9%A3%9E%E8%B5%B0%E5%90%8E%E5%8F%88%E8%A2%AB%E6%8A%93%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-06T00:02:22+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "上海女导购“薅”了公司72万余元 热度：5319410",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AF%BC%E8%B4%AD%E2%80%9C%E8%96%85%E2%80%9D%E4%BA%86%E5%85%AC%E5%8F%B872%E4%B8%87%E4%BD%99%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，上海虹口区检察院审查起诉了一起内部员工以职务便利将单位财物非法占为己有的案件。某品牌服装导购沈某某在两年多时间里，多次夹带门店商品离店并对外出...",
-        "pubDate": "2026-09-05T20:02:31+08:00",
+        "title": "《重案六组》前传导演回应还我季洁 热度：3967732",
+        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E3%80%8B%E5%89%8D%E4%BC%A0%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E8%BF%98%E6%88%91%E5%AD%A3%E6%B4%81&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "日前，《重案六组》前传《重案六组：消失的警号》上线，却因青年季洁“情绪外放、冲动易怒”，和原版那个“冷静克制、眼神能杀人”的季洁反差太大引来“还我季...",
+        "pubDate": "2026-09-06T00:02:21+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": "陈慧琳自曝在澳洲吃螃蟹中毒 热度：4078773",
+        "link": "https://www.baidu.com/s?wd=%E9%99%88%E6%85%A7%E7%90%B3%E8%87%AA%E6%9B%9D%E5%9C%A8%E6%BE%B3%E6%B4%B2%E5%90%83%E8%9E%83%E8%9F%B9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月3日，陈慧琳在香港出席活动时自曝，此前在澳洲陪儿子读书期间，一口气吃下相当于12只螃蟹份量的蟹膏及生蚝，导致食物中毒并爆发严重荨麻疹。随后她回香...",
+        "pubDate": "2026-09-06T00:02:21+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小沈阳现场拉票演小品引争议 热度：4182675",
+        "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E7%8E%B0%E5%9C%BA%E6%8B%89%E7%A5%A8%E6%BC%94%E5%B0%8F%E5%93%81%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，在《披荆斩棘2026》二公舞台上，小沈阳部落演绎拖拉机，带来长达5分钟强互动表演，将台下观众纳入其中，被网友调侃把歌唱舞台演成小品现场。表演中...",
+        "pubDate": "2026-09-06T00:02:21+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "张雪机车法国站第一回合获季军 热度：4262630",
+        "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E8%8E%B7%E5%AD%A3%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月5日，2026世界超级摩托车锦标赛（WSBK）法国站WorldSSP组别首场正赛在讷韦尔-马尼库尔赛道举行。中国摩托车制造商“张雪机车”的法国车...",
+        "pubDate": "2026-09-06T00:02:20+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "电影《梁祝·化蝶》宣布撤档 热度：4353264",
+        "link": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%A2%81%E7%A5%9D%C2%B7%E5%8C%96%E8%9D%B6%E3%80%8B%E5%AE%A3%E5%B8%83%E6%92%A4%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，电影《梁祝·化蝶》片方发公告称，经各方审慎决定，影片将调整上映档期，择日与观众见面。",
+        "pubDate": "2026-09-06T00:02:20+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "车企“围攻”动力电池 热度：4457314",
+        "link": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BC%81%E2%80%9C%E5%9B%B4%E6%94%BB%E2%80%9D%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月4日，小米汽车公布与中创新航、欣旺达动力三方合作，理想汽车则拟26.5亿元增资欣旺达动力成为第二大股东。主流车企纷纷布局动力电池以提升话语权并降...",
+        "pubDate": "2026-09-06T00:02:20+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "张雅琪被《花少8》剪掉了 热度：4661082",
+        "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%A2%AB%E3%80%8A%E8%8A%B1%E5%B0%918%E3%80%8B%E5%89%AA%E6%8E%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，有网友发现《花少8》正片播出时，张雅琪的送行镜头被精准清除，实现零出镜。此前，张雅琪作为《花少7》前辈为新一季嘉宾王可录制送行，路透已曝光。其...",
+        "pubDate": "2026-09-06T00:02:19+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "杭州给井柏然热得没招了 热度：4765508",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%BB%99%E4%BA%95%E6%9F%8F%E7%84%B6%E7%83%AD%E5%BE%97%E6%B2%A1%E6%8B%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "5日，井柏然现身浙江杭州，回应在《早春晴朗》中饰演的霸总栾念一角，表示“我比他好相处一点”。因围观粉丝热情高涨导致现场闷热，井柏然热到脱下西装外套露...",
+        "pubDate": "2026-09-06T00:02:19+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "普京下令未来三天不打击基辅 热度：4848048",
+        "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%BB%A4%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%A4%A9%E4%B8%8D%E6%89%93%E5%87%BB%E5%9F%BA%E8%BE%85&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间9月5日，俄罗斯总统新闻秘书佩斯科夫表示，普京已下令从当日午夜起的三昼夜内暂停对基辅实施打击，起因是美方代表将在基辅进行接触。",
+        "pubDate": "2026-09-06T00:02:19+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "DeepSeek被曝将采购16万颗华为芯片 热度：5027961",
+        "link": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月4日，据彭博社消息，DeepSeek计划在内蒙古建设的大型数据中心部署至少16万颗华为下一代昇腾950DT芯片，用于模型推理。",
+        "pubDate": "2026-09-06T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "夯爆了上海现绝美晚霞 热度：5120127",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%AF%E7%88%86%E4%BA%86+%E4%B8%8A%E6%B5%B7%E7%8E%B0%E7%BB%9D%E7%BE%8E%E6%99%9A%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月5日傍晚，上海天空出现绝美晚霞。此番景象吸引众多市民拍摄记录，相关照片在网络上引发刷屏热议。",
+        "pubDate": "2026-09-06T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "普京：乌克兰将人像狗一样赶上前线 热度：5225718",
+        "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%BA%BA%E5%83%8F%E7%8B%97%E4%B8%80%E6%A0%B7%E8%B5%B6%E4%B8%8A%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "俄罗斯媒体9月3日报道称，俄罗斯总统普京在符拉迪沃斯托克举行的东方经济论坛全体会议上发表讲话时表示，在乌克兰，人们像流浪狗一样被捕捉，并被强行送往战...",
+        "pubDate": "2026-09-06T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "大模型厂商纷纷“卖Token” 热度：5316982",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%82%E5%95%86%E7%BA%B7%E7%BA%B7%E2%80%9C%E5%8D%96Token%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。",
+        "pubDate": "2026-09-06T00:02:17+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": " “硬科技”提出者米磊：5万亿英伟达收的是“智商税” ",
+        "link": "https://www.huxiu.com/article/4887895.html?f=rss",
+        "summary": " 出品｜虎嗅科技组作者｜陈伊凡编辑｜苗正卿头图｜AI生成今年，中科创星创始合伙人米磊，已经四次站上港交所的敲钟台。其中投资时间最长的是驭势科技，2016&nbsp;年投，2026&nbsp;年上市，刚好十年，精确落在他说过的那个硬科技投资回报周期上：9&nbsp;到&nbsp;10&nbsp;年，最长&nbsp;11&nbsp;年。也是在今年&nbsp;7&nbsp;月，他的新书《硬科技浪潮：技术趋势、投资机遇与文明演进》出版。距离他&nbsp;2010&nbsp;年提出&ldquo;硬科技&rdquo;概念，过去了16年。如今的米磊，比过去更忙了，我们只能从他的两个会面之间，挤出交谈的时间。",
+        "pubDate": "2026-09-06T03:44:09+08:00",
+        "author": " 陈伊凡_YF ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 董秘越来越难当了 ",
+        "link": "https://www.huxiu.com/article/4888868.html?f=rss",
+        "summary": " 本文来自微信公众号： 王智远 ，作者：王智远现在上市公司跟股民说话，渠道多了去了，互动易、公众号、业绩说明会，隔三差五就有动静。2026年，这些动静开始挨罚了。1300万一张，950万一张，还有的吃了监管警示。罚单贴出来，股民都看愣了，这些公司说的话，拆开看句句属实。句句属实还挨罚，凭啥？这事得从头说。先说最近这一桩。8月26日，龙版传媒在半年报里写了一句话。首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万。股价的反应比什么解读都快，8月31日到9月4日，五个交易日，五个涨停板，累计涨幅61.14%，市值69.11亿。一家以教材教辅为主业的出版",
+        "pubDate": "2026-09-06T01:03:11+08:00",
+        "author": " 智远同学 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 算力出海是终局，token出海是愿景，模型出海是路径 ",
@@ -1641,6 +1661,16 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+        "summary": "\n　　受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
+        "pubDate": "2026-09-06T01:00:14+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "乒乓球德甲第四轮：樊振东独得两分帮助球队四轮全胜",
         "link": "https://www.chinanews.com.cn/ty/2026/09-06/10691225.shtml",
         "summary": "\n　　中新社德国杜塞尔多夫9月5日电  当地时间5日进行的2026-2027赛季德国乒乓球甲级联赛第四轮比赛中，巴黎奥运会男单冠军、中国运动员樊振东代表杜塞尔多夫俱乐部主场出战，独得两分，以大比分3:1战胜贝格诺伊施塔特俱乐部。",
@@ -1825,16 +1855,6 @@
         "link": "https://www.chinanews.com.cn/sh/2026/09-05/10691193.shtml",
         "summary": "\n　　中新网成都9月5日电 “Z世代”国际生态环境小记者工作坊(第二期)日前在成都开营。本期工作坊由生态环境部宣传教育中心等共同主办，来自19个国家的34名在华国际青年学生参加。",
         "pubDate": "2026-09-05T23:37:32+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "美军称打击伊朗三艘油轮",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
-        "summary": "\n　　当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
-        "pubDate": "2026-09-05T23:33:34+08:00",
         "author": "",
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
@@ -2042,6 +2062,26 @@
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
         "feedColor": "#7cff7c"
+      },
+      {
+        "title": " “硬科技”提出者米磊：5万亿英伟达收的是“智商税” ",
+        "link": "https://www.huxiu.com/article/4887895.html?f=rss",
+        "summary": " 出品｜虎嗅科技组作者｜陈伊凡编辑｜苗正卿头图｜AI生成今年，中科创星创始合伙人米磊，已经四次站上港交所的敲钟台。其中投资时间最长的是驭势科技，2016&nbsp;年投，2026&nbsp;年上市，刚好十年，精确落在他说过的那个硬科技投资回报周期上：9&nbsp;到&nbsp;10&nbsp;年，最长&nbsp;11&nbsp;年。也是在今年&nbsp;7&nbsp;月，他的新书《硬科技浪潮：技术趋势、投资机遇与文明演进》出版。距离他&nbsp;2010&nbsp;年提出&ldquo;硬科技&rdquo;概念，过去了16年。如今的米磊，比过去更忙了，我们只能从他的两个会面之间，挤出交谈的时间。",
+        "pubDate": "2026-09-06T03:44:09+08:00",
+        "author": " 陈伊凡_YF ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 董秘越来越难当了 ",
+        "link": "https://www.huxiu.com/article/4888868.html?f=rss",
+        "summary": " 本文来自微信公众号： 王智远 ，作者：王智远现在上市公司跟股民说话，渠道多了去了，互动易、公众号、业绩说明会，隔三差五就有动静。2026年，这些动静开始挨罚了。1300万一张，950万一张，还有的吃了监管警示。罚单贴出来，股民都看愣了，这些公司说的话，拆开看句句属实。句句属实还挨罚，凭啥？这事得从头说。先说最近这一桩。8月26日，龙版传媒在半年报里写了一句话。首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万。股价的反应比什么解读都快，8月31日到9月4日，五个交易日，五个涨停板，累计涨幅61.14%，市值69.11亿。一家以教材教辅为主业的出版",
+        "pubDate": "2026-09-06T01:03:11+08:00",
+        "author": " 智远同学 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 算力出海是终局，token出海是愿景，模型出海是路径 ",
@@ -2972,206 +3012,6 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
-      },
-      {
-        "title": "GPT-6 Astra 上线！有什么重磅新变化？为什么说 AGI 新时代来了？",
-        "link": "https://www.iplaysoft.com/p/gpt-6-astra",
-        "summary": "OpenAI 新旗舰 GPT-6 Astra 终于发布了！现在官网绑定信用卡开会员就能马上体验！或者各大中转站也都纷纷上线了。在发布会结尾，总裁 Greg Brockman 直接甩下一句 “Welcome to the AGI era”，狂是真的狂，但看完整个发布内容，我只能说这次 OpenAI 确实有点狂的底气。\n\n支持开通 GPT 会员虚拟卡\n高性价比 API 中…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp",
-        "pubDate": "2026-09-05T07:44:00+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "全球免费公共 NTP 服务器 IP 收集 - VPS 自动校准 Linux 系统时间方法",
-        "link": "https://www.iplaysoft.com/p/public-ntp-server",
-        "summary": "如果你需要维护 VPS 服务器、数据库或网络设备，要保证它们之间时间正确且同步，一定需要 NTP。异次元收录了一份全球免费公共 NTP 服务器 IP 地址列表，方便大家设置电脑、配置服务器时能用得上。\n\n因为时间不准确，会引发很多“莫名其妙”匪夷所思的问题。因此这份公共 NTP IP 列表可以帮助大家…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-09-03T02:41:33+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "UPDF：AI 加持的全能 PDF 编辑器 (用过才知为啥大家都超级推荐！功能超全)",
-        "link": "https://www.iplaysoft.com/updf-editor.html",
-        "summary": "现在的工作与学习几乎离不开 PDF 文件：论文、发票、合同、课件、方案……但现实是，很多人仍在为“PDF 无法编辑”、“格式转换麻烦”、“批注不方便”而无比头疼。\n如果你需要寻找一款 功能强、速度快、支持 AI 的 PDF 编辑器，那「UPDF」很可能就是那个最佳答案！它不仅支持电脑和手机 APP，还提供网页版，功能覆盖学习办公中与 PDF 相关的所有需求。重点是，UPDF 界面非常精美，操作现代化， PDF 编辑、标注的体验也提高到新高度……\n「 前往查看原文.... 」异次元还有这些值得一看：MarginNote 4 - 颠覆学习方式的 iPad Mac 读书阅读笔记工具 (思维导图/知识",
-        "pubDate": "2026-08-31T14:44:53+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "白嫖 68 元 Token 额度！OpenSquilla 开源 Agent 送羊毛，多款模型随便调",
-        "link": "https://www.iplaysoft.com/p/opensquilla",
-        "summary": "玩过 AI Agent 的朋友应该都有同一个感受：这玩意儿好玩好用，但一个稍微复杂点的任务跑下来，多步规划、工具调用、长记忆加载，每一步都在疯狂吃 token，最要命的是很多人图省事，不管任务简单还是复杂，一股脑全都选旗舰贵模型，结果就是账单爆炸。明明一个摘要、格式整理这种轻量活儿，交…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-08-30T12:11:22+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Windows 11 25H2 最新官方正式版 ISO 镜像下载 (微软 MSDN 原版系统 / 网盘 BT 地址)",
-        "link": "https://www.iplaysoft.com/windows11.html",
-        "summary": "最近苹果发布了新版 macOS 系统之后，微软终于也更新了其最新一代的操作系统——Windows 11 2026 正式版 了！并且微软还很厚道地宣布「Win11 可从 Win7/8/10 完全免费升级」。\n新版的 Windows 11 系统相比 Win10 带来很多显著的变化，比如全新设计的现代化界面、集成 Copilot AI 助手 、窗口布局管理、Linux 子系统 / Android 子系统、Widgets 小工具、新的应用商店、支持 XBox Game Pass 订阅、支持云游戏、DirectX 12、AutoHDR 等更强大的游戏体验……\n「 前往查看原文.... 」异次元还有这些值",
-        "pubDate": "2026-08-30T06:40:31+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Ubuntu 26.04.1 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统",
-        "link": "https://www.iplaysoft.com/ubuntu.html",
-        "summary": "说到最红火的 Linux 发行版当属 Ubuntu 了！它拥有漂亮的 UI 界面，跟 macOS 风格相比也有过之而无不及，而当你试过这款操作系统后，可能会对 Linux 刻板枯燥的印象产生巨大的改变。\n在 Ubuntu 的世界里，已经不再只是简陋的界面+命令行，而是一款时尚易用同时又足够实用的操作系统，网上也有着最丰富的资料。对大多数没接触过 Linux 想尝鲜学习的话，Ubuntu 绝对是入门首选。那么，究竟有什么魅力让那么多非技术爱好者也为之疯狂？我们一起来看看吧……\n「 前往查看原文.... 」异次元还有这些值得一看：《Linux 就该这么学》PDF 电子书下载 - 更适合零基础新手入",
-        "pubDate": "2026-08-29T14:03:00+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软 Windows Server 2025 LTSC 最新正式版官方 ISO 镜像下载 - 服务器系统 MSDN 原版",
-        "link": "https://www.iplaysoft.com/windows-server-2025.html",
-        "summary": "随着 Windows 11 新版本发布之后，微软终于也正式推出了 Windows Server 2025 服务器操作系统了！这是一款专门面向企业和服务提供商的先进可靠的服务器系统。\nWindows Server 2025 LTSC 是微软迄今为止成功的企业级服务器系统，它继承了 2022 的优点并基于 Win11 作为内核，进一步提升了安全性、性能、稳定性和灵活性，引入了许多服务器相关创新。无论是运行各类网络服务、Iot、大数据分析、虚拟化、AI 的支持，都提供了卓越能力...\n「 前往查看原文.... 」异次元还有这些值得一看：微软 Windows Server 2022 LTSC 最新正式",
-        "pubDate": "2026-08-29T12:30:53+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "最新 Parallels Desktop 27 虚拟机下载！在 Mac 上流畅运行 Win11 系统和软件",
-        "link": "https://www.iplaysoft.com/pd27.html",
-        "summary": "买了 Mac 之后，你是不是也遇到过这种抓狂时刻：公司指定的软件只有 Windows 版，券商看盘软件不支持 Mac，财务软件死活装不上，好不容易在 Epic 领个免费游戏，压根没 Mac 版。\n就为了这偶尔的需求再添一台 PC？钱包和桌面都受不了。其实真不用纠结，在 Mac 上装一个 Parallels Desktop 27 虚拟机，就能让 Win+Mac 两套系统同时运行！不用重启、不用来回切换，直接在 macOS 上运行 Win 应用软件。 PD27 升级后跑得更流畅，AI 计算也搬上了本地……\n「 前往查看原文.... 」异次元还有这些值得一看：Parallels Desktop 27",
-        "pubDate": "2026-08-27T10:35:23+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "最新 Windows 11 ARM 系统原版 ISO 镜像下载 - 支持苹果 M 芯片 Mac 安装 (PD 虚拟机)",
-        "link": "https://www.iplaysoft.com/windows11-arm.html",
-        "summary": "苹果在新款的 Mac 电脑上推出了 Apple M 系列自研芯片处理器，出色的性能和功耗使其大获成功！然而苹果芯片采用的 ARM 架构与以往常用的 X86 / X64 架构软件并不兼容。\n想要在苹果芯片的 Mac 上安装 Windows，除了需要最新版的 Parallels Desktop 虚拟机外，还必须下载 Windows ARM 架构版本镜像！目前微软已发布 Windows 11 ARM 正式版的 ISO 镜像了。我们终于能在一些 ARM 设备 / 服务器 / 手机和新 Mac 上安装流畅运行 Win11 了……\n「 前往查看原文.... 」异次元还有这些值得一看：VirtualBox ",
-        "pubDate": "2026-08-26T07:29:52+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Tessoa - 极致性能的 Win / Mac / Linux 跨平台文件管理器 (分栏/分屏/键盘/文件标签)",
-        "link": "https://www.iplaysoft.com/tessoa.html",
-        "summary": "Windows 上有 File Pilot，macOS 上有 QSpace，都很好用，可惜各自只有一个平台。我三个系统都在用，来回换机器就得完全换一套操作习惯，非常烦！！所以决定自己开发 Tessoa。\n技术上：全 Rust 开发追求性能优先！界面直接调 GPU 绘制，没有 Electron、没有 WebView、没有 Qt/GTK。单文件，解压就能跑，性能卓越。最重要的是，Tessoa 在 Win / Mac / Linux 三个平台同一套代码，操作习惯完全一致！而且在功能和追求效率上也完全不妥协……\n「 前往查看原文.... 」异次元还有这些值得一看：Directory Opus 13 -",
-        "pubDate": "2026-08-24T05:33:54+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Mole - 在 Github 上好评如潮的 Mac 清理软件！垃圾缓存清理/卸载/优化效果出色",
-        "link": "https://www.iplaysoft.com/mole.html",
-        "summary": "今年一款 Mac 工具在开发者圈子里悄然走红，目前在 GitHub 上已收获 6 万多星标收藏，连 Paul Graham (保罗·格雷厄姆，世界知名程序员、投资人) 都曾专门发文讨论它。它就是 Mole！\nMole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，获得了无数好评。但命令行始终难以上手，于是作者用 Swift 原生开发了 Mole for Mac 版，并增加缓存清理、应用卸载、磁盘分析、硬件监控、系统优化五大功能，让更多用户都能用上这款好评如潮的清理优化工具……\n「 前往查看原文.... 」异次元还有这些值得一看：FluentCleaner 开源垃圾清理工具 - 在 C",
-        "pubDate": "2026-08-22T03:54:32+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)",
-        "link": "https://www.iplaysoft.com/motrix2.html",
-        "summary": "用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。\n这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……\n「 前往查看原文.... 」异次元还有这些值得一看：“狗屁下载器”？Gopeed - 开源全平台下载器 (免费轻量 /",
-        "pubDate": "2026-08-18T19:19:33+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了",
-        "link": "https://www.iplaysoft.com/p/deepseek-harness",
-        "summary": "如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。\n\n就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;",
-        "pubDate": "2026-08-14T18:55:46+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)",
-        "link": "https://www.iplaysoft.com/deepseek-v4.html",
-        "summary": "今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！\n现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……\n「 前往查看原文.... 」异次元还有这些值得一看：被吹爆的 DeepSeek！拥有“东",
-        "pubDate": "2026-08-13T10:02:41+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件",
-        "link": "https://www.iplaysoft.com/linkly-ai-clipper.html",
-        "summary": "我的浏览器长期收藏着很多宝藏网站，如一些行业洞察、还有 YouTube 上的深度采访视频、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。\n但收藏夹既无法变成可被搜索的资料，也无法成为 Workbuddy、Codex 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 Linkly AI Clipper，它做的事情很简单：把当前网页转换成 Markdown 格式，在浏览器侧边栏可以预览、复制或直接下载 .md 到本地永久保存……\n「 前往查看原文.... 」异次元还有这些值得一看：Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收",
-        "pubDate": "2026-08-11T19:09:52+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)",
-        "link": "https://www.iplaysoft.com/readfrog.html",
-        "summary": "我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。\n直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……\n「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉",
-        "pubDate": "2026-08-07T17:19:21+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)",
-        "link": "https://www.iplaysoft.com/andromeld.html",
-        "summary": "在日常工作中，我们经常要使用电脑和手机来协同完成工作。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。\n但如果用的是 Mac + 安卓手机，那光是文件传输，就让人头大了。AndroMeld 就是一款能让你的 Android 设备和 macOS 电脑无缝连接的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……\n「 前往查看原文.... 」异次元还有这些值得一看：Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)Escrc",
-        "pubDate": "2026-08-03T16:47:45+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件",
-        "link": "https://www.iplaysoft.com/eagle-sale-202603.html",
-        "summary": "相信大家都平时都会收藏一些壁纸，设计素材，摄影照片等等资源。加上现在人工智能 AI 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。\nEagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，帮你轻松收集及整理「案例、灵感、图片、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有效率。而在过去一年仅一次打折的 Eagle，这次跟随「夏季大促」也带来 7 折优惠！绝对值得入手……\n「 前往查看原文.... 」异次元还有这些值得一看：超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)快到离谱",
-        "pubDate": "2026-08-01T13:30:21+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…",
-        "link": "https://www.iplaysoft.com/news/6580",
-        "summary": "最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！\n\n正版软件夏促会场\n活动时间：2026 年 7 月 28 日 - 8 月 13 日，结算时使用优惠码：异次元帮我省还能获得折上折！特惠软件重点推介：\n…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-07-30T10:00:39+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "CloudCone 低价美国 VPS 服务器：“九周年促销” $18年付/续费同价…",
-        "link": "https://www.iplaysoft.com/p/cloudcone",
-        "summary": "CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。\n\n和 RackNerd 定位相似，CC 的产品定价较低，遇到打折促销活动还会出现一些性价比超高的打折机型，十多美金的年付主机，无论是用来建站…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nb",
-        "pubDate": "2026-07-28T18:07:51+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
       }
     ],
     "edu": [
