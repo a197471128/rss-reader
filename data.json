@@ -1,13 +1,53 @@
 {
-  "updated": "2026-09-08T19:19:45.382383+00:00",
+  "updated": "2026-09-08T22:30:14.937309+00:00",
   "summary": {
     "total": 78,
-    "success": 33,
-    "fail": 45,
+    "success": 32,
+    "fail": 46,
     "total_articles": 371
   },
   "articles": {
     "hot": [
+      {
+        "title": "四川茂县山体滑坡无伤亡 热度：3115575",
+        "link": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%8C%82%E5%8E%BF%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-09T05:02:15+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "单霁翔称大足石刻是文物修复典范 热度：3392689",
+        "link": "https://www.baidu.com/s?wd=%E5%8D%95%E9%9C%81%E7%BF%94%E7%A7%B0%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB%E6%98%AF%E6%96%87%E7%89%A9%E4%BF%AE%E5%A4%8D%E5%85%B8%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-09T05:02:15+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中国战机展现全域作战能力 热度：4384732",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%B1%95%E7%8E%B0%E5%85%A8%E5%9F%9F%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "日前国防部发布消息，中国空军将派多型军机参加第二届埃及航展。此前在八月到九月间，中国空军接连赴泰国、埃及和阿联酋进行三场联训，深入不同气候地貌环境。...",
+        "pubDate": "2026-09-09T05:02:14+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "河南杞县人民医院现“丁义珍窗口” 热度：6565069",
+        "link": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9D%9E%E5%8E%BF%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E7%8E%B0%E2%80%9C%E4%B8%81%E4%B9%89%E7%8F%8D%E7%AA%97%E5%8F%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月7日，河南杞县居民反映杞县人民医院出现“丁义珍窗口”，办理业务站蹲两难。杞县人民医院工作人员表示，正在进行整改，目前在相关窗口增设了凳子，将安排...",
+        "pubDate": "2026-09-09T05:02:14+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "李途纯离世一代乳酸菌开拓者终谢幕 热度：3208134",
         "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%80%94%E7%BA%AF%E7%A6%BB%E4%B8%96+%E4%B8%80%E4%BB%A3%E4%B9%B3%E9%85%B8%E8%8F%8C%E5%BC%80%E6%8B%93%E8%80%85%E7%BB%88%E8%B0%A2%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news",
@@ -163,46 +203,6 @@
         "link": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%9C%A8%E9%A6%99%E6%B8%AF%E9%A6%96%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "8日，电影《欢迎来龙餐馆》在香港举行首映礼，9月11日即将在香港全线上映。首映礼现场邀请电影业界人士、媒体、影评人等嘉宾出席。放映结束后，现场观众反...",
         "pubDate": "2026-09-09T00:01:29+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "8月汽车销量前十已无燃油车 热度：6663336",
-        "link": "https://www.baidu.com/s?wd=8%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月8日，乘联分会公布数据显示，今年8月全国乘用车零售销量前十全部为新能源车，燃油车再度全部出局。",
-        "pubDate": "2026-09-09T00:01:28+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "河南范县成立调查组整治黑加油站问题 热度：6947581",
-        "link": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%8C%83%E5%8E%BF%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E6%95%B4%E6%B2%BB%E9%BB%91%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月8日晚，总台《焦点访谈》曝光河南濮阳范县存在黑加油点死灰复燃问题。随后，河南濮阳范县成立联合调查组赶赴涉事企业开展核查。目前，已责令涉事企业立即...",
-        "pubDate": "2026-09-09T00:01:28+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "狄龙中国行上武当练剑 热度：7044957",
-        "link": "https://www.baidu.com/s?wd=%E7%8B%84%E9%BE%99%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%8A%E6%AD%A6%E5%BD%93%E7%BB%83%E5%89%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，NBA球员狄龙·布鲁克斯中国行来到武当山体验武术，并与武当师傅们切磋篮球。一直以强硬防守立足联盟的狄龙，在休闲局中投出一记干净的空气球。现场气...",
-        "pubDate": "2026-09-09T00:01:28+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "高中生球员赵松源直接叩开国足大门 热度：7136799",
-        "link": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%90%83%E5%91%98%E8%B5%B5%E6%9D%BE%E6%BA%90%E7%9B%B4%E6%8E%A5%E5%8F%A9%E5%BC%80%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月8日晚，中国足协公布男足新一期30人集训大名单，来自北京的17岁高中生前锋赵松源入选。他成为职业化以来首位以在读高中生身份入选成年国足的球员。",
-        "pubDate": "2026-09-09T00:01:27+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
@@ -1864,6 +1864,16 @@
     "finance": [],
     "tech": [
       {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "link": "https://openai.com/index/codex-quantum-computing-experiments",
+        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "pubDate": "2026-09-08T17:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "The Work Now Within Reach",
         "link": "https://openai.com/index/the-work-now-within-reach",
         "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
@@ -2048,16 +2058,6 @@
         "link": "https://openai.com/index/gilbert-tobin",
         "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
         "pubDate": "2026-09-01T01:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "OpenAI supports California’s bill to advance youth AI safety",
-        "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-        "pubDate": "2026-08-31T07:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2514,9 +2514,19 @@
         "feedColor": "#ffd47c"
       },
       {
-        "title": "苹果 iOS/iPadOS 26.6.2 正式版发布",
+        "title": "小米回应试驾意外：客户误将油门当刹车，无人受伤",
+        "link": "https://www.ithome.com/0/999/952.htm",
+        "summary": "IT之家 9 月 9 日消息，小米辟谣官方号今日发文，就 9 月 8 日晚间一则试驾意外事件作出说明。小米指出，9 月 8 日一位客户在试驾途中，于路口转弯时为前车让道，因紧张将油门当刹车误踩，意外驶出车道。官方强调，此过程中无人受伤。近期网络流传关于小米汽车试驾事故的相关讨论，此次声明系对上述事件的正式回应。IT之家此前报道，目前小米汽车已在全国开设超过 200 家销售门店，试驾服务覆盖主要城市。",
+        "pubDate": "2026-09-08T22:18:37+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 iOS / iPadOS 26.6.2 正式版发布，修复蜂窝网络无法下载更新问题",
         "link": "https://www.ithome.com/0/999/950.htm",
-        "summary": " IT之家 9 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6.2 更新（内部版本号：23G90），本次更新距离上次发布正式版间隔 29 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史：  2026-08-11：iOS 26.6.1 (23G82) 2026-07-28：iOS 26.6 (23G71) 2026-07-21：iOS 26.6 RC (23G7",
+        "summary": "IT之家 9 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 26.6.2 更新（内部版本号：23G90），本次更新距离上次发布正式版间隔 29 天。本次更新主要修复了一个“导致无法通过蜂窝网络下载软件更新”的问题。此次更新距离 iOS 26.6.1 发布约三周时间，上一个版本主要提供了安全修复。苹果通常会在一个小版本更新后，所有用户均可在数日内收到推送。苹果预计将于本月晚些时候发布 iOS 27。IT之家注：因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。iOS 26.6.2 适用于 iPho",
         "pubDate": "2026-09-08T18:04:03+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2698,16 +2708,6 @@
         "link": "https://www.ithome.com/0/999/927.htm",
         "summary": "IT之家 9 月 8 日消息，惠普现已推出新款战 99 16 英寸笔记本，新机采用酷睿 Ultra 7 255H 处理器，配备 16GB 内存，目前已在京东上架，定价 9999 元。据介绍，这款笔记本采用英特尔酷睿 Ultra 7 255H 处理器，拥有 16 核心 16 线程，配备 16GB DDR5 内存，以及 1TB 固态硬盘。参数方面，这款笔记本搭载 16 英寸 2.5K IPS 屏幕，支持 120Hz 高刷，覆盖 100% DCI-P3 色域，最高亮度可达 400nits，支持低蓝光模式。采用双风扇、双热管散热架构，可确保持久输出。同时，这款笔记本还将配备双雷电 4 接口，支持三屏输",
         "pubDate": "2026-09-08T13:26:38+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "“傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材",
-        "link": "https://www.ithome.com/0/999/926.htm",
-        "summary": "IT之家 9 月 8 日消息，Adobe 今天（8 日）宣布重新设计专业视频剪辑软件 Premiere 中的 AI 交互方式，新的“生成式媒体”工具支持直接在项目时间线中生成视频、音效、音乐和声景，无需中断当前工作流程。所使用的生成模型并非全都是新产品，这次更新的重点是大幅简化调用方式。以往缺少补充镜头或音频素材时，编辑人员往往需要在浏览器或外部应用之间来回切换。更新后，只需选中视频或音频轨道上的空白区域，即可根据项目上下文生成可完全编辑的片段。此外，时间线还可以直接调用多种底层模型，提供了 Adobe Firefly、谷歌 Veo、Runway、Luma 和可灵，便于用户根据项目风格选择合适",
-        "pubDate": "2026-09-08T13:21:33+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
