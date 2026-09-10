@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T19:01:36.215905+00:00",
+  "updated": "2026-09-10T22:20:54.042261+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 386
+    "total_articles": 406
   },
   "articles": {
     "hot": [
@@ -1864,6 +1864,16 @@
         "feedColor": "#7cff7c"
       },
       {
+        "title": "Introducing the Agents API",
+        "link": "https://openai.com/index/introducing-the-agents-api",
+        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+        "pubDate": "2026-09-10T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
         "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
         "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -2008,16 +2018,6 @@
         "link": "https://openai.com/index/daybreak-for-frontline-defenders",
         "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
         "pubDate": "2026-09-03T13:15:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-        "pubDate": "2026-09-03T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2434,6 +2434,16 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "甲骨文 2027 财年第一财季归母净利润 46.79 亿美元，同比增长 60%",
+        "link": "https://www.ithome.com/1/001/052.htm",
+        "summary": " IT之家 9 月 11 日消息，甲骨文今日发布 2027 财年（2026 年 6 月 1 日～2027 年 5 月 31 日）第一财季（2026 年 6 月 1 日～2026 年 8 月 31 日）报告：   营业总收入：193.45 亿美元（IT之家注：现汇率约合 1301.05 亿元人民币），同比增长 30%     归母净利润：46.79 亿美元（现汇率约合 314.69 亿元人民币），同比增长 60%     经营现金流：231.03 亿美元（现汇率约合 1553.8 亿元人民币），同比增长 184%     自由现金流：-53.96 亿美元（现汇率约合 -362.91 亿元人民币）",
+        "pubDate": "2026-09-10T20:20:44+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "法国总统马克龙呼吁欧洲大力发展自主载人航天，力争 10 年内送宇航员上太空",
         "link": "https://www.ithome.com/1/001/043.htm",
         "summary": "IT之家 9 月 10 日消息，据法新社报道，当地时间 10 日，法国总统埃马纽埃尔 · 马克龙呼吁欧洲在 10 年内具备自主载人航天能力，推动欧洲航天业发展。欧洲航天局（ESA）局长约瑟夫 · 阿施巴赫尔也提出了类似呼吁。当地时间 9 日，他在闭门会议上敦促各国部长和政要增加投入，建设独立自主的欧洲航天业。他在演讲稿中问道：“我们要做乘客，还是驾驶员？”阿施巴赫尔指出，各国航天技术突飞猛进，进展遍及卫星研发、月球和火星探索等领域。“面对这一新形势，欧洲必须拥有自己的能力，成为不可或缺的合作伙伴。”近年来，欧洲一直希望减少航天领域的对外依赖。但在载人航天方面，欧洲尚未独立执行过任务，仍需借助俄",
@@ -2618,16 +2628,6 @@
         "link": "https://www.ithome.com/1/001/009.htm",
         "summary": "IT之家 9 月 10 日消息，国星宇航今日宣布，9 月 1 日，国星宇航在台州算力卫星创新基地举行“星算”计划 02 组首批 8 颗卫星出征仪式。“星算”计划 02 组太空计算星座首批 8 颗卫星，均由国星宇航自主研制，并已通过中国信息通信研究院组织的全流程测试，各项测试结果全部满足设计指标。据悉，此次出征的 8 颗卫星将于近期择机发射。卫星入轨后，将与 01 组在轨卫星协同组网。IT之家注意到，在 2024 年世界互联网大会乌镇峰会期间，国星宇航创始人陆川博士与合作伙伴在乌镇“三体计算星座”首发星座启动暨“星算计划 star-compute”全球发布会上共同发布了“星算计划”。“星算计划”",
         "pubDate": "2026-09-10T14:04:50+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "美国身份验证巨头 IDScan 承认数据泄露，超 1.5 亿张驾照信息被盗",
-        "link": "https://www.ithome.com/1/001/008.htm",
-        "summary": "IT之家 9 月 10 日消息，美国知名身份验证服务商 IDScan 本月（9 月 4 日）在官网承认，公司近期遭遇一起数据泄露事故。IDScan 表示，黑客组织从公司的云端服务器窃取了驾照信息，用户姓名、驾照号码、护照号码等信息遭到泄露。同时，该公司于 9 月 1 日前后收到数据被盗信息，后续证实事故确实存在。独立安全研究员 Brian Krebs 同日发文称，近期有黑客在暗网兜售 1.53 亿份驾照扫描件，但当时还不清楚数据源头。这名研究员当时还在暗网上找到了美国国防部长皮特 · 赫格塞思的驾驶证。五角大楼对此回应称，他们已知悉该起事件，FBI 发言人表示正在追查此事。",
-        "pubDate": "2026-09-10T13:56:44+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2922,6 +2922,206 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
+      },
+      {
+        "title": "iPhone Duo 折叠屏手机官方自带壁纸下载 / iPhone 18 + iOS27 全套新壁纸",
+        "link": "https://www.iplaysoft.com/iphone-duo-wallpapers.html",
+        "summary": "2026 年 9 月 9 日苹果在发布会上正式推出旗下首款折叠屏手机 iPhone Duo 和 iPhone 18 Pro Max 系列。和往年一样，除了手机本身，还有 iOS27 的新增壁纸以及 iPhone Duo 新机随机附带的官方壁纸都是能让人心动的。\n这次 iPhone Duo 配套的沙丘 + 山峰壁纸，还是相当优雅、干净、商务、简洁的。无论你打不打算买这机子，咱们都可以提前先下载这套壁纸来感受一下气氛……\n「 前往查看原文.... 」异次元还有这些值得一看：全套苹果 iOS 15 内置壁纸 / macOS Monterey 超高清 6K 默认桌面壁纸打包下载苹果 iOS 14.2 ",
+        "pubDate": "2026-09-10T21:27:05+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔)",
+        "link": "https://www.iplaysoft.com/doubao-shurufa.html",
+        "summary": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
+        "pubDate": "2026-09-09T12:38:14+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
+        "link": "https://www.iplaysoft.com/opencut.html",
+        "summary": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
+        "pubDate": "2026-09-07T11:06:27+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "腾讯云轻量服务器放大招：老用户 1 折续费 + 免费升配置 + 送时长…",
+        "link": "https://www.iplaysoft.com/news/6604",
+        "summary": "腾讯云轻量应用服务器 Lighthouse 上线「六周年庆」打折活动开启！一直持续到 2026 年 10 月 12 日。这次优惠跟以往“只宠新用户”的路子不太一样，对老用户相当友好：VPS 续费按持有年份打折，最高直接 1 折；同价续费和 2 核 4G 免费升配两大福利也回归了；新购 Agent 专区 4 核 4G 年付才 109 元起。简单…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp",
+        "pubDate": "2026-09-06T16:54:15+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "GPT-6 Astra 上线！有什么重磅新变化？为什么说 AGI 新时代来了？",
+        "link": "https://www.iplaysoft.com/p/gpt-6-astra",
+        "summary": "OpenAI 新旗舰 GPT-6 Astra 终于发布了！现在官网绑定信用卡开会员就能马上体验！或者各大中转站也都纷纷上线了。在发布会结尾，总裁 Greg Brockman 直接甩下一句 “Welcome to the AGI era”，狂是真的狂，但看完整个发布内容，我只能说这次 OpenAI 确实有点狂的底气。\n\n支持开通 GPT 会员虚拟卡\n高性价比 API 中…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp",
+        "pubDate": "2026-09-05T07:44:00+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "全球免费公共 NTP 服务器 IP 收集 - VPS 自动校准 Linux 系统时间方法",
+        "link": "https://www.iplaysoft.com/p/public-ntp-server",
+        "summary": "如果你需要维护 VPS 服务器、数据库或网络设备，要保证它们之间时间正确且同步，一定需要 NTP。异次元收录了一份全球免费公共 NTP 服务器 IP 地址列表，方便大家设置电脑、配置服务器时能用得上。\n\n因为时间不准确，会引发很多“莫名其妙”匪夷所思的问题。因此这份公共 NTP IP 列表可以帮助大家…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-09-03T02:41:33+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "UPDF：AI 加持的全能 PDF 编辑器 (用过才知为啥大家都超级推荐！功能超全)",
+        "link": "https://www.iplaysoft.com/updf-editor.html",
+        "summary": "现在的工作与学习几乎离不开 PDF 文件：论文、发票、合同、课件、方案……但现实是，很多人仍在为“PDF 无法编辑”、“格式转换麻烦”、“批注不方便”而无比头疼。\n如果你需要寻找一款 功能强、速度快、支持 AI 的 PDF 编辑器，那「UPDF」很可能就是那个最佳答案！它不仅支持电脑和手机 APP，还提供网页版，功能覆盖学习办公中与 PDF 相关的所有需求。重点是，UPDF 界面非常精美，操作现代化， PDF 编辑、标注的体验也提高到新高度……\n「 前往查看原文.... 」异次元还有这些值得一看：MarginNote 4 - 颠覆学习方式的 iPad Mac 读书阅读笔记工具 (思维导图/知识",
+        "pubDate": "2026-08-31T14:44:53+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "白嫖 68 元 Token 额度！OpenSquilla 开源 Agent 送羊毛，多款模型随便调",
+        "link": "https://www.iplaysoft.com/p/opensquilla",
+        "summary": "玩过 AI Agent 的朋友应该都有同一个感受：这玩意儿好玩好用，但一个稍微复杂点的任务跑下来，多步规划、工具调用、长记忆加载，每一步都在疯狂吃 token，最要命的是很多人图省事，不管任务简单还是复杂，一股脑全都选旗舰贵模型，结果就是账单爆炸。明明一个摘要、格式整理这种轻量活儿，交…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
+        "pubDate": "2026-08-30T12:11:22+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Windows 11 25H2 最新官方正式版 ISO 镜像下载 (微软 MSDN 原版系统 / 网盘 BT 地址)",
+        "link": "https://www.iplaysoft.com/windows11.html",
+        "summary": "最近苹果发布了新版 macOS 系统之后，微软终于也更新了其最新一代的操作系统——Windows 11 2026 正式版 了！并且微软还很厚道地宣布「Win11 可从 Win7/8/10 完全免费升级」。\n新版的 Windows 11 系统相比 Win10 带来很多显著的变化，比如全新设计的现代化界面、集成 Copilot AI 助手 、窗口布局管理、Linux 子系统 / Android 子系统、Widgets 小工具、新的应用商店、支持 XBox Game Pass 订阅、支持云游戏、DirectX 12、AutoHDR 等更强大的游戏体验……\n「 前往查看原文.... 」异次元还有这些值",
+        "pubDate": "2026-08-30T06:40:31+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Ubuntu 26.04.1 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统",
+        "link": "https://www.iplaysoft.com/ubuntu.html",
+        "summary": "说到最红火的 Linux 发行版当属 Ubuntu 了！它拥有漂亮的 UI 界面，跟 macOS 风格相比也有过之而无不及，而当你试过这款操作系统后，可能会对 Linux 刻板枯燥的印象产生巨大的改变。\n在 Ubuntu 的世界里，已经不再只是简陋的界面+命令行，而是一款时尚易用同时又足够实用的操作系统，网上也有着最丰富的资料。对大多数没接触过 Linux 想尝鲜学习的话，Ubuntu 绝对是入门首选。那么，究竟有什么魅力让那么多非技术爱好者也为之疯狂？我们一起来看看吧……\n「 前往查看原文.... 」异次元还有这些值得一看：《Linux 就该这么学》PDF 电子书下载 - 更适合零基础新手入",
+        "pubDate": "2026-08-29T14:03:00+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "微软 Windows Server 2025 LTSC 最新正式版官方 ISO 镜像下载 - 服务器系统 MSDN 原版",
+        "link": "https://www.iplaysoft.com/windows-server-2025.html",
+        "summary": "随着 Windows 11 新版本发布之后，微软终于也正式推出了 Windows Server 2025 服务器操作系统了！这是一款专门面向企业和服务提供商的先进可靠的服务器系统。\nWindows Server 2025 LTSC 是微软迄今为止成功的企业级服务器系统，它继承了 2022 的优点并基于 Win11 作为内核，进一步提升了安全性、性能、稳定性和灵活性，引入了许多服务器相关创新。无论是运行各类网络服务、Iot、大数据分析、虚拟化、AI 的支持，都提供了卓越能力...\n「 前往查看原文.... 」异次元还有这些值得一看：微软 Windows Server 2022 LTSC 最新正式",
+        "pubDate": "2026-08-29T12:30:53+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "最新 Parallels Desktop 27 虚拟机下载！在 Mac 上流畅运行 Win11 系统和软件",
+        "link": "https://www.iplaysoft.com/pd27.html",
+        "summary": "买了 Mac 之后，你是不是也遇到过这种抓狂时刻：公司指定的软件只有 Windows 版，券商看盘软件不支持 Mac，财务软件死活装不上，好不容易在 Epic 领个免费游戏，压根没 Mac 版。\n就为了这偶尔的需求再添一台 PC？钱包和桌面都受不了。其实真不用纠结，在 Mac 上装一个 Parallels Desktop 27 虚拟机，就能让 Win+Mac 两套系统同时运行！不用重启、不用来回切换，直接在 macOS 上运行 Win 应用软件。 PD27 升级后跑得更流畅，AI 计算也搬上了本地……\n「 前往查看原文.... 」异次元还有这些值得一看：Parallels Desktop 27",
+        "pubDate": "2026-08-27T10:35:23+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "最新 Windows 11 ARM 系统原版 ISO 镜像下载 - 支持苹果 M 芯片 Mac 安装 (PD 虚拟机)",
+        "link": "https://www.iplaysoft.com/windows11-arm.html",
+        "summary": "苹果在新款的 Mac 电脑上推出了 Apple M 系列自研芯片处理器，出色的性能和功耗使其大获成功！然而苹果芯片采用的 ARM 架构与以往常用的 X86 / X64 架构软件并不兼容。\n想要在苹果芯片的 Mac 上安装 Windows，除了需要最新版的 Parallels Desktop 虚拟机外，还必须下载 Windows ARM 架构版本镜像！目前微软已发布 Windows 11 ARM 正式版的 ISO 镜像了。我们终于能在一些 ARM 设备 / 服务器 / 手机和新 Mac 上安装流畅运行 Win11 了……\n「 前往查看原文.... 」异次元还有这些值得一看：VirtualBox ",
+        "pubDate": "2026-08-26T07:29:52+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Tessoa - 极致性能的 Win / Mac / Linux 跨平台文件管理器 (分栏/分屏/键盘/文件标签)",
+        "link": "https://www.iplaysoft.com/tessoa.html",
+        "summary": "Windows 上有 File Pilot，macOS 上有 QSpace，都很好用，可惜各自只有一个平台。我三个系统都在用，来回换机器就得完全换一套操作习惯，非常烦！！所以决定自己开发 Tessoa。\n技术上：全 Rust 开发追求性能优先！界面直接调 GPU 绘制，没有 Electron、没有 WebView、没有 Qt/GTK。单文件，解压就能跑，性能卓越。最重要的是，Tessoa 在 Win / Mac / Linux 三个平台同一套代码，操作习惯完全一致！而且在功能和追求效率上也完全不妥协……\n「 前往查看原文.... 」异次元还有这些值得一看：Directory Opus 13 -",
+        "pubDate": "2026-08-24T05:33:54+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Mole - 在 Github 上好评如潮的 Mac 清理软件！垃圾缓存清理/卸载/优化效果出色",
+        "link": "https://www.iplaysoft.com/mole.html",
+        "summary": "今年一款 Mac 工具在开发者圈子里悄然走红，目前在 GitHub 上已收获 6 万多星标收藏，连 Paul Graham (保罗·格雷厄姆，世界知名程序员、投资人) 都曾专门发文讨论它。它就是 Mole！\nMole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，获得了无数好评。但命令行始终难以上手，于是作者用 Swift 原生开发了 Mole for Mac 版，并增加缓存清理、应用卸载、磁盘分析、硬件监控、系统优化五大功能，让更多用户都能用上这款好评如潮的清理优化工具……\n「 前往查看原文.... 」异次元还有这些值得一看：FluentCleaner 开源垃圾清理工具 - 在 C",
+        "pubDate": "2026-08-22T03:54:32+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)",
+        "link": "https://www.iplaysoft.com/motrix2.html",
+        "summary": "用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。\n这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……\n「 前往查看原文.... 」异次元还有这些值得一看：“狗屁下载器”？Gopeed - 开源全平台下载器 (免费轻量 /",
+        "pubDate": "2026-08-18T19:19:33+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了",
+        "link": "https://www.iplaysoft.com/p/deepseek-harness",
+        "summary": "如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。\n\n就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;",
+        "pubDate": "2026-08-14T18:55:46+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)",
+        "link": "https://www.iplaysoft.com/deepseek-v4.html",
+        "summary": "今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！\n现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……\n「 前往查看原文.... 」异次元还有这些值得一看：被吹爆的 DeepSeek！拥有“东",
+        "pubDate": "2026-08-13T10:02:41+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件",
+        "link": "https://www.iplaysoft.com/linkly-ai-clipper.html",
+        "summary": "我的浏览器长期收藏着很多宝藏网站，如一些行业洞察、还有 YouTube 上的深度采访视频、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。\n但收藏夹既无法变成可被搜索的资料，也无法成为 Workbuddy、Codex 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 Linkly AI Clipper，它做的事情很简单：把当前网页转换成 Markdown 格式，在浏览器侧边栏可以预览、复制或直接下载 .md 到本地永久保存……\n「 前往查看原文.... 」异次元还有这些值得一看：Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收",
+        "pubDate": "2026-08-11T19:09:52+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
+      },
+      {
+        "title": "陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)",
+        "link": "https://www.iplaysoft.com/readfrog.html",
+        "summary": "我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。\n直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……\n「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉",
+        "pubDate": "2026-08-07T17:19:21+00:00",
+        "author": "",
+        "feedTitle": "异次元软件世界",
+        "feedName": "异次元软件",
+        "feedColor": "#ffb347"
       }
     ],
     "edu": [
