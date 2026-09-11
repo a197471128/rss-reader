@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-11T19:03:06.239636+00:00",
+  "updated": "2026-09-11T22:20:13.759066+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 387
+    "total_articles": 388
   },
   "articles": {
     "hot": [
@@ -2704,6 +2704,16 @@
         "feedColor": "#ff7c7c"
       },
       {
+        "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
+        "link": "https://www.tmtpost.com/8137504.html",
+        "summary": "与新技术相关的末日式设想，已经是延续了一个多世纪的传统。但这一次，也许真的会不一样。",
+        "pubDate": "2026-09-11T21:12:05+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
         "title": "GPU五小龙，燧原科技排第几？",
         "link": "https://www.tmtpost.com/8136874.html",
         "summary": "上市首日市值1700亿，超过摩尔、仅次沐曦。",
@@ -2784,6 +2794,16 @@
         "feedColor": "#ff7c7c"
       },
       {
+        "title": "不靠AI驱动增长：8只精选个股",
+        "link": "https://www.tmtpost.com/8137427.html",
+        "summary": "这些公司的产品涵盖从纸板箱到新药等多个领域，而它们都正朝着利润翻倍的目标稳步前进。",
+        "pubDate": "2026-09-11T20:36:18+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
         "title": "“无折痕”热搜刷屏，72小时神仙打架，手机厂商在争什么？",
         "link": "https://www.tmtpost.com/8136740.html",
         "summary": "这个9月，至少有8场大型手机发布会。档期撞车只是表象，巨头们真正争抢的，是明天全网该讨论什么。",
@@ -2818,16 +2838,6 @@
         "link": "https://www.tmtpost.com/8136902.html",
         "summary": "AGI时代的大门是否已经打开，或许见仁见智。但门后的世界，已经容不得任何人驻足观望。",
         "pubDate": "2026-09-11T20:27:39+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
-        "title": "1.68亿人追短剧，红果开始收割用户时间",
-        "link": "https://www.tmtpost.com/8136978.html",
-        "summary": "长视频平台拍了这么多年大制作，最后却被一部部几分钟的短剧抢走了风头。",
-        "pubDate": "2026-09-11T20:27:33+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
