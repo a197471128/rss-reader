@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-17T19:37:03.229241+00:00",
+  "updated": "2026-09-17T22:44:29.606271+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 390
+    "total_articles": 392
   },
   "articles": {
     "hot": [
@@ -207,6 +207,16 @@
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 告天下母亲同盟书 ",
+        "link": "https://www.huxiu.com/article/4892143.html?f=rss",
+        "summary": " 本文来自微信公众号： 王小一和她的朋友们 ，作者：王小一前几天我看到一句话：亲子关系是人格的试金石。稍微想了一下，挺有道理。孩子在进入亲子关系的时候是一片空白，所以不承担关系责任；亲子关系的质量和走向在六岁以前基本确定，那个阶段几乎都是父母在施加影响，而孩子没有任何防御的无条件吸收。所以简单点说，孩子长大一些以后，进入青春期和成年早期，和父母的关系不好，那就说明父母人格有较大问题。这样简单粗暴的结论听起来很过瘾但是对父母不免太过严苛——毕竟想想“无知之幕”，你既可能是受害的子女，同时也是施害的父母。但我认真思考了一下，认为接受如下的结论是客观和理智的：为人父母，需要承担亲子关系以及孩子人格健",
+        "pubDate": "2026-09-18T04:10:21+08:00",
+        "author": " 王小一和她的朋友们© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 经营贷利率涨了？记者探访沪深两地银行：实际并没有提高，但有客户经理称10月会上调 ",
@@ -1641,6 +1651,66 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "美国中央司令部称已引导104艘商船改变航线",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698623.shtml",
+        "summary": "\n　　中新网9月18日电 据外媒报道，当地时间9月17日，美国中央司令部在社交媒体上发布消息称，一架 F/A-18F“超级大黄蜂”战斗机从“乔治·H·W·布什”号航空母舰的飞行甲板上起飞；该舰目前在相关海域航行，继续支持执行美国针对伊朗的封锁行动。",
+        "pubDate": "2026-09-18T06:37:53+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "严打之下，旅游强迫购物乱象为何屡禁不止",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698622.shtml",
+        "summary": "\n　　导游明言“不要两手空空”，甚至“以跪相求”……文旅部公布一批强制消费典型案例",
+        "pubDate": "2026-09-18T06:20:30+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中方反对在安理会强推恢复对伊朗制裁",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml",
+        "summary": "\n　　中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。",
+        "pubDate": "2026-09-18T05:53:36+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中国海军第48批护航编队访问孟加拉国",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698620.shtml",
+        "summary": "\n　　中国海军第48批护航编队17日抵达孟加拉国吉大港，开始为期5天的友好访问。",
+        "pubDate": "2026-09-18T05:52:36+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "俄罗斯第九届国家杜马选举开始投票",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml",
+        "summary": "\n　　俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。",
+        "pubDate": "2026-09-18T05:50:45+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国向我国返还64件（套）文物艺术品和古生物化石",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698618.shtml",
+        "summary": "\n　　北京时间9月16日和18日，国家文物局在华盛顿、纽约分别接收美国国土安全调查局、纽约曼哈顿区检察官办公室向我国返还的2批次共计64件(套)文物艺术品和古生物化石，包括天龙山第17窟西壁北侧菩萨身躯，以及造像、陶俑和恐龙骨架化石、鱼类化石、恐龙蛋化石等。",
+        "pubDate": "2026-09-18T05:45:03+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "古基因组清晰揭示：青铜时代东天山主体人群是东亚和北亚组合",
         "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698617.shtml",
         "summary": "\n　　中新网北京9月18日电 (记者 孙自法)中国新疆东天山是连接河西走廊及欧亚地区的重要通道，长期以来，考古学研究已在东天山青铜时代文化发现来自甘青、亚欧草原的多种文化因素，但一直缺乏系统的古基因组证据。",
@@ -1779,70 +1849,20 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国—东盟推动电商合作从框架共识转向实操落地",
-        "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698589.shtml",
-        "summary": "\n　　中新网南宁9月17日电 (林浩 李映儒)9月17日，2026年中国—东盟丝路电商主题推介活动在广西南宁举办。活动现场发布《中国—东盟关于加强电子商务合作的倡议》落实计划，与会各方将畅通东盟优品入华、中国特色产品出口的电商渠道，推动双边电商合作从框架共识转向实操落地，助力国内外市场资源高效联动。",
-        "pubDate": "2026-09-17T23:22:37+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "西湖龙井品鉴茶会在杭启幕 十大茶村“摆席”亮风味",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698588.shtml",
-        "summary": "\n　　中新网杭州9月17日电(曹丹)9月17日，“西湖留白处 龙井鲜如初”西湖龙井核心产区品鉴茶会在浙江杭州西湖畔启幕。该活动由西湖风景名胜区西湖街道联动核心产区十大茶村举办，旨在传播西湖龙井品牌，营造西湖美学生活。",
-        "pubDate": "2026-09-17T23:21:15+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（友城故事）广州与悉尼结好40周年庆祝活动在悉尼举行",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698601.shtml",
-        "summary": "\n　　中新社悉尼9月17日电 (记者 薄雯雯)为庆祝广州与悉尼缔结友好城市关系40周年，广州文旅招商推介会暨专场文艺演出17日在澳大利亚悉尼举行。",
-        "pubDate": "2026-09-17T23:20:47+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026北京民营企业百强系列榜单发布",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-17/10698600.shtml",
-        "summary": "\n　　中新社北京9月17日电 (记者 杜燕)2026北京民营企业百强系列榜单17日揭晓，包括“北京民营企业百强”一个主榜单，以及科技创新百强、文化产业百强、专精特新百强3个分榜单，并首次发布未来产业先锋榜。",
-        "pubDate": "2026-09-17T23:20:05+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026“书香宝岛行”图书与版权展销会在台北启幕",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698599.shtml",
-        "summary": "\n　　中新社台北9月17日电 (记者 朱贺)由两岸出版机构、协会联合主办的2026“书香宝岛行”图书与版权展销会(台北站)17日在台北启幕，携8000余种图书与读者见面。",
-        "pubDate": "2026-09-17T23:19:19+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "四川面向台湾青年发布400余个就业岗位",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698597.shtml",
-        "summary": "\n　　中新社成都9月17日电 (记者 王鹏)2026两岸(川渝)青年就业创业发展交流会17日在成都高新区举办，四川面向台湾青年正式发布403个就业岗位。",
-        "pubDate": "2026-09-17T23:18:41+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "Introducing Astra for Law",
+        "link": "https://openai.com/index/astra-for-law",
+        "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+        "pubDate": "2026-09-17T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "Helping older adults use AI in everyday life",
         "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -1974,9 +1994,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+        "title": "Introducing the Agents API",
+        "link": "https://openai.com/index/introducing-the-agents-api",
+        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
         "pubDate": "2026-09-10T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1984,9 +2004,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Introducing the Agents API",
-        "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
         "pubDate": "2026-09-10T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -2034,14 +2054,14 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "The Work Now Within Reach",
-        "link": "https://openai.com/index/the-work-now-within-reach",
-        "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-        "pubDate": "2026-09-08T13:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 告天下母亲同盟书 ",
+        "link": "https://www.huxiu.com/article/4892143.html?f=rss",
+        "summary": " 本文来自微信公众号： 王小一和她的朋友们 ，作者：王小一前几天我看到一句话：亲子关系是人格的试金石。稍微想了一下，挺有道理。孩子在进入亲子关系的时候是一片空白，所以不承担关系责任；亲子关系的质量和走向在六岁以前基本确定，那个阶段几乎都是父母在施加影响，而孩子没有任何防御的无条件吸收。所以简单点说，孩子长大一些以后，进入青春期和成年早期，和父母的关系不好，那就说明父母人格有较大问题。这样简单粗暴的结论听起来很过瘾但是对父母不免太过严苛——毕竟想想“无知之幕”，你既可能是受害的子女，同时也是施害的父母。但我认真思考了一下，认为接受如下的结论是客观和理智的：为人父母，需要承担亲子关系以及孩子人格健",
+        "pubDate": "2026-09-18T04:10:21+08:00",
+        "author": " 王小一和她的朋友们© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 经营贷利率涨了？记者探访沪深两地银行：实际并没有提高，但有客户经理称10月会上调 ",
@@ -2474,6 +2494,46 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "谷歌详解旗下全新 Noto 3D Emoji 表情符号设计理念：极简、克制、易辨识",
+        "link": "https://www.ithome.com/1/003/879.htm",
+        "summary": "IT之家 9 月 18 日消息，谷歌发文，介绍了旗下 Noto 3D Emoji 表情符号的设计理念，解释了“如何在保留经典表情辨识度的同时，将原本的 2D 图形转化为 3D 形态”。谷歌表示，将用户已经熟悉的表情符号转换为 3D 并不是简单的立体化处理。设计团队没有刻意追求超写实的视觉效果，而是采用更加克制的设计方式，对每一个 3D 表情进行调整，使其保持通用性，并确保用户能够在第一时间识别其含义。谷歌同时援引公司 UX 工程师 Alexander Robertson 博士研究，认为“虹膜、鼻孔深度等高度解剖化的细节反而可能降低大脑识别情绪的速度”。因此 Noto 3D 在设计过程中尽可能地",
+        "pubDate": "2026-09-17T22:39:26+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
+        "link": "https://www.ithome.com/1/003/878.htm",
+        "summary": "IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。外媒表示，摩托罗拉此次安卓 17 更新进度并不算快。该公司早在今年 2 月便启动安卓 17 Beta 测试，经过较长时间等待后，摩托罗拉于上月首先为 Signature 推送安卓 17 稳定版，而 Edge 70 成为第二款获得该版本更新的设备。▲ 摩托罗拉 Edge 70 手机具体来看，相应更新包体积为 4.3GB，主要新增堆叠小组件、主题图标、Live Updates（实时动态）组件、通知摘要等功能，同时带来性能和稳定性方面的改进。值得注",
+        "pubDate": "2026-09-17T22:28:46+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果在美国纽约举办摄影展，展示利用 iPhone 18 Pro 手机拍摄的作品",
+        "link": "https://www.ithome.com/1/003/877.htm",
+        "summary": "IT之家 9 月 18 日消息，苹果宣布即日起至 9 月 20 日在美国纽约 456 West 18th Street 举办一场名为“What's Holds Us”的摄影展，集中展示使用 iPhone 18 Pro 拍摄的原创作品。据苹果介绍，本次展览邀请摄影师 Alex Prager、Jack Davison 和 Jimmy Chin 参与，三位摄影师均使用 iPhone 18 Pro 完成作品，分别从不同角度记录“连接并扎根于人类的各种人、地点和思想”。展览由《纽约时报杂志》前长期摄影总监 Kathy Ryan 策展，重点展示 iPhone 18 Pro 新一代相机系统的创作能力，其中包",
+        "pubDate": "2026-09-17T22:21:23+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "新型安卓恶意木马 RatHat 现身：引入 AI 识别能力，可帮助黑客快速分析 / 操作受感染设备",
+        "link": "https://www.ithome.com/1/003/876.htm",
+        "summary": "IT之家 9 月 18 日消息，安全公司 Zimperium 旗下 zLabs 研究团队发文，透露近日业界出现一种名为 RatHat 的新型安卓恶意木马。该恶意木马最大的特性是引入了 AI 识别机制，可以分析受感染设备的界面并辅助攻击者远程执行导航操作，从而进一步控制手机。IT之家获悉，相应木马主要面向中文环境用户下手，不法分子将其植入至各种诈骗 App 中进行传播。在受害者安装软件后，相应木马便会通过安卓辅助功能权限深度控制用户设备。▲ 恶意木马内置的中文提示词具体行为方面，RatHat 会针对金融类应用显示伪造的 HTML 界面，诱导用户输入并窃取账户凭据。同时，该恶意软件可以拦截短信 /",
+        "pubDate": "2026-09-17T22:15:33+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "苹果 Apple Watch Series 12 与 Ultra 4 今日开售，2999/6499 元起",
         "link": "https://www.ithome.com/1/003/874.htm",
         "summary": "IT之家 9 月 18 日消息，苹果最新发布的 Apple Watch Series 12 与 Apple Watch Ultra 4 两款智能手表今日正式发售。其中，Apple Watch Series 12 的 GPS 款国行起售价 2999 元（教育优惠 2699 元起），GPS + 蜂窝网络款 3799 元；Apple Watch Ultra 4 起售价 6499 元（教育优惠 5799 元起）。京东 Apple / 苹果 Watch Series 12 智能手表 GPS 款 42 毫米 浅金色 铝金属表壳 沙砾色运动型表带 S/M（MJF14CH/B）2999 元直达链接Apple ",
@@ -2484,9 +2544,9 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
-        "link": "https://www.ithome.com/1/003/873.htm",
-        "summary": "IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。京东苹果 AirPods 5（支持主动降噪）搭配 USB-C 充电盒 蓝牙耳机 适用 iPhone / iPad / Mac999 元直达链接京东苹果 AirPods 5（支持主动降噪）搭配无线充电盒 蓝牙耳机 适用 iPhone / iPad / Mac1149 元直达链接AirPods 5 采用无耳塞式设计，首次在该品类中实现主动降噪功能。",
+        "title": "苹果 iPhone 18 Pro/Max 系列今日正式开售，国行 9999 元起",
+        "link": "https://www.ithome.com/1/003/872.htm",
+        "summary": "IT之家 9 月 18 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型将于 9 月 18 日正式开售，而如果是在苹果官网参与预购的用户也会在今天收到包裹。苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone 18 Pro Max 为 10999 元，均为 256GB 存储起步。京东苹果【需签收激活】iPhone 18 Pro 256GB 勃艮第酒红色 支持移动联通电信 5G 双卡 9999 元直达链接IT之家附各版本价格如下：苹果 iPhone 18 Pro 售价：存储官方售价24 期参考月供相比 256GB 加价256GBRM",
         "pubDate": "2026-09-17T16:00:14+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2494,9 +2554,9 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "苹果 iPhone 18 Pro/Max 系列今日正式开售，国行 9999 元起",
-        "link": "https://www.ithome.com/1/003/872.htm",
-        "summary": "IT之家 9 月 18 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型将于 9 月 18 日正式开售，而如果是在苹果官网参与预购的用户也会在今天收到包裹。苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone 18 Pro Max 为 10999 元，均为 256GB 存储起步。京东苹果【需签收激活】iPhone 18 Pro 256GB 勃艮第酒红色 支持移动联通电信 5G 双卡 9999 元直达链接IT之家附各版本价格如下：苹果 iPhone 18 Pro 售价：存储官方售价24 期参考月供相比 256GB 加价256GBRM",
+        "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
+        "link": "https://www.ithome.com/1/003/873.htm",
+        "summary": "IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。京东苹果 AirPods 5（支持主动降噪）搭配 USB-C 充电盒 蓝牙耳机 适用 iPhone / iPad / Mac999 元直达链接京东苹果 AirPods 5（支持主动降噪）搭配无线充电盒 蓝牙耳机 适用 iPhone / iPad / Mac1149 元直达链接AirPods 5 采用无耳塞式设计，支持主动降噪功能。据苹果官方新闻",
         "pubDate": "2026-09-17T16:00:14+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2628,46 +2688,6 @@
         "link": "https://www.ithome.com/1/003/856.htm",
         "summary": "IT之家 9 月 17 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，对比传统 WiFi，可降低游戏网络卡顿率。IT之家实测发现，华为路由 X3 Pro 日照金山已开放星闪电竞专链功能，支持 Mate 80 等系列机型通过星闪进行连接。用户还可以通过华为智慧生活 App 的路由接入设备管理功能，查看各机型的连接方式。从下图可以看到，Mate 80 Pro Max 通过星闪接入了华为路由 X3 Pro 日照金山。需要注意的",
         "pubDate": "2026-09-17T14:17:47+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "苹果 iOS / macOS 27.2 测试 Apple Music 专辑发售倒计时功能，为用户增添惊喜感",
-        "link": "https://www.ithome.com/1/003/855.htm",
-        "summary": "IT之家 9 月 17 日消息，据 X 平台博主 pdfu 今天爆料，苹果正在 iOS / macOS 27.2 系统中测试 Apple Music 的专辑发售倒计时功能，让用户可以一眼看到新专辑还有多长时间上线，增添一丝惊喜感。据介绍，该功能目前还处于隐藏状态，需要通过功能开关启用。由于苹果仍在测试该功能，因此尚不清楚其正式开放时间。IT之家注意到，苹果公司今日发布 iOS 27.2 Beta 1 测试版系统。本次更新带来了重新设计的健康 App，加入 Apple 智能驱动的健康分析功能；同时将 Siri AI 本地化支持扩展至另外五种语言，为群组 FaceTime 通话带来了双摄像头拍摄功",
-        "pubDate": "2026-09-17T14:12:38+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Bose Ultra Open Earbuds 夹耳式无线耳机发布：提升音质续航，售价 299 美元",
-        "link": "https://www.ithome.com/1/003/854.htm",
-        "summary": "IT之家 9 月 17 日消息，在近两年半前推出初代产品、推动夹耳式无线耳机风潮后，Bose 今天发布了第二代 Ultra Open Earbuds 开放式耳机，新款 Ultra Open Earbuds（2nd Gen）采用经过调整的外观设计，在音质和续航方面均有所提升。同时，Bose 还推出了一款价格更低的 Sport Open Earbuds，主打运动场景下更加牢固、稳定的佩戴体验。Bose Ultra Open Earbuds（2nd Gen）将于 9 月 19 日开启预订，售价 299 美元（IT之家注：现汇率约合 2,010 元人民币），并于 10 月 1 日正式上市。配色包括黑色",
-        "pubDate": "2026-09-17T14:08:56+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称小鹏计划为更多海外车企提供技术解决方案，部分潜在合作伙伴已展现兴趣",
-        "link": "https://www.ithome.com/1/003/853.htm",
-        "summary": "IT之家 9 月 17 日消息，路透社今天（17 日）晚间援引两名知情人士消息称，小鹏汽车计划把技术输出范围从合作伙伴大众汽车进一步扩大至其他海外车企，以开辟新的收入来源。其中一名知情人士称，小鹏已接触部分潜在合作伙伴，对方对其技术表现出兴趣。按照规划，小鹏将向其他企业提供电子电气架构、智能座舱系统、图灵 AI 芯片和高级驾驶辅助软件，潜在客户还包括海外软件开发商和汽车零部件供应商。另一名知情人士称，在拓展 Robotaxi、人形机器人和飞行汽车业务的同时，小鹏还准备扩大技术授权和定制业务，将 Robotaxi、机器人以及其他物理 AI 应用纳入服务范围，并提供 Robotaxi 运营部署。随",
-        "pubDate": "2026-09-17T14:07:41+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "索尼 PS5 游戏机获 26.06-14.00.00 系统更新，Pro 机型默认开启增强 PSSR 图像质量",
-        "link": "https://www.ithome.com/1/003/842.htm",
-        "summary": "IT之家 9 月 17 日消息，索尼 PS5 游戏机近日获得 26.06-14.00.00 系统更新。本次更新主要带来一系列新功能，PS5 Pro 机型将默认开启增强 PSSR 图像质量设定，为用户带来更清晰、锐利的游戏体验。仅支持旧版 PSSR 的游戏，也能使用增强版 PSSR。PSSR（PlayStation 光谱超解析度）是索尼专为 PS5 Pro 开发的 AI 影响超解析度技术，可通过机器学习逐帧分析画面，将低分辨率画面放大、重建为高解析度画面。它能够在不增加 GPU 3D 渲染负担的情况下提升画质，部分游戏开启后能实现 4K 60FPS 兼得。IT之家附本次更新详情如下：我们已默认开",
-        "pubDate": "2026-09-17T13:57:44+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
