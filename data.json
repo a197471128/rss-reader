@@ -1,212 +1,222 @@
 {
-  "updated": "2026-09-21T16:20:38.601601+00:00",
+  "updated": "2026-09-21T21:51:48.583519+00:00",
   "summary": {
     "total": 78,
-    "success": 33,
-    "fail": 45,
-    "total_articles": 385
+    "success": 32,
+    "fail": 46,
+    "total_articles": 388
   },
   "articles": {
     "hot": [
       {
-        "title": "中国女篮大胜印尼张子宇首秀22分 热度：3104208",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%8D%B0%E5%B0%BC+%E5%BC%A0%E5%AD%90%E5%AE%87%E9%A6%96%E7%A7%8022%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "如何看待解放军参加三叉戟军演 热度：3121571",
+        "link": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%82%E5%8A%A0%E4%B8%89%E5%8F%89%E6%88%9F%E5%86%9B%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-09-21T20:02:00+08:00",
+        "pubDate": "2026-09-22T00:02:03+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "女子束腹带内夹藏15只活体龟入境被查 热度：3242162",
-        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9D%9F%E8%85%B9%E5%B8%A6%E5%86%85%E5%A4%B9%E8%97%8F15%E5%8F%AA%E6%B4%BB%E4%BD%93%E9%BE%9F%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "难民代表队首次亮相亚运会 热度：3198057",
+        "link": "https://www.baidu.com/s?wd=%E9%9A%BE%E6%B0%91%E4%BB%A3%E8%A1%A8%E9%98%9F%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E4%BA%9A%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "2026年爱知·名古屋亚运会首次迎来难民代表队，这支队伍只有两名运动员，均来自叙利亚，目前生活在约旦，将参加跆拳道比赛。对于这两名运动员而言，抵达这...",
+        "pubDate": "2026-09-22T00:02:03+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "粮食价格上涨？官方表态 热度：3310496",
+        "link": "https://www.baidu.com/s?wd=%E7%B2%AE%E9%A3%9F%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%EF%BC%9F%E5%AE%98%E6%96%B9%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "针对国际粮价受厄尔尼诺、地缘冲突影响出现波动的情况，国家粮食和物资储备局局长刘焕鑫表示，当前国际粮食市场出现波动，但中国粮食市场保持总体平稳，粮食安...",
+        "pubDate": "2026-09-22T00:02:03+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "巴拿马散货船与中国渔船相撞 热度：3524797",
+        "link": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%95%A3%E8%B4%A7%E8%88%B9%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间9月17日，巴拿马散货船与中国渔船在新加坡海峡相撞，致渔船受损倾斜。截至20日，渔船未沉没并已抵达附近泊位，暂无人员伤亡报告，巴拿马海事局正...",
+        "pubDate": "2026-09-22T00:02:02+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "广东省人大常委会党组表态 热度：3709623",
+        "link": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%85%9A%E7%BB%84%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月21日，广东省人大常委会党组书记黄楚平主持召开党组扩大会议，通报党组成员覃伟中涉嫌严重违纪违法被查情况。此前，中央纪委国家监委对覃伟中立案审查调...",
+        "pubDate": "2026-09-22T00:02:02+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "400万粉丝博主莆田救灾爆红 热度：3795678",
+        "link": "https://www.baidu.com/s?wd=400%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E8%8E%86%E7%94%B0%E6%95%91%E7%81%BE%E7%88%86%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，24岁拥有400万粉丝的视频博主吴梓濠因前往福建莆田参与救灾走红。其父表示对儿子最大的愿望是平安、健康和利他。吴梓濠称，相比财富和资源，父亲从...",
+        "pubDate": "2026-09-22T00:02:01+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "校方回应男生逃避军训飞往上海旅游 热度：3882423",
+        "link": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E9%80%83%E9%81%BF%E5%86%9B%E8%AE%AD%E9%A3%9E%E5%BE%80%E4%B8%8A%E6%B5%B7%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-09-21T20:02:00+08:00",
+        "pubDate": "2026-09-22T00:02:01+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "于子迪打破亚洲纪录夺金 热度：3317553",
-        "link": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%AD%90%E8%BF%AA%E6%89%93%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，名古屋亚运会女子200米个人混合泳决赛，中国选手于子迪夺得金牌，并打破亚洲纪录！另一名中国选手余依婷夺得银牌。",
-        "pubDate": "2026-09-21T20:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "门店回应罗永浩点赞自家回锅肉 热度：3397599",
-        "link": "https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%82%B9%E8%B5%9E%E8%87%AA%E5%AE%B6%E5%9B%9E%E9%94%85%E8%82%89&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，罗永浩在社媒分享深圳出差就餐经历，盛赞一餐馆回锅肉称是近几年吃过最好的之一。门店工作人员回应称，回锅肉是招牌菜，罗永浩系自发非打广告，目前还没...",
-        "pubDate": "2026-09-21T20:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中化集团原副总经理冯志斌获刑19年 热度：3521174",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8C%96%E9%9B%86%E5%9B%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E5%86%AF%E5%BF%97%E6%96%8C%E8%8E%B7%E5%88%9119%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，黑龙江省大庆市中级人民法院对中国中化集团原副总经理冯志斌受贿等案一审宣判，决定执行有期徒刑十九年，并处罚金七百万元。对冯志斌犯罪所得财物...",
-        "pubDate": "2026-09-21T20:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "女子独自徒步断水断粮被救时失温 热度：3616335",
-        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%8B%AC%E8%87%AA%E5%BE%92%E6%AD%A5%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE+%E8%A2%AB%E6%95%91%E6%97%B6%E5%A4%B1%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月19日，深圳红星救援队在塘朗山救出一名失联超30小时的女子。该女子18日凌晨独自进山徒步后失联，物资耗尽、山间温差大，存在失温危险。被发现时她体...",
-        "pubDate": "2026-09-21T20:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "“没有什么能难倒中国人” 热度：3679669",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E8%83%BD%E9%9A%BE%E5%80%92%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月6日晚，2026“把青春华章写在祖国大地上”大思政课活动在安徽合肥中国科学技术大学举行。中国科大校长常进、国家最高科学技术奖获得者陈立泉、4名安...",
-        "pubDate": "2026-09-21T20:01:58+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "之前不过敏今年突然过敏咋回事 热度：3898923",
-        "link": "https://www.baidu.com/s?wd=%E4%B9%8B%E5%89%8D%E4%B8%8D%E8%BF%87%E6%95%8F+%E4%BB%8A%E5%B9%B4%E7%AA%81%E7%84%B6%E8%BF%87%E6%95%8F%E5%92%8B%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "进入秋季，不少人出现过敏症状。针对“以前不过敏今年突然中招”、“以毒攻毒是否靠谱”及易感人群如何防范等困惑，“新华健康”专访山东大学齐鲁医院耳鼻喉科...",
-        "pubDate": "2026-09-21T20:01:58+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "GPT-6Astra被曝模拟测试推人下悬崖 热度：4005744",
-        "link": "https://www.baidu.com/s?wd=GPT-6+Astra%E8%A2%AB%E6%9B%9D%E6%A8%A1%E6%8B%9F%E6%B5%8B%E8%AF%95%E6%8E%A8%E4%BA%BA%E4%B8%8B%E6%82%AC%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，马斯克在X平台转发开发者测试帖称，GPT-6Astra在多次模拟测试中将模拟人物推下悬崖，而Grok、Gemini和Claude均未出...",
-        "pubDate": "2026-09-21T20:01:58+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "千万家庭被困阿尔茨海默病 热度：4064403",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AE%B6%E5%BA%AD%E8%A2%AB%E5%9B%B0%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，是第33个世界阿尔茨海默病日。当前我国有超千万阿尔茨海默病患者，千万家庭陷入漫长照护之战。因疾病不可逆转且我国超97%轻度认知障碍患者未...",
-        "pubDate": "2026-09-21T20:01:57+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国女足5比1菲律宾小组第一出线 热度：4188420",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B35%E6%AF%941%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "北京时间9月21日，亚运女足小组赛G组第3轮，中国女足5比1战胜菲律宾女足，锁定小组第一。",
-        "pubDate": "2026-09-21T20:01:57+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "柬埔寨“8号电诈园区”内部曝光 热度：4260338",
-        "link": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E2%80%9C8%E5%8F%B7%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E2%80%9D%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间9月21日，柬埔寨当局带领媒体实地走访“8号电诈园区”。园区占地约120公顷，可容纳约2万人，办公、住宿、餐饮等设施一应俱全，俨然一座相对独...",
-        "pubDate": "2026-09-21T20:01:56+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "胡塞武装警告他国不要参战 热度：4365426",
-        "link": "https://www.baidu.com/s?wd=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%AD%A6%E5%91%8A%E4%BB%96%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%8F%82%E6%88%98&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间9月20日，也门胡塞武装高层成员穆罕默德·布海提表示，不会在海峡袭击美国及其他国家目标，只有沙特是例外。他同时警告称，如果有任何国家与沙特一...",
-        "pubDate": "2026-09-21T20:01:56+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "张博恒夺亚运会体操男子个人全能金牌 热度：4564623",
-        "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BD%93%E6%93%8D%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，名古屋亚运会体操男子个人全能决赛，中国选手张博恒夺得金牌，成功卫冕。",
-        "pubDate": "2026-09-21T20:01:56+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "亲戚冒充“通灵人”做法事骗走800万 热度：4662373",
-        "link": "https://www.baidu.com/s?wd=%E4%BA%B2%E6%88%9A%E5%86%92%E5%85%85%E2%80%9C%E9%80%9A%E7%81%B5%E4%BA%BA%E2%80%9D%E5%81%9A%E6%B3%95%E4%BA%8B%E9%AA%97%E8%B5%B0800%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "记者七进七出“地下化妆品工厂” 热度：4083709",
+        "link": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E4%B8%83%E8%BF%9B%E4%B8%83%E5%87%BA%E2%80%9C%E5%9C%B0%E4%B8%8B%E5%8C%96%E5%A6%86%E5%93%81%E5%B7%A5%E5%8E%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-09-21T20:01:55+08:00",
+        "pubDate": "2026-09-22T00:02:01+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "大爷钓到1.6米长大鳡鱼扛着就跑 热度：4739362",
-        "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%92%93%E5%88%B01.6%E7%B1%B3%E9%95%BF%E5%A4%A7%E9%B3%A1%E9%B1%BC+%E6%89%9B%E7%9D%80%E5%B0%B1%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，重庆一大爷钓到一条1.6米长、80多斤重的大鳡鱼。因鱼体型巨大，大爷遛鱼一个多小时才成功将它拉上岸，随后扛着大鱼就跑，引来不少路人关注。有网友...",
-        "pubDate": "2026-09-21T20:01:55+08:00",
+        "title": "日本一海滩有鲸爆风险 热度：4164036",
+        "link": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%B5%B7%E6%BB%A9%E6%9C%89%E9%B2%B8%E7%88%86%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月19日早上，在日本千叶县东北部匝瑳市的一处海滩上，人们发现一头体长约17米、疑似长须鲸的鲸鱼搁浅。这头鲸的尸体疑似已出现严重腐败，鲸嘴的位置可见...",
+        "pubDate": "2026-09-22T00:02:00+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "龚莉空手道夺金 热度：4848122",
-        "link": "https://www.baidu.com/s?wd=%E9%BE%9A%E8%8E%89%E7%A9%BA%E6%89%8B%E9%81%93%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月21日，名古屋亚运会空手道女子个人组手61公斤级决赛，中国选手龚莉夺得金牌！",
-        "pubDate": "2026-09-21T20:01:55+08:00",
+        "title": "旧手机怎么处理最安全 热度：4560061",
+        "link": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E6%9C%80%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "旧手机怎么处理最安全？吉林民警提醒，仅格式化或恢复出厂无法彻底清除旧手机数据，信息仍可被技术恢复。建议恢复出厂后用大文件填满手机，覆盖原有数据，再重...",
+        "pubDate": "2026-09-22T00:02:00+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "王蒙：年轻人“一定要做到实事求是” 热度：4949150",
-        "link": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%92%99%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%AE%9E%E4%BA%8B%E6%B1%82%E6%98%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，人民日报“在场”栏目专访著名作家王蒙。被称作“90后”的王蒙表示，人生总要经历曲折和坎坷，他最想对00后年轻人说：人这一辈子要做到什么事都实事...",
-        "pubDate": "2026-09-21T20:01:54+08:00",
+        "title": "香港名媛蔡天凤碎尸案开审 热度：4640405",
+        "link": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%BC%80%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月21日，香港名媛蔡天凤碎尸案在香港高等法院正式开审，预计审期45天。蔡天凤前夫邝港智、前家翁邝球及前夫兄长邝港杰三人，被控谋杀以及阻止合法埋葬尸...",
+        "pubDate": "2026-09-22T00:01:59+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "伊朗总统22日赴美出席联合国大会 热度：5140039",
-        "link": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "据伊朗方面消息，伊朗总统办公室21日宣布，总统佩泽希齐扬将于22日启程前往美国出席联合国大会。消息称，美国政府采取敌对举措，拒绝向佩泽希齐扬的媒体团...",
-        "pubDate": "2026-09-21T20:01:54+08:00",
+        "title": "伊朗男篮全队球员将免服兵役 热度：4749127",
+        "link": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%B7%E7%AF%AE%E5%85%A8%E9%98%9F%E7%90%83%E5%91%98%E5%B0%86%E5%85%8D%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月20日，在名古屋亚运会男篮季军争夺战中，伊朗男篮战胜中国男篮夺得铜牌，全队球员将因此获得免服兵役资格。在伊朗，男性年满18岁后必须服两年兵役。此...",
+        "pubDate": "2026-09-22T00:01:59+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "云南发现新物种“再富藤” 热度：5232394",
-        "link": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D%E2%80%9C%E5%86%8D%E5%AF%8C%E8%97%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "记者9月21日获悉，中国科学院西双版纳热带植物园等联合团队近日在云南元江国家级自然保护区调查中，发现夹竹桃科新属新种“再富藤”。该发现已刊发于国际权...",
-        "pubDate": "2026-09-21T20:01:54+08:00",
+        "title": "西安比亚迪急招近万工人 热度：4846930",
+        "link": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%80%A5%E6%8B%9B%E8%BF%91%E4%B8%87%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，比亚迪在西安的多个厂区同时招工，涉及多个事业部，招工规模超过8000人，应聘最高奖励达6000元。此举旨在应对出口订单激增带来的产能爬坡需求，...",
+        "pubDate": "2026-09-22T00:01:59+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": "别让“第一学历”寒了奋斗者的心 热度：4932369",
+        "link": "https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E2%80%9D%E5%AF%92%E4%BA%86%E5%A5%8B%E6%96%97%E8%80%85%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "此前，有求职者通过五轮面试却因“第一学历”被取消录用。人民日报就此评论指出，人生的可能性不应由一场考试定义，18岁的梦想、28岁的汗水、38岁的坚持...",
+        "pubDate": "2026-09-22T00:01:58+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "5米大车扎堆车位快装不下了 热度：5022730",
+        "link": "https://www.baidu.com/s?wd=5%E7%B1%B3%E5%A4%A7%E8%BD%A6%E6%89%8E%E5%A0%86+%E8%BD%A6%E4%BD%8D%E5%BF%AB%E8%A3%85%E4%B8%8D%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "今年9月，十余款“532型”大型新能源车密集上市，近1年已有近百款大车涌入市场。此前，车企为迎合消费升级及追求高毛利持续加码大车，前8个月5米以上新...",
+        "pubDate": "2026-09-22T00:01:58+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "上海一居民家阳台惊现白化蟒蛇 热度：5621777",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%98%B3%E5%8F%B0%E6%83%8A%E7%8E%B0%E7%99%BD%E5%8C%96%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月19日，上海宝山区大场镇真华路一居民阳台惊现一条长约3米、重约30斤的缅甸蟒蛇。视频显示巨蛇正吐着信子游走，吓晕众多网友。随后消防员赶到，用麻袋...",
+        "pubDate": "2026-09-22T00:01:57+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "一生只能参赛一次的世界大赛来了 热度：5803312",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%80%E7%94%9F%E5%8F%AA%E8%83%BD%E5%8F%82%E8%B5%9B%E4%B8%80%E6%AC%A1%E7%9A%84%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B5%9B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月22日至27日，第48届世界技能大赛在中国上海举行。该赛事是全球地位最高、规模最大、影响力最广的国际性职业技能赛事，每两年举办一届。绝大多数项目...",
+        "pubDate": "2026-09-22T00:01:57+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "潘展乐称张展硕是奇迹之子 热度：5992326",
+        "link": "https://www.baidu.com/s?wd=%E6%BD%98%E5%B1%95%E4%B9%90%E7%A7%B0%E5%BC%A0%E5%B1%95%E7%A1%95%E6%98%AF%E5%A5%87%E8%BF%B9%E4%B9%8B%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月21日，亚运会男子游泳接力决赛，中国队逆转日本队夺冠。赛后，潘展乐打趣称张展硕是“奇迹之子”，并自嘲“最菜”所以游第三棒。",
+        "pubDate": "2026-09-22T00:01:57+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "多地禁产“老头乐” 热度：6087890",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%A6%81%E4%BA%A7%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，江苏徐州和鲁西南部分地区厂家已被限制生产低速电动四轮车。受此影响，有座椅配件厂订单减少三分之一，保险杠厂订单下降20%至30%。此前，各地多从...",
+        "pubDate": "2026-09-22T00:01:56+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "1662元挂脖裙第一次穿就断裂走光 热度：6273317",
+        "link": "https://www.baidu.com/s?wd=1662%E5%85%83%E6%8C%82%E8%84%96%E8%A3%99%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A9%BF%E5%B0%B1%E6%96%AD%E8%A3%82%E8%B5%B0%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，深圳何女士花费1662元网购一条挂脖连衣裙，首次穿着出门时挂脖链条断裂，胸口布料滑落致走光。事发后，何女士多次要求退货退款被拒。21日，网店客...",
+        "pubDate": "2026-09-22T00:01:56+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 梁宁演讲笔记：物质过剩的时代，什么才是最稀缺的？ ",
+        "link": "https://www.huxiu.com/article/4893019.html?f=rss",
+        "summary": " 本文来自微信公众号： 橙竹洞见 ，作者：竺大炜前几天听梁宁的一场演讲，记了一堆零散的笔记。一、稀缺性：内卷的反面梁宁对“内卷”的定义：内卷，就是无意义的精益求精。当所有人都朝着同一个方向不断优化时，优化本身不再产生多少增量价值，更多变成了彼此之间的消耗。她接着给了一个更底层的判断：需求的敌人是满足。一个需求被满足以后，原来的痛点会消失，但新的需求又会出现。所以，商业机会往往藏在那些还没有被满足的稀缺性里。在物质过剩的时代，稀缺的可能不再是商品本身，而是：关注度、信任以及意义。内容越来越多，人的注意力却没有变多；注意力可以瞬间转移，信任却需要长期积累；当基本需求逐渐被满足以后，人们开始愿意为“",
+        "pubDate": "2026-09-22T00:54:35+08:00",
+        "author": " 橙竹洞见© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 胡塞为何暴走，沙特为何拉胯？ ",
@@ -1631,6 +1641,46 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "欧盟通过延长对俄制裁方案 期限长达三年",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701195.shtml",
+        "summary": "\n　　当地时间21日，经过长时间的磋商，欧盟成员国就延长对俄制裁达成一致，同意将相关制裁措施延长三年。",
+        "pubDate": "2026-09-22T02:39:28+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "“一次登记、全国通用” 解码“数据产权身份证”",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701194.shtml",
+        "summary": "\n　　时空观察丨“一次登记、全国通用” 解码“数据产权身份证”",
+        "pubDate": "2026-09-22T02:38:36+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "2026中网正赛外卡名单公布 郑钦文、孙心然领衔",
+        "link": "https://www.chinanews.com.cn/ty/2026/09-22/10701193.shtml",
+        "summary": "\n　　9月21日，2026中国网球公开赛正赛外卡名单正式揭晓。除此前已公布的郑钦文、孙心然外，另外六张女单正赛外卡归属袁悦、朱琳、高馨妤、渠依含、邵羽杉、林禹君；四张男单正赛外卡则颁发给了布云朝克特、张之臻、商竣程和勒纳·钱。",
+        "pubDate": "2026-09-22T02:37:06+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "王毅同德国外长瓦德富尔通电话",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701192.shtml",
+        "summary": "\n　　中新社北京9月21日电  9月21日，中共中央政治局委员、外交部长王毅应约同德国外长瓦德富尔通电话。",
+        "pubDate": "2026-09-22T00:34:06+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "“黄金周”临近 泰国旅游市场迎中国游客接待高峰",
         "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701191.shtml",
         "summary": "\n　　中新社曼谷9月21日电 (李映民 梁峻祥 王茜)随着中国中秋节、国庆节假期临近，泰国旅游市场迎来中国游客出行预订高峰。在线旅游平台Trip.com Group21日发布的数据显示，黄金周期间中国游客赴泰旅游呈现提前预订、延长停留以及更加关注自然景观和特色城市等趋势。",
@@ -1789,50 +1839,50 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（爱知·名古屋亚运会）万乐天获女子50米仰泳决赛冠军",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-21/1205158.shtml",
-        "summary": "",
-        "pubDate": "2026-09-21T22:55:34+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（爱知·名古屋亚运会）中国香港队选手何甄陶男子50米自由泳摘银",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-21/1205156.shtml",
-        "summary": "",
-        "pubDate": "2026-09-21T22:43:43+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（爱知·名古屋亚运会）亚运女篮小组赛：中国队战胜印度尼西亚队",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-21/1205149.shtml",
-        "summary": "",
-        "pubDate": "2026-09-21T22:39:23+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "韩正会见澳大利亚联邦议会众议长迪克",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-21/10701163.shtml",
-        "summary": "\n\n9月21日，国家副主席韩正在北京会见澳大利亚联邦议会众议长迪克。新华社记者 刘卫兵 摄\n\n　　新华社北京9月21日电 国家副主席韩正21日在京会见澳大利亚联邦议会众议长迪克。",
-        "pubDate": "2026-09-21T22:39:05+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "pubDate": "2026-09-21T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "pubDate": "2026-09-21T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Building standards for the next phase of AI",
+        "link": "https://openai.com/index/building-standards-next-phase-ai",
+        "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+        "pubDate": "2026-09-21T10:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Expanding OpenAI Academy with new learning paths",
+        "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+        "pubDate": "2026-09-21T07:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "How V7 gives AI agents institutional memory",
         "link": "https://openai.com/index/v7",
@@ -1994,44 +2044,14 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Introducing ChatGPT for Financial Services",
-        "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-        "pubDate": "2026-09-10T07:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-        "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-        "pubDate": "2026-09-10T07:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Introducing the Agents API",
-        "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-        "pubDate": "2026-09-10T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-        "pubDate": "2026-09-10T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 梁宁演讲笔记：物质过剩的时代，什么才是最稀缺的？ ",
+        "link": "https://www.huxiu.com/article/4893019.html?f=rss",
+        "summary": " 本文来自微信公众号： 橙竹洞见 ，作者：竺大炜前几天听梁宁的一场演讲，记了一堆零散的笔记。一、稀缺性：内卷的反面梁宁对“内卷”的定义：内卷，就是无意义的精益求精。当所有人都朝着同一个方向不断优化时，优化本身不再产生多少增量价值，更多变成了彼此之间的消耗。她接着给了一个更底层的判断：需求的敌人是满足。一个需求被满足以后，原来的痛点会消失，但新的需求又会出现。所以，商业机会往往藏在那些还没有被满足的稀缺性里。在物质过剩的时代，稀缺的可能不再是商品本身，而是：关注度、信任以及意义。内容越来越多，人的注意力却没有变多；注意力可以瞬间转移，信任却需要长期积累；当基本需求逐渐被满足以后，人们开始愿意为“",
+        "pubDate": "2026-09-22T00:54:35+08:00",
+        "author": " 橙竹洞见© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 胡塞为何暴走，沙特为何拉胯？ ",
@@ -2454,6 +2474,46 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "苹果 watchOS 27.2 开发者预览版 Beta 2 发布",
+        "link": "https://www.ithome.com/1/005/486.htm",
+        "summary": " 【点此直达升级教程】  IT之家 9 月 22 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24S5091f），本次更新距离上次发布 Beta/RC 间隔 5 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《",
+        "pubDate": "2026-09-21T17:36:13+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 visionOS 27.2 开发者预览版 Beta 2 发布",
+        "link": "https://www.ithome.com/1/005/485.htm",
+        "summary": " IT之家 9 月 22 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24N5093f），本次更新距离上次发布 Beta/RC 间隔 5 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史：  2026-09-17：visionOS 27.2 Beta (24N5088l) 2026-09-15：visionOS 27.0 (24M362)",
+        "pubDate": "2026-09-21T17:36:13+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 macOS 27.2 开发者预览版 Beta 2 发布",
+        "link": "https://www.ithome.com/1/005/484.htm",
+        "summary": " IT之家 9 月 22 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 2 更新（内部版本号：26B5091g），本次更新距离上次发布 Beta/RC 间隔 5 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / ma",
+        "pubDate": "2026-09-21T17:36:12+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 2 发布",
+        "link": "https://www.ithome.com/1/005/483.htm",
+        "summary": " 【点此直达升级教程】  IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta/RC 间隔 5 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下",
+        "pubDate": "2026-09-21T17:36:12+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "小米 69 元米家夜灯 4 开售：支持磁吸 / 悬挂 / 粘贴 + 8 个月长续航",
         "link": "https://www.ithome.com/1/005/480.htm",
         "summary": "IT之家 9 月 22 日消息，小米月初才开启众筹的米家夜灯 4 现已直接上架京东并开售，首发到手价 69 元起，首发期间晒单返 500 京豆（9 月 22 日-10 月 22 日）。京东米家夜灯 4 米家智能人体感应小夜灯婴儿喂奶起夜灯卫生间卧室床头灯磁吸充电 69 元直达链接米家夜灯 4 为全新升级版本，主打暗光感应，微动即亮，拥有多项核心升级。首先，这款产品升级 24GHz 雷达，人体感应更精准，拥有 120° 大广角感知人体，正前方感应范围可达 3m ，侧方感应范围可达 2.5m ，黑暗环境下可实现人来灯亮，人离开 10 秒后自动关灯。其灯光方面采用漫反射舒适柔光设计，灯体背面出光，经",
@@ -2614,56 +2674,6 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "vivo X500 Pro Max 专业影像手柄套装 / 增距镜 G2 发布，699 元 / 999 元起",
-        "link": "https://www.ithome.com/1/005/445.htm",
-        "summary": "IT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会今晚举行，除了常规的手机产品外，官方还带来了专业影像手柄套装、增距镜 G2 等影像配件。IT之家整理如下：vivo 增距镜 G2：建议零售价 999 元，适配 vivo X500 系列vivo 增距镜 G2 Ultra：建议零售价 1999 元，适配 vivo X500 Pro Max专业影像手柄套装：建议零售价 699 元，适配 vivo X500 Pro Maxvivo 增距镜 G2 &amp; 专业影像手柄套装：建议零售价 1499 元，适配 vivo X500 Pro Maxvivo 增距镜 G2 Ultra&",
-        "pubDate": "2026-09-21T13:42:55+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "罗技 G 官宣新品 \"GPW5 Ultra\"，应指 PRO X3 SUPERSTRIKE 鼠标",
-        "link": "https://www.ithome.com/1/005/444.htm",
-        "summary": "IT之家 9 月 21 日消息，Logitech G（罗技 G）今日表示将推出新品 \"GPW5 Ultra\"。考虑到原版 \"GPW5\" 鼠标即 PRO X2 SUPERSTRIKE，这里的 \"GPW5 Ultra\" 指的应该就是 \"PRO X3 SUPERSTRIKE\"。PRO X3 SUPERSTRIKE 鼠标基于 NxLOGI 芯片组，续航提升 50%；升级后的 HERO 2 48K 传感器支持 48000 cpi / DPI 分辨率、90G 加速度、930ips 追踪速率；平衡性得到改进。根据IT之家的了解，罗技 G 此次将在 PLAY DAY 2026 趣玩日上发布的新品应包括 G50",
-        "pubDate": "2026-09-21T13:28:38+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "599 元，vivo 影像创新外设“随拍屏”价格公布",
-        "link": "https://www.ithome.com/1/005/443.htm",
-        "summary": "IT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会今晚举行，带来了影像创新外设“vivo 随拍屏”。IT之家从发布会现场获悉，该产品建议零售价 699 元，首销优惠价 599 元，适配 vivo X500 系列，9 月 24 日正式限量开售。该产品配备 3.92 英寸超大 AMOLED 触控屏，机身厚度仅 5.65mm，重量仅 68g，支持 419 PPI 超高清晰度、10m 内无线传输。此外，该产品超深度适配 vivo 原生设计，支持六大相机模式，适配拍短片、录口播、拍开箱教程、拍特殊机位等多种使用场景，支持磁吸功能。",
-        "pubDate": "2026-09-21T13:26:28+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "vivo X500 Pro 1TB 版与 X500 Pro Max 手机首次支持 eSIM",
-        "link": "https://www.ithome.com/1/005/442.htm",
-        "summary": "IT之家 9 月 21 日消息，在今晚举行的 vivo X500 系列及智慧终端新品发布会上，vivo X500 Pro 系列手机发布。IT之家从联通获悉，vivo X500 Pro 1TB 版与 X500 Pro Max 手机首次支持 eSIM，均支持“2 实体卡 +2eSIM”。联通表示，当前全国联通 2 万多家自有营业厅均具备 eSIM 业务受理资格，配备 eSIM 手机业务受理专席；未来中国联通将持续扩充 eSIM 终端适配清单，进一步简化业务办理流程，提升便捷性。IT之家整理新机价格信息如下：vivo X500 Pro12GB+256GB 版 6499 元12GB+512GB 版 7",
-        "pubDate": "2026-09-21T13:20:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "AI发展放缓对能源股意味着什么",
-        "link": "https://www.tmtpost.com/8148083.html",
-        "summary": "如果人工智能建设热潮放缓，投资者可能面临的三种情景。",
-        "pubDate": "2026-09-21T23:00:27+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
         "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
         "link": "https://www.tmtpost.com/8147943.html",
         "summary": "前次收购夭折仅一月即火速对接，业绩对赌与估值反差引监管关注。",
@@ -2808,6 +2818,26 @@
         "link": "https://www.tmtpost.com/8147238.html",
         "summary": "部分区域快递开启小幅涨价，单票上调一毛五能否终结行业价格战引发讨论。涨价仅可实现短期止血，行业破局不能单纯依靠提价，关键在于理顺产业链收益分配，建立体现服务差异的定价体系。",
         "pubDate": "2026-09-21T17:34:57+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "把大海搬到工厂门口，运河改写中国制造",
+        "link": "https://www.tmtpost.com/8147218.html",
+        "summary": "打通一条南北向的水运大通。",
+        "pubDate": "2026-09-21T17:34:49+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "跳出黑电后，TCL与海信的两种活法",
+        "link": "https://www.tmtpost.com/8146700.html",
+        "summary": "TCL与海信，都在努力延伸边界。TCL更加大开大合，选择大幅度横向扩张，而海信则更强调主业稳健，同时向产业相关领域寻求增量。两大黑电巨头，跳出黑电业务容易，再造一个黑电业务难。",
+        "pubDate": "2026-09-21T17:34:45+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
