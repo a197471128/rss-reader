@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T18:00:27.498343+00:00",
+  "updated": "2026-09-22T21:13:43.296301+00:00",
   "summary": {
     "total": 78,
     "success": 33,
@@ -1824,6 +1824,26 @@
     "finance": [],
     "tech": [
       {
+        "title": "Better prompt caching for GPT-6",
+        "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+        "pubDate": "2026-09-22T21:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Introducing GPT-6 Sol and Luna",
+        "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+        "pubDate": "2026-09-22T18:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "Priorities and principles for effective third party assessments",
         "link": "https://openai.com/index/priorities-principles-third-party-assessments",
         "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
@@ -1834,9 +1854,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
         "pubDate": "2026-09-21T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1844,9 +1864,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
-        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
         "pubDate": "2026-09-21T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1998,26 +2018,6 @@
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
         "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
         "pubDate": "2026-09-11T10:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-        "pubDate": "2026-09-11T16:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-        "pubDate": "2026-09-10T16:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2434,6 +2434,156 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "高通第六代骁龙 8 超级至尊版升级封装方案：峰值性能输出更持久",
+        "link": "https://www.ithome.com/1/006/011.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布在其第六代骁龙 8 超级至尊版芯片上，采用了全新的 Offset Package-on-Package（偏移式堆叠封装）方案。IT之家查询公开资料，主流手机芯片采用 Package-on-Package (PoP) 封装技术，通常将 DRAM 内存芯片直接垂直堆叠在 SoC（系统级芯片）正上方。这种封装方式可以节省主板空间，但会导致内存成为 SoC 散热的物理屏障，热量难以直接传导到外部散热系统。高通的 Offset PoP 封装方案物理偏移 CP",
+        "pubDate": "2026-09-22T21:03:35+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "摩托罗拉 Signature 27 旗舰真机首秀，搭载高通第六代骁龙 8 超级至尊版芯片",
+        "link": "https://www.ithome.com/1/006/010.htm",
+        "summary": "IT之家 9 月 23 日消息，在北京时间 9 月 23 日凌晨的 2026 高通骁龙峰会现场，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。摩托罗拉移动全球产品营销负责人兼执行总监 Nicole Hagen 宣布：“摩托罗拉很高兴进一步拓展与高通技术公司的合作，并首次在旗舰产品系列中采用第六代骁龙 8 超级至尊版。这一重要里程碑将帮助我们为全球消费者带来更强大的终端侧 AI 能力、更出色的性能以及更高品质的用户体验。凭借第六代骁龙 8 超级至尊版，我们将打造面向未来的新一代智能手机，更好地满足用户不断变化的需求。”I",
+        "pubDate": "2026-09-22T21:02:46+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "高通第六代骁龙 8 超级至尊版芯片一图看懂：2nm 工艺、CPU 行业首超 5GHz",
+        "link": "https://www.ithome.com/1/006/009.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。IT之家在峰会现场获得了关于两款新旗舰处理器的第一手最新消息，并为大家带来第六代骁龙 8 超级至尊版芯片一图看懂内容：第六代骁龙 8 超级至尊版定位为其性能最强的移动平台之一，重点提升终端侧人工智能、移动游戏和影像处理能力。其中，平台搭载的 Adreno Neural Fusion 技术可利用人工智能辅助图形渲染；结合高级专业视频编解码器和",
+        "pubDate": "2026-09-22T20:47:12+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "预填充吞吐超 330 Token/s：高通携手阶跃等为第六代骁龙 8 超级至尊版端侧适配 300 亿参数 AI 模型",
+        "link": "https://www.ithome.com/1/006/008.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通宣布携手阶跃、无量火及江波龙，基于第六代骁龙 8 超级至尊版移动平台，端侧适配与推理优化阶跃 StepEdge-Omni 30B-MoE 模型，并现场演示相关智能体助手。该模型拥有 300 亿参数，依托混合专家架构，仅根据任务需要激活部分专家模块，以降低计算量和内存带宽需求。合作方通过推理引擎、异构调度及存储方案优化，让模型运行内存需求较行业常规方案降低超过 50%，并支持在智能手机上稳定运行。高通表示，该方案无需调用云端服务，可以在本地完成邮件理解、行程",
+        "pubDate": "2026-09-22T20:40:27+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "vivo 宣布 iQOO 16、iQOO Pad Ultra 首批搭载高通第六代骁龙 8 超级至尊版处理器",
+        "link": "https://www.ithome.com/1/006/007.htm",
+        "summary": "IT之家 9 月 23 日消息，在今日的 2026 骁龙峰会上，vivo 宣布 iQOO 16、iQOO Pad Ultra 将首批搭载高通第六代骁龙 8 超级至尊版处理器。vivo 高级副总裁、首席技术官施玉坚表示：“多年来，vivo 与高通技术公司保持紧密合作，共同推动移动技术创新。全新发布的第六代骁龙 8 超级至尊版，代表着移动计算领域的又一次重大飞跃。我们即将发布的 iQOO16、iQOO Pad Ultra，将首批搭载第六代骁龙 8 超级至尊版，为酷客带来更出色的超能电竞与 AI 体验。未来，vivo 还将有更多产品搭载第六代骁龙 8 超级至尊版，持续为用户创造极致体验。”综合IT之",
+        "pubDate": "2026-09-22T20:39:14+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小米曾学忠在 2026 高通骁龙峰会首秀小米 18 Pro 真机",
+        "link": "https://www.ithome.com/1/006/006.htm",
+        "summary": "IT之家 9 月 23 日消息，在今日的 2026 高通骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器，首发机型为小米 18 Pro 系列。IT之家在峰会现场获悉，曾学忠直接掏出了小米 18 Pro 系列真机，面向全球观众展示了即将发布的新机。小米 18 Pro 系列已定档北京时间 9 月 23 日 19:00 在国内发布，此外，小米 18 Pro 系列将于年内登陆全球市场。",
+        "pubDate": "2026-09-22T20:32:59+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小米 18 Pro 系列手机官宣全球首发高通第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器",
+        "link": "https://www.ithome.com/1/006/005.htm",
+        "summary": "IT之家 9 月 23 日消息，在今日的 2026 骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器，首发机型为小米 18 Pro 系列。小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰表示：“小米始终致力于在旗舰产品组合中为消费者带来突破性的创新，高通技术公司全新多旗舰策略让我们能够更加灵活地实现这一目标。通过在即将推出的终端中采用第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版，小米能够为更广泛的用户带来量身定制的差异化旗舰体验。我们正与高通技术公司携手，共同推动下一代 AI 赋能的智能手机的发展，带来前所",
+        "pubDate": "2026-09-22T20:26:40+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%",
+        "link": "https://www.ithome.com/1/006/004.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。高通称两款产品面向“智能体人工智能”时代的移动终端需求，主要应用于下一代旗舰智能手机。IT之家援引博文介绍，第六代骁龙 8 超级至尊版定位为其性能最强的移动平台之一，重点提升终端侧人工智能、移动游戏和影像处理能力。其中，平台搭载的 Adreno Neural Fusion 技术可利用人工智能辅助图形渲染；结合高级专业视频编解码器和智能像素控",
+        "pubDate": "2026-09-22T20:14:43+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
+        "link": "https://www.ithome.com/1/006/003.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，高通宣布将会向骁龙芯片下放 HBC 技术。IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。该架构是一种近内存计算（near-memory computing）架构，将计算芯片放置在堆叠式 LPDDR DRAM 下方，通过 3D 集成和硅通孔（TSV）缩短数据传输距离，目标是缓解 A",
+        "pubDate": "2026-09-22T19:56:20+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "阿里千问平板 Qwen Book 现身 2026 骁龙峰会，定位原生 AI 智能体电脑",
+        "link": "https://www.ithome.com/1/006/002.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，在活动的宣传视频中，高通展示了阿里千问平板 Qwen Book。根据目前曝光的细节，Qwen Book 是一款智能体原生电脑，外观方面更接近于平板，项目仍处于早期阶段，主要侧重于办公室工作，集成 Qwen3.8-Max 和 Qwen3.8-Flash。IT之家此前报道，这款产品确定名称为 QwenBook，宣传语为“你的第一台‘原生智能体电脑’”，形态为平板 + 键盘触摸板的组合设计，组成类似笔记本的使用体验。QwenBook 平板机",
+        "pubDate": "2026-09-22T19:39:12+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
+        "link": "https://www.ithome.com/1/006/001.htm",
+        "summary": "IT之家 9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。OpenAI 官方表示，两款模型采用与 GPT-6 Astra 类似的方法进行训练，将 Astra 在专业工作、事实性、编码、计算机使用和对齐等方面最先进的性能带入更快、更经济的模型。GPT-6 Sol 和 Luna 模型的 API 价格相比 GPT-5.6 促销价降低 50%。不过 OpenAI 官方也表示，GPT-6 Astra 依然是其整体上最优秀的模型，如果你想要最佳效果和无妥协的体验，还是建议选择 GPT-6 Astra。性能方面，在 Automati",
+        "pubDate": "2026-09-22T19:25:16+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "高通宣布全球 Snapdragon Insider 项目成员数量突破 2300 万",
+        "link": "https://www.ithome.com/1/006/000.htm",
+        "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，在活动演讲中，高通公布宣布全球 Snapdragon Insider 项目成员数量突破 2300 万；全球 Snapdragon Creators 数量突破 4.05 亿。Snapdragon Insiders 是高通围绕骁龙平台运营的社区与内容计划，其作用包括：向成员提供新品、技术和活动的优先资讯，以及与品牌互动的机会。在 Snapdragon Summit 等活动中，把终端用户、开发者、OEM 合作伙伴、创作者、分析师和媒体汇集在",
+        "pubDate": "2026-09-22T19:17:35+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "美国纳斯达克综合指数周二盘中再创历史新高：科技股回暖 / 油价回落等因素驱动",
+        "link": "https://www.ithome.com/1/005/999.htm",
+        "summary": "IT之家 9 月 23 日消息，美国纳斯达克综合指数（Nasdaq Composite）于美国当地时间周二（9 月 22 日）盘中再度刷新历史高位，其中科技股强势反弹叠加油价回落提振市场风险偏好，成为推动指数突破的关键力量。IT之家发稿前，美国当地时间 9 月 22 日纳斯达克综合指数盘中最高触及 27,272.72 点，超越此前于 6 月 1 日创下的盘中纪录 27,190.21 点。伴随着纳斯达克综合指数上涨，道琼斯工业平均指数与标普 500 指数亦同步走高，分别上涨 0.30% 与 0.19%。华尔街日报认为，带动纳斯达克综合指数上涨的主要驱动因素，是科技股领涨，尤其是人工智能（AI）相",
+        "pubDate": "2026-09-22T18:55:13+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Anthropic 发布 Claude Opus 5.5 模型：性能媲美 Fable 5.1，运行成本比 Opus 5 低 40%",
+        "link": "https://www.ithome.com/1/005/998.htm",
+        "summary": "IT之家 9 月 23 日消息，Anthropic 今日正式发布了 Claude Opus 5.5 模型，这是其全新 Claude 5.5 家族的首个模型，宣称在大多数工作上表现可媲美 Claude Fable 5.1，运行成本比 Opus 5 低 40%。IT之家从 Anthropic 公告获悉，具体来看，Claude Opus 5.5 模型有以下提升：性能方面，Opus 5.5 比 Opus 5 有了很大提升，官方宣传早期测试者在最复杂的工作中看到性能大幅提升。一名测试人员在不到一天内完成了 68 万行代码迁移 —— 这一任务本应耗时数周。Opus 5.5 擅长发现并修复软件中的低效程序 ",
+        "pubDate": "2026-09-22T18:55:08+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "IT之家受邀前往夏威夷：2026 高通骁龙峰会开幕，骁龙 8 Elite Gen 6 旗舰芯马上揭晓",
+        "link": "https://www.ithome.com/1/005/997.htm",
+        "summary": "IT之家 9 月 23 日消息，2026 高通骁龙峰会于当地时间 9 月 22 日至 24 日在美国夏威夷举行（北京时间 9 月 23 日凌晨 3 点开幕），IT之家受邀前往峰会现场，为大家带来第一手现场报道。夏威夷茂宜岛时间 9 月 21 日，全球媒体陆续抵达。海景会场、标志性的 Snapdragon 打卡点，海岛的暖阳和骁龙红色看起来很配哦。今年骁龙峰会的小礼品也很有夏威夷特色，包括贝壳项链、手链，以及印有骁龙 Logo 的黑色水杯。向窗外望去，夏威夷茂宜岛的景色美不胜收，高通选在这里开发布会真是个好的决定呀！[坏笑] 当然，IT之家总部山东青岛的海也一样美丽。今年有望成为高通芯片产品迎来",
+        "pubDate": "2026-09-22T18:34:40+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "苹果 Beats 360 快速上手：Beats 首款能换耳罩的头戴式耳机，耳目一新，眼也一新",
         "link": "https://www.ithome.com/1/005/996.htm",
         "summary": "9 月 22 日，Beats 全新旗舰头戴式耳机 Beats 360 正式登场，售价 2999 元。这一次，Beats 带来了一个让人眼前一亮的设计 —— 首次采用可更换耳罩和头梁软垫。除了机器自带的黑色、云白、粉色和晴空蓝四款高颜值配色，以及标配的同色系机能编织耳罩外，官方还提供了材质、色彩各异的替换套件供大家单独选购。当下，头戴式耳机不仅仅是用来听音乐的音频设备，更是一件挂在颈间的潮流单品，是个人审美与当下情绪最直接的外化表达。那么，当自带潮流基因的 Beats，遇上高度自由的多彩可换配件，究竟会碰撞出怎样的新鲜体验？IT之家已经提前拿到了这款新品。接下来，就为大家带来详细的“上耳”体验。",
@@ -2478,156 +2628,6 @@
         "link": "https://www.ithome.com/1/005/992.htm",
         "summary": "IT之家 9 月 22 日消息，威联通 (QNAP) 今日宣布推出 1U 12\" 短机身机架式 NAS 新品 TS-432XeU。该设备基于 Annapurna Labs（现属亚马逊旗下）四核 Arm Cortex-A57 @ 1.8GHz 处理器（IT之家注：规格上看应该是 AL-324）。TS-432XeU 提供 4 个 3.5\" SATA III (6Gbps) 盘位；标配 4GB DDR4 SO-DIMM 内存，集成 4GB 闪存；拥有 1 个 10GbE SFP+、2 个 2.5GbE RJ-45、4 个 USB 5Gbps；内置 100W 电源，配备 3 个 40mm 12VDC ",
         "pubDate": "2026-09-22T15:38:42+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《黎明行者之血》游戏下月将迎重要更新：加入简单难度、取消自动切换锁定目标",
-        "link": "https://www.ithome.com/1/005/991.htm",
-        "summary": "IT之家 9 月 22 日消息，据游戏媒体 Insider Gaming 今天报道，Rebel Wolves 新作《黎明行者之血》将于下月迎来重要更新，加入一系列新内容。IT 之家从原报道了解到，《黎明行者之血》将在下个月加入全新“简单”难度，当前的“故事”难度将被调整为类似高难度的选项。官方表示，简单难度适合不想被战斗挑战、只想体验剧情的玩家。同时，本次更新还将取消自动切换锁定目标机制。此前玩家面对一群敌人使用眩晕攻击时，锁定目标会自动变化。由于玩家不喜欢这种设计，因此官方选择取消。本次更新还将加入逃离战斗玩法，让玩家能够在战局中跑路，并忽略导航网格。",
-        "pubDate": "2026-09-22T15:33:34+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称 DeepSeek 本周参加联合国安理会，讲解 AI 安全风险",
-        "link": "https://www.ithome.com/1/005/990.htm",
-        "summary": "IT之家 9 月 22 日消息，据路透社今日援引知情人士消息，中国人工智能初创公司 DeepSeek（深度求索）将在本周参加联合国安理会，讲解 AI 安全风险。与此同时，世界各国领导人将齐聚纽约，参加一年一度的联合国大会。IT之家从原报道获悉，由 15 个成员国组成的联合国安理会计划周三开会，讨论 AI 与国际安全问题。上周曾有消息称，OpenAI 首席执行官萨姆 · 奥尔特曼计划在本次会议发表演讲，Anthropic 高级代表也有可能出席会议。知情人士如今透露，DeepSeek 和月之暗面等中国 AI 企业均受邀发表讲话。不过 DeepSeek 创始人梁文锋没有计划出席此次会议，但相关安排仍",
-        "pubDate": "2026-09-22T15:26:51+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "奔驰承认德国工厂竞争力不足：若无法降本恐将关停两座工厂",
-        "link": "https://www.ithome.com/1/005/989.htm",
-        "summary": "IT之家 9 月 22 日消息，据路透社今天（22 日）报道，奔驰承认，目前其德国工厂按国际标准衡量已缺乏竞争力，劳动力成本过高尤其突出。此前，负责生产、质量和供应链管理的董事会成员迈克尔 · 希贝向员工发出警告，如果无法压低成本，奔驰恐将关闭德国两座工厂。奔驰在发给路透社的电邮声明中提到，公司希望保住德国的工厂和就业岗位。“但要实现这一目标，德国需要具备能够提高生产率的框架条件。”当地时间周一，希贝在奔驰拥有 111 年历史的辛德芬根工厂告知员工，如果成本降不下来，关厂就可能成为现实。“我们的明确目标是保留所有德国生产基地。要实现这一目标，各方必须共同承诺采取降本措施。”根据奔驰公布的演讲节",
-        "pubDate": "2026-09-22T15:23:43+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "后摩智能确认其下代大模型端边 AI 芯片采用 3D CIM 存算一体架构",
-        "link": "https://www.ithome.com/1/005/988.htm",
-        "summary": "IT之家 9 月 22 日消息，后摩智能 (HOUMO.AI) 在近日举行的 2026 全球 AI 芯片峰会上确认，该公司下代大模型端边 AI 芯片将采用 3D CIM 存算一体架构，结合融合存算与 3D DRAM 技术。这款新一代旗舰芯片将具备端侧超实时思考和互动能力。通过垂直堆叠，其可在同等面积下实现 2 倍算力，还有望进一步优化功耗与散热压力。IT之家注意到，后摩智能 2025 年 7 月发布了后摩漫界 M50 芯片。这一芯片典型功耗 10W，可提供 160TOPS (INT8) 或 100TFLOPS (bFP16) 算力，支持 48GB 内存容量、153.6GB/s 内存带宽。该芯片",
-        "pubDate": "2026-09-22T15:19:09+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "字节跳动通报 2026 年二季度内部违规案例：114 名员工触犯红线被辞退，其中 8 人被移交司法机关处理",
-        "link": "https://www.ithome.com/1/005/987.htm",
-        "summary": "IT之家 9 月 22 日消息，据中新经纬今天报道，字节跳动企业纪律与职业道德委员会发布中国大陆地区 2026 年 3 号通报，集中通报 2026 年二季度内部违规违纪案例处理结果。该通报显示，共有 114 名员工因触犯公司红线被辞退，其中 8 人因涉嫌刑事犯罪被移交司法机关处理，6 人因严重损害公司利益被提起民事诉讼。IT之家从原报道获悉，多名字节员工因违规查询、外发内部保密信息被处理：有员工利用系统权限违规查询内部保密信息后，通过社交软件、现场展示等方式，将信息泄露给外部同行企业；也有员工出于炫耀目的，对外披露自身员工身份后，主动协助外部人员查询并泄露内部保密信息。上述涉事员工均被辞退或解",
-        "pubDate": "2026-09-22T15:13:01+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称微软研发小尺寸 Surface：12 英寸屏幕，或采用英伟达 RTX Spark 芯片",
-        "link": "https://www.ithome.com/1/005/986.htm",
-        "summary": "IT之家 9 月 22 日消息，据消息人士 Roland Quandt 今日透露，微软内部正在研发代号为“Minos”的新型 Surface 电脑。据介绍，该产品搭载 12 英寸小屏幕，提供 24GB/32GB 内存，以及 512GB 或 1TB 硬盘，有可能使用英伟达 RTX Spark 芯片，定价“很疯狂”。▲ Surface Go 3IT之家注意到，微软将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办发布会，主题为本地人工智能如何塑造 PC 的下一阶段，预计展示 Windows 和 Surface 设备的未来规划。在出席人员方面，除",
-        "pubDate": "2026-09-22T15:08:26+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "逾七成美国人担忧 AI 公司防控不力，超半数支持放缓开发",
-        "link": "https://www.ithome.com/1/005/985.htm",
-        "summary": "北京时间 9 月 22 日，据路透社报道，就在人们越来越担忧 AI 技术的未来走向之际，路透社 / 益普索的最新民调显示，接近四分之三的美国人 (大约 73%) 担心 AI 公司在防止 AI 对社会造成严重危害方面做得还不够。AI 在美国引发争议这项为期四天的民调在上周日结束。结果显示，39% 的受访者认为 AI 正在对社会产生负面影响，高于上月的 36%，也是路透社 / 益普索自 3 月开始提出该问题以来的最高比例。只有 11% 的人认为这项新技术是积极的。其余受访者表示不确定或未回答该问题。民调发现，许多美国人对 AI 公司自我监管的能力缺乏信心。大多数受访者表示，联邦政府官员应该在制定 ",
-        "pubDate": "2026-09-22T15:08:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Cognex 拟以约 5 亿美元收购英特尔分拆企业 RealSense",
-        "link": "https://www.ithome.com/1/005/984.htm",
-        "summary": "IT之家 9 月 22 日消息，机器视觉与工业条码解决方案供应商 Cognex（康耐视）当地时间今日宣布拟以约 5 亿美元（IT之家注：现汇率约合 33.55 亿元人民币）收购英特尔分拆企业 RealSense（实感），该交易预计将于 2026Q4 完成。这笔交易仅涵盖 RealSense 的立体深度相机业务，RealSense 的面部识别认证业务将在交易前被分拆为独立企业。Cognex 还计划为 RealSense 员工提供三年 5650 万美元的现金留任计划，并根据现有股票期权和激励计划授予价值约 5000 万美元的限制性股票。相关阅读：《RealSense 结束英特尔 14 年孵化期，独",
-        "pubDate": "2026-09-22T15:02:23+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "首发 14999 元起：拓竹发布 R1 激光切割机，55W 高功率二氧化碳激光",
-        "link": "https://www.ithome.com/1/005/983.htm",
-        "summary": "IT之家 9 月 22 日消息，拓竹今日正式发布 R1 激光切割机，新品采用 55W 高功率二氧化碳激光，主打自动光路校准、主动振动补偿、三重定位系统，首发售价 14999 元起。京东拓竹 R1 激光切割机 14999 元直达链接据介绍，这款产品搭载 55W 高功率二氧化碳激光，能够切割木材、亚克力、布料和皮革等材料，可一次切穿 18mm 黑胡桃木胶合板或 20mm 亚克力，厚重材料切口整洁、断面干净。同时，该产品配合滚轮送料机使用时，可加工最长 3 米的材料，满足家具家居定制、空间设计、广告标牌制作等需求。配备双摄像头、双激光雷达、双编码器等，实现 0.2mm 高定位精度。支持旋转轴加工、透",
-        "pubDate": "2026-09-22T15:00:02+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "岚图汽车邵明峰：与华为最好的合作是强强联合，君子和而不同",
-        "link": "https://www.ithome.com/1/005/982.htm",
-        "summary": "IT之家 9 月 22 日消息，据第一财经，岚图汽车 CBO、销售公司总经理邵明峰在今天（22 日）晚间的媒体群访中，谈到了对车企与华为合作的看法。邵明峰重申，最好的合作是强强联合，华为乾崑的辅助驾驶系统和岚图的制造技术就是一个例子；君子和而不同，这是双方能够良好合作的前提基础，“岚图和华为各有优势和企业价值观，和而不同是一个比较好的合作模式。”邵明峰曾在今年 8 月的直播中表示，当前市场环境的智能辅助驾驶能力上，华为乾崑智驾是 TOP1，在复杂路况下能够实现零接管的智能辅助驾驶，是一个必选项。2025 年 9 月，他就已经指出，岚图和华为是强强联合。“就像人一样，不是人人百米跑都能跑到 9 ",
-        "pubDate": "2026-09-22T14:59:57+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "拿下 2 亿日活跃用户后，消息称字节跳动豆包收缩对话团队",
-        "link": "https://www.ithome.com/1/005/981.htm",
-        "summary": "IT之家 9 月 22 日消息，《晚点 LatePost》今天（22 日）晚间发布消息称，豆包通用 Session 团队正在减员，规模预计减半。该团队此前约有 50 人，一度是豆包内规模最大的团队，主要负责豆包的对话（Chat）产品能力，包括策略、评测等工作。此次调整后，部分人员将转岗至豆包商业化、飞书等团队，其余人员将被裁撤。消息称豆包负责人赵祺推动了此次人员调整。他在字节已有十余年履历，此前负责增长中台、穿山甲（字节旗下广告平台），之后转岗至集团人力资源部门，为字节 AI 业务搭建人才体系。2025 年 9 月，赵祺转岗至豆包，后于今年 7 月飞书、豆包产品团队整合后成为新产品团队负责人。",
-        "pubDate": "2026-09-22T14:48:14+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "英伟达黄仁勋解释为何每天穿黑色皮衣：可以少做一个选择，让我把精力放在更重要的事情",
-        "link": "https://www.ithome.com/1/005/980.htm",
-        "summary": "IT之家 9 月 22 日消息，众所周知，英伟达 CEO 黄仁勋总是穿着黑色皮夹克面对公众。这件黑色皮衣形象的知名度，几乎不亚于英伟达的 Logo。黄仁勋近日接受 CBS News 采访时解释了自己为何每天都穿黑色皮衣。当主持人问他到底有多少件皮衣时，黄仁勋回答道：“大概有三四十件吧，都是 Lori（黄仁勋妻子）给的。”他继续说道：“黑色意味着不需要做选择，每天穿相同的衣服挺好，每件的合身程度和手感也差不多。决定好穿什么衣服，就意味着每天少做一个决定，可以让我专注于真正重要的事情。”IT之家注意到，硅谷部分科技公司掌门人都有穿相同衣服的习惯。例如苹果联合创始人史蒂夫 · 乔布斯总是穿着黑色高领",
-        "pubDate": "2026-09-22T14:43:16+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "零刻公布 \"Panther Lake\" 款 ME Pro NAS 迷你主机，支持多项 AI 应用",
-        "link": "https://www.ithome.com/1/005/979.htm",
-        "summary": "IT之家 9 月 22 日消息，零刻 (Beelink) 今日在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上公布了基于第三代酷睿 Ultra 处理器 \"Panther Lake\" 的新款 ME Pro 系列 NAS 型迷你主机。新款 ME Pro 可选酷睿 Ultra X7 358H / 酷睿 Ultra 5 325 处理器，其中前者拥有更为强大的 GPU AI 算力。新品计划于 2026 年 10 月底前正式上线。IT之家了解到，新款 ME Pro 配备腾讯操作系统级个人 AI 管家智能体 Marvis，拥有文件内容理解、跨端远程控制能力，提供本地 AI ",
-        "pubDate": "2026-09-22T14:42:52+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "联合国秘书长古特雷斯呼吁全球监管人工智能，避免出现杀人机器人",
-        "link": "https://www.ithome.com/1/005/978.htm",
-        "summary": "IT之家 9 月 22 日消息，据彭博社报道，联合国秘书长进一步呼吁对人工智能实施监管，以避免出现企业权力泛滥、杀人机器人横行的反乌托邦未来。安东尼奥 · 古特雷斯（Antonio Guterres）在联合国大会上向各国领导人发表卸任前最后一次讲话，就人工智能的各类风险发出警示。他提出，前沿大模型的飞速发展，有可能削弱主权国家的治理能力。“我们正在目睹权力正大规模从各国政府手中，转移到少数私营企业与个人手里。”古特雷斯于当地时间周二发言时呼吁各方达成国际共识，建立全新的人工智能安全保障机制。“这项技术发展速度极快，其全部影响超出了我们的理解能力。”他补充道。据IT之家了解，这位 77 岁的联合",
-        "pubDate": "2026-09-22T14:36:46+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "NVIDIA 发布 617.14 显卡驱动：支持《控制：共振》《战争机器：事变日》《巫师 3：狂猎重制版》",
-        "link": "https://www.ithome.com/1/005/959.htm",
-        "summary": "IT之家 9 月 22 日消息，NVIDIA（英伟达）今日发布了全新 GeForce Game Ready 617.14 WHQL 驱动程序，为多款支持 DLSS 和 RTX 技术的最新游戏提供优化体验，同时修复了此前版本驱动存在的多个问题。IT之家附官方公告链接：https://www.nvidia.com/en-us/geforce/news/control-resonant-gears-of-war-e-day-geforce-game-ready-driver/。新游戏支持与性能优化为《控制：共振》(CONTROL Resonant)《战争机器：事变日》(Gears of War: E",
-        "pubDate": "2026-09-22T13:21:40+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2744,16 +2744,6 @@
         "feedColor": "#ff7c7c"
       },
       {
-        "title": "价值判断：涨停板的投资机会和风险提示（9月21日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/8148959.html",
-        "summary": "盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，首次涨停的深度低估标的多集中于电梯产业链、居住服务等顺周期方向，而连续涨停的显著溢价标的则集中于地产链与区域零售。",
-        "pubDate": "2026-09-22T17:22:31+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
         "title": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
         "link": "https://www.tmtpost.com/8143622.html",
         "summary": "AI导购这门生意的终极KPI，从来不是GMV。",
@@ -2788,6 +2778,16 @@
         "link": "https://www.tmtpost.com/8147846.html",
         "summary": "AIBox是算力买断，还是买内存送处理器的营销手段?",
         "pubDate": "2026-09-22T15:53:24+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "自动驾驶巴士迈入“黄金年代”",
+        "link": "https://www.tmtpost.com/8138057.html",
+        "summary": "这场改变，已经开始。",
+        "pubDate": "2026-09-22T15:47:16+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
