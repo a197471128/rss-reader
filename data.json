@@ -1,13 +1,73 @@
 {
-  "updated": "2026-09-28T18:04:58.641957+00:00",
+  "updated": "2026-09-28T23:13:04.684191+00:00",
   "summary": {
     "total": 78,
-    "success": 31,
-    "fail": 47,
-    "total_articles": 392
+    "success": 33,
+    "fail": 45,
+    "total_articles": 398
   },
   "articles": {
     "hot": [
+      {
+        "title": "21岁职校生郭夏亭获世赛金牌 热度：3610706",
+        "link": "https://www.baidu.com/s?wd=21%E5%B2%81%E8%81%8C%E6%A0%A1%E7%94%9F%E9%83%AD%E5%A4%8F%E4%BA%AD%E8%8E%B7%E4%B8%96%E8%B5%9B%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-29T05:01:59+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中国将绘制完成新一代全火星地质图 热度：3792623",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E7%BB%98%E5%88%B6%E5%AE%8C%E6%88%90%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%A8%E7%81%AB%E6%98%9F%E5%9C%B0%E8%B4%A8%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "中国科学院院士、天问三号任务首席科学家侯增谦9月28日透露，新一代全火星地质图将提出火星地质年代划分的中国方案，推动我国自主制定的火星年代划分标准成...",
+        "pubDate": "2026-09-29T05:01:58+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "林诗栋身兼四项全进决赛 热度：3888226",
+        "link": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%BA%AB%E5%85%BC%E5%9B%9B%E9%A1%B9%E5%85%A8%E8%BF%9B%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月28日，在名古屋亚运会乒乓球男单半决赛中，林诗栋逆转晋级，实现身兼四项全进决赛。他目前已斩获混双与男双两枚金牌及男团银牌。",
+        "pubDate": "2026-09-29T05:01:58+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "刘圣书谭宁2比1大马组合 热度：4079317",
+        "link": "https://www.baidu.com/s?wd=%E5%88%98%E5%9C%A3%E4%B9%A6%E8%B0%AD%E5%AE%812%E6%AF%941%E5%A4%A7%E9%A9%AC%E7%BB%84%E5%90%88&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月28日，2026亚运会羽毛球女双半决赛，刘圣书/谭宁2-1逆转陈康乐/蒂娜，晋级决赛。",
+        "pubDate": "2026-09-29T05:01:58+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "宜昌至兴山高铁开通运营 热度：4171736",
+        "link": "https://www.baidu.com/s?wd=%E5%AE%9C%E6%98%8C%E8%87%B3%E5%85%B4%E5%B1%B1%E9%AB%98%E9%93%81%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-09-29T05:01:57+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "葡萄牙2-1挪威C罗未出场 热度：5902387",
+        "link": "https://www.baidu.com/s?wd=%E8%91%A1%E8%90%84%E7%89%992-1%E6%8C%AA%E5%A8%81+C%E7%BD%97%E6%9C%AA%E5%87%BA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间9月28日凌晨，在欧国联A4组第2轮比赛中，挪威主场1-2不敌葡萄牙。此役哈兰德首发破门，C罗替补未出场，新老天骄再度无缘同场竞技。",
+        "pubDate": "2026-09-29T05:01:57+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "波音737MAX又出新故障 热度：3205853",
         "link": "https://www.baidu.com/s?wd=%E6%B3%A2%E9%9F%B3737MAX%E5%8F%88%E5%87%BA%E6%96%B0%E6%95%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news",
@@ -149,64 +209,24 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "华鼎奖提名名单 热度：5982499",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%8E%E9%BC%8E%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年9月28日，华鼎奖集团在洛杉矶发布了第46届全球演艺名人华鼎奖提名名单，涵盖华语与全球最佳影视演员等多个奖项。",
-        "pubDate": "2026-09-29T00:02:38+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 马斯克10年前吹的牛，试飞14次终于入轨，却只绕地球飞了两圈 ",
+        "link": "https://www.huxiu.com/article/4894427.html?f=rss",
+        "summary": " 本文来自微信公众号： 果壳 ，作者：跆拳道大灰狼，编辑：Steed北京时间昨晚23时57分，星舰飞船最后一次点燃发动机减速，缓缓落在夏威夷以北的太平洋上。它是昨晚20点49分从美国得克萨斯州的星舰基地起飞的，前后只飞了3个小时左右，比原计划少了将近7个小时。星舰在北太平洋完成水上软着陆丨SpaceX这是星舰的第十四次试飞，也是它第一次真正进入轨道。途中，它放出了26颗V3版星链卫星。这也是星舰第一次把有效载荷送进轨道。这一趟飞得并不完美。一级和二级在上升途中都有发动机熄火；飞船原计划在太空绕地球飞行6圈，最后只绕了不到两圈就提前返回了。前13次试飞，SpaceX给星舰制定的飞行计划，都只让它",
+        "pubDate": "2026-09-29T06:43:55+08:00",
+        "author": " 果壳 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
-        "title": "5万亿元城市“开抢”年轻人 热度：6080550",
-        "link": "https://www.baidu.com/s?wd=5%E4%B8%87%E4%BA%BF%E5%85%83%E5%9F%8E%E5%B8%82%E2%80%9C%E5%BC%80%E6%8A%A2%E2%80%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月20日，北京举办大型秋招会释放超2万个岗位。此前，北京房产新政将非京籍购五环内住房社保年限降至1年。一面是增加“留下来”的机会，一面是降低“住下...",
-        "pubDate": "2026-09-29T00:02:38+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "小学自愿捐款装空调却实名接龙 热度：6370786",
-        "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%87%AA%E6%84%BF%E6%8D%90%E6%AC%BE%E8%A3%85%E7%A9%BA%E8%B0%83%E5%8D%B4%E5%AE%9E%E5%90%8D%E6%8E%A5%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，广东湛江遂溪县遂城第四小学一名家长向记者反映，家委会在家长群号召为教室安装空调捐款，虽说是自愿，但接龙形式实名让他“不敢不捐”。",
-        "pubDate": "2026-09-29T00:02:38+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国队女子4×100米接力夺金 热度：6462785",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%904%C3%97100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月28日，名古屋亚运会女子4×100米接力决赛，由刘国怡、刘峡君、梁小静、陈妤颉组成的中国队夺得金牌！",
-        "pubDate": "2026-09-29T00:02:37+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国队夺得男子4×100米接力金牌 热度：6661180",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E7%94%B7%E5%AD%904%C3%97100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月28日，名古屋亚运会男子4×100米接力决赛，由陈锦丰、曾克理、王胜杰、谢震业组成的中国队以38秒17的成绩夺得金牌！",
-        "pubDate": "2026-09-29T00:02:37+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "教育部：坚决拥护党中央决定 热度：6759380",
-        "link": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月28日，教育部党组书记、部长怀进鹏主持召开党组扩大会议，传达中央纪委国家监委对教育部原副部长鲁昕涉嫌严重违纪违法进行审查调查的决定。党组同志一致...",
-        "pubDate": "2026-09-29T00:02:36+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 阿里AI的增长之谜 ",
+        "link": "https://www.huxiu.com/article/4894426.html?f=rss",
+        "summary": " 本文来自微信公众号： 雪贝财经 ，作者：栖迟，原文标题：《雪贝 | 阿里AI的增长之谜》外卖大战阶段性降温之后，云计算与AI正在成为阿里新的战略重心，这家企业已将更多战略资源与资本投入转向AI，希望加快完成从综合互联网平台向AI公司的战略转型。阿里这一轮AI转型的进展，核心指标体现在云业务收入的持续提速上。过去四个季度，阿里云收入增速分别达到34%、36%、38%和45%，管理层同时表示，未来几个季度增速仍有进一步提升空间，三季度同比增速有望超过50%。过去四个季度阿里云收入合计已达到1732亿元。如果仅观察上述数据，阿里AI业务确实呈现出较快的增长势头，其提出的中长期千亿美元年收入目标，看",
+        "pubDate": "2026-09-29T05:01:14+08:00",
+        "author": " 雪贝财经 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 60cm长蛋挞9月卖出超1200万根，谁在赚钱？能红多久？ ",
@@ -1661,6 +1681,86 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "9月29日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/09-29/10705192.shtml",
+        "summary": "",
+        "pubDate": "2026-09-29T06:58:55+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "日本突发4.9级地震 ",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
+        "summary": "\n　　中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
+        "pubDate": "2026-09-29T06:58:13+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美总统称美官员已于28日同美伊间的调解方进行对话",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml",
+        "summary": "\n　　当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "pubDate": "2026-09-29T06:50:39+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "被家养的猫、狗抓咬伤，需要打狂犬病疫苗吗？",
+        "link": "https://www.chinanews.com.cn/jk/2026/09-29/10705189.shtml",
+        "summary": "\n　　今天(9月28日)，是世界狂犬病日。",
+        "pubDate": "2026-09-29T06:49:12+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "普京签令 俄罗斯武装部队总人数增至244万余人",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml",
+        "summary": "\n　　中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。",
+        "pubDate": "2026-09-29T06:47:48+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "普京签署总统令 俄军扩编至244万余人",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705187.shtml",
+        "summary": "\n　　中新社莫斯科9月28日电  俄罗斯总统普京28日签署总统令，确定俄武装力量人员编制总人数为244万余人，其中包括超155万名现役军人。该总统令自签署之日起生效，相关文件已在俄法律信息网站公布。",
+        "pubDate": "2026-09-29T06:43:26+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "景区里的NPC年轻人能走多远",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705186.shtml",
+        "summary": "\n　　化上戏妆、站上舞台——景区里的NPC年轻人能走多远",
+        "pubDate": "2026-09-29T06:41:02+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "带娃自驾出行，注意三件事",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705185.shtml",
+        "summary": "\n　　带娃自驾出行，注意三件事(服务窗)",
+        "pubDate": "2026-09-29T06:35:56+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
         "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml",
         "summary": "\n　　中新社北京9月28日电 中共中央政治局委员、中央外办主任王毅28日在北京会见日本国际贸易促进协会会长岩屋毅。",
@@ -1779,86 +1879,6 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026世界设计之都大会：AI赋能，设计无界",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705168.shtml",
-        "summary": "\n　　中新网上海9月28日电 (记者 郑莹莹)由上海市人民政府、联合国教科文组织共同主办的2026世界设计之都大会(WDCC2026)28日在上海开幕。大会以“设计无界，品智生成”为主题，立足人工智能引领的新一轮科技与产业变革最前沿，为全球创意城市可持续发展贡献上海力量。",
-        "pubDate": "2026-09-28T22:46:16+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "上海出台楼市新政：加强预售管理 有序实施现房销售",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705167.shtml",
-        "summary": "\n　　中新社上海9月28日电 (记者 缪璐)上海市住房和城乡建设管理委员会、上海市房屋管理局等四部门28日晚间联合发布《关于贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》，主要包括加强预售管理、实施现房销售、加大融资支持力度、优化土地供应管理以及做好质量监管和市场秩序规范等6个方面的政策措施。",
-        "pubDate": "2026-09-28T22:45:12+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国队亚运会女子4×100米接力夺冠 “小孩姐”陈妤颉：“队友为我创造了领先优势”",
-        "link": "https://www.chinanews.com.cn/ty/2026/09-28/10705171.shtml",
-        "summary": "\n　　中新网9月28日电(记者 金旭)爱知·名古屋亚运会当地时间28日举行田径项目女子4×100米接力决赛，由梁小静、刘国怡、刘峡君和陈妤颉组成的中国队以42.96秒的成绩获得金牌，卫冕成功。",
-        "pubDate": "2026-09-28T22:42:12+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "专家解读晕厥背后潜藏的危机",
-        "link": "https://www.chinanews.com.cn/jk/2026/09-28/10705166.shtml",
-        "summary": "\n　　中新网上海9月28日电 (陈静 瞿乃婴)很多人以为，心脏病的症状就是胸痛、胸闷、心慌。记者28日在此间采访获悉，在临床中，最隐蔽、最容易被漏掉，甚至可能引发严重后果的，恰恰是一过性晕厥、眼前发黑、突然发软。",
-        "pubDate": "2026-09-28T22:39:10+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "打造“五个引领区” 浙江深化嘉善县域高质量发展建设",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705165.shtml",
-        "summary": "\n　　中新网杭州9月28日电(胡丰盛)9月28日，“深化嘉善县域高质量发展示范点建设”新闻发布会在浙江杭州举行。",
-        "pubDate": "2026-09-28T22:38:58+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "预计伊朗外长28日将与美伊谈判调解方会面",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705164.shtml",
-        "summary": "\n　　据伊朗方面消息，美国当地时间28日上午，伊朗外长阿拉格奇将率领伊朗代表团在纽约与美伊谈判调解方会面，讨论有关当前局势的最新提议。美方代表不会出席此次会面。",
-        "pubDate": "2026-09-28T22:33:15+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026多彩贵州·第十九届中国原生态国际摄影大展开幕",
-        "link": "https://www.chinanews.com.cn/tp/2026/09-28/10705149.shtml",
-        "summary": "\n\n图为参观者在观看展出作品。中新社记者 瞿宏伦 摄\n\n图为航拍洪江村摄影大展展场。(无人机照片)中新社记者 瞿宏伦 摄\n\n图为参观者在拍摄展出作品。中新社记者 瞿宏伦 摄\n\n图为参观者从稻田内展出的作品前走过。中新社记者 瞿宏伦 摄\n\n图为洪江村居民在观看展出作品。中新社记者 瞿宏伦 摄\n\n图为参观者在观看展出作品。中新社记者 瞿宏伦 摄\n\n图为参观者在观看展出作品。中新社记者 瞿宏伦 摄\n\n图为参观者从展出的作品前走过。中新社记者 瞿宏伦 摄\n\n图为参观者在观看展出作品。中新社记者 瞿宏伦 摄\n\n图为海外游客在洪江村拍摄展出作品。中新社记者 瞿宏伦 摄",
-        "pubDate": "2026-09-28T22:31:57+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "广州东部公铁联运枢纽“仓干配”一体化项目投营",
-        "link": "https://www.chinanews.com.cn/tp/2026/09-28/10705163.shtml",
-        "summary": "\n\n图为开园仪式。(无人机照片)中新社记者 陈骥旻 摄  \n\n图为航拍高标仓子项目。(无人机照片)中新社记者 陈骥旻 摄  ",
-        "pubDate": "2026-09-28T22:30:49+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
@@ -1868,6 +1888,26 @@
         "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
         "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
         "pubDate": "2026-09-28T07:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Are you a Codex Original?",
+        "link": "https://openai.com/form/codex-originals",
+        "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+        "pubDate": "2026-09-28T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+        "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+        "pubDate": "2026-09-28T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -1904,6 +1944,16 @@
         "feedColor": "#7cff7c"
       },
       {
+        "title": "Sam Altman’s remarks at the United Nations Security Council",
+        "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+        "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+        "pubDate": "2026-09-23T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
         "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
         "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
@@ -1927,16 +1977,6 @@
         "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
         "link": "https://openai.com/index/ringg",
         "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-        "pubDate": "2026-09-23T12:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Sam Altman’s remarks at the United Nations Security Council",
-        "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-        "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
         "pubDate": "2026-09-23T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -2024,16 +2064,6 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-        "pubDate": "2026-09-21T12:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
         "title": "Advisory Group on Mathematics and Artificial Intelligence",
         "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
         "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
@@ -2044,24 +2074,54 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Building standards for the next phase of AI",
-        "link": "https://openai.com/index/building-standards-next-phase-ai",
-        "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-        "pubDate": "2026-09-21T10:00:00+00:00",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "pubDate": "2026-09-21T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Expanding OpenAI Academy with new learning paths",
-        "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-        "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-        "pubDate": "2026-09-21T07:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 告别“内部粮票”：动力总成的半独立突围 ",
+        "link": "https://www.huxiu.com/article/4894429.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进动力总成正在走出整车厂的“围墙”。2026年9月17日，中国一汽旗下旗新动力与零跑汽车签署投资意向书。零跑拟作为战略投资者参与旗新动力A轮融资，双方还计划围绕混动发动机、电驱动系统和增程器等产品开展技术协同与资源共享。旗新动力成立于2025年6月，是中国一汽全资控股的动力总成公司，业务覆盖发动机、变速箱、电驱和电池。它不仅服务红旗、奔腾，也已进入外部车企以及无人机、无人艇等领域。这笔投资尚未落地，但它释放出的信号已经超越了单纯对外供货：动力总成公司开始引入另一家整车企业作为战略投资者，并把联合开发写进合作框架。类似的变化",
+        "pubDate": "2026-09-29T07:11:01+08:00",
+        "author": " 汽车商业评论 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 谁是今天的雅虎？ ",
+        "link": "https://www.huxiu.com/article/4894428.html?f=rss",
+        "summary": " 本文来自微信公众号： 方伟看十年 ，作者：投资向善（中秋国庆我得好好休息，不做长文输出，简单聊聊）雅虎被谷歌颠覆是经典的案例，1994年成立的雅虎代表第一代的互联网信息寻找方式——人工分类导航目录（下图）。美团的王兴点评过，想到“导航目录”这个主意是简单的，无非是把线下的报纸形态搬到了互联网，但想到谷歌搜索框这个主意是不容易的，需要想象力，需要化繁为简，需要技术底蕴（后面这些形容词是我加的）。谷歌搜索（1998年成立）/百度搜索代表的就是第二代的互联网信息寻找方式。今日我们都知道，ChatGPT/豆包为代表的ChatBot（聊天机器人）是第三代的互联网信息寻找方式，也大概率是最后一代，在脑机",
+        "pubDate": "2026-09-29T07:08:56+08:00",
+        "author": " 方伟看十年© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 马斯克10年前吹的牛，试飞14次终于入轨，却只绕地球飞了两圈 ",
+        "link": "https://www.huxiu.com/article/4894427.html?f=rss",
+        "summary": " 本文来自微信公众号： 果壳 ，作者：跆拳道大灰狼，编辑：Steed北京时间昨晚23时57分，星舰飞船最后一次点燃发动机减速，缓缓落在夏威夷以北的太平洋上。它是昨晚20点49分从美国得克萨斯州的星舰基地起飞的，前后只飞了3个小时左右，比原计划少了将近7个小时。星舰在北太平洋完成水上软着陆丨SpaceX这是星舰的第十四次试飞，也是它第一次真正进入轨道。途中，它放出了26颗V3版星链卫星。这也是星舰第一次把有效载荷送进轨道。这一趟飞得并不完美。一级和二级在上升途中都有发动机熄火；飞船原计划在太空绕地球飞行6圈，最后只绕了不到两圈就提前返回了。前13次试飞，SpaceX给星舰制定的飞行计划，都只让它",
+        "pubDate": "2026-09-29T06:43:55+08:00",
+        "author": " 果壳 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 阿里AI的增长之谜 ",
+        "link": "https://www.huxiu.com/article/4894426.html?f=rss",
+        "summary": " 本文来自微信公众号： 雪贝财经 ，作者：栖迟，原文标题：《雪贝 | 阿里AI的增长之谜》外卖大战阶段性降温之后，云计算与AI正在成为阿里新的战略重心，这家企业已将更多战略资源与资本投入转向AI，希望加快完成从综合互联网平台向AI公司的战略转型。阿里这一轮AI转型的进展，核心指标体现在云业务收入的持续提速上。过去四个季度，阿里云收入增速分别达到34%、36%、38%和45%，管理层同时表示，未来几个季度增速仍有进一步提升空间，三季度同比增速有望超过50%。过去四个季度阿里云收入合计已达到1732亿元。如果仅观察上述数据，阿里AI业务确实呈现出较快的增长势头，其提出的中长期千亿美元年收入目标，看",
+        "pubDate": "2026-09-29T05:01:14+08:00",
+        "author": " 雪贝财经 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 60cm长蛋挞9月卖出超1200万根，谁在赚钱？能红多久？ ",
@@ -2314,9 +2374,289 @@
         "feedColor": "#7cfff0"
       },
       {
-        "title": "苹果 iPadOS 26.7.1 正式版发布",
+        "title": "\n        工业外骨骼，人类进化新方向\n      ",
+        "link": "http://www.geekpark.net/news/371390",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 8 月 9 日6 月 2 日，人类史上第一位赛博格——彼得·斯科特-摩根去世，享年 64 岁。在 1984 年出版的《机器人革命》中，彼得就曾预言有一天人类会走向「强化人」的道路。只是目前看来，赛博格（结合了有机体与电子机器的生物）看起来还有些遥远。但，人机结合的另外一种形态——外骨骼机器人已经开始变成现实了。作为一种人机结合的可穿戴机器人，外骨骼机器人随着其产品性能的提升和成本的进一步下降，正在打开更多的市场空间。除了医疗和军用市场，目前在泛工业领域，外骨骼机器人有望成为提高生产效率的重要工具，其部署增长迅速。",
+        "pubDate": "2026-09-29T02:25:13+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        苹果、索尼押注的技术赛道，国内公司如何拔得头筹？\n      ",
+        "link": "http://www.geekpark.net/news/371389",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 8 月 4 日虚拟世界注定要成为现实，只是何时到来，如何到来尚未可知。摆在大家面前的首个难题，是如何将现实世界在数字世界进行数字孪生，以及，如何让大家更好地感受到虚拟世界，3D 传感技术在其中起到决定作用。2020 年，苹果在新发布的 iPad Pro 上配备了激光雷达扫描仪（dToF 技术），dToF 技术作为 3D 传感的新趋势为行业所关注，而在今年，作为技术元件供应商的索尼宣布量产车载 dToF 传感器。一时间，dToF 技术以及背后的 3D 传感行业成为新焦点，预计将有超万亿美元的市场规模和新的行业巨头的",
+        "pubDate": "2026-09-29T02:23:44+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        十四岁的区块链，终于在实体经济找到用武之地了\n      ",
+        "link": "http://www.geekpark.net/news/371388",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 8 月 3 日虚拟货币已经在某种意义上成了「割韭菜」的代名词了。前不久，哔哩哔哩的二舅视频刚走红，便有人借此热点以慈善的名义发行了名为 second uncle coin（二舅币 SUC）的虚拟货币，结果几天后传出项目方携款跑路的消息。种种类似的新闻，让虚拟货币背后的区块链技术，在国内的遭遇也是冰火两重天。一方面是政府对于挖矿、炒币、NFT 交易等活动的大力打击，另外则是对于区块链赋能实体经济的支持。而民众，对区块链的印象只剩下暴富神话与跑路破产。5 月份，有着「币圈茅台」之称的 Luna 币价格在不到一星期的时",
+        "pubDate": "2026-09-29T02:22:14+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        中安网星 李佳峰：Web3 时代，图计算如何保护你的网络身份安全？| Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371387",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 8 月 1 日今天的互联网，有变得更安全吗？相对于互联网早期的网络攻击频发，如今针对个人用户的网络攻击似乎在变少，熊猫烧香都已经成为了历史，「安全」似乎得到了一定保障。但是，随着数字化、信息化的发展，线上虚拟生活逐渐取代线下生活，个人的信息数据越来越重要的当下，针对大型公司的网络攻击却变得越来越多，今年 3 月份，美国征信巨头 TransUnion 的南非子公司遭巴西黑客团伙袭击，5400 万消费者征信数据泄露，绝大多数为南非公民，而南非总人口约 6060 万人。企业如何进行数据安全防护，正成为越来越重要的话题，",
+        "pubDate": "2026-09-29T02:20:48+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        百炼智能 冯是聪：人工智能如何拯救 B2B 行业的地推获客？ | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371386",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 28 日针对个人消费者的广告营销如今已经完全智能化了，你的购买行为、社交媒体的言论都有可能被拿来作为推销的数据来源，甚至有些泛滥的趋势，以至于苹果在 iOS 14 的版本中发布了升级版的「隐私保护」，给予用户可以选择关闭 app 数据跟踪的权利。对于 B2C 营销的公司来说，现在的数据获取和营销智能化，有大把的解决方案。而相比之下，B2B 的营销，却还处于地推获客、靠 CRM 系统电话推广的原始阶段，似乎移动互联网的技术发展完全与它们无关。创业公司百炼智能试图改变这种原始的状态，用最新的人工智能技术，让线",
+        "pubDate": "2026-09-29T02:19:20+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        当不确定性成为新常态，企业如何应对变化？ | Startup Recipes\n      ",
+        "link": "http://www.geekpark.net/news/371385",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 25 日编译来源：How to Cultivate Resilience:A Four Part Framework作者：Jason Shen过去几年对于创始人来说，充满了各种挑战：供应链问题、通货膨胀、裁员以及影响最大的疫情，整体环境让很多人泄气，感到精疲力尽。在这样的环境下，适应力比以往任何时候都来得更加重要。本文作者 Jason Shen, 连续创业者，曾经创办过三家公司，第三家公司被 Facebook（现在的 Meta）收购，如今在 Meta 负责公共社群产品。适应力并非一种特质或资源，而是一种技",
+        "pubDate": "2026-09-29T02:17:48+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        星测未来 曹德志：卫星智能化如何解决太空数据应用难题？| Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371384",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 21 日俄乌战争中，SpaceX 的星链突然成为了大众的关注点。在战争开始后，马斯克迅速为乌克兰开启了星链服务，很多被中断网络服务的地区也因为星链基本恢复了语音和数据服务。本以为离普通人很遥远的卫星应用，突然就来到了我们的现实生活中。在星链之外，卫星行业其实正在发生颠覆性的变化，低轨道卫星的赛道上，不少国家正在同时进行着国家和商业公司的「时速竞赛」。面临着各种激增的商业需求，卫星行业正处于变革浪潮的前沿。这其中，太空数据处理和卫星智能化尤其引人关注，随着卫星和商业需求的增多，太空中的数据也越来越多，由于有",
+        "pubDate": "2026-09-29T02:16:17+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        玻色量子 马寅：量子计算+AI，未来已来 | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371383",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 14 日摩尔定律正在失效，经典计算机的性能也日益捉襟见肘。单靠堆积硬件的方式，已经无法满足当下骤增的算力需求了。在这其中，量子计算作为最具潜力、也最受关注的新兴技术，吸引了业内不少的关注，也和人工智能一样，成为了科技巨头纷纷投资的领域，谷歌、IBM、微软等都在量子计算领域砸入重金。而当量子计算和人工智能又结合在一起的时候，会带给大家一个怎样的惊喜？以及，这样的结合能带来怎样的商业价值，具体会在哪些领域落地？量子计算的诸多技术路线又该如何选择？作为国内很早就开始探索 AI 和量子计算结合、走光量子路线的玻色",
+        "pubDate": "2026-09-29T02:14:44+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        成为印尼最大独角兽之前，Gojek 如何构建企业文化？ | Startup Recipes\n      ",
+        "link": "http://www.geekpark.net/news/371382",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 12 日编译来源：The Wisdom List: Kevin Aluwi | The Generalist作者：Mario Gabriele、Kevin AluwiGojek 2010 年成立于印尼，公司业务范围从最初基于摩托车的快递和乘车服务逐步拓展到摩托车共享、购物、运输、数字支付、食品配送、物流等数十种按需服务。目前与 200 多万注册司机以及 50 万 GoFood 商户有密切合作，总下载量超过 1.7 亿次。2021 年 5 月，Gojek 与电商巨头 Tokopedia 同意合并，双方共同创",
+        "pubDate": "2026-09-29T02:13:16+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        ​领骏科技 杨文利：自动驾驶商业化时代已经到来 | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371381",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 11 日公司：领骏科技领域：自动驾驶、无人巴士、无人驾驶、智能网联公交、智慧城市、智能交通融资状态：数千万元 PreA+轮主要投资人：武岳峰资本、满帮集团、地平线、赣州市发投官方网站：http://www.leadgentech.ai/今年 4 月，《北京市智能网联汽车政策先行区乘用车无人化道路测试与示范应用管理实施细则》正式发布，在国内首开乘用车无人化运营试点。5 月份，特斯拉 CEO 埃隆・马斯克在巴西接受采访时表示，预计特斯拉将在大约一年内推出完全无需人工驾驶的汽车。6 月 27 日，浙江德清成为全",
+        "pubDate": "2026-09-29T02:11:44+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        超次元 陈坚：虚拟人过热，但虚拟赛道将迎来新拐点 | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371380",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 6 日公司：超次元（海南超次元数码科技有限公司）领域：元宇宙、虚拟活动应用、虚拟直播、虚拟偶像融资状态：A 轮数千万元人民币主要投资方：天图投资、声网、美盛文化、乐游资本官方网站：https://www.acgvr.com/2022 年 2 月，被公认为全球第一位 VTuber 的绊爱在最后一场演唱会之后进入休眠。随后到来的 5 月，国内虚拟偶像 A-SOUL 因为中之人的薪资问题数次冲上热搜，其背后的经纪公司也因为之前号称的「虚拟偶像永不塌房」屡次被打脸。虚拟偶像的 2022，并不顺利，还有二次元虚拟人",
+        "pubDate": "2026-09-29T02:10:05+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        量子计算、AI 和商业航天领域的创始人都在读什么？ | 创始人书单\n      ",
+        "link": "http://www.geekpark.net/news/371379",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 7 月 1 日在 4 月份的第一期书单后，今天送上的是来自创始人的书单推荐第二期。本期的 10 位创业者，分别来自 AI、量子力学、云游戏、商业航空和自动驾驶等领域，而他们的推荐，包含文学、科普、社科、非虚构等类型，甚至还有一款航天模拟类游戏，希望对你有所帮助。01《三体 2：黑暗森林》推荐人：Jina AI 肖涵“《三体》系列中比较喜欢第二部，其中关于人类未来发展方向的探讨值得思考。人工智能下一步的发展，其实一直有不少讨论，关于人类到底该上太空还是去元宇宙，我更向往飞船派，但也怕遇到外星人。相对来说好像元宇宙派",
+        "pubDate": "2026-09-29T02:08:25+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        深蓝航天 霍亮：如何开辟一条 SpaceX 的国产商业化之路？ | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371378",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 29 日公司：深蓝航天领域：火箭、商业航天融资状态：A 轮融资近 2 亿元，A+轮融资主要投资人：真成投资、德同资本、欧瑞资本、银河系创投、卓源资本、民银国际等官方网站：http://www.dbaspace.com/想让太空旅行像坐飞机一样实现航班化，可回收技术就很重要。目前，有且只有 SpaceX 拥有入轨级可回收运载火箭技术。而国内一家严格对标 SpaceX 发展路径的公司——深蓝航天，最近的成绩引人注目。就在今年 5 月 6 日，深蓝航天试验火箭「星云-M」完成了 1 公里级垂直起飞及降落飞行试验",
+        "pubDate": "2026-09-29T02:06:31+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        念力科技 范子瑜：「高开低走」的云游戏，如今怎么样了？| Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371377",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 27 日公司：念力科技领域：PaaS、云游戏、游戏开发融资状态：800 万美元战略融资主要投资人：莉莉丝游戏、五源资本、奇绩创坛官方网站：https://www.nenly.cn/「高开低走」似乎是云游戏产业落地的真实写照。曾经许诺的那些光明前景：低配硬件也能玩 3A 游戏大作，手机亦能畅玩 PC 端游...... 这些让微软、腾讯、华为等巨头都争相布局「云游戏」的优势，如今都被贴上了「鸡肋」的标签。而在今年 2 月份，作为云游戏的明星级项目——Google 的云游戏平台 Stadia，也遭到了「内部降级",
+        "pubDate": "2026-09-29T02:04:46+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        在硅谷最大独角兽 Stripe，我学到了哪些管理经验？\n      ",
+        "link": "http://www.geekpark.net/news/371376",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 22 日编译来源：Operating Well: What I Learned at Stripe作者：Sam GerstenzangSam Gerstenzang 此前曾在 a16z 和 imgur 工作，目前在 Stripe 工作，负责管理 75 人的支付 UI 团队，山姆的经验涵盖了从投资、在创业公司工作、以及创业和出售自己的公司等方方面面。在这篇文章中，他分享了在 Stripe 工作时学到的如何成为一个好的管理者的经验。Stripe：聚合支付平台，主要业务为将不同的支付方式打包成一套 SDK 接口",
+        "pubDate": "2026-09-29T02:03:07+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        ​艾可萨科技 王玮：航天商业下一步，太空数据中心 | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371375",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 21 日公司：艾可萨科技领域：航天、数据存储、芯片设计融资状态：数千万元 Pre-A 轮主要投资人：深创投、西安经发创新基金，奇绩创坛官方网站：https://www.exadevice.com/一场卫星竞赛正在拉开帷幕。截至 2022 年初，马斯克的 SpaceX 已经发射了超过 2000 颗星链 (Starlink) 卫星。最终，星链星座将达到约 42000 颗卫星。亚马逊 Kuiper 项目也计划在 2022 年开始发射卫星，整个星座将最终达到 3236 颗卫星。而在中国，也出现了一批商业卫星公司。",
+        "pubDate": "2026-09-29T02:01:39+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        本源量子 张辉：量子计算到底能做啥？ | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371374",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 17 日公司：本源量子领域：量子计算、量子芯片融资状态：数亿元 A 轮主要投资人：中国互联网投资基金、国新基金、中金祺智、成都产投、建银国际等官方网站：https://originqc.com.cn/听多了商业鼓吹的「颠覆性」技术，都要 PTSD 了，但量子计算绝对实至名归。中国科学院院士、中国物理学家、中国量子信息学的开拓人和奠基人郭光灿认为，第二次量子力学革命正在兴起，量子计算正从实验室的基础研究走向企业的研发和应用过程中。变革之下，量子计算不仅是谷歌、微软、亚马逊和 IBM 等国际巨头战略布局技术，",
+        "pubDate": "2026-09-29T02:00:01+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        解放人类的高空机器人，如何撬开千亿美元的大市场？\n      ",
+        "link": "http://www.geekpark.net/news/371373",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 6 月 11 日高空机器人正在逐步取代高空作业的「蜘蛛人」。与我们所熟知的服务于人类的服务机器人，以及用于生产环境的工业机器人不同，特种机器人自诞生起就是为了将人类从各类高风险环境中解放出来。常见的特种机器人包括水下机器人、地面移动机器人、高空机器人等，而采用高空机器人替代人类完成高空作业也是目前降低高空作业风险、提升效率的一种有效方法。目前高空机器人已应用于工业、农业和林业等众多领域。国内代表企业史河机器人则是专注于船舶除锈、化工罐防腐、火电锅炉检测和建筑外墙清洗等场景，并提供专业的成套化解决方案，在船舶除锈的",
+        "pubDate": "2026-09-29T01:58:24+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        四象科技 刘雨婷：遥感技术如何撬动金融业？ | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371372",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 5 月 23 日公司：四象科技领域：SaaS、遥感卫星、无人机、数据服务融资状态：Pre A+轮主要投资人：厦门建发新兴投资、正轩投资、中科创星、金科君创官方网站：https://www.sxastech.com/卫星正在成为数字基础设施的一个组成部分。应用服务是卫星产业链中商业价值最高的环节。随着我国遥感卫星技术与遥感信息获取能力跃居世界先进水平，卫星遥感商业化的进程拉开序幕，产业进入以市场化为导向的发展阶段。从亚马逊森林的林火监测，到中亚输油管线的形变测量，从埃及棉花的产量预测，到日本海的鳗鱼分布分析，卫星遥",
+        "pubDate": "2026-09-29T01:52:48+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "\n        慧夜科技 渠思源：虚拟人的背后，是服务 | Founder 100\n      ",
+        "link": "http://www.geekpark.net/news/371371",
+        "summary": "\n        本文首发于 Founder Park 公众号 · 2022 年 5 月 17 日公司：慧夜科技领域：人工智能、3D 图形、虚拟人融资状态：Pre-A 轮，数百万美元主要投资方：青山资本、顺为资本官方网站：https://www.huiye.tech/柳夜熙、翎 Ling、AYAYI、A-SOUL、小冰……过去一年，虚拟人越来越多地出现在我们的视野中。虽然看起来很类似，但虚拟人一直存在着路线之争。像 A-SOUL 就是通过动作捕捉、实时渲染而成的虚拟女团，她们背后都是真人，也就是所谓的「中之人」；也有像小冰这样的纯虚拟人，完全由 AI 生成。慧夜科技就是一家专注 AI 驱动虚拟",
+        "pubDate": "2026-09-29T01:51:12+08:00",
+        "author": "",
+        "feedTitle": "极客公园",
+        "feedName": "极客公园",
+        "feedColor": "#ffd47c"
+      },
+      {
+        "title": "谷歌宣布停用 Gemini 的 Gems 功能，将自动迁移为“技能”",
+        "link": "https://www.ithome.com/1/008/077.htm",
+        "summary": "IT之家 9 月 29 日消息，随着 Meta 的 Muse 与 Instinct 这类一体化 AI 智能体逐渐兴起，谷歌宣布将停用 Gemini 当中名为“Gems”的功能。该功能此前允许用户搭建面向特定任务的自定义 AI 助手。不过，用户投入精力创建的 Gems 内容并不会被删除，它们将会自动迁移为“技能（skills）”，可在各类 AI 任务当中调用。Gemini 应用内已经发布了本次变更的相关说明，提示用户自 2026 年 11 月 17 日起，原先的 Gems 功能将正式转为技能。谷歌表示会由官方把原有 Gems 迁移至新格式，用户无需手动完成转换；在此日期之前，Gems 仍然可以正",
+        "pubDate": "2026-09-28T23:11:40+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "AMD 斥资 82 亿美元收购 World Labs，“AI 教母”李飞飞出任执行副总裁兼首席科学家",
+        "link": "https://www.ithome.com/1/008/076.htm",
+        "summary": "IT之家 9 月 29 日消息，当地时间 28 日，AMD 宣布同意以全股票交易收购旧金山初创公司 World Labs，交易价值约 82 亿美元（IT之家注：现汇率约合 551 亿元人民币）。World Labs 由李飞飞等人于 2024 年联合创办，主要开发“世界模型”，让 AI 根据文本、图像和视频生成或重建能够交互的 3D 环境。未来，这项技术可以用于机器人训练、工厂模拟和科学研究。按照收购协议，李飞飞将加入 AMD，出任执行副总裁兼首席科学家，并向苏姿丰汇报。有“AI 教母”之称的李飞飞因创建大型标注图像数据库 ImageNet 而广为人知。ImageNet 曾帮助证明，更大的数据规",
+        "pubDate": "2026-09-28T23:09:29+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "火狐 Firefox 157 稳定版发布：重塑视觉交互、视频通话更省电",
+        "link": "https://www.ithome.com/1/008/075.htm",
+        "summary": "IT之家 9 月 29 日消息，Mozilla 昨日（9 月 28 日）推出火狐 Firefox 浏览器 157 稳定版，整合内部代号 Project Nova 的视觉更新，称其为该浏览器多年来最大幅度界面改版。界面上，Firefox 157 稳定版统一调整标签页、工具栏、菜单、面板、图标及设置界面，重点减少界面中的视觉堆叠，让浏览器整体呈现更加简洁、柔和的观感。IT之家援引博文介绍，新版标签页采用更柔和的轮廓设计，当前活动标签周围增加细微的渐变和高亮效果；菜单、面板与设置窗口则更多使用圆角元素。图标也针对浅色和深色主题进行了重新设计，从而增强整体一致性。Mozilla 表示，Nova 的设计",
+        "pubDate": "2026-09-28T23:05:36+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "因恶劣天气，特斯拉第二代 Roadster 跑车发布会再度延期",
+        "link": "https://www.ithome.com/1/008/074.htm",
+        "summary": "IT之家 9 月 29 日消息，特斯拉再度推迟全新改款的第二代 Roadster 跑车的发布活动，这次延期的原因是气象预报显示将出现恶劣天气。特斯拉表示，这场活动原定 10 月 1 日在得克萨斯州韦科举办，现已改至 10 月 15 日。特斯拉在 X 平台的帖子中写道：“我们一直联合当地气象部门密切跟踪天气情况。鉴于预报将会出现恶劣天气，且本次活动只能在户外举办，我们做出了改期的艰难决定。”这场发布会之所以大概率必须放在室外举行，原因在于特斯拉一直在整合来自 SpaceX 的冷气推进器；这套装置有望让 Roadster 跑车实现一定程度的飞行能力。该款新车的发布此前已经多次跳票。在敲定本次活动日",
+        "pubDate": "2026-09-28T23:01:47+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "快手可灵 AI Kling 4.0 将于 10 月上线，支持 4K HDR 与 30 秒视频生成",
+        "link": "https://www.ithome.com/1/008/073.htm",
+        "summary": "IT之家 9 月 29 日消息，快手可灵 AI 宣布，Kling 4.0 将于 10 月正式上线。其中，Kling 4.0 Flash 于 9 月 28 日率先开放小范围体验。据介绍，Kling 4.0 支持 4K、1080p 的 10-bit HDR 格式输出；单次输入最多 10 张图片、5 段视频及 7 个主体，在同一生成任务组合使用；支持单次生成视频最长可达 30 秒，支持长镜头与连续叙事。IT之家附官方详细介绍如下：视听表现，让画面更真实大场面从容驾驭Kling 4.0 全面升级了高速运动、连续动作、跟拍、环绕等大幅镜头运动，镜头的稳定性和连贯性都达到了更专业的标准。视听品质大幅跃升支",
+        "pubDate": "2026-09-28T22:55:38+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%，智能体编码性能反超 Opus 5.5",
+        "link": "https://www.ithome.com/1/008/072.htm",
+        "summary": "IT之家 9 月 29 日消息，随着 AI 模型竞赛持续升温，Anthropic 推出了旗下中端模型 Sonnet 的最新版本。该公司表示，新版模型运行速度会快得多，使用成本也较上一代大幅降低。IT之家注意到，这家实验室将 Sonnet 5.5 定位为日常任务的理想助手，适用场景包括编写代码以及制作办公文档。Sonnet 5.5 的上一代产品 Sonnet 5 是大约三个月前发布的。当时这款模型的主打优势是智能体的高效部署，也就是运行智能体的成本低于竞品。而 5.5 版本的核心亮点在于速度。Anthropic 称，Sonnet 5.5 的速度比上一代提升 30%，词元（Token）消耗速度也明",
+        "pubDate": "2026-09-28T22:47:29+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小米米家筒灯 / 射灯 3 Pro 新品今日开售：国补价 129.2~169.2 元",
+        "link": "https://www.ithome.com/1/008/071.htm",
+        "summary": "IT之家 9 月 29 日消息，小米上周刚推出的三款米家灯具新品将于今日 10 点开售。IT之家汇总如下：米家筒灯 3 Pro，首发价 152 元，国补价 129.2 元米家射灯 3 Pro，首发价 176 元，国补价 149.6 元米家筒灯 3 Pro 人在感应版，首发价 199 元，国补价 169.2 元活动期间晒单评价满足要求可返 10 元京东红包，预约且前 3 名购买用户还可获赠筒灯 3 Pro。米家筒灯 3 Pro 采用弧面一体设计，无缝贴合天花板，简约隐于无形；采用米家定制全光谱灯珠，显色指数高达 Ra97，通过光生物安全豁免级测试，无可视频闪。米家筒灯 3 Pro 升级为 12W",
+        "pubDate": "2026-09-28T20:59:10+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 watchOS 27.0.1 发布：向 Apple Watch Series 9 及后续表款推送",
+        "link": "https://www.ithome.com/1/008/070.htm",
+        "summary": "IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。苹果公司于 9 月 24 日面向 Apple Watch Series 12 和 Apple Watch Ultra 4 推送 watchOS 27.0.1 更新，主要修复两款智能手表可能意外重启、无预警重新启动的问题。而在本次发布的更新中，苹果进一步扩展，面向 Apple Watch Seri",
+        "pubDate": "2026-09-28T20:07:11+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 iPadOS 26.7.1 发布：修复可执行任意代码的安全漏洞",
         "link": "https://www.ithome.com/1/008/069.htm",
-        "summary": " IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史：  2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6.2 (23G90) 2026-08-11：iOS 26.6.1 (23G82) 2026-07-28：iOS 26.6 ",
+        "summary": "IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。本次 26.7.1 属于“快速安全补丁”性质的小版本更新，苹果在公开更新说明中未列出具体新功能或详细修复条目，仅强调其安全相关属性。作为对比，前一个同系列版本 iPadOS 26.7 官方说明也明确为“主要包含安全修复，未加入其他新功能”，因此 26.7.1 大概率延续这一节奏，以安全修补为主。更新通过“设置 &gt; 通用 &gt; 软",
         "pubDate": "2026-09-28T17:58:09+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2324,19 +2664,9 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "苹果 visionOS 27.0.1 正式版发布",
-        "link": "https://www.ithome.com/1/008/068.htm",
-        "summary": " IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史：  2026-09-22：visionOS 27.2 Beta 2 (24N5093f) 2026-09-17：visionOS 27.2 Beta (24N5088l) 2026-09-1",
-        "pubDate": "2026-09-28T17:58:09+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "苹果 macOS 27.0.1 正式版发布",
+        "title": "苹果 macOS 27.0.1/26.7.1/15.8.1 发布，AI 提速漏洞修复",
         "link": "https://www.ithome.com/1/008/067.htm",
-        "summary": " IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史：  2026-09-22：macOS 27.2 Beta 2 (26B5091g) 2026-09-17：macOS 27.2 Beta (26B5086k) 2026-09-15：macOS 27.0 (2",
+        "summary": "IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。Mac 用户可以通过系统设置中的“软件更新”部分下载新的 macOS Golden Gate 软件。苹果公司表示，macOS Golden Gate 27.0.1 修复了一些未指明的错误。此外，苹果还发布了 macOS 26.7.1 和 macOS 15.8.1 安全更新。在安全修复方面，苹果公司甚至已经证实，",
         "pubDate": "2026-09-28T17:58:09+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2344,9 +2674,19 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "苹果 iOS/iPadOS 27.0.1 正式版发布",
+        "title": "苹果 visionOS 27.0.1 发布，整合安全修复",
+        "link": "https://www.ithome.com/1/008/068.htm",
+        "summary": "IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。在官方 visionOS 27.0.1 更新日志中，苹果只是写道：“本次更新包含针对 Apple Vision Pro 的安全修复”。用户可以通过以下步骤下载最新更新：在 Vision Pro 设备上，依次进入“设置”&gt;“常规”&gt;“软件更新”。看到更新后，选择“下载并安装”。附 vi",
+        "pubDate": "2026-09-28T17:58:09+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 iOS / iPadOS 27.0.1 发布：修复部分 iPhone 18 Pro / Max 意外重启问题",
         "link": "https://www.ithome.com/1/008/066.htm",
-        "summary": " IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。     需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。  本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史：  2026-09-22：iOS 27.2 Beta 2 (24B5089g) 2026-09-17：iOS 27.2 Beta (24B5084k) 2026-09-15",
+        "summary": "IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。图源：@tangkin 本次更新内容如下：此更新为您的 iPhone 提供错误修复，包括解决以下问题：iPhone 18 Pro &nbsp;和 iPhone 18 Pro Max 在 Face ID 认证失败时可能会意外重启在某些光照条件下，f/1.48 下拍摄照片可能会出现色差",
         "pubDate": "2026-09-28T17:58:08+00:00",
         "author": "",
         "feedTitle": "IT之家",
@@ -2428,86 +2768,6 @@
         "link": "https://www.ithome.com/1/008/058.htm",
         "summary": "IT之家 9 月 28 日消息，4chan 匿名用户爆料称，Rockstar Games 将在《侠盗猎车手 6》（GTA 6）发售之后开发《黑色洛城》续作《黑色洛城 2》，并以 2030 年发售为目标。这一消息随后被 GTAForums 用户 Shahanshah 转发并引起激烈讨论。爆料内容显示，《黑色洛城 2》将把故事背景从原作的洛杉矶转移至旧金山，并围绕美国历史上著名的“十二宫杀手”案件展开。爆料还称，Rockstar 计划进一步改进 MotionScan 面部捕捉技术。该匿名爆料者此前曾准确披露《GTA 6》的部分开发信息，包括角色关系、犯罪侧写系统等内容，但这些说法并不足以证明此次《",
         "pubDate": "2026-09-28T14:56:57+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "荣耀 Magic9 系列手机发布后，罗巍称荣耀影像“彻底站起来了”",
-        "link": "https://www.ithome.com/1/008/057.htm",
-        "summary": "IT之家 9 月 28 日消息，荣耀 Magic9 系列手机发布会结束后，荣耀首席影像工程师罗巍今天在微博发文称，他宣布荣耀影像“彻底站起来了”。罗巍表示，Magic9 是荣耀影像部门成立第二年交出的作品，价格“全靠朋友衬托”。如果条件允许，他建议上影像套装。与此同时，罗巍还附上了 500mm 增距镜抓拍样张：IT之家注意到，荣耀 Magic9 Pro Max 手机拥有 2 亿阿莱云台级主摄，行业最高 CIPA8.0 级防抖，支持 3° 云台级防抖；2 亿阿莱超夜神长焦，同样支持行业最高 CIPA8.0 级防抖。搭配行业最强阵列变焦闪光灯及自研影像芯片荣耀驭光 H1，组成行业唯一双 2 亿双芯",
-        "pubDate": "2026-09-28T14:55:47+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
-        "link": "https://www.ithome.com/1/008/056.htm",
-        "summary": "IT之家 9 月 28 日消息，据晚点 LatePost 今晚消息，小米 9 月 22 日对内发布晋升名单，31 岁的小米大模型团队负责人罗福莉晋升至 22 级，还有若干其他业务负责人也获得了晋升。接近小米的人士称，22 级已是小米职级体系的最高级别，继续晋升主要体现为职务变化。据IT之家此前报道，9 月 22 日当天，小米正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。得益于 RL 算力的扩展，MiMo-V2.6-Pro 在 Artificial Analysis Intelligence Index（AA 综合智能指数）v4",
-        "pubDate": "2026-09-28T14:53:15+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《八仙！》进入中国影史动画电影票房榜前四，国产排名仅次于两部《哪吒》",
-        "link": "https://www.ithome.com/1/008/055.htm",
-        "summary": "IT之家 9 月 28 日消息，据灯塔专业版，影片《八仙！》累计票房已达 19.85 亿，超过《熊出没 · 逆转时空》，进入中国影史动画电影票房榜前四，在国产动画电影中仅次于《哪吒之魔童》系列。票房榜单显示，第一名《哪吒之魔童闹海》票房 154.46 亿元，2025 年 1 月 29 日上映，评分 9.7 分。第二名《哪吒之魔童降世》票房 50.35 亿元，2020 年 7 月 20 日上映，评分 9.5 分。第三名《疯狂动物城 2》票房 45.94 亿元，为进口动画。《八仙！》于 2026 年 7 月 18 日上映，类型覆盖神话、喜剧、冒险，评分 9.6 分。导演为牟正洋，李绍哲、陈浩、立冬",
-        "pubDate": "2026-09-28T14:49:21+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "小米卢伟冰：今年很多旗舰产品会用 n-1 代旗舰处理器，相信 REDMI K100 系列一定是“最香的”",
-        "link": "https://www.ithome.com/1/008/054.htm",
-        "summary": "IT之家 9 月 28 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博表示，今年很多旗舰产品会用 n-1 代旗舰处理器（如第五代骁龙 8 至尊版、天玑 9500 等），但他相信 REDMI K100 系列手机一定是“最香的”。据IT之家此前报道，小米 REDMI K100 系列手机发布于今年 8 月。其中 Pro Max 机型搭载第五代骁龙 8 至尊版处理器及 LPDDR5X+UFS 4.1 组合，升级 6.9 英寸 2608×1200 分辨率 OLED 直屏，电池容量增至 9070mAh，起售价 4499 元。",
-        "pubDate": "2026-09-28T14:40:24+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "张雪机车回应网传“团队在意大利被盗”：全员安全，1 人护照丢失、使馆已开通绿通补办",
-        "link": "https://www.ithome.com/1/008/051.htm",
-        "summary": "IT之家 9 月 28 日消息，张雪机车抖音官方账号今日发文，回应网传“张雪机车团队在意大利被盗”一事。张雪机车表示，团队全体成员均已顺利入境意大利，目前全员安全，无任何人身安全问题。其中，6 位同事随身背包在途中遭遇盗窃，其中 3 位同事包内仅装有外套与赛事门票；另外 3 位同事有个人物品损失，其中 1 位同事的护照不慎丢失。IT之家注意到，张雪机车团队事发后已第一时间报警，并联系中国驻意大利使馆。使馆已为丢失护照的同事开通绿色通道补办证件，处理效率极高。目前整体行程顺利推进，请大家安心，勿信谣、勿传谣。",
-        "pubDate": "2026-09-28T14:28:31+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "奇瑞 iCAR V27 长续航版更多信息公布：零重力座椅，9 月 30 日上市",
-        "link": "https://www.ithome.com/1/008/050.htm",
-        "summary": "IT之家 9 月 28 日消息，奇瑞旗下 iCAR V27 长续航版更多信息公布，新车将于 9 月 30 日上市。据介绍，该车搭载“大满配静音星际座舱”，配备零重力座椅，支持通风、加热、按摩，提供 14 点按摩、8 种按摩模式，前排主副驾 4 向电动腰托，星际舷窗双天幕 + 麂皮材质顶棚，7 块静音玻璃同级最多。据此前官方预热，iCAR V27 长续航版搭载 51.2kWh 超大增程专用电池，采用宁德时代磷酸铁锂电芯，支持 300km CLTC 纯电续航、6kW 外放电，30%-80% 快充仅需 17 分钟。IT之家注意到，奇瑞 iCAR 首款增程 SUV 车型 V27 已于今年 3 月 13",
-        "pubDate": "2026-09-28T14:26:45+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "华为联合上海电信部署超 3400 个 5G-A 3CC 基站：上行峰值达 1Gbps，下行近 4Gbps",
-        "link": "https://www.ithome.com/1/008/049.htm",
-        "summary": "IT之家 9 月 28 日消息，华为官方今日发文称，华为联合中国电信在上海已部署 2.1GHz+3.5GHz 5G-A 3CC 站点超 3400 站。依托 F+T 多载波聚合与大上行技术，该基站可实现上行峰值速率 1Gbps、下行峰值速率近 4Gbps。目前，上海核心城区商圈、步行街等重点区域已实现 20Mbps 上行连续覆盖。VIP 用户可享下行 3Gbps、上行 500Mbps 峰值速率，调度优先级提升。上海电信预计，2026 年底将覆盖上海全域中心城区。IT之家注：5G-A 即 5G-Advanced，是 5G 向 6G 演进的关键阶段；3CC 指三载波聚合，通过聚合多个频段提升速率。上",
-        "pubDate": "2026-09-28T14:26:29+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "网红煽动粉丝网暴他人还直播带货，最高法以案释法划清网络行为底线",
-        "link": "https://www.ithome.com/1/008/047.htm",
-        "summary": "IT之家 9 月 28 日消息，据央视新闻今日报道，最高人民法院发布网络法治典型案例，其中一起涉及两名合计粉丝超 2000 万的自媒体博主。两人因私人情感纠纷，将直播间变成网络暴力舆论场，煽动粉丝谩骂、攻击、举报他人。在这起案例中，李某与张某、胡某同为短视频平台自媒体博主，张某、胡某账号粉丝总量超 2000 万。2023 年 7 月起，张某以李某“插足”其与男友情感为由，公开发布侮辱、诽谤言论。张某联合胡某炒作相关话题，煽动粉丝对李某实施网络暴力。李某部分商业合作方随后解除与其合作协议。李某向法院提起名誉权侵权诉讼。案件审理过程中，张某、胡某仍煽动粉丝实施网络暴力。李某提交的录屏显示，两人直播",
-        "pubDate": "2026-09-28T14:15:16+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2782,206 +3042,6 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
-      },
-      {
-        "title": "PopDrop - 开源快捷文件面板！一键呼出常用文件/目录/文本到手边",
-        "link": "https://www.iplaysoft.com/popdrop.html",
-        "summary": "需要给同事发送刚下载的文件，听起来似乎是 10 秒的事，做起来却往往花上 1 分钟：切换窗口、找到下载目录、一层层点进去找，在大量文件和之间辨认半天。每天如此，烦是真的烦。\nPopDrop 就是来把这连串操作给“砍短”！你只需按下 F2，立马呼出一块置顶面板盖在当前窗口上，你常用的目录全摊开，最新文件排在最前面，找到后直接拖进聊天框，松手就搞定！面板会自己隐藏。全程不用离开当前窗口，无需额外打开资源管理器找半天，效率直接拉满……\n「 前往查看原文.... 」异次元还有这些值得一看：Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)比 Mac 访达强太多",
-        "pubDate": "2026-09-28T17:17:50+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "手慢无！DMIT 高端 CN2 GIA 三网优化线路 VPS 服务器 (国内快又稳！比瓦工更好)",
-        "link": "https://www.iplaysoft.com/p/dmit",
-        "summary": "每次谈起海外的 VPS 服务器，除了高性价比的 RackNerd、VirMach，常送代金券的 Vultr，还有知名品牌“般佤工”，但其实，与其齐名甚至更高端的 VPS 品牌——「DMIT」！人称“大妈”。它几乎就是高端优质 CN2 GIA 线路的科代表之一，用过的人几乎都称赞它的稳定性及其线路质量，基本上除了贵就没有什么毛…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件",
-        "pubDate": "2026-09-24T20:25:23+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Skills Manager - 好用开源 AI 技能管理器 (多 Agent 共用 / 分类 / 跨电脑同步)",
-        "link": "https://www.iplaysoft.com/p/skills-manager",
-        "summary": "如果你同时在用 Codex、Claude Code、WorkBuddy、Trae、OpenClaw、Hermes 等多款 AI Agent / 编程工具，大概率遇到：给某个工具精心调好了一套 Skills，换到另一个工具或另一台电脑上想用，结果发现又得重复去手动复制文件+改配置，一套流程下来烦得要死。\n\n这不是个别现象，而是现在 AI 编程圈子里一个挺普遍的…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbs",
-        "pubDate": "2026-09-24T17:18:48+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)",
-        "link": "https://www.iplaysoft.com/path-finder.html",
-        "summary": "Mac 电脑上的访达 (Finder) 即 macOS 系统自带的文件管理器，应付日常使用没问题，但一碰到跨目录操作、批量处理或敏感文件清理、或想要更高效率地整理文件，就有点不够用了。\n如果你也觉得“访达”不够好用、不够强大，那不妨试试看增强版的——Path Finder。一款类似 QSpace 的多栏文件管理工具。它在 Mac 文件管理这块已经做了二十多年，是海量用户拿来替代 Mac 访达的成熟方案，相当于给 macOS 系统提供一个相当好功能升级……\n「 前往查看原文.... 」异次元还有这些值得一看：比 Mac 访达强太多了！QSpace - 多窗格/多分栏的增强文件管理器 (支持连接服",
-        "pubDate": "2026-09-23T18:13:42+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
-        "link": "https://www.iplaysoft.com/vmware-workstation.html",
-        "summary": "虚拟机软件可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7，用户可用于各种开发、测试或运行不同平台的软件。\nVMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11，支持 USB 3.1、TPM 2.0、蓝牙、4K，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏性能大幅提高！另还可共享或远程控制虚拟机等……\n「 前往查看原文.... 」异次元还有这些值得一看：V",
-        "pubDate": "2026-09-22T02:40:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Debian 13.7 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统",
-        "link": "https://www.iplaysoft.com/debian.html",
-        "summary": "说到 Linux 操作系统，很多人都听过 Ubuntu、CentOS、Fedora、RedHat，国产的优麒麟和 Deepin 深度等系统。除了这些，还有一个极具代表性的操作系统，它就是 Debian！\nDebian (英语发音：ˈdɛbiən) 作为最老牌的 Linux 发行版之一，它在创建之初便紧密遵循 GNU 规范并坚守 Unix 和开源自由软件精神。最大优点是极其稳定快速，同时拥有强大的 APT 包管理机制和丰富的软件源，可方便安装和平滑升级软件和系统，省去很多编译安装的麻烦……\n「 前往查看原文.... 」异次元还有这些值得一看：彻底告别 CentOS！Rocky Linux 9.4",
-        "pubDate": "2026-09-22T00:05:10+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMWare Fusion Pro 26H1u1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
-        "link": "https://www.iplaysoft.com/vmware-fusion.html",
-        "summary": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的硬件等)，因此在 Mac 上安装 Win 是很有必要的。\n曾经我们可用 BootCamp 安装双系统，但如今只能使用虚拟机安装。VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop)，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11、Linux 等多款系统……\n「 前往查看原文.... 」异次元还有这些值得一看：最",
-        "pubDate": "2026-09-18T20:00:13+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
-        "link": "https://www.iplaysoft.com/bageshuo.html",
-        "summary": "过去的输入法比拼词库、皮肤、打字联想，现在字节、腾讯、讯飞、网易等大厂，集体把目光投向了 AI 语音输入这条赛道，比如最近火的豆包输入法、微信输入法、Typeless 等。\n传统语音输入只是充当“声音转文字”听写转录工具，而新一代 AI 原生语音工具已更进一步，追求听懂你的想法，直接输出想法里的话。继有道翻译、爆米花和 UU 远程的好口碑后，网易又推出 AI 语音 Agent「网易叭哥说」，号称“输入效率达键盘 5 倍 + 终身免费”，实测确实厉害……\n「 前往查看原文.... 」异次元还有这些值得一看：豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔",
-        "pubDate": "2026-09-18T17:44:59+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软 Win11 Zenith 官方精简版系统 - 专为 AI 用户和开发者优化特别版 (开源安装脚本)",
-        "link": "https://www.iplaysoft.com/win11-zenith.html",
-        "summary": "最近微软发布了一个专为开发者打造的官方精简版 Windows 11，叫 Project Zenith (巅峰计划)。简单说，这就是一个“开机就能写代码”及专用来跑 AI 大模型的 Windows 特别版。\n微软这个“Zenith 精简系统”将那些与 AI、开发无关的应用和服务基本全砍掉！取而代之是专为 AI 用户 / 开发者打造的一套预装工具链，还按程序员习惯调好各种系统配置参数，并减少通知打扰。你再也不需重复去装环境、改配置，安装后直接打开 VS Code 就能调试代码、跑 AI 了……\n「 前往查看原文.... 」异次元还有这些值得一看：微软官方 Ubuntu for Win10 版免费 ",
-        "pubDate": "2026-09-17T18:00:26+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "腾讯云轻量服务器放大招：老用户 1 折续费 + 免费升配置 + 送时长…",
-        "link": "https://www.iplaysoft.com/news/6604",
-        "summary": "腾讯云轻量应用服务器 Lighthouse 上线「六周年庆」打折活动开启！一直持续到 2026 年 10 月 12 日。这次优惠跟以往“只宠新用户”的路子不太一样，对老用户相当友好：VPS 续费按持有年份打折，最高直接 1 折；同价续费和 2 核 4G 免费升配两大福利也回归了；新购 Agent 专区 4 核 4G 年付才 109 元起。简单…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp",
-        "pubDate": "2026-09-17T16:54:15+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果 macOS Golden Gate 27 正式版镜像 DMG 下载 - Mac 官方系统完整安装包 (网盘地址)",
-        "link": "https://www.iplaysoft.com/macos-golden-gate.html",
-        "summary": "苹果发布了最新 iOS 27、iPadOS 固件。作为「Windows 11」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 AI 到系统去。\n最新的 macOS Golden Gate 27 操作系统 在继承了 Tahoe、Sequoia 特性同时，也给 Mac 从底层带来很更显著的性能优化、稳定性增强，正式全面整合苹果智能 Apple Intelligence，全新的 Siri，视觉交互设计升级等，让 Mac 变得更高效、更聪明好用……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 macOS Tahoe",
-        "pubDate": "2026-09-15T19:44:45+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iOS 27 正式版新功能汇总视频：流畅度暴涨，老机型狂喜！国行 AI 难崩…",
-        "link": "https://www.iplaysoft.com/p/ios27-features",
-        "summary": "经过漫长等待，苹果终于把 iOS 27 正式版、macOS 27 推给所有用户了。从 6 月首个测试版到后面的 8 轮测试加 1 个 RC 版，折腾了三个多月，正式版总算落地。这次版本号为 iOS 27.0，内部版本号 24A437，所有用户都能直接升到正式版。\n\n入手 iPhone 优惠\n下载 iOS 27 / iPadOS 正式固件\n而且这次不是 iPhone 单打独斗…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&n",
-        "pubDate": "2026-09-15T12:00:20+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果最新 iOS 27 正式版 / iPadOS 固件 IPSW 全套官方下载地址 (升级 iPhone iPad 系统)",
-        "link": "https://www.iplaysoft.com/ios.html",
-        "summary": "苹果已经推出了最新的 macOS Golden Gate 系统以及 iOS 27 和 iPadOS 正式版固件了！iOS / iPadOS 可以说是目前世界上先进的手机/平板操作系统，新版增加了相当吸引人的新功能。\niPhone 和 iPad 可以准备升级刷机了！iOS 27、iPadOS 27 正式版带来不少新功能，更强的性能表现、更流畅的动画、打磨过的液态玻璃视觉设计、新引入的  Siri AI、Apple Intelligence 智能、中国节假日适配、更好用的快捷指令、小工具、大量细节改进等等……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 iOS 27 / iPadOS",
-        "pubDate": "2026-09-14T18:03:38+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "正版应用 9 月打折：MarginNote 4、CareUEyes、Zipic、XYPlorer 等…",
-        "link": "https://www.iplaysoft.com/news/6609",
-        "summary": "九月开学季，也是学习、办公装备集中焕新的时候。除了电脑硬件，一套趁手的软件，同样能让接下来的学习和工作事半功倍。\n\n前往 9 月优惠会场\n即日起至 9 月 22 日，这些软件开启「九月焕新季」激活码促销活动。本次活动以办公效率、学习辅助、系统优化等实用工具为主，精选软件低至 6 折。\n特…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-09-13T13:08:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iPhone Duo 折叠屏手机官方自带壁纸下载 / iPhone 18 + iOS27 全套新壁纸",
-        "link": "https://www.iplaysoft.com/iphone-duo-wallpapers.html",
-        "summary": "2026 年 9 月 9 日苹果在发布会上正式推出旗下首款折叠屏手机 iPhone Duo 和 iPhone 18 Pro Max 系列。和往年一样，除了手机本身，还有 iOS27 的新增壁纸以及 iPhone Duo 新机随机附带的官方壁纸都是能让人心动的。\n这次 iPhone Duo 配套的沙丘 + 山峰壁纸，还是相当优雅、干净、商务、简洁的。无论你打不打算买这机子，咱们都可以提前先下载这套壁纸来感受一下气氛……\n「 前往查看原文.... 」异次元还有这些值得一看：全套苹果 iOS 15 内置壁纸 / macOS Monterey 超高清 6K 默认桌面壁纸打包下载苹果 iOS 14.2 ",
-        "pubDate": "2026-09-10T21:27:05+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔)",
-        "link": "https://www.iplaysoft.com/doubao-shurufa.html",
-        "summary": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
-        "pubDate": "2026-09-09T12:38:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
-        "link": "https://www.iplaysoft.com/opencut.html",
-        "summary": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
-        "pubDate": "2026-09-07T11:06:27+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "GPT-6 Astra 上线！有什么重磅新变化？为什么说 AGI 新时代来了？",
-        "link": "https://www.iplaysoft.com/p/gpt-6-astra",
-        "summary": "OpenAI 新旗舰 GPT-6 Astra 终于发布了！现在官网绑定信用卡开会员就能马上体验！或者各大中转站也都纷纷上线了。在发布会结尾，总裁 Greg Brockman 直接甩下一句 “Welcome to the AGI era”，狂是真的狂，但看完整个发布内容，我只能说这次 OpenAI 确实有点狂的底气。\n\n支持开通 GPT 会员虚拟卡\n高性价比 API 中…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp",
-        "pubDate": "2026-09-05T07:44:00+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "全球免费公共 NTP 服务器 IP 收集 - VPS 自动校准 Linux 系统时间方法",
-        "link": "https://www.iplaysoft.com/p/public-ntp-server",
-        "summary": "如果你需要维护 VPS 服务器、数据库或网络设备，要保证它们之间时间正确且同步，一定需要 NTP。异次元收录了一份全球免费公共 NTP 服务器 IP 地址列表，方便大家设置电脑、配置服务器时能用得上。\n\n因为时间不准确，会引发很多“莫名其妙”匪夷所思的问题。因此这份公共 NTP IP 列表可以帮助大家…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-09-03T02:41:33+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "UPDF：AI 加持的全能 PDF 编辑器 (用过才知为啥大家都超级推荐！功能超全)",
-        "link": "https://www.iplaysoft.com/updf-editor.html",
-        "summary": "现在的工作与学习几乎离不开 PDF 文件：论文、发票、合同、课件、方案……但现实是，很多人仍在为“PDF 无法编辑”、“格式转换麻烦”、“批注不方便”而无比头疼。\n如果你需要寻找一款 功能强、速度快、支持 AI 的 PDF 编辑器，那「UPDF」很可能就是那个最佳答案！它不仅支持电脑和手机 APP，还提供网页版，功能覆盖学习办公中与 PDF 相关的所有需求。重点是，UPDF 界面非常精美，操作现代化， PDF 编辑、标注的体验也提高到新高度……\n「 前往查看原文.... 」异次元还有这些值得一看：MarginNote 4 - 颠覆学习方式的 iPad Mac 读书阅读笔记工具 (思维导图/知识",
-        "pubDate": "2026-08-31T14:44:53+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
       }
     ],
     "edu": [
@@ -3740,6 +3800,156 @@
         "feedColor": "#c97cff"
       },
       {
+        "title": "特朗普称美伊已间接交换信息",
+        "link": "https://www.jiemian.com/article/15147637.html",
+        "summary": "美国总统特朗普当地时间9月28日下午在白宫对媒体表示，美国和伊朗的谈判代表已通过调解方交换了信息。但他没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会见分晓”。美国媒体报道称，美伊间接会谈于当天上午开始。据伊朗媒体报道，伊朗外长阿拉格齐率领伊朗代表团在美国纽约与调解方会面。伊朗官方通讯社最新报道称，阿拉格齐表示伊朗已与卡塔尔调解方就相关方案进行了讨论，这些方案将提交给美方，伊朗希望在当地时间周二（9月29日）前收到美方的最终回应。阿拉格齐还表示，伊朗已向美国和国际社会通报了最高领袖穆杰塔巴·哈梅内伊为重新开放霍尔木兹海峡所设定的条件，但未透露具体细节。（CCTV国际时讯）",
+        "pubDate": "2026-09-29T07:02:33+08:00",
+        "author": "jianli@jiemian.com(界面)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "全球资管机构展望四季度：长端美债收益率与油价成关键变量",
+        "link": "https://www.jiemian.com/article/15147631.html",
+        "summary": "",
+        "pubDate": "2026-09-29T07:02:32+08:00",
+        "author": "jianli@jiemian.com(界面)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "9月调研偏爱小盘股，机构积极掘金市场机遇",
+        "link": "https://www.jiemian.com/article/15147629.html",
+        "summary": "",
+        "pubDate": "2026-09-29T07:02:07+08:00",
+        "author": "jianli@jiemian.com(界面)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "9月电子产业获机构密集调研，PCB和半导体细分龙头受青睐",
+        "link": "https://www.jiemian.com/article/15147628.html",
+        "summary": "",
+        "pubDate": "2026-09-29T07:01:37+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "新基金密集发行，超70只产品定档10月",
+        "link": "https://www.jiemian.com/article/15147623.html",
+        "summary": "",
+        "pubDate": "2026-09-29T07:01:13+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "央行多工具呵护流动性，资金面有望平稳跨季",
+        "link": "https://www.jiemian.com/article/15147614.html",
+        "summary": "",
+        "pubDate": "2026-09-29T07:00:48+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "广汽集团：董事会同意公司发行股份购买一汽丰田50%股权，股票复牌",
+        "link": "https://www.jiemian.com/article/15147609.html",
+        "summary": "",
+        "pubDate": "2026-09-29T06:59:55+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "中央气象台发布强对流天气蓝色预警及大风蓝色预警",
+        "link": "https://www.jiemian.com/article/15147606.html",
+        "summary": "中央气象台9月29日06时继续发布强对流天气蓝色预警：预计9月29日08时至30日08时，东北地区南部、华北中东部、西南地区北部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，辽宁中部等地局地将有10级以上雷暴大风，最大风力可达11级以上；东北地区南部、华北中东部、西南地区东部、江南北部和东部等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，浙江中南部、重庆东南部、贵州东北部等地的部分地区小时雨量大于50毫米，最大可达60毫米以上。大风蓝色预警：预计，9月29日08时至30日08时，新疆北部和东部、青海南部、内蒙古大部、宁夏北部、山西北部、河北北部和南部、山东北部、河南北部、西",
+        "pubDate": "2026-09-29T06:53:21+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "富时A50期指连续夜盘收跌0.01%",
+        "link": "https://www.jiemian.com/article/15147604.html",
+        "summary": "",
+        "pubDate": "2026-09-29T06:51:04+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "我国科学家揭示趋磁细菌跨尺度磁组织新机制",
+        "link": "https://www.jiemian.com/article/15147596.html",
+        "summary": "中国科学院地质与地球物理研究所消息，该所李金华研究员联合多国科研团队，以在西安未央湖发现的趋磁弧菌WYHV-1为研究对象，揭示了趋磁细菌跨尺度磁组织的全新机制。相关成果北京时间9月29日在国际学术期刊《美国国家科学院院刊》发表。这项研究打通了磁性颗粒、磁链、细胞三个尺度，更新了经典的磁小体理论：不需要每一颗磁小体都保持理想磁化状态，依靠链条的协同效应，大尺寸涡旋颗粒依旧可以实现稳定磁响应。该成果也为古地磁研究提供了重要参考，这种带凹坑的磁铁矿，可帮助科学家识别岩石里的磁小体化石，更好解读远古地球环境。",
+        "pubDate": "2026-09-29T06:50:59+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "离岸人民币兑美元较上周五纽约尾盘涨100点",
+        "link": "https://www.jiemian.com/article/15147585.html",
+        "summary": "周一（9月28日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7127元，较上周五纽约尾盘涨100点，结束此前连续四个交易日回撤的趋势，日内整体交投于6.7263-6.7104元区间。",
+        "pubDate": "2026-09-29T06:50:46+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "利弗莫尔中概股龙头指数收涨0.37%",
+        "link": "https://www.jiemian.com/article/15147578.html",
+        "summary": "利弗莫尔中概股龙头指数收涨0.37%。成分股中，麦思智能涨超16%，AMC院线涨超11%，BOSS直聘、网易涨超4%，贝壳涨超3%。",
+        "pubDate": "2026-09-29T06:49:57+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "台湾花莲县海域发生4.7级地震，震源深度23千米",
+        "link": "https://www.jiemian.com/article/15147546.html",
+        "summary": "中国地震台网正式测定：09月29日02时20分在台湾花莲县海域（北纬23.85度，东经121.78度）发生4.7级地震，震源深度23千米。",
+        "pubDate": "2026-09-29T06:49:34+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美股三大指数集体收跌，光通信、存储芯片板块跌幅居前",
+        "link": "https://www.jiemian.com/article/15147567.html",
+        "summary": "美股三大指数集体收跌，纳指跌0.92%，标普500指数跌0.77%，道指跌0.67%。光通信、存储芯片板块跌幅居前，ARM跌超8%，高通跌超7%，英特尔、SK海力士跌超5%，Meta、Coherent跌逾4%，闪迪、AMD、迈威尔科技跌超3%。黄金矿业股普跌，金田跌超12%，哈莫尼黄金跌超6%，埃氏金业跌超5%，纽曼矿业、泛美白银跌超4%，金罗斯黄金跌超3%。英伟达涨超1%，公司宣布将股票回购授权增加1500亿美元。MongoDB Inc.跌超18%，创3月份以来最差单日表现。",
+        "pubDate": "2026-09-29T06:49:09+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "国际原油期货结算价收涨",
+        "link": "https://www.jiemian.com/article/15147552.html",
+        "summary": "",
+        "pubDate": "2026-09-29T06:48:40+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
         "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
         "link": "https://www.jiemian.com/article/15147519.html",
         "summary": "",
@@ -3784,156 +3994,6 @@
         "link": "https://www.jiemian.com/article/15147489.html",
         "summary": "今天（9月28日），欧盟防长会在布鲁塞尔举行，俄乌冲突仍是热点议题。围绕对乌克兰军事支持问题，特别是如何向乌克兰提供更多防空能力、尤其是“爱国者”导弹，欧盟成员国有各自的考量，仍存在不小的分歧。（CCTV国际时讯）",
         "pubDate": "2026-09-28T23:31:25+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "Manus：正组建团队开发面向国内市场产品，与国产模型厂商合作稳步进行中",
-        "link": "https://www.jiemian.com/article/15147476.html",
-        "summary": "",
-        "pubDate": "2026-09-28T23:30:55+08:00",
-        "author": "jianli@jiemian.com(伍洋宇)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "重庆投资咨询集团原副总经理何文昌被“双开”",
-        "link": "https://www.jiemian.com/article/15147484.html",
-        "summary": "",
-        "pubDate": "2026-09-28T23:29:38+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "智元100台灵犀X2入驻爱仕达100家门店",
-        "link": "https://www.jiemian.com/article/15147478.html",
-        "summary": "9月28日，智元宣布，已与锅具品牌爱仕达展开合作，100台智元灵犀X2入驻爱仕达全国范围内100家门店，担任“门店促销员”角色。",
-        "pubDate": "2026-09-28T23:26:05+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "郑钦文、德约科维奇出战，2026中网单打签表出炉",
-        "link": "https://www.jiemian.com/article/15147470.html",
-        "summary": "9月28日，2026中国网球公开赛单打签表正式出炉，女单方面，新科世界第一莱巴金娜领衔，郑钦文、萨巴伦卡、高芙、斯瓦泰克等出战；男单方面，新科美网冠军兹维列夫领衔，6号种子、六届赛会冠军德约科维奇时隔11年重返参赛。",
-        "pubDate": "2026-09-28T23:20:08+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "商务部部长王文涛与德国联邦经济和能源部部长赖歇举行视频通话",
-        "link": "https://www.jiemian.com/article/15147463.html",
-        "summary": "",
-        "pubDate": "2026-09-28T23:18:31+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "中国长安汽车多个项目集中签约落地重庆",
-        "link": "https://www.jiemian.com/article/15147456.html",
-        "summary": "9月28日，中国长安汽车集团有限公司重大项目集中签约活动在渝举办，同时，集团总部办公场地正式启用。当天，中国长安汽车及部分所属企业分别与重庆市渝中区、两江新区、沙坪坝区、合川区、市政府口岸物流办、渝富集团、建设银行、中信银行、招商银行等相关单位集中签约众多项目，涵盖零部件集团落户、产业基金、产融合作、新媒体中心、现代物流服务等领域。",
-        "pubDate": "2026-09-28T23:15:32+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "英反恐警察：空军基地附近被捕5人已获保释，仍在接受调查",
-        "link": "https://www.jiemian.com/article/15147449.html",
-        "summary": "英国反恐警察发言人当地时间9月28日表示，在英国费尔福德皇家空军基地事件中被捕的5名男子均已获保释。发言人表示，获保释并不意味着调查结束，5人受到严格的行动和接触限制，仍在接受调查。警方将从多个方向继续推进调查。发言人还确认，5名男子当时分别乘坐3辆车，车辆已在军方和法证专家协助下接受搜查。目前现场仍部署大量警力并设置警戒线。警方计划于当天晚些时候缩小警戒范围，附近居民将可以返回住所。（央视新闻）",
-        "pubDate": "2026-09-28T23:12:37+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美股整体下跌之际中概股多数上涨，网易涨超5%",
-        "link": "https://www.jiemian.com/article/15147439.html",
-        "summary": "9月28日，美股盘中整体走弱之际，在美上市中概股多数上涨，纳斯达克中国金龙指数上涨0.6%。热门中概股中，网易涨5.03%，再鼎医药涨4.28%，小马智行涨3.63%，贝壳涨3.25%，BOSS直聘涨3.01%，华住集团涨2.65%，理想汽车涨2.19%，哔哩哔哩涨1.85%。阿里巴巴跌0.59%，百度跌1.15%，小鹏汽车跌1.14%。市值排名前30只热门中概股中，21只上涨、9只下跌。",
-        "pubDate": "2026-09-28T23:10:20+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "水贝金饰降价卖爆",
-        "link": "https://www.jiemian.com/article/15147430.html",
-        "summary": "进入9月，国际金价持续回落。今天，COMEX黄金期货价格一路下跌，跌穿4200美元/盎司，跌幅超过3%，这也再次带动国内金饰挂牌价下行，深圳水贝黄金珠宝市场首饰金挂牌价回落至1068元/克。金价下行叠加国庆长假，黄金零售市场迎来传统消费旺季。不少商户表示，近期他们门店客流明显增多，尤其婚嫁刚需的顾客下单很果断，店里补货频率比上个月快了不少，部分热门款式甚至出现断货。有黄金商户介绍：“相比上个月，这个月销量环比增长大约20%—30%。国庆节结婚的人比较多，再加上金价下跌，所以这个月生意相对好很多。”（央视财经）",
-        "pubDate": "2026-09-28T23:09:54+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "国内商品期市夜盘收盘涨跌参半，化工品涨幅居前",
-        "link": "https://www.jiemian.com/article/15147418.html",
-        "summary": "9月28日，国内商品期市夜盘收盘涨跌参半，化工品涨幅居前，CZCE甲醇涨3.90%；能源品全部上涨，INE低硫燃料油涨1.49%；黑色系多数上涨，DCE焦炭涨0.52%；油脂油料跌幅居前，CZCE菜粕跌2.30%；农副产品涨跌参半，CZCE棉花跌0.84%；非金属建材全部下跌，CZCE玻璃跌0.56%。",
-        "pubDate": "2026-09-28T23:04:48+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "现货黄金日内跌幅扩大至4%",
-        "link": "https://www.jiemian.com/article/15147413.html",
-        "summary": "报4110.92美元/盎司。",
-        "pubDate": "2026-09-28T22:59:51+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "日防卫省推新采购制度吸纳尖端技术",
-        "link": "https://www.jiemian.com/article/15147409.html",
-        "summary": "",
-        "pubDate": "2026-09-28T22:56:53+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美国30年期国债收益率日内上涨7个基点，报5.57%",
-        "link": "https://www.jiemian.com/article/15147404.html",
-        "summary": "美国5年期和7年期国债收益率日内上涨10个基点。美国30年期国债收益率日内上涨7个基点，报5.57%，刷新2002年以来新高。",
-        "pubDate": "2026-09-28T22:54:34+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "英国国债跌势延续",
-        "link": "https://www.jiemian.com/article/15147398.html",
-        "summary": "10年期国债收益率上涨6个基点至日内高点5.42%。",
-        "pubDate": "2026-09-28T22:53:56+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美股芯片股多数走低，ARM跌近10%，费城半导体指数跌3%",
-        "link": "https://www.jiemian.com/article/15147386.html",
-        "summary": "",
-        "pubDate": "2026-09-28T22:50:49+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
