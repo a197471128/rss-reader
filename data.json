@@ -1,13 +1,83 @@
 {
-  "updated": "2026-09-30T18:53:51.789336+00:00",
+  "updated": "2026-09-30T23:37:04.886812+00:00",
   "summary": {
     "total": 78,
-    "success": 33,
-    "fail": 45,
-    "total_articles": 366
+    "success": 32,
+    "fail": 46,
+    "total_articles": 372
   },
   "articles": {
     "hot": [
+      {
+        "title": "第三届“村超”国际赛打响 热度：3242649",
+        "link": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%89%E5%B1%8A%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E5%9B%BD%E9%99%85%E8%B5%9B%E6%89%93%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月30日，第三届贵州“村超”国际足球赛在黔东南榕江县打响。36个国家和地区的551名球员参赛，本届赛事首次设置杯赛和友谊赛两大组别，杯赛有16支球...",
+        "pubDate": "2026-10-01T05:01:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "曝WSBK2027计划加入中国站 热度：3686543",
+        "link": "https://www.baidu.com/s?wd=%E6%9B%9DWSBK+2027%E8%AE%A1%E5%88%92%E5%8A%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "据Speedweek报道，世界超级摩托车锦标赛（WSBK）2027赛季计划新增中国站，目前暂定为全年第12站，并可能在10月举行，甚至成为赛季收官战...",
+        "pubDate": "2026-10-01T05:01:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "成都农博会上的猕猴桃为何供不应求 热度：3807192",
+        "link": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%86%9C%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%8C%95%E7%8C%B4%E6%A1%83%E4%B8%BA%E4%BD%95%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-10-01T05:01:31+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "胖东来将实行每天7小时工作制 热度：5326725",
+        "link": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E5%AE%9E%E8%A1%8C%E6%AF%8F%E5%A4%A97%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月30日晚，胖东来创始人于东来发文宣布，2027年3月起员工及管理层将实行每周工作5天休息2天、每天7小时的新工作制（每周35小时），以实现轻松幸...",
+        "pubDate": "2026-10-01T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "美国对OpenAI等AI实验室加大调查力度 热度：5417998",
+        "link": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9OpenAI%E7%AD%89AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8A%A0%E5%A4%A7%E8%B0%83%E6%9F%A5%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "据媒体最新报道，美国联邦贸易委员会（FTC）正加大对OpenAI等AI实验室调查力度，拟起草民事调查传令，强制传唤高管就产品潜在风险提供证词。",
+        "pubDate": "2026-10-01T05:01:30+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "警号021544重启 热度：7046883",
+        "link": "https://www.baidu.com/s?wd=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "9月30日，记者联系到成都天府新区新民警张馨月，她称从警月余已体会到父亲当年的坚守。9月28日，她在警号重启仪式上佩戴了牺牲父亲张炼的警号02154...",
+        "pubDate": "2026-10-01T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "国庆节 热度：7428328",
+        "link": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-10-01T05:01:29+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "苹果进军智能家居 热度：3122387",
         "link": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%BF%9B%E5%86%9B%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news",
@@ -139,74 +209,34 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "侯浪救场李克勤爆火粉丝涨到27万 热度：4651279",
-        "link": "https://www.baidu.com/s?wd=%E4%BE%AF%E6%B5%AA%E6%95%91%E5%9C%BA%E6%9D%8E%E5%85%8B%E5%8B%A4%E7%88%86%E7%81%AB+%E7%B2%89%E4%B8%9D%E6%B6%A8%E5%88%B027%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月26日晚，内蒙古包头市演唱会因李克勤遇天气交通问题迟到2小时。34岁歌手侯浪紧急救场，在无乐队无提词器下连唱近20首歌曲。4天过去，侯浪因“神级...",
-        "pubDate": "2026-10-01T00:01:46+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 中国轮胎海外工厂遭遇俄罗斯等五国调查 ",
+        "link": "https://www.huxiu.com/article/4894965.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进现在，欧亚经济联盟（EAEU，全称为Eurasian Economic Union）把调查范围扩大到了泰国和越南——那里正是中国轮胎企业过去十年集中建设海外产能的地方。2026年9月24日，俄罗斯《生意人报》报道，欧亚经济委员会内部市场保护司建议，对原产于泰国和越南的载重轮胎征收为期五年的反倾销税，税率介于11.31%至22.37%。目前公布的是调查部门建议。最终是否征税、何时生效，仍需欧亚经济委员会作出正式决定并公布法律文件。欧亚经济联盟由俄罗斯、白俄罗斯、哈萨克斯坦、亚美尼亚和吉尔吉斯斯坦组成。这个组织于2015年",
+        "pubDate": "2026-10-01T07:25:14+08:00",
+        "author": " 汽车商业评论 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
-        "title": "网媒“爆炸头”邓浩荣落网 热度：4757378",
-        "link": "https://www.baidu.com/s?wd=%E7%BD%91%E5%AA%92%E2%80%9C%E7%88%86%E7%82%B8%E5%A4%B4%E2%80%9D%E9%82%93%E6%B5%A9%E8%8D%A3%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月30日，香港警务处国安处再抓两人，其中包括网络媒体创办人邓浩荣（绰号“爆炸头”）。加上此前行动，警方已累计拘捕5人。上个月，有人在港铁太子站外...",
-        "pubDate": "2026-10-01T00:01:46+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 大成基金的“三不像”困局 ",
+        "link": "https://www.huxiu.com/article/4894877.html?f=rss",
+        "summary": " 出品 | 妙投APP作者 | 刘国辉编辑 | 丁萍头图 | AI制图近日，大成基金公告称，基金经理韩创因个人原因离职。在此之前，韩创旗下多只产品，包括代表作大成新锐产业在内，都已经增聘基金经理，进入共管模式。再加上今年3月和7月增聘的两只基金，韩创已经没有独立管理的产品。这预示着韩创的离职已经进入倒计时。近期一直有韩创即将&ldquo;公奔私&rdquo;的传闻，财联社报道称，其可能在离职后加入高瓴系私募，不过后又被瓴仁私募相关人士否认。韩创是周期领域颇有建树的基金经理，大成基金的台柱子之一，高峰期管理规模近300亿元。他的离任，意味着奠定大成基金主动权益实力和行业地位的大成三剑客，将只剩下",
+        "pubDate": "2026-10-01T06:00:01+08:00",
+        "author": " 刘国辉 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
-        "title": "“闪身步”爆火盲目模仿或有损健康 热度：4858303",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E9%97%AA%E8%BA%AB%E6%AD%A5%E2%80%9D%E7%88%86%E7%81%AB+%E7%9B%B2%E7%9B%AE%E6%A8%A1%E4%BB%BF%E6%88%96%E6%9C%89%E6%8D%9F%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，“闪身步”等舞蹈动作在社交平台走红引大量网友模仿。专家指出，普通人缺乏专业舞者的核心力量，强行复刻易致膝盖承受不应有的剪切力，从而造成前交叉十...",
-        "pubDate": "2026-10-01T00:01:46+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "人民日报：小心“快招陷阱” 热度：5122523",
-        "link": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%B0%8F%E5%BF%83%E2%80%9C%E5%BF%AB%E6%8B%9B%E9%99%B7%E9%98%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "人民日报提醒小心“快招陷阱”。部分快招公司用高回报话术、碰瓷大牌等手段虚假招商，存在违约、乱收费、换壳规避责任等乱象，坑害商户。监管正出台举措整治，...",
-        "pubDate": "2026-10-01T00:01:45+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "客机发“劫机警报”舱内画面曝光 热度：5318535",
-        "link": "https://www.baidu.com/s?wd=%E5%AE%A2%E6%9C%BA%E5%8F%91%E2%80%9C%E5%8A%AB%E6%9C%BA%E8%AD%A6%E6%8A%A5%E2%80%9D+%E8%88%B1%E5%86%85%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间9月30日，迪拜航空一班飞往特拉维夫的客机空中突发险情，驾驶舱两名飞行员爆发冲突，飞机发出劫机相关紧急代码，随后紧急备降沙特塔布克机场。机长...",
-        "pubDate": "2026-10-01T00:01:45+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "泰国洪灾 热度：5505594",
-        "link": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B4%AA%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "泰国防灾减灾厅9月30日晚通报称，9月16日以来，洪灾已波及全国43个府及首都曼谷，超过323万人受影响，造成24人死亡。截至30日18时，仍有29...",
-        "pubDate": "2026-10-01T00:01:45+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "女子进矿山工作六年被亲戚羡慕 热度：5613341",
-        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9B%E7%9F%BF%E5%B1%B1%E5%B7%A5%E4%BD%9C%E5%85%AD%E5%B9%B4%E8%A2%AB%E4%BA%B2%E6%88%9A%E7%BE%A1%E6%85%95&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "9月29日，河南长垣一女子讲述自己在矿山工作6年的经历。女子称公司包吃包住，餐厅每天有水果和八个菜，工资按时发放，老板常给员工发钱，如三夏发1000...",
-        "pubDate": "2026-10-01T00:01:44+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 得过抑郁症，就该被辞退吗，如何保障自身权益 ",
+        "link": "https://www.huxiu.com/article/4894963.html?f=rss",
+        "summary": " 本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人一、今日案例20岁的河南姑娘陈欣瑶（化名），怎么也想不通自己为什么找不到工作。她去广东佛山打工，接连被好几家单位拒绝，理由出奇一致：她“有精神疾病”。姑娘本人毫不知情。查下去才发现，她读初中时，老家登封市徐庄镇卫生院的村医工作失误，把她错误登记为“精神分裂症”，登记时间是2019年2月。家属翻遍当地医院的档案，没有找到任何一次就诊记录。一个标签，改写了她的求职路，也带走了她的爱情。2026年8月20日，涉事卫生院承认登记错误，删除了卫生系统内的记录。但事情没有完：同步到公安系统的信息，还要她本人重新做精神鉴定、凭一份“无病证明”才能撤",
+        "pubDate": "2026-10-01T05:38:25+08:00",
+        "author": " 法律科技故事会 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 一汽广汽重组，汽车业的“大整合时刻” ",
@@ -1824,6 +1854,36 @@
         "feedColor": "#7cff7c"
       },
       {
+        "title": " 中国轮胎海外工厂遭遇俄罗斯等五国调查 ",
+        "link": "https://www.huxiu.com/article/4894965.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进现在，欧亚经济联盟（EAEU，全称为Eurasian Economic Union）把调查范围扩大到了泰国和越南——那里正是中国轮胎企业过去十年集中建设海外产能的地方。2026年9月24日，俄罗斯《生意人报》报道，欧亚经济委员会内部市场保护司建议，对原产于泰国和越南的载重轮胎征收为期五年的反倾销税，税率介于11.31%至22.37%。目前公布的是调查部门建议。最终是否征税、何时生效，仍需欧亚经济委员会作出正式决定并公布法律文件。欧亚经济联盟由俄罗斯、白俄罗斯、哈萨克斯坦、亚美尼亚和吉尔吉斯斯坦组成。这个组织于2015年",
+        "pubDate": "2026-10-01T07:25:14+08:00",
+        "author": " 汽车商业评论 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 大成基金的“三不像”困局 ",
+        "link": "https://www.huxiu.com/article/4894877.html?f=rss",
+        "summary": " 出品 | 妙投APP作者 | 刘国辉编辑 | 丁萍头图 | AI制图近日，大成基金公告称，基金经理韩创因个人原因离职。在此之前，韩创旗下多只产品，包括代表作大成新锐产业在内，都已经增聘基金经理，进入共管模式。再加上今年3月和7月增聘的两只基金，韩创已经没有独立管理的产品。这预示着韩创的离职已经进入倒计时。近期一直有韩创即将&ldquo;公奔私&rdquo;的传闻，财联社报道称，其可能在离职后加入高瓴系私募，不过后又被瓴仁私募相关人士否认。韩创是周期领域颇有建树的基金经理，大成基金的台柱子之一，高峰期管理规模近300亿元。他的离任，意味着奠定大成基金主动权益实力和行业地位的大成三剑客，将只剩下",
+        "pubDate": "2026-10-01T06:00:01+08:00",
+        "author": " 刘国辉 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 得过抑郁症，就该被辞退吗，如何保障自身权益 ",
+        "link": "https://www.huxiu.com/article/4894963.html?f=rss",
+        "summary": " 本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人一、今日案例20岁的河南姑娘陈欣瑶（化名），怎么也想不通自己为什么找不到工作。她去广东佛山打工，接连被好几家单位拒绝，理由出奇一致：她“有精神疾病”。姑娘本人毫不知情。查下去才发现，她读初中时，老家登封市徐庄镇卫生院的村医工作失误，把她错误登记为“精神分裂症”，登记时间是2019年2月。家属翻遍当地医院的档案，没有找到任何一次就诊记录。一个标签，改写了她的求职路，也带走了她的爱情。2026年8月20日，涉事卫生院承认登记错误，删除了卫生系统内的记录。但事情没有完：同步到公安系统的信息，还要她本人重新做精神鉴定、凭一份“无病证明”才能撤",
+        "pubDate": "2026-10-01T05:38:25+08:00",
+        "author": " 法律科技故事会 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
         "title": " 一汽广汽重组，汽车业的“大整合时刻” ",
         "link": "https://www.huxiu.com/article/4894955.html?f=rss",
         "summary": " 本文来自微信公众号： 青橙财经 ，作者：青炯，编辑：六子前不久，广汽集团公告与一汽股份签署重组意向协议，拟通过发行股份购买相关资产。9月28日，广汽正式披露重组预案，确认标的为一汽丰田50%股权。9月29日复牌当天，广汽A股涨停，资本表达了对这笔交易的态度。按市场测算，这次交易对价约200亿元。天眼查显示，广汽集团当前第一大股东为广州汽车工业集团，持股超50%。交易完成后，一汽股份将持有广汽约29.44%的股份，成为第二大股东。国有车企谈整合谈了很多年，这次算是第一次有了实质性的股权动作。但与其说是主动布局，不如说是经营压力下的被迫应对。9月24日，广汽在投资者关系平台上回应投资者提问时就坦",
@@ -2234,6 +2294,66 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "《GTA 6》是否会在雷奥奈达州还原一座“迪士尼乐园”？R 星暗示“未必”",
+        "link": "https://www.ithome.com/1/008/957.htm",
+        "summary": "IT之家 10 月 1 日消息，Rockstar Games 暗示，《侠盗猎车手 6》预计不会把现实中佛罗里达州的迪士尼乐园、奥兰多海洋世界等著名景点搬进游戏中的雷奥奈达州。R 星在当地时间 29 日的最新一期《Game Informer》采访中透露，以佛罗里达州为原型的雷奥奈达州不会一一还原当地所有标志性景观。Game Informer 问及迪士尼乐园、奥兰多海洋世界、佛罗里达环球影城等景点会如何融入游戏时，R 星场景美术高级副总裁保罗 · 麦克弗森暗示，其中一些地点不会出现在《GTA 6》中。为了兼顾剧情和游戏设计，开发团队必须有所取舍，但目标仍是让玩家充分感受到佛罗里达州的风貌。“我们必",
+        "pubDate": "2026-09-30T23:27:24+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果 Invites App 升至 1.12.0：升级相册共享、扩展图乐园、简化邮箱验证流程",
+        "link": "https://www.ithome.com/1/008/956.htm",
+        "summary": "IT之家 10 月 1 日消息，科技媒体 MacRumors 昨日（9 月 30 日）发布博文，报道称苹果更新邀请（Invites）App，升级到最新 1.12.0 版本，聚焦活动邀请、照片共享与验证流程优化。IT之家注：Apple Invites 是苹果推出的活动邀请应用，用于创建和管理生日派对、迎婴派对等活动。本次应用更新升级共享相册功能，现支持全分辨率照片共享。用户可在应用内查看高清细节，任何收到链接的人均可加入并上传照片，包括非 Apple 设备用户。新版还扩展图乐园（Image Playground）功能，新增照片级逼真背景生成能力。用户可选择几乎任意风格创建高质量背景，让邀请函更贴",
+        "pubDate": "2026-09-30T23:24:16+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "微软夏尔马回应称 XBOX 不会出售，将竭尽所能推动游戏业务重回增长",
+        "link": "https://www.ithome.com/1/008/955.htm",
+        "summary": "IT之家 10 月 1 日消息，游戏媒体 kotaku 昨日（9 月 30 日）发布博文，报道称针对“微软考虑出售 Xbox 游戏业务”的传闻，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）予以明确否认，强调“ XBOX 不会出售”，并强调团队将与微软长期合作、推动业务重回增长轨道。IT之家援引博文报道，该传闻可以追溯到 2026 年 6 月，科技媒体 The Information 报道称，微软内部曾讨论过重组 XBOX 为全资子公司、甚至未来可能分拆或出售的选项。随后 Xbox 部门经历大规模裁员、工作室调整、Game Pass 策略变化等“重置”（reset）动作，",
+        "pubDate": "2026-09-30T23:16:27+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果新智能家居设备设置流程曝光，新增“Photo Face”步骤",
+        "link": "https://www.ithome.com/1/008/954.htm",
+        "summary": "IT之家 10 月 1 日消息，消息源 @itspdfu 昨日（9 月 30 日）发布博文，爆料称在苹果即将推出（此前爆料为 10 月 13 日）的智能家居设备中，苹果计划在设置过程中，添加创建“照片面孔”（Photo Face）关键步骤。IT之家附上相关截图如下：该步骤基于 iCloud Photos，用于设备快速显示用户面部图像，提升交互体验。用户设置时，iPhone 会先发送几张全分辨率的“冷启动”照片，确保面孔能立即显示；随后设备再从 iCloud 下载其余照片。此次披露暗示苹果正在推进更深度的跨设备个性化体验，将用户生物特征（面部图像）作为智能家居交互的核心元素之一。该 Photo ",
+        "pubDate": "2026-09-30T23:05:51+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+        "link": "https://www.ithome.com/1/008/953.htm",
+        "summary": "IT之家 10 月 1 日消息，谷歌昨日（9 月 30 日）发布 Gemini 4 Argon，称其为公司迄今最先进的 AI 模型，但目前并未面向公众全面开放。定位方面，Gemini 4 Argon 是谷歌当前“最先进”模型，重点是长流程软件工程、企业知识工作和网络安全防御。官方称其在真实世界软件工程测试创纪录，网络安全基准并列第一，并在金融、法律等专业任务基准领先。模型特性方面，Gemini 4 Argon 单次输出上限达到约 100 万 tokens，高于此前的 64,000 tokens，适合处理大型代码库、长文档和多阶段任务。谷歌 DeepMind Gemini 产品负责人 Tulse",
+        "pubDate": "2026-09-30T22:57:36+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "美光科技 2026 财年年报归母净利润 849.69 亿美元，同比增长 895.07%",
+        "link": "https://www.ithome.com/1/008/952.htm",
+        "summary": " IT之家 10 月 1 日消息，美光科技今日发布 2026 财年（2025年9月5日～2026年9月3日）年报及第四财季（2026年5月29日～2026年9月3日）报告：  2026 财年年报    营业总收入：1331.88 亿美元（IT之家注：现汇率约合 8947.38 亿元人民币），同比增长 256.33%     毛利润：1075.04 亿美元（现汇率约合 7221.97 亿元人民币），同比增长 622.81%     毛利率：80.7%，同比增长 40.9 个百分点     归母净利润：849.69 亿美元（现汇率约合 5708.1 亿元人民币），同比增长 895.07%     ",
+        "pubDate": "2026-09-30T20:07:32+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "乐扩公布 B650 扩展卡 PB65MX4，支持模块化按需拓展",
         "link": "https://www.ithome.com/1/008/950.htm",
         "summary": "IT之家 10 月 1 日消息，乐扩 (Lekuo) 昨日公布了基于 AMD B650 芯片组 \"PROM 21\" 的新款 PCIe AIC 扩展卡 PB65MX4。这一型号采用模块化设计，支持用户按需拓展 I/O。PB65MX4 正面提供 2 个 M.2 2230 / 2242 / 2260 / 2280 插槽，支持 PCIe Gen3 ×2。这两个插槽既可直接安装 M.2 SSD，也兼容 M.2 转 10GbE RJ-45 / 10GbE SFP+ / 多口 SATA / OCuLink 等功能模块，允许不同模块混合搭配。此外，PB65MX4 采用 6-Pin 供电，反面包括 2 个普通 ",
@@ -2368,66 +2488,6 @@
         "link": "https://www.ithome.com/1/008/932.htm",
         "summary": "IT之家 9 月 30 日消息，据外媒 Insider Gaming 今天报道，曾开发《英雄不再》系列游戏的草蜢工作室（Grasshopper Manufacture）宣布，自 2026 年 10 月 1 日起公司将脱离网易游戏，重新成为独立开发商。IT之家了解到，网易游戏 2021 年宣布收购草蜢工作室。网易方面为草蜢提供游戏开发资金，并提供数千名开发人员支持。草蜢工作室创办人须田刚一对此表示，团队希望为全球玩家带来更加丰富的游戏，因此决定再次成为独立开发商。草蜢工作室在决定脱离之前已经与网易游戏进行充分沟通，并感谢网易的慷慨合作。如今工作室已提升自主发行游戏的能力，拥有更加广泛的选择。",
         "pubDate": "2026-09-30T14:42:08+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "黑爵带来 AJ159 V2 ULTRA 鼠标：PAW3955，换电设计，319 元起",
-        "link": "https://www.ithome.com/1/008/931.htm",
-        "summary": "IT之家 9 月 30 日消息，黑爵 (AJAZZ) 近日带来了 AJ159 V2 ULTRA 三模鼠标。这一型号采用对称式模具，质量 54g，搭载原相 PAW3955 光学传感器，配套模块换电系统。AJ159 V2 ULTRA 三维 123.58 × 64.8 × 39.24 (mm)，外壳为 ABS 塑料，覆盖类肤质感涂层；左右键选用 100M 耐久 TTC 青龙微动开关；支持 8kHz 回报率；带屏智显 Dock 兼具 2.4GHz 信号接收和电池模块充电功能。IT之家了解到，黑爵 AJ159 V2 ULTRA 拥有云峰白 / 陨石黑 / 渐变粉 3 种配色，到手价分别为 319 / 3",
-        "pubDate": "2026-09-30T14:37:05+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Sonnet 推出 Solo10G T5，号称首款总线供电雷电 5 万兆网卡",
-        "link": "https://www.ithome.com/1/008/927.htm",
-        "summary": "IT之家 9 月 30 日消息，连接性外设制造商 Sonnet 近日推出号称首款总线供电雷电 5 万兆网卡的 Solo10G T5 适配器。Solo10G T5 采用 Marvell AQC113C 芯片，提供 1 个 10GbE RJ-45 有线网口，功耗 7.5W。其三维 79.5×114×27.2 (mm)，拥有铝制被动散热机身，附带可更换的雷电 5 线缆。其兼容基于 M 系列芯片的苹果 Mac 与 iPad Pro 设备，同时支持所有配备雷电 5/4 或 USB 接口的 Windows 与 Linux 电脑。IT之家了解到，Solo10G T5 定价 199.99 美元（IT之家注：现",
-        "pubDate": "2026-09-30T14:25:30+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "598 元，微软 XBOX 手柄《战争机器：事变日》限定版开售",
-        "link": "https://www.ithome.com/1/008/925.htm",
-        "summary": "IT之家 9 月 30 日消息，微软 XBOX 手柄《战争机器：事变日》限定版现已开售，新品拥有别具一格的外观，功能与普通版 XBOX Series 手柄无任何区别，售价 598 元。据介绍，这款手柄整体采用黑红配色，手柄正中央带有象征死亡降临的“猩红预兆”标记，配备纯黑 ABY 按键、透明红色扳机键、X 键与方向键，致敬守卫卡洛纳、抵御怪物浪潮的战斗。电池盖上还带有 COG 兵籍牌，致敬“永不独战”信念。同时，该手柄支持无线 / 有线双模连接，兼容 XBOX 主机、Windows PC、Android 和 iOS 设备，支持使用 XBOX 配件应用自定义按钮映射。具备分享按键，按下即可轻松截",
-        "pubDate": "2026-09-30T14:19:57+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度",
-        "link": "https://www.ithome.com/1/008/924.htm",
-        "summary": "IT之家 9 月 30 日消息，据纽约邮报消息，政府官员透露，美国联邦贸易委员会 FTC 正在加大对 Anthropic、OpenAI 及其他前沿人工智能实验室的全面调查力度，旨在彻查其技术可能对消费者造成的潜在风险。FTC 计划向这些科技巨头下达类似于传票的正式要求，强制其提交相关信息。2026 年 7 月，Hugging Face 的人工智能开源社区遭遇 OpenAI 智能体入侵。据悉，FTC 主席安德鲁 · 弗格森（Andrew N. Ferguson）早在此次事件发生前就已启动相关调查，目前该机构正进一步起草民事调查传令，拟依法强制传唤各头部 AI 企业的高管提供证词。一位 FTC 高",
-        "pubDate": "2026-09-30T14:13:22+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "AOC 推出 U27G4Z 显示器：27\" Fast IPS，UHD 240Hz / FHD 480Hz",
-        "link": "https://www.ithome.com/1/008/923.htm",
-        "summary": "IT之家 9 月 30 日消息，AOC 今日在官网上线了双模显示器 U27G4Z。这一型号采用 27\" Fast IPS 面板，支持 UHD 240Hz / FHD 480Hz，获得 VESA DisplayHDR 400 认证。U27G4Z 拥有 350nits 的 SDR 亮度、450nits 的 HDR 亮度，对比度 1300:1；GtG 响应时间 1ms、MPRT 响应时间 0.3ms；色域 99% sRGB / 95% DCI-P3，sRGB 下色偏（平均值）ΔE＜2；支持硬件级不闪屏、硬件级低蓝光、可变刷新率。该显示器提供 2 个 HDMI 2.1 (FRL6)、1 个 Displ",
-        "pubDate": "2026-09-30T14:13:01+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国队夺得《第五人格》金牌，穆欣月成首位亚运电竞女子冠军",
-        "link": "https://www.ithome.com/1/008/922.htm",
-        "summary": "IT之家 9 月 30 日消息，第 20 届亚运会电子竞技《第五人格》决赛今日举行，中国队以 2 比 0 战胜日本队，夺得金牌。中国国家集训队运动员石祥威（GR 年锦）、卢树嘉（GR 阿策）、孙乐（MRC 白露）、陈明明（狼队小明）、鲁亚辉（成都 GG 皮皮虾）、樊思琪（MRC 奈奈）、穆欣月（WBG 桃晚安）悉数登场。其中，穆欣月随队登上最高领奖台，成为电子竞技“入亚”以来第一位拿到金牌的女子运动员。中国队从国内联赛首秀起步，在亚运赛场一路全胜登顶。IT之家查询获悉，本次夺冠的中国队教练团队包括朱天龙、胡子健、夏扬。在决赛中，第 1 局中国队开局不利，孙乐（白露）在四人开门战绝境中完成 3 ",
-        "pubDate": "2026-09-30T14:08:58+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -3480,6 +3540,76 @@
         "feedColor": "#c97cff"
       },
       {
+        "title": "离岸人民币兑美元较周二纽约尾盘跌8点",
+        "link": "https://www.jiemian.com/article/15157759.html",
+        "summary": "周三（9月30日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7088元，较周二纽约尾盘跌8点，日内整体交投于6.7038-6.7098元区间。离岸人民币9月份累计上涨0.13%，第三季度累计涨幅大约1.22%。",
+        "pubDate": "2026-10-01T07:01:56+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "富时A50期指连续夜盘收跌0.17%",
+        "link": "https://www.jiemian.com/article/15157747.html",
+        "summary": "富时A50期指连续夜盘收跌0.17%，报13939点。",
+        "pubDate": "2026-10-01T07:01:48+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "利弗莫尔中概股龙头指数收跌0.08%",
+        "link": "https://www.jiemian.com/article/15157735.html",
+        "summary": "利弗莫尔中概股龙头指数收跌0.08%。成分股中，龙电华鑫、美华创富跌超16%，SL Science Holding Ltd跌超7%，玉柴国际跌超4%，世纪互联跌超2%。",
+        "pubDate": "2026-10-01T07:00:26+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "10月新规：国家实行后备兵员储备制度，首个儿童座椅电子功能国标实施",
+        "link": "https://www.jiemian.com/article/15155733.html",
+        "summary": "2026年10月起，又有多部法律法规将施行。",
+        "pubDate": "2026-10-01T07:00:00+08:00",
+        "author": "jianli@jiemian.com(翟瑞民)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美股收盘：纳指、标普500指数三季度均涨逾2%，微软三季度大涨超37%市值增加超1万亿美元",
+        "link": "https://www.jiemian.com/article/15157732.html",
+        "summary": "美股三大指数收盘涨跌不一，纳指涨0.24%，9月份累涨1.86%，三季度累涨2.47%；标普500指数跌0.25%，9月份累跌0.45%，三季度累涨2.03%；道指跌0.86%，9月份累跌4.29%，三季度累跌2.7%。大型科技股多数上涨，英特尔涨超3%，亚马逊、SpaceX、苹果涨超1%，谷歌、英伟达、特斯拉、微软小幅上涨；奈飞跌超1%。其中，微软三季度大涨超37%，市值增加超1万亿美元；苹果三季度涨超15%，英伟达三季度涨逾14%；特斯拉三季度跌超15%，英特尔三季度跌超13%。",
+        "pubDate": "2026-10-01T06:59:59+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "在岸人民币兑美元较周四夜盘收盘涨15点",
+        "link": "https://www.jiemian.com/article/15157709.html",
+        "summary": "在岸人民币兑美元（CNY）北京时间03:00收报6.7050元，较周四夜盘收盘涨15点。成交量276.93亿美元。",
+        "pubDate": "2026-10-01T06:59:06+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "国际原油期货结算价收涨，三季度大涨超30%",
+        "link": "https://www.jiemian.com/article/15157704.html",
+        "summary": "国际原油期货结算价收涨。WTI原油期货11月合约涨1.16%，报90.42美元/桶；WTI原油期货主连9月累涨超5%，三季度累涨超31%。布伦特原油期货11月合约涨0.92%，报103.53美元/桶；布伦特原油期货主连9月累涨约11%，三季度累涨超33%。",
+        "pubDate": "2026-10-01T06:58:47+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
         "title": "2026年国庆档新片预售票房破7000万",
         "link": "https://www.jiemian.com/article/15157681.html",
         "summary": "",
@@ -3604,76 +3734,6 @@
         "link": "https://www.jiemian.com/article/15157608.html",
         "summary": "俄罗斯政府9月30日宣布，由于地区冲突和供应短缺持续冲击全球能源市场，俄方决定把禁止燃油生产商从俄罗斯直接出口柴油、船用燃油和瓦斯油的措施有效期延长至10月31日。（新华社）",
         "pubDate": "2026-09-30T22:52:37+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "“金九”上海楼市“日光盘”频现",
-        "link": "https://www.jiemian.com/article/15156911.html",
-        "summary": "随着“沪八条”新政效应持续释放，上海房地产市场热度快速攀升。",
-        "pubDate": "2026-09-30T22:45:09+08:00",
-        "author": "jianli@jiemian.com(王婷婷TT)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "第四次全国文物普查省域整体验收全面完成",
-        "link": "https://www.jiemian.com/article/15157605.html",
-        "summary": "9月29日，第四次全国文物普查领导小组办公室组织完成西藏自治区和青海省第四次全国文物普查省域整体验收工作。至此，全国31个省、自治区、直辖市及新疆生产建设兵团的普查省域整体验收全面完成。验收组强调，要进一步完善第四次全国文物普查工作报告，做好数据分析与成果汇总。要基于第四次全国文物普查领导小组办公室终审审定数据，逐级建立并公布不可移动文物目录。要建立文物资源数据更新与动态监测机制，强化文物资源管理，纳入国土空间规划“一张图”，提升保护能力，深化研究阐释，巩固合作机制，推动文化遗产系统性保护。",
-        "pubDate": "2026-09-30T22:42:02+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "胖东来将实行每天7小时工作制",
-        "link": "https://www.jiemian.com/article/15157599.html",
-        "summary": "",
-        "pubDate": "2026-09-30T22:41:19+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "昆明铁路区间行车秩序逐步恢复",
-        "link": "https://www.jiemian.com/article/15157598.html",
-        "summary": "9月30日20时，经铁路有关部门组织检修人员到铁路线上进行全面安全排查，受地震影响的列车运行秩序已逐步恢复。铁路部门提醒旅客朋友及时关注列车时刻变化，出行前留意12306短信通知和车站公告，合理安排行程。因列车晚点、停运办理退票的，均不收取退票费，旅客可通过铁路12306手机客户端线上办理。",
-        "pubDate": "2026-09-30T22:37:36+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美国30年期国债收益率升至5.62%",
-        "link": "https://www.jiemian.com/article/15157594.html",
-        "summary": "",
-        "pubDate": "2026-09-30T22:31:09+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "国际机票预订量大涨",
-        "link": "https://www.jiemian.com/article/15157592.html",
-        "summary": "",
-        "pubDate": "2026-09-30T22:26:36+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "2026国庆档新片票房破6000万",
-        "link": "https://www.jiemian.com/article/15157569.html",
-        "summary": "",
-        "pubDate": "2026-09-30T22:17:32+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
