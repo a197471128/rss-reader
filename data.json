@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-03T19:05:55.504812+00:00",
+  "updated": "2026-10-03T22:45:20.675137+00:00",
   "summary": {
     "total": 78,
     "success": 33,
     "fail": 45,
-    "total_articles": 365
+    "total_articles": 360
   },
   "articles": {
     "hot": [
@@ -1611,6 +1611,26 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "（爱知·名古屋亚运会）洪可新女子摔跤57公斤级夺冠 中国代表团169金收官创纪录",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
+        "summary": "\n　　中新社日本名古屋10月4日电 (记者 国璇)当地时间10月3日晚进行的爱知·名古屋亚运会女子摔跤57公斤级决赛中，中国选手洪可新夺得冠军，这是中国摔跤队本届赛事的首枚金牌，也是本届亚运会中国代表团收获的第169金。",
+        "pubDate": "2026-10-04T06:36:43+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中网综合：莱巴金娜首战爆冷出局 郑钦文、孙心然晋级女单32强",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
+        "summary": "\n　　中新社北京10月3日电 (刘梦青)2026中国网球公开赛3日在国家网球中心继续进行。女单赛场爆出大冷门，头号种子、新科世界第一莱巴金娜遭世界排名第118位的查拉耶娃逆转淘汰。中国选手郑钦文、孙心然携手晋级32强。男单赛场，商竣程不敌头号种子兹维列夫，无缘八强。",
+        "pubDate": "2026-10-04T06:36:37+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "WTT中国大满贯赛：国乒七名选手获得正赛席位",
         "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
         "summary": "\n　　中新社北京10月3日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛3日在北京石景山首钢园区迎来资格赛最后一轮的较量。中国乒乓球队共有七名资格赛选手获得正赛席位，男单占据两席，女单占据五席。",
@@ -1785,26 +1805,6 @@
         "link": "https://www.chinanews.com.cn/edu/2026/10-03/10707652.shtml",
         "summary": "\n　　巍巍学府，弦歌不辍。《校馆弦歌·此间读中国》系列，今天走进西南交通大学图书馆。一册册穿越战火的馆藏，记录着一所工科院校与国家民族同呼吸共命运的峥嵘岁月。",
         "pubDate": "2026-10-03T21:56:44+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（爱知·名古屋亚运会）专访中国香港代表团团长：香港和内地运动员赛场内外情谊深厚",
-        "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707651.shtml",
-        "summary": "\n　　中新网日本名古屋10月3日电 题：专访中国香港代表团团长：香港和内地运动员赛场内外情谊深厚",
-        "pubDate": "2026-10-03T21:55:32+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "晶采观察丨从“看景”到“入景” 解锁国庆文旅消费新趋势",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707650.shtml",
-        "summary": "\n　　国庆假期正在火热进行中，如果用一个词来概括今年国庆文旅市场，我认为是“融合”。文化、旅游、商业、科技正在打破边界，不断催生新的消费场景。",
-        "pubDate": "2026-10-03T21:54:06+08:00",
         "author": "",
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
@@ -2414,6 +2414,16 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+        "link": "https://www.ithome.com/1/009/581.htm",
+        "summary": "IT之家 10 月 4 日消息，据路透社报道，一名近期辞职的前 OpenAI 安全部门员工批评了该公司对待人工智能安全的做法，他认为一味追求快速开发的高压企业文化会提高系统发生故障的风险。IT之家注意到，戴维 · 鲁宾森（David Robinson）于当地时间周六在《大西洋》杂志发表题为《我辞去 OpenAI 的工作，只因这家公司的文化已经崩坏》的文章中表示，包括 OpenAI 在内的各家人工智能企业做得“远远不够谨慎”，在研发能力更强的系统之前，应当更加重视安全方面的专业人才与相关研究。“试错的时代已经结束了。”鲁宾森（David Robinson）写道。他提出，先进人工智能系统所需要的防",
+        "pubDate": "2026-10-03T22:43:56+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
         "link": "https://www.ithome.com/1/009/580.htm",
         "summary": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 Mate 90 系列手机正式发布。其中，Mate 90 Pro Max / RS 非凡大师搭载的是首款逻辑折叠 τ 芯片 —— 麒麟 9050 Pro。根据华为官方介绍，麒麟 9050 Pro 是麒麟性能新巅峰，通过软硬芯云垂直整合，整机性能提升 31%。这枚芯片 CPU 还支持 9 核 16 线程超线程技术，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告，讲解了麒麟 905",
@@ -2604,14 +2614,154 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "华为 Mate 90 Pro Max 旗舰机首个版本更新内容曝光，实装四卡三待、3D 动态照片等功能",
-        "link": "https://www.ithome.com/1/009/539.htm",
-        "summary": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。▲ IT之家实拍：华为 Mate 90 RS 非凡大师演示样机IT之家注意到，华为 Mate 90 Pro Max 旗舰机的首个版本更新内容已曝光，包体大小约 745.01 MB，实装了四卡三待、3D 动态照片等功能。亮点推荐新增四卡三待功能：可支持 4 个号码（2 个 SIM 卡号码和 2 个 eSIM 号码），可启用其中 3 个号码同时待机，进行通话、短信、上网等功能。沉浸光感均衡档新增粒子动效：如在通知中心移除通知",
-        "pubDate": "2026-10-03T13:08:18+00:00",
+        "title": "AI正在造AI",
+        "link": "https://www.tmtpost.com/8158706.html",
+        "summary": "我们其实已经身处一个AI创造AI的闭环之中。",
+        "pubDate": "2026-10-03T17:33:39+08:00",
         "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼",
+        "link": "https://www.tmtpost.com/8158693.html",
+        "summary": "低调的赚钱机器，正在抢占香港。",
+        "pubDate": "2026-10-03T17:33:32+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "国庆出游用AI，第一批人已经被坑惨了",
+        "link": "https://www.tmtpost.com/8158647.html",
+        "summary": "基础信息出错少，真实情况全靠“猜”。",
+        "pubDate": "2026-10-03T15:19:24+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "国庆开电车，车主们集体兼职“调度员”",
+        "link": "https://www.tmtpost.com/8158629.html",
+        "summary": "新能源车主慢慢学会了一套类似库存管理的思维。",
+        "pubDate": "2026-10-03T13:47:25+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "苏姿丰抬头，李飞飞低头",
+        "link": "https://www.tmtpost.com/8158564.html",
+        "summary": "AMD 买下的，是一个没被定义的市场。",
+        "pubDate": "2026-10-03T09:42:32+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "大模型一体机，开始缩水了",
+        "link": "https://www.tmtpost.com/8158443.html",
+        "summary": "大模型一体机市场，劈成了两半。",
+        "pubDate": "2026-10-03T09:38:50+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？",
+        "link": "https://www.tmtpost.com/8148614.html",
+        "summary": "他们不制定价格，但价格的形成，绕不开他们的资源、物流与交易。",
+        "pubDate": "2026-10-02T17:38:25+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+        "link": "https://www.tmtpost.com/8158341.html",
+        "summary": "新车越上越多，销量没有普涨。",
+        "pubDate": "2026-10-02T17:38:22+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
+        "link": "https://www.tmtpost.com/8155421.html",
+        "summary": "国庆档影片背后，资本暗流涌动。",
+        "pubDate": "2026-10-02T17:38:19+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "Muse狂飙，龙虾退潮",
+        "link": "https://www.tmtpost.com/8158280.html",
+        "summary": "别找了，没有中国版Muse",
+        "pubDate": "2026-10-02T17:10:20+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "万万没想到！中国科幻，122岁啦",
+        "link": "https://www.tmtpost.com/8158310.html",
+        "summary": "未来的人们或可将其称之为：中国科幻流浪计划。",
+        "pubDate": "2026-10-02T17:10:18+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "AI杀不死咨询公司",
+        "link": "https://www.tmtpost.com/8158278.html",
+        "summary": "下一代咨询公司真正值钱的能力是什么？",
+        "pubDate": "2026-10-02T16:50:15+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "9月车市冷热分化：大盘承压，头部车企继续走强",
+        "link": "https://www.tmtpost.com/8158147.html",
+        "summary": "9月车市未现全面回暖，头部车企却继续增长，市场竞争正加速从增量争夺转向存量重分配。",
+        "pubDate": "2026-10-02T13:16:33+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+        "link": "https://www.tmtpost.com/8158249.html",
+        "summary": "机器智能最大的用武之地，可能是那些枯燥、庞大、重复的执行工作。",
+        "pubDate": "2026-10-02T10:32:28+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "曾获5亿美元估值！芳拓生物再闯港股，能否承受“基因治疗之重”？",
+        "link": "https://www.tmtpost.com/8158178.html",
+        "summary": "由美元基金孵化的芳拓生物，究竟被谁控制？",
+        "pubDate": "2026-10-02T10:17:35+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
       },
       {
         "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
@@ -2712,206 +2862,6 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
-      },
-      {
-        "title": "Windows 11 26H2 最新官方正式版 ISO 镜像下载 (微软 MSDN 原版系统 / 网盘 BT 地址)",
-        "link": "https://www.iplaysoft.com/windows11.html",
-        "summary": "最近苹果发布了新版 macOS 系统之后，微软终于也更新了其最新一代的操作系统——Windows 11 2026 正式版 了！并且微软还很厚道地宣布「Win11 可从 Win7/8/10 完全免费升级」。\n新版的 Windows 11 系统相比 Win10 带来很多显著的变化，比如全新设计的现代化界面、集成 Copilot AI 助手 、窗口布局管理、Linux 子系统 / Android 子系统、Widgets 小工具、新的应用商店、支持 XBox Game Pass 订阅、支持云游戏、DirectX 12、AutoHDR 等更强大的游戏体验……\n「 前往查看原文.... 」异次元还有这些值",
-        "pubDate": "2026-10-01T18:20:31+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
-        "link": "https://www.iplaysoft.com/p/win11-26h2-features",
-        "summary": "最近微软正式向全球用户推送 Windows 11 26H2 正式版！大家可以下载升级了。说实话，这几年 Windows 的更新都是不痛不痒，但这次 26H2 终于将“隐藏的新功能”一次性点亮了。\n\n下载最新 Win11 原版安装镜像\n立即获取 Windows 11 激活码\n如果你一直在用 Windows 11 24H2 或 25H2，这次升级只需要下载一个几百 KB 的启…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nb",
-        "pubDate": "2026-10-01T18:20:26+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "最新 Windows 11 ARM 系统原版 ISO 镜像下载 - 支持苹果 M 芯片 Mac 安装 (PD 虚拟机)",
-        "link": "https://www.iplaysoft.com/windows11-arm.html",
-        "summary": "苹果在新款的 Mac 电脑上推出了 Apple M 系列自研芯片处理器，出色的性能和功耗使其大获成功！然而苹果芯片采用的 ARM 架构与以往常用的 X86 / X64 架构软件并不兼容。\n想要在苹果芯片的 Mac 上安装 Windows，除了需要最新版的 Parallels Desktop 虚拟机外，还必须下载 Windows ARM 架构版本镜像！目前微软已发布 Windows 11 ARM 正式版的 ISO 镜像了。我们终于能在一些 ARM 设备 / 服务器 / 手机和新 Mac 上安装流畅运行 Win11 了……\n「 前往查看原文.... 」异次元还有这些值得一看：VirtualBox ",
-        "pubDate": "2026-09-29T07:29:52+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "PopDrop 一键弹出“文件面板”！快捷常用文件/目录/文本随用随到…",
-        "link": "https://www.iplaysoft.com/popdrop.html",
-        "summary": "需要给同事发送刚下载的文件，听起来似乎是 10 秒的事，做起来却往往花上 1 分钟：切换窗口、找到下载目录、一层层点进去找，在大量文件和之间辨认半天。每天如此，烦是真的烦。\nPopDrop 就是来把这连串操作给“砍短”！你只需按下 F2，立马呼出一块置顶面板盖在当前窗口上，你常用的目录全摊开，最新文件排在最前面，找到后直接拖进聊天框，松手就搞定！面板会自己隐藏。全程不用离开当前窗口，无需额外打开资源管理器找半天，效率直接拉满……\n「 前往查看原文.... 」异次元还有这些值得一看：Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)比 Mac 访达强太多",
-        "pubDate": "2026-09-28T17:17:50+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "手慢无！DMIT 高端 CN2 GIA 三网优化线路 VPS 服务器 (国内快又稳！比瓦工更好)",
-        "link": "https://www.iplaysoft.com/p/dmit",
-        "summary": "每次谈起海外的 VPS 服务器，除了高性价比的 RackNerd、VirMach，常送代金券的 Vultr，还有知名品牌“般佤工”，但其实，与其齐名甚至更高端的 VPS 品牌——「DMIT」！人称“大妈”。它几乎就是高端优质 CN2 GIA 线路的科代表之一，用过的人几乎都称赞它的稳定性及其线路质量，基本上除了贵就没有什么毛…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件",
-        "pubDate": "2026-09-24T20:25:23+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Skills Manager - 好用开源 AI 技能管理器 (多 Agent 共用 / 分类 / 跨电脑同步)",
-        "link": "https://www.iplaysoft.com/p/skills-manager",
-        "summary": "如果你同时在用 Codex、Claude Code、WorkBuddy、Trae、OpenClaw、Hermes 等多款 AI Agent / 编程工具，大概率遇到：给某个工具精心调好了一套 Skills，换到另一个工具或另一台电脑上想用，结果发现又得重复去手动复制文件+改配置，一套流程下来烦得要死。\n\n这不是个别现象，而是现在 AI 编程圈子里一个挺普遍的…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbs",
-        "pubDate": "2026-09-24T17:18:48+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)",
-        "link": "https://www.iplaysoft.com/path-finder.html",
-        "summary": "Mac 电脑上的访达 (Finder) 即 macOS 系统自带的文件管理器，应付日常使用没问题，但一碰到跨目录操作、批量处理或敏感文件清理、或想要更高效率地整理文件，就有点不够用了。\n如果你也觉得“访达”不够好用、不够强大，那不妨试试看增强版的——Path Finder。一款类似 QSpace 的多栏文件管理工具。它在 Mac 文件管理这块已经做了二十多年，是海量用户拿来替代 Mac 访达的成熟方案，相当于给 macOS 系统提供一个相当好功能升级……\n「 前往查看原文.... 」异次元还有这些值得一看：比 Mac 访达强太多了！QSpace - 多窗格/多分栏的增强文件管理器 (支持连接服",
-        "pubDate": "2026-09-23T18:13:42+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
-        "link": "https://www.iplaysoft.com/vmware-workstation.html",
-        "summary": "虚拟机软件可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7，用户可用于各种开发、测试或运行不同平台的软件。\nVMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11，支持 USB 3.1、TPM 2.0、蓝牙、4K，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏性能大幅提高！另还可共享或远程控制虚拟机等……\n「 前往查看原文.... 」异次元还有这些值得一看：V",
-        "pubDate": "2026-09-22T02:40:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Debian 13.7 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统",
-        "link": "https://www.iplaysoft.com/debian.html",
-        "summary": "说到 Linux 操作系统，很多人都听过 Ubuntu、CentOS、Fedora、RedHat，国产的优麒麟和 Deepin 深度等系统。除了这些，还有一个极具代表性的操作系统，它就是 Debian！\nDebian (英语发音：ˈdɛbiən) 作为最老牌的 Linux 发行版之一，它在创建之初便紧密遵循 GNU 规范并坚守 Unix 和开源自由软件精神。最大优点是极其稳定快速，同时拥有强大的 APT 包管理机制和丰富的软件源，可方便安装和平滑升级软件和系统，省去很多编译安装的麻烦……\n「 前往查看原文.... 」异次元还有这些值得一看：彻底告别 CentOS！Rocky Linux 9.4",
-        "pubDate": "2026-09-22T00:05:10+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMWare Fusion Pro 26H1u1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
-        "link": "https://www.iplaysoft.com/vmware-fusion.html",
-        "summary": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的硬件等)，因此在 Mac 上安装 Win 是很有必要的。\n曾经我们可用 BootCamp 安装双系统，但如今只能使用虚拟机安装。VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop)，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11、Linux 等多款系统……\n「 前往查看原文.... 」异次元还有这些值得一看：最",
-        "pubDate": "2026-09-18T20:00:13+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
-        "link": "https://www.iplaysoft.com/bageshuo.html",
-        "summary": "过去的输入法比拼词库、皮肤、打字联想，现在字节、腾讯、讯飞、网易等大厂，集体把目光投向了 AI 语音输入这条赛道，比如最近火的豆包输入法、微信输入法、Typeless 等。\n传统语音输入只是充当“声音转文字”听写转录工具，而新一代 AI 原生语音工具已更进一步，追求听懂你的想法，直接输出想法里的话。继有道翻译、爆米花和 UU 远程的好口碑后，网易又推出 AI 语音 Agent「网易叭哥说」，号称“输入效率达键盘 5 倍 + 终身免费”，实测确实厉害……\n「 前往查看原文.... 」异次元还有这些值得一看：豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔",
-        "pubDate": "2026-09-18T17:44:59+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软 Win11 Zenith 官方精简版系统 - 专为 AI 用户和开发者优化特别版 (开源安装脚本)",
-        "link": "https://www.iplaysoft.com/win11-zenith.html",
-        "summary": "最近微软发布了一个专为开发者打造的官方精简版 Windows 11，叫 Project Zenith (巅峰计划)。简单说，这就是一个“开机就能写代码”及专用来跑 AI 大模型的 Windows 特别版。\n微软这个“Zenith 精简系统”将那些与 AI、开发无关的应用和服务基本全砍掉！取而代之是专为 AI 用户 / 开发者打造的一套预装工具链，还按程序员习惯调好各种系统配置参数，并减少通知打扰。你再也不需重复去装环境、改配置，安装后直接打开 VS Code 就能调试代码、跑 AI 了……\n「 前往查看原文.... 」异次元还有这些值得一看：微软官方 Ubuntu for Win10 版免费 ",
-        "pubDate": "2026-09-17T18:00:26+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "腾讯云轻量服务器放大招：老用户 1 折续费 + 免费升配置 + 送时长…",
-        "link": "https://www.iplaysoft.com/news/6604",
-        "summary": "腾讯云轻量应用服务器 Lighthouse 上线「六周年庆」打折活动开启！一直持续到 2026 年 10 月 12 日。这次优惠跟以往“只宠新用户”的路子不太一样，对老用户相当友好：VPS 续费按持有年份打折，最高直接 1 折；同价续费和 2 核 4G 免费升配两大福利也回归了；新购 Agent 专区 4 核 4G 年付才 109 元起。简单…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp",
-        "pubDate": "2026-09-17T16:54:15+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果 macOS Golden Gate 27 正式版镜像 DMG 下载 - Mac 官方系统完整安装包 (网盘地址)",
-        "link": "https://www.iplaysoft.com/macos-golden-gate.html",
-        "summary": "苹果发布了最新 iOS 27、iPadOS 固件。作为「Windows 11」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 AI 到系统去。\n最新的 macOS Golden Gate 27 操作系统 在继承了 Tahoe、Sequoia 特性同时，也给 Mac 从底层带来很更显著的性能优化、稳定性增强，正式全面整合苹果智能 Apple Intelligence，全新的 Siri，视觉交互设计升级等，让 Mac 变得更高效、更聪明好用……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 macOS Tahoe",
-        "pubDate": "2026-09-15T19:44:45+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iOS 27 正式版新功能汇总视频：流畅度暴涨，老机型狂喜！国行 AI 难崩…",
-        "link": "https://www.iplaysoft.com/p/ios27-features",
-        "summary": "经过漫长等待，苹果终于把 iOS 27 正式版、macOS 27 推给所有用户了。从 6 月首个测试版到后面的 8 轮测试加 1 个 RC 版，折腾了三个多月，正式版总算落地。这次版本号为 iOS 27.0，内部版本号 24A437，所有用户都能直接升到正式版。\n\n入手 iPhone 优惠\n下载 iOS 27 / iPadOS 正式固件\n而且这次不是 iPhone 单打独斗…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&n",
-        "pubDate": "2026-09-15T12:00:20+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果最新 iOS 27 正式版 / iPadOS 固件 IPSW 全套官方下载地址 (升级 iPhone iPad 系统)",
-        "link": "https://www.iplaysoft.com/ios.html",
-        "summary": "苹果已经推出了最新的 macOS Golden Gate 系统以及 iOS 27 和 iPadOS 正式版固件了！iOS / iPadOS 可以说是目前世界上先进的手机/平板操作系统，新版增加了相当吸引人的新功能。\niPhone 和 iPad 可以准备升级刷机了！iOS 27、iPadOS 27 正式版带来不少新功能，更强的性能表现、更流畅的动画、打磨过的液态玻璃视觉设计、新引入的  Siri AI、Apple Intelligence 智能、中国节假日适配、更好用的快捷指令、小工具、大量细节改进等等……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 iOS 27 / iPadOS",
-        "pubDate": "2026-09-14T18:03:38+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "正版应用 9 月打折：MarginNote 4、CareUEyes、Zipic、XYPlorer 等…",
-        "link": "https://www.iplaysoft.com/news/6609",
-        "summary": "九月开学季，也是学习、办公装备集中焕新的时候。除了电脑硬件，一套趁手的软件，同样能让接下来的学习和工作事半功倍。\n\n前往 9 月优惠会场\n即日起至 9 月 22 日，这些软件开启「九月焕新季」激活码促销活动。本次活动以办公效率、学习辅助、系统优化等实用工具为主，精选软件低至 6 折。\n特…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-09-13T13:08:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iPhone Duo 折叠屏手机官方自带壁纸下载 / iPhone 18 + iOS27 全套新壁纸",
-        "link": "https://www.iplaysoft.com/iphone-duo-wallpapers.html",
-        "summary": "2026 年 9 月 9 日苹果在发布会上正式推出旗下首款折叠屏手机 iPhone Duo 和 iPhone 18 Pro Max 系列。和往年一样，除了手机本身，还有 iOS27 的新增壁纸以及 iPhone Duo 新机随机附带的官方壁纸都是能让人心动的。\n这次 iPhone Duo 配套的沙丘 + 山峰壁纸，还是相当优雅、干净、商务、简洁的。无论你打不打算买这机子，咱们都可以提前先下载这套壁纸来感受一下气氛……\n「 前往查看原文.... 」异次元还有这些值得一看：全套苹果 iOS 15 内置壁纸 / macOS Monterey 超高清 6K 默认桌面壁纸打包下载苹果 iOS 14.2 ",
-        "pubDate": "2026-09-10T21:27:05+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔)",
-        "link": "https://www.iplaysoft.com/doubao-shurufa.html",
-        "summary": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
-        "pubDate": "2026-09-09T12:38:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
-        "link": "https://www.iplaysoft.com/opencut.html",
-        "summary": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
-        "pubDate": "2026-09-07T11:06:27+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
       }
     ],
     "edu": [],
