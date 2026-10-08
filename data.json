@@ -1,13 +1,73 @@
 {
-  "updated": "2026-10-08T17:16:56.099451+00:00",
+  "updated": "2026-10-08T23:07:45.359023+00:00",
   "summary": {
     "total": 78,
-    "success": 32,
-    "fail": 46,
-    "total_articles": 387
+    "success": 31,
+    "fail": 47,
+    "total_articles": 367
   },
   "articles": {
     "hot": [
+      {
+        "title": "何卓佳不敌张本美和遗憾无缘女单八强 热度：3215988",
+        "link": "https://www.baidu.com/s?wd=%E4%BD%95%E5%8D%93%E4%BD%B3%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E9%81%97%E6%86%BE%E6%97%A0%E7%BC%98%E5%A5%B3%E5%8D%95%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-10-09T05:02:02+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中方提名宋莉博士竞选世卫组织总干事 热度：3601650",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%8F%90%E5%90%8D%E5%AE%8B%E8%8E%89%E5%8D%9A%E5%A3%AB%E7%AB%9E%E9%80%89%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E6%80%BB%E5%B9%B2%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "10月8日，外交部发言人毛宁在例行记者会上表示，中方提名宋莉博士参与竞选世卫组织总干事，体现了中方同各方携手努力、共同推动构建人类卫生健康共同体的积...",
+        "pubDate": "2026-10-09T05:02:02+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "央行阐明人民币汇率政策立场 热度：3897570",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E9%98%90%E6%98%8E%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E6%94%BF%E7%AD%96%E7%AB%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "10月8日，中国人民银行阐明人民币汇率政策立场。此前，人民币汇率近期讨论有所增多。央行明确中国无意通过汇率贬值获取贸易竞争优势，从不搞竞争性货币贬值...",
+        "pubDate": "2026-10-09T05:02:01+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "贵州从江出现云海叠加鱼鳞云壮美景观 热度：4572620",
+        "link": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%BB%8E%E6%B1%9F%E5%87%BA%E7%8E%B0%E4%BA%91%E6%B5%B7%E5%8F%A0%E5%8A%A0%E9%B1%BC%E9%B3%9E%E4%BA%91%E5%A3%AE%E7%BE%8E%E6%99%AF%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-10-09T05:02:00+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "王曼昱3比2战胜石洵瑶晋级8强 热度：5432193",
+        "link": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E6%88%98%E8%83%9C%E7%9F%B3%E6%B4%B5%E7%91%B6%E6%99%8B%E7%BA%A78%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "10月8日，在WTT中国大满贯赛事中，王曼昱3-2战胜石洵瑶，成功晋级女单8强，双方攻防对决眼花缭乱。",
+        "pubDate": "2026-10-09T05:02:00+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "周启豪零封张本智和晋级8强 热度：6467058",
+        "link": "https://www.baidu.com/s?wd=%E5%91%A8%E5%90%AF%E8%B1%AA%E9%9B%B6%E5%B0%81%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%99%8B%E7%BA%A78%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "10月8日，WTT中国大满贯男单比赛中，周启豪以总比分3比0零封张本智和。凭借此胜，周启豪成功锁定男单八强席位，张本智和遗憾出局。",
+        "pubDate": "2026-10-09T05:01:59+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "男子自驾失联408天家属悬赏50万 热度：3102742",
         "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E9%A9%BE%E5%A4%B1%E8%81%94408%E5%A4%A9+%E5%AE%B6%E5%B1%9E%E6%82%AC%E8%B5%8F50%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
@@ -143,66 +203,6 @@
         "link": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%B9%A4%E5%B2%97%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%E9%93%B6%E8%A3%85%E7%B4%A0%E8%A3%B9&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "黑龙江十月初下雪啦！近日，鹤岗一秒入冬、银装素裹，尽显北国风情。网友感慨：南方的小伙伴还在穿短袖呢。",
         "pubDate": "2026-10-09T00:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "“拌川”爆火会是下一个兰州拉面吗 热度：4647504",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8B%8C%E5%B7%9D%E2%80%9D%E7%88%86%E7%81%AB+%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "最近半年，杭帮面馆“忽如一夜春风来”，吹向了全国一类商圈。据悉，拌川是杭州的特色干拌面，这几年，伴随着“现炒浇头”的崛起，作为杭帮面里现炒属性最强的...",
-        "pubDate": "2026-10-09T00:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "的哥3天3次上门：还钱、送手机、退谢礼 热度：4756821",
-        "link": "https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A53%E5%A4%A93%E6%AC%A1%E4%B8%8A%E9%97%A8%EF%BC%9A%E8%BF%98%E9%92%B1%E3%80%81%E9%80%81%E6%89%8B%E6%9C%BA%E3%80%81%E9%80%80%E8%B0%A2%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "10月4日，郑州市民尚先生乘坐出租车时，不慎将装有10万元现金的包裹遗落在车内。出租车司机祁建甫发现巨款后，当即暂停营运妥善保管，寻找失主。在归还时...",
-        "pubDate": "2026-10-09T00:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "安踏豪掷113亿元收购彪马 热度：4840093",
-        "link": "https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E8%B1%AA%E6%8E%B7113%E4%BA%BF%E5%85%83%E6%94%B6%E8%B4%AD%E5%BD%AA%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "10月8日，安踏宣布以15.055亿欧元现金（约合人民币113亿元）完成对彪马29.06%的股权交易，正式成为彪马的第一大股东。此前，安踏于今年1月...",
-        "pubDate": "2026-10-09T00:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "鼠疫到底是什么 热度：4955169",
-        "link": "https://www.baidu.com/s?wd=%E9%BC%A0%E7%96%AB%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间10月7日，世卫组织称无法对俄防鼠疫所员工死亡事件进行全面风险评估。此前10月6日，俄通报伊尔库茨克州防鼠疫所一员工死于不明原因肺炎。目前确...",
-        "pubDate": "2026-10-09T00:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "病房现大面积霉菌医院称不影响健康 热度：5029253",
-        "link": "https://www.baidu.com/s?wd=%E7%97%85%E6%88%BF%E7%8E%B0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%9C%89%E8%8F%8C+%E5%8C%BB%E9%99%A2%E7%A7%B0%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "10月8日，广东湛江有患者发视频表示，广东医科大学附属医院病房内，墙体存在一块大面积霉斑，天花板上遍布霉斑。针对此事，工作人员表示，的确有个别房间存...",
-        "pubDate": "2026-10-09T00:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "周星驰1港元卖掉影院业务 热度：5221583",
-        "link": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B01%E6%B8%AF%E5%85%83%E5%8D%96%E6%8E%89%E5%BD%B1%E9%99%A2%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，周星驰家族控制的比高集团公告，以1港元出售旗下负责内地影院业务子公司全部股权，剥离约860万港元净负债，交易后彻底退出内地影院市场。集团业务重...",
-        "pubDate": "2026-10-09T00:01:59+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
@@ -1621,6 +1621,96 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "特朗普称不会在11月美国中期选举前攻击伊朗",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709429.shtml",
+        "summary": "\n　　中新网10月9日电 据英国《卫报》报道，美国总统特朗普当地时间8日在社交媒体上发帖称，华盛顿正在“与伊朗伊斯兰共和国进行富有成效的讨论”，美国不会在11月国会中期选举前对伊朗发动攻击。",
+        "pubDate": "2026-10-09T06:48:13+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "俄官方宣布伊尔库茨克市正解除防疫措施",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709428.shtml",
+        "summary": "\n　　俄罗斯联邦消费者权益保护和公益监督局7日发布通告说，日前报告一例“不明原因肺炎”的伊尔库茨克州当前防疫形势平稳，不存在健康风险，该州首府伊尔库茨克市正解除相关预防性措施。",
+        "pubDate": "2026-10-09T06:47:41+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国30年期贷款利率升至7.4% 创近3年来最高值",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709426.shtml",
+        "summary": "\n　　中新社华盛顿10月8日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间8日公布数据显示，美国30年期固定抵押贷款平均利率升至7.4%，是自2023年11月16日以来的最高值。",
+        "pubDate": "2026-10-09T06:46:51+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国检方对马杜罗夫妇提出新指控 指其涉嫌实施酷刑",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709425.shtml",
+        "summary": "\n　　中新社纽约10月8日电 (记者 王帆)美国检方公布的法庭文件显示，纽约曼哈顿联邦检察官办公室8日对遭拘押的委内瑞拉总统马杜罗及其夫人弗洛雷斯提出新指控，指其涉嫌实施酷刑。",
+        "pubDate": "2026-10-09T06:46:25+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "国际游客锐减 柬埔寨旅游业路在何方？",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709424.shtml",
+        "summary": "\n　　中新社金边10月8日电 (杨强 张堰林)柬埔寨旅游部当地时间8日宣布将选派一名官员赴该国驻华使馆担任旅游专员，任期为2027年1月1日至2029年12月31日。官方发布的公告称，此次选派旨在加强柬中两国之间的旅游合作，加大推广力度，并吸引更多中国游客赴柬旅游。",
+        "pubDate": "2026-10-09T06:46:01+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中网综合：巴尔通科娃、安德烈耶娃晋级女单四强",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709423.shtml",
+        "summary": "\n　　中新社北京10月8日电 (记者 国璇)8日在北京进行的2026中国网球公开赛女子单打四分之一决赛中，赛会26号种子巴尔通科娃力克捷克同胞、7号种子穆霍娃，闯入职业生涯首个女子网球选手协会(WTA)1000赛单打四强。赛会4号种子安德烈耶娃淘汰19号种子亚历山德罗娃，首次晋级中网女单半决赛。",
+        "pubDate": "2026-10-09T06:45:29+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "WTT中国大满贯赛：王曼昱女单险胜 周启豪力压张本智和晋级",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709422.shtml",
+        "summary": "\n　　中新社北京10月8日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛8日在北京继续进行。单打1/8决赛中，中国女单名将王曼昱以3:2险胜队友石洵瑶晋级；中国男单选手周启豪以3:0横扫日本名将张本智和，挺进八强。",
+        "pubDate": "2026-10-09T06:44:37+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "“奔县游”成旅游消费新热点",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709427.shtml",
+        "summary": "\n　　从看风景到品文化，从短暂停留到深度体验",
+        "pubDate": "2026-10-09T06:43:21+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "特朗普称中期选举前不会攻击伊朗 美伊战事重启风险犹存",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709421.shtml",
+        "summary": "\n　　当地时间10月8日，美国总统特朗普表示，美伊正在进行富有成效的磋商，美方不会在11月3日中期选举前攻击伊朗。但就在此前一天，多名美国官员表示，五角大楼已指示美军中央司令部完成相关准备，以应对可能恢复对伊朗的大规模军事行动。",
+        "pubDate": "2026-10-09T06:38:53+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "泰国9月消费者信心下降 为4个月来首次下降",
         "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709420.shtml",
         "summary": "\n　　中新社曼谷10月8日电 (王茜 李映民)泰国商会大学8日公布的调查显示，泰国9月消费者信心指数从8月的53.2降至52.1，为连续4个月上升后首次下降。",
@@ -1729,100 +1819,30 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "广西北部湾港刷新单航次滚装汽车出口纪录 成出口中东新通道",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709405.shtml",
-        "summary": "\n　　中新社广西钦州10月8日电 (记者 杨陈)满载2727台中国汽车的“常荣口”轮10月8日从广西北部湾港钦州港区启航，驶向阿曼杜库姆港，刷新了北部湾港单航次滚装汽车出口的历史纪录。",
-        "pubDate": "2026-10-08T22:50:46+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "台湾9月对大陆进出口同比双增",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709404.shtml",
-        "summary": "\n　　中新社台北10月8日电 台当局财政事务主管部门8日发布的海关进出口贸易初步统计显示，9月台湾对大陆(含香港)出口206.2亿美元，同比增长30.2%；自大陆(含香港)进口135亿美元，同比增长59.1%。",
-        "pubDate": "2026-10-08T22:49:56+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "药没换、饭没改 血压却“莫名”升高了？科学控压这样做",
-        "link": "https://www.chinanews.com.cn/jk/2026/10-08/10709409.shtml",
-        "summary": "\n　　10月8日是全国高血压日，也正值寒露节气，北方多地一夜入秋。每年到这个时节，医院高血压门诊都会迎来高血压患者就诊高峰，几乎所有患者都有同样的困惑，药没换、饭没改、情绪也平稳，血压却“莫名”升高了。专家解释，这不是药失效了，而是你的血压感知到了季节的变化。",
-        "pubDate": "2026-10-08T22:49:14+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026济南林丹杯吸引1000余名选手参赛",
-        "link": "https://www.chinanews.com.cn/ty/2026/10-08/10709403.shtml",
-        "summary": "\n　　中新网10月8日电 国庆假期，2026济南林丹杯羽毛球公开赛收官。前国羽名将林丹现身现场，为获奖选手颁奖。",
-        "pubDate": "2026-10-08T22:45:28+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "荷兰已有10人因感染西尼罗病毒死亡",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709408.shtml",
-        "summary": "\n　　当地时间10月8日，荷兰国家公共卫生与环境研究所报告显示，上周荷兰全国新增1例西尼罗病毒感染死亡病例和3例确诊病例。今年以来，荷兰共报告59例西尼罗病毒感染病例，其中10人死亡。",
-        "pubDate": "2026-10-08T22:45:02+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中新网评：选手和教练不该成流量生意“素材”",
-        "link": "https://www.chinanews.com.cn/ty/2026/10-08/10709402.shtml",
-        "summary": "\n　　中新网北京10月8日电(钟兴真)中国乒乓球协会7日发布关于抵制极端球迷越界行为的声明，表示坚决维护教练员、运动员合法权益，将推动建立赛场禁入名单制度，加强现场秩序维护。",
-        "pubDate": "2026-10-08T22:44:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "美籍工程师后裔甘肃兰州重温跨国建桥往事",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709398.shtml",
-        "summary": "\n　　中新社兰州10月8日电 (闫姣 田鹏鹤)“天下黄河第一桥”中山桥美籍驻地工程师满宝本的侄孙查尔斯·考特曼一行8日到访甘肃兰州，循着先辈足迹重温跨国建桥往事，接续家族与中国绵延数代的深厚情谊。",
-        "pubDate": "2026-10-08T22:42:20+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "西九文化管理局与港芭达成合作 推动香港表演艺术国际化",
-        "link": "https://www.chinanews.com.cn/dwq/2026/10-08/10709394.shtml",
-        "summary": "\n　　中新网香港10月8日电 (记者 张语洽)西九文化区管理局(简称“管理局”)与香港芭蕾舞团(简称“港芭”)8日在香港签署合作备忘录。港芭将于2027年4月正式进驻西九演艺中心，成为香港首个以驻团形式进驻表演艺术场地的舞蹈艺团。双方将围绕艺术创作、人才培育、观众拓展及国际交流等领域开展长期合作，合力推动香港表演艺术走向国际。",
-        "pubDate": "2026-10-08T22:40:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "世贸组织上调2026年全球货物贸易增长预期",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709407.shtml",
-        "summary": "\n　　当地时间10月8日，世界贸易组织发布最新《全球贸易展望与统计》报告，将2026年全球货物贸易增长预期从今年3月预测的1.9%上调至3.9%，预计2027年增长4.1%。报告显示，2026年上半年，尽管受到中东冲突的影响，全球货物贸易仍增长3.5%，超出预期，反映出供应链有能力应对中东战事对能源、化肥和运输市场造成的冲击。",
-        "pubDate": "2026-10-08T22:38:58+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "link": "https://openai.com/index/oracle",
+        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "pubDate": "2026-10-08T16:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "link": "https://openai.com/index/pollo-ai",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "Disrupting AI-enabled “false front” operations",
         "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -1994,30 +2014,10 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Introducing GPT-6.1 Sol",
-        "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-        "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-        "pubDate": "2026-09-29T10:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
         "title": "DevDay 2026 Recap",
         "link": "https://openai.com/index/devday-2026-recap",
         "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
         "pubDate": "2026-09-29T10:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Introducing dots",
-        "link": "https://openai.com/index/introducing-dots",
-        "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-        "pubDate": "2026-09-29T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2434,6 +2434,56 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+        "link": "https://www.ithome.com/1/010/751.htm",
+        "summary": "IT之家 10 月 9 日消息，据金融时报报道，一份向 OpenAI 投资者披露的最新财务文件显示，其实际年化营收相较于公司此前释放的预期缺口达约 200 亿美元（IT之家注：现汇率约合 1,342.49 亿元人民币）。OpenAI 向投资者最新披露，截至 9 月底，其年化营收正逼近 500 亿美元（现汇率约合 3,356.23 亿元人民币）。这一数字大幅低于主流媒体上月的报道，彼时媒体根据此前向投资人提供的数据，估算其年化营收高达 700 亿美元（现汇率约合 4,698.72 亿元人民币）。知情人士透露，这一数据差异源于投资人试图将 OpenAI 的年化营收与其竞争对手 Anthropic ",
+        "pubDate": "2026-10-08T23:02:44+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "国庆假期超充加快落地，全国高速服务区新增大功率充电设施超 1.1 万个",
+        "link": "https://www.ithome.com/1/010/750.htm",
+        "summary": "IT之家 10 月 9 日消息，据央视新闻今天（9 日）早间报道，今年国庆假期，大功率超充设施加快落地，分钟级补能正在改变新能源汽车车主的出行体验。如今，全国高速服务区新增大功率充电设施超 1.1 万个，相当于此前累计数量的总和。报道提到，在刚通航的平陆运河，江侧“第一承运港”南宁港，新投运的超级充电站成为新能源汽车快速补能的重要站点。其中，南宁港六景作业区充电站有 10 台 360 千瓦超充桩，平陆运河沿线还有 3 个超充站点，可以保障新能源汽车出行顺畅。在国内最繁忙的高速公路服务区之一，无锡梅村服务区假期单日过境车辆超过 10 万辆次，为应对激增的充电需求，电力部门在往北京、上海方向配备大",
+        "pubDate": "2026-10-08T23:02:28+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "消息称苹果拟 10 月 27 日发布首款触控 OLED MacBook Pro 及新款 iPad mini",
+        "link": "https://www.ithome.com/1/010/749.htm",
+        "summary": "IT之家 10 月 9 日消息，彭博社昨日（10 月 8 日）发布博文，报道称苹果公司拟于 10 月 27 日前后发布首款触控 OLED MacBook，同时推出 OLED iPad mini、M6 14 英寸 MacBook Pro 与 M6 iMac。发布会形式方面，IT之家援引博文介绍，古尔曼表示和 10 月 13 日举办的智能家居发布会类似，将包括线上视频演示和面向媒体的线下环节。此次 Mac 和 iPad 的首发将面向从事视频制作、照片编辑和音乐制作等创意工作的专业人士。关于首款触控 OLED MacBook 的名称，此前消息称该产品上市后可能名为 MacBook Ultra，不过古",
+        "pubDate": "2026-10-08T22:53:35+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "7999 元起，小米 17 Ultra 手机全系涨价 1000 元",
+        "link": "https://www.ithome.com/1/010/748.htm",
+        "summary": "IT之家 10 月 9 日消息，据博主 @怕不是小小白 ，今日起小米 17 Ultra 手机全系涨价 1000 元。标准版：6999 元起 → 7999 元起12GB+512GB：6999 元 → 7999 元16GB+512GB：7499 元 → 8499 元16GB+1TB： 8499 元 → 9499 元徕卡版：7999 元起 → 8999 元起16GB+512GB：7999 元 → 8999 元16GB+1TB：8999 元 → 9999 元▲ 小米 17 Ultra 徕卡版、小米 17 Ultra据IT之家此前报道，小米 17 Ultra 手机于 2025 年 12 月 25 日正式",
+        "pubDate": "2026-10-08T22:48:31+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "马斯克 SpaceX 将收购全美低频段频谱牌照组合，美国三大电信股盘后跌超 5%",
+        "link": "https://www.ithome.com/1/010/747.htm",
+        "summary": "IT之家 10 月 9 日消息，路透社昨日（10 月 8 日）发布博文，报道称全球首富埃隆 · 马斯克（Elon Musk）旗下航天公司 SpaceX 已达成协议，收购覆盖全美用于移动通信的低频段频谱牌照组合，为其星链移动（Starlink Mobile）服务直接进入美国电信市场铺路。报道称 SpaceX 此次收购的是私募股权公司 Grain Management 所持有的全美 800 MHz 低频段频谱组合，交易仍需获得美国联邦通信委员会（FCC）批准。该频段最高包含 14 MHz 成对低频频谱，低频信号穿透力强，有助于改善室内、户外及传统蜂窝网络盲区的覆盖。SpaceX 表示，星链移动现有",
+        "pubDate": "2026-10-08T22:37:25+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "899 元起雷蛇巴塞利斯蛇 V4 专业版 / 极速版鼠标发布，还有第二代无线充电底座",
         "link": "https://www.ithome.com/1/010/745.htm",
         "summary": "IT之家 10 月 9 日消息，雷蛇 10 月 8 日晚正式发布了 Razer Basilisk V4 Pro 雷蛇巴塞利斯蛇 V4 专业版鼠标，售价 1399 元。该鼠标搭载第二代 Razer Hyperscroll 纵横滚轮，四种滚轮模式兼顾游戏操控与日常浏览；以及第三代 Razer Focus Pro 50K 光学传感器、第四代 Razer 光学鼠标微动，支持最高 50000 DPI。该鼠标配备第二代 Razer HyperSpeed 无线技术，原生 8KHz 轮询率，可同时连接 5 路设备。雷蛇巴塞利斯蛇 V4 专业版还有 7 区 Razer Chroma RGB 幻彩灯效、14 个可",
@@ -2578,56 +2628,6 @@
         "link": "https://www.ithome.com/1/010/726.htm",
         "summary": "IT之家 10 月 8 日消息，据诺贝尔奖官网消息，北京时间 10 月 9 日晚 19:00，2026 年诺贝尔文学奖揭晓，获奖者为：加拿大作家安妮 · 卡森。颁奖词提到：“因其大胆而富有创意的作品，在与古典传统的嬉戏对话中，为当代文学创造了新的形式”。诺贝尔奖官方称，安妮 · 卡森在整个职业生涯中，将诗歌创作与翻译工作相结合，并在多所大学任教。她几乎所有的文学创作都围绕着语言学家对文字的痴迷与诗人对新意义的渴望交织展开。她自己也将词源学作为所有工作的起点。IT之家查询获悉，安妮 · 卡森（Anne Carson，1950 年 6 月 21 日－），加拿大诗人、散文家、翻译家及古典学家，出生于",
         "pubDate": "2026-10-08T14:49:26+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "酷冷至尊 V8 ACE 3DHP 风冷新增银白款，价格维持 699 元",
-        "link": "https://www.ithome.com/1/010/722.htm",
-        "summary": "IT之家 10 月 8 日消息，Cooler Master（酷冷至尊）今日推出了 V8 ACE 3DHP 风冷散热器的银白色版本。其依旧提供 Intel 平台优化和 AMD 平台优化 2 种变体，价格维持在与原版相同的 699 元。V8 ACE 3DHP 整体呈现单塔双风扇结构，拥有 2 根三端 3DHP 热管和 4 根双端 SCCHP 热管，配备 2 颗 12030 外形规格的 LCP 扇叶环形动态轴承风扇。其三维 137×139×168 (mm)，内存模组限高 45mm，拥有 V 型引擎外罩，享受 6 年质保。京东酷冷至尊 V8 ACE 3DHP 银白色 Intel 优化 699 元直达链",
-        "pubDate": "2026-10-08T14:41:07+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况",
-        "link": "https://www.ithome.com/1/010/721.htm",
-        "summary": "IT之家 10 月 8 日消息，据界面新闻报道，10 月 8 日，懂车帝实测曝出尊界 V800 三次出现刹车踏板支架断裂，部分网友称节目内容系极端工况，驾驶员脚踩刹车踏板力度过大。懂车帝有关人员表示，百公里刹车实验并非极端工况，很多人在高速驾驶场景下都会遇到，是汽车实测最基本的科目之一。本次节目中出现的相关车型制动踏板支架断裂属首次出现，且连续三次实验在同一位置出现相似断裂现象，存在一定安全隐患。针对三辆测试车刹车踏板支架断裂时显示的踏板力，懂车帝方面表示，网传暴力测试并不存在，而是正常的刹车踏板大力制动。网友关注的“4589N”踏板力数值，实为高速摄像机拍摄实验画面时，因摄像机与检测设备的液",
-        "pubDate": "2026-10-08T14:39:24+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "澳大利亚政府“整活”，教群众怎么申请无薪假期首发玩上《GTA6》",
-        "link": "https://www.ithome.com/1/010/720.htm",
-        "summary": "IT之家 10 月 8 日消息，澳大利亚政府公平工作监察员办公室（FWO）昨天在 Instagram 平台发文，教导用完带薪假期的人如何请假玩上《GTA6》。IT之家了解到，这份略带“整活”的指南阐述了澳大利亚无薪休假法律运作方式，并说明员工何时能够依法享有无薪休假权利，以及雇主如何审批这些申请。“假设《侠盗猎车手 VI》明天就要发售，但你已经没有带薪休假可以首发当天玩上。那么，你可以申请无薪休假吗？”该指南写道。根据《国家就业标准》法律，澳大利亚民众确实享有无薪休假权利。考虑申请时，你需要扪心自问：“我为什么需要请假。”该文指出，如果员工已经用完带薪休假，又需要照顾生病或受伤的家庭成员时，可",
-        "pubDate": "2026-10-08T14:38:01+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "铠侠首款 EDSFF E1.L 外形规格固态硬盘 LD4 发布，采用 BiCS8 QLC 闪存",
-        "link": "https://www.ithome.com/1/010/719.htm",
-        "summary": "IT之家 10 月 8 日消息，KIOXIA（铠侠）当地时间今日发布了其首款采用 EDSFF E1.L“尺”外形规格的固态硬盘产品 —— LD4。该系列基于第八代 (218L) BiCS FLASH QLC NAND 闪存。KIOXIA LD4 系列专为高密度 1U 服务器和读取密集型存储应用而设计，目标用户为超大规模数据中心级工作负载和横向扩展 (scale-out) 环境。其采用 PCIe Gen5 ×4 接口，符合 NVMe 2.0e、OCP 数据中心 NVMe SSD 2.6 规范，当前提供 15.36TB 和 30.72TB 两种容量，未来可扩展至 122.88TB。铠侠现已向特定客",
-        "pubDate": "2026-10-08T14:27:12+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "华为乾崑 9 月安全出行报告发布，辅助驾驶月活用户占比达 94.6%",
-        "link": "https://www.ithome.com/1/010/718.htm",
-        "summary": "IT之家 10 月 8 日消息，华为乾崑智能汽车解决方案今日发布了 9 月安全出行报告。数据显示，华为乾崑累计辅助驾驶里程 157.85 亿公里、辅助驾驶月活用户占比 94.6%。另外，人驾状态下月度防御性驾驶触发次数 2.64 万次、便捷缴费使用次数 142.3 万次。IT之家查询华为乾崑官网获悉，乾崑智驾累计辅助驾驶里程截至目前已突破 164 亿公里，搭载乾崑智驾车辆累计行驶总里程也已突破 461 亿公里。",
-        "pubDate": "2026-10-08T14:16:56+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2932,206 +2932,6 @@
         "feedTitle": "少数派",
         "feedName": "少数派",
         "feedColor": "#7cffb0"
-      },
-      {
-        "title": "闲置电脑别吃灰！TinyPlay 秒变客厅电视盒子 (开源免费/投屏/手机当遥控器)",
-        "link": "https://www.iplaysoft.com/tinyplay.html",
-        "summary": "家里有台吃灰闲置的 Windows 笔记本、NUC、迷你主机或者 Mac mini 吗？放着也是浪费，不如通过 TinyPlay 让它们重新上岗，一秒变成一台客厅电视盒子用来看片或投屏吧。\n市面上大多数电视盒子都是安卓 Android 系统，省心是省心，但始终没有电脑端播放器那么强大，比如要连接家里的 NAS 播放 HDR / 杜比视界等高清原盘片源、或看自定义直播源的时候，各种限制就来了。用电脑接电视倒是自由，但痛点是在客厅用键盘鼠标，体验非常糟糕……\n「 前往查看原文.... 」异次元还有这些值得一看：VidHub 追剧看片利器！自动生成精美影视库 / 聚合播放网盘视频资源 (HDR 杜比",
-        "pubDate": "2026-10-06T17:32:31+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Windows 11 26H2 最新官方正式版 ISO 镜像下载 (微软 MSDN 原版系统 / 网盘 BT 地址)",
-        "link": "https://www.iplaysoft.com/windows11.html",
-        "summary": "最近苹果发布了新版 macOS 系统之后，微软终于也更新了其最新一代的操作系统——Windows 11 2026 正式版 了！并且微软还很厚道地宣布「Win11 可从 Win7/8/10 完全免费升级」。\n新版的 Windows 11 系统相比 Win10 带来很多显著的变化，比如全新设计的现代化界面、集成 Copilot AI 助手 、窗口布局管理、Linux 子系统 / Android 子系统、Widgets 小工具、新的应用商店、支持 XBox Game Pass 订阅、支持云游戏、DirectX 12、AutoHDR 等更强大的游戏体验……\n「 前往查看原文.... 」异次元还有这些值",
-        "pubDate": "2026-10-01T18:20:31+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
-        "link": "https://www.iplaysoft.com/p/win11-26h2-features",
-        "summary": "最近微软正式向全球用户推送 Windows 11 26H2 正式版！大家可以下载升级了。说实话，这几年 Windows 的更新都是不痛不痒，但这次 26H2 终于将“隐藏的新功能”一次性点亮了。\n\n下载最新 Win11 原版安装镜像\n立即获取 Windows 11 激活码\n如果你一直在用 Windows 11 24H2 或 25H2，这次升级只需要下载一个几百 KB 的启…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nb",
-        "pubDate": "2026-10-01T18:20:26+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "最新 Windows 11 ARM 系统原版 ISO 镜像下载 - 支持苹果 M 芯片 Mac 安装 (PD 虚拟机)",
-        "link": "https://www.iplaysoft.com/windows11-arm.html",
-        "summary": "苹果在新款的 Mac 电脑上推出了 Apple M 系列自研芯片处理器，出色的性能和功耗使其大获成功！然而苹果芯片采用的 ARM 架构与以往常用的 X86 / X64 架构软件并不兼容。\n想要在苹果芯片的 Mac 上安装 Windows，除了需要最新版的 Parallels Desktop 虚拟机外，还必须下载 Windows ARM 架构版本镜像！目前微软已发布 Windows 11 ARM 正式版的 ISO 镜像了。我们终于能在一些 ARM 设备 / 服务器 / 手机和新 Mac 上安装流畅运行 Win11 了……\n「 前往查看原文.... 」异次元还有这些值得一看：VirtualBox ",
-        "pubDate": "2026-09-29T07:29:52+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "PopDrop 一键弹出“文件面板”！快捷常用文件/目录/文本随用随到…",
-        "link": "https://www.iplaysoft.com/popdrop.html",
-        "summary": "需要给同事发送刚下载的文件，听起来似乎是 10 秒的事，做起来却往往花上 1 分钟：切换窗口、找到下载目录、一层层点进去找，在大量文件和之间辨认半天。每天如此，烦是真的烦。\nPopDrop 就是来把这连串操作给“砍短”！你只需按下 F2，立马呼出一块置顶面板盖在当前窗口上，你常用的目录全摊开，最新文件排在最前面，找到后直接拖进聊天框，松手就搞定！面板会自己隐藏。全程不用离开当前窗口，无需额外打开资源管理器找半天，效率直接拉满……\n「 前往查看原文.... 」异次元还有这些值得一看：Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)比 Mac 访达强太多",
-        "pubDate": "2026-09-28T17:17:50+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "手慢无！DMIT 高端 CN2 GIA 三网优化线路 VPS 服务器 (国内快又稳！比瓦工更好)",
-        "link": "https://www.iplaysoft.com/p/dmit",
-        "summary": "每次谈起海外的 VPS 服务器，除了高性价比的 RackNerd、VirMach，常送代金券的 Vultr，还有知名品牌“般佤工”，但其实，与其齐名甚至更高端的 VPS 品牌——「DMIT」！人称“大妈”。它几乎就是高端优质 CN2 GIA 线路的科代表之一，用过的人几乎都称赞它的稳定性及其线路质量，基本上除了贵就没有什么毛…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件",
-        "pubDate": "2026-09-24T20:25:23+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Skills Manager - 好用开源 AI 技能管理器 (多 Agent 共用 / 分类 / 跨电脑同步)",
-        "link": "https://www.iplaysoft.com/p/skills-manager",
-        "summary": "如果你同时在用 Codex、Claude Code、WorkBuddy、Trae、OpenClaw、Hermes 等多款 AI Agent / 编程工具，大概率遇到：给某个工具精心调好了一套 Skills，换到另一个工具或另一台电脑上想用，结果发现又得重复去手动复制文件+改配置，一套流程下来烦得要死。\n\n这不是个别现象，而是现在 AI 编程圈子里一个挺普遍的…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbs",
-        "pubDate": "2026-09-24T17:18:48+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Path Finder - 全方位加强版 Mac 访达文件管理器 (分栏/批量/对比/同步)",
-        "link": "https://www.iplaysoft.com/path-finder.html",
-        "summary": "Mac 电脑上的访达 (Finder) 即 macOS 系统自带的文件管理器，应付日常使用没问题，但一碰到跨目录操作、批量处理或敏感文件清理、或想要更高效率地整理文件，就有点不够用了。\n如果你也觉得“访达”不够好用、不够强大，那不妨试试看增强版的——Path Finder。一款类似 QSpace 的多栏文件管理工具。它在 Mac 文件管理这块已经做了二十多年，是海量用户拿来替代 Mac 访达的成熟方案，相当于给 macOS 系统提供一个相当好功能升级……\n「 前往查看原文.... 」异次元还有这些值得一看：比 Mac 访达强太多了！QSpace - 多窗格/多分栏的增强文件管理器 (支持连接服",
-        "pubDate": "2026-09-23T18:13:42+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
-        "link": "https://www.iplaysoft.com/vmware-workstation.html",
-        "summary": "虚拟机软件可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7，用户可用于各种开发、测试或运行不同平台的软件。\nVMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11，支持 USB 3.1、TPM 2.0、蓝牙、4K，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏性能大幅提高！另还可共享或远程控制虚拟机等……\n「 前往查看原文.... 」异次元还有这些值得一看：V",
-        "pubDate": "2026-09-22T02:40:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "Debian 13.7 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统",
-        "link": "https://www.iplaysoft.com/debian.html",
-        "summary": "说到 Linux 操作系统，很多人都听过 Ubuntu、CentOS、Fedora、RedHat，国产的优麒麟和 Deepin 深度等系统。除了这些，还有一个极具代表性的操作系统，它就是 Debian！\nDebian (英语发音：ˈdɛbiən) 作为最老牌的 Linux 发行版之一，它在创建之初便紧密遵循 GNU 规范并坚守 Unix 和开源自由软件精神。最大优点是极其稳定快速，同时拥有强大的 APT 包管理机制和丰富的软件源，可方便安装和平滑升级软件和系统，省去很多编译安装的麻烦……\n「 前往查看原文.... 」异次元还有这些值得一看：彻底告别 CentOS！Rocky Linux 9.4",
-        "pubDate": "2026-09-22T00:05:10+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "VMWare Fusion Pro 26H1u1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
-        "link": "https://www.iplaysoft.com/vmware-fusion.html",
-        "summary": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的硬件等)，因此在 Mac 上安装 Win 是很有必要的。\n曾经我们可用 BootCamp 安装双系统，但如今只能使用虚拟机安装。VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop)，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11、Linux 等多款系统……\n「 前往查看原文.... 」异次元还有这些值得一看：最",
-        "pubDate": "2026-09-18T20:00:13+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
-        "link": "https://www.iplaysoft.com/bageshuo.html",
-        "summary": "过去的输入法比拼词库、皮肤、打字联想，现在字节、腾讯、讯飞、网易等大厂，集体把目光投向了 AI 语音输入这条赛道，比如最近火的豆包输入法、微信输入法、Typeless 等。\n传统语音输入只是充当“声音转文字”听写转录工具，而新一代 AI 原生语音工具已更进一步，追求听懂你的想法，直接输出想法里的话。继有道翻译、爆米花和 UU 远程的好口碑后，网易又推出 AI 语音 Agent「网易叭哥说」，号称“输入效率达键盘 5 倍 + 终身免费”，实测确实厉害……\n「 前往查看原文.... 」异次元还有这些值得一看：豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔",
-        "pubDate": "2026-09-18T17:44:59+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "微软 Win11 Zenith 官方精简版系统 - 专为 AI 用户和开发者优化特别版 (开源安装脚本)",
-        "link": "https://www.iplaysoft.com/win11-zenith.html",
-        "summary": "最近微软发布了一个专为开发者打造的官方精简版 Windows 11，叫 Project Zenith (巅峰计划)。简单说，这就是一个“开机就能写代码”及专用来跑 AI 大模型的 Windows 特别版。\n微软这个“Zenith 精简系统”将那些与 AI、开发无关的应用和服务基本全砍掉！取而代之是专为 AI 用户 / 开发者打造的一套预装工具链，还按程序员习惯调好各种系统配置参数，并减少通知打扰。你再也不需重复去装环境、改配置，安装后直接打开 VS Code 就能调试代码、跑 AI 了……\n「 前往查看原文.... 」异次元还有这些值得一看：微软官方 Ubuntu for Win10 版免费 ",
-        "pubDate": "2026-09-17T18:00:26+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "腾讯云轻量服务器放大招：老用户 1 折续费 + 免费升配置 + 送时长…",
-        "link": "https://www.iplaysoft.com/news/6604",
-        "summary": "腾讯云轻量应用服务器 Lighthouse 上线「六周年庆」打折活动开启！一直持续到 2026 年 10 月 12 日。这次优惠跟以往“只宠新用户”的路子不太一样，对老用户相当友好：VPS 续费按持有年份打折，最高直接 1 折；同价续费和 2 核 4G 免费升配两大福利也回归了；新购 Agent 专区 4 核 4G 年付才 109 元起。简单…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp",
-        "pubDate": "2026-09-17T16:54:15+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果 macOS Golden Gate 27 正式版镜像 DMG 下载 - Mac 官方系统完整安装包 (网盘地址)",
-        "link": "https://www.iplaysoft.com/macos-golden-gate.html",
-        "summary": "苹果发布了最新 iOS 27、iPadOS 固件。作为「Windows 11」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 AI 到系统去。\n最新的 macOS Golden Gate 27 操作系统 在继承了 Tahoe、Sequoia 特性同时，也给 Mac 从底层带来很更显著的性能优化、稳定性增强，正式全面整合苹果智能 Apple Intelligence，全新的 Siri，视觉交互设计升级等，让 Mac 变得更高效、更聪明好用……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 macOS Tahoe",
-        "pubDate": "2026-09-15T19:44:45+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iOS 27 正式版新功能汇总视频：流畅度暴涨，老机型狂喜！国行 AI 难崩…",
-        "link": "https://www.iplaysoft.com/p/ios27-features",
-        "summary": "经过漫长等待，苹果终于把 iOS 27 正式版、macOS 27 推给所有用户了。从 6 月首个测试版到后面的 8 轮测试加 1 个 RC 版，折腾了三个多月，正式版总算落地。这次版本号为 iOS 27.0，内部版本号 24A437，所有用户都能直接升到正式版。\n\n入手 iPhone 优惠\n下载 iOS 27 / iPadOS 正式固件\n而且这次不是 iPhone 单打独斗…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&n",
-        "pubDate": "2026-09-15T12:00:20+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "苹果最新 iOS 27 正式版 / iPadOS 固件 IPSW 全套官方下载地址 (升级 iPhone iPad 系统)",
-        "link": "https://www.iplaysoft.com/ios.html",
-        "summary": "苹果已经推出了最新的 macOS Golden Gate 系统以及 iOS 27 和 iPadOS 正式版固件了！iOS / iPadOS 可以说是目前世界上先进的手机/平板操作系统，新版增加了相当吸引人的新功能。\niPhone 和 iPad 可以准备升级刷机了！iOS 27、iPadOS 27 正式版带来不少新功能，更强的性能表现、更流畅的动画、打磨过的液态玻璃视觉设计、新引入的  Siri AI、Apple Intelligence 智能、中国节假日适配、更好用的快捷指令、小工具、大量细节改进等等……\n「 前往查看原文.... 」异次元还有这些值得一看：苹果 iOS 27 / iPadOS",
-        "pubDate": "2026-09-14T18:03:38+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "正版应用 9 月打折：MarginNote 4、CareUEyes、Zipic、XYPlorer 等…",
-        "link": "https://www.iplaysoft.com/news/6609",
-        "summary": "九月开学季，也是学习、办公装备集中焕新的时候。除了电脑硬件，一套趁手的软件，同样能让接下来的学习和工作事半功倍。\n\n前往 9 月优惠会场\n即日起至 9 月 22 日，这些软件开启「九月焕新季」激活码促销活动。本次活动以办公效率、学习辅助、系统优化等实用工具为主，精选软件低至 6 折。\n特…… 「 前往查看原文.... 」异次元首页&nbsp;&nbsp;|&nbsp;&nbsp;微信公众号&nbsp;&nbsp;|&nbsp;&nbsp;关注微博&nbsp;&nbsp;|&nbsp;&nbsp;软件精选&nbsp;&nbsp;|&nbsp;&nbsp;软件激活码折扣",
-        "pubDate": "2026-09-13T13:08:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "iPhone Duo 折叠屏手机官方自带壁纸下载 / iPhone 18 + iOS27 全套新壁纸",
-        "link": "https://www.iplaysoft.com/iphone-duo-wallpapers.html",
-        "summary": "2026 年 9 月 9 日苹果在发布会上正式推出旗下首款折叠屏手机 iPhone Duo 和 iPhone 18 Pro Max 系列。和往年一样，除了手机本身，还有 iOS27 的新增壁纸以及 iPhone Duo 新机随机附带的官方壁纸都是能让人心动的。\n这次 iPhone Duo 配套的沙丘 + 山峰壁纸，还是相当优雅、干净、商务、简洁的。无论你打不打算买这机子，咱们都可以提前先下载这套壁纸来感受一下气氛……\n「 前往查看原文.... 」异次元还有这些值得一看：全套苹果 iOS 15 内置壁纸 / macOS Monterey 超高清 6K 默认桌面壁纸打包下载苹果 iOS 14.2 ",
-        "pubDate": "2026-09-10T21:27:05+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
-      },
-      {
-        "title": "豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔)",
-        "link": "https://www.iplaysoft.com/doubao-shurufa.html",
-        "summary": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
-        "pubDate": "2026-09-09T12:38:14+00:00",
-        "author": "",
-        "feedTitle": "异次元软件世界",
-        "feedName": "异次元软件",
-        "feedColor": "#ffb347"
       }
     ],
     "edu": [
