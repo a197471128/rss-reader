@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:26:32.283303+00:00",
+  "updated": "2026-10-16T22:40:22.834663+00:00",
   "summary": {
     "total": 78,
     "success": 33,
@@ -1611,6 +1611,26 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+        "summary": "　　新华社哈拉雷10月16日电(记者叶挺)卢萨卡消息：赞比亚政府16日在首都卢萨卡紧急启动口服霍乱疫苗接种工作，以应对近期该国多地暴发的霍乱疫情。据赞比亚卫生部最新通报，本轮疫情已造成25人死亡，确诊病例达966例。",
+        "pubDate": "2026-10-17T06:07:00+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+        "summary": "\n　　当地时间10月16日，苏丹快速支援部队发表声明称，苏丹西部南达尔富尔州首府尼亚拉市当天遭遇无人机袭击，造成至少30名平民死亡，另有数十人受伤。",
+        "pubDate": "2026-10-17T06:04:04+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "沙特主导联军称拦截3枚导弹和4架无人机",
         "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
         "summary": "　　沙特阿拉伯主导的多国联军发言人图尔基·马利基16日在社交媒体上说，联军当天已拦截并摧毁3枚导弹和4架无人机。",
@@ -1789,30 +1809,20 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "国际自行车联盟主席：将增加在华赛事数量，提升民众参与度",
-        "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716017.shtml",
-        "summary": "\n　　中新社上海10月16日电 (记者 缪璐)2026天梭国际自行车联盟(UCI)场地自行车世界锦标赛正在上海举行，国际自行车联盟主席大卫·拉帕蒂安(David Lappartient)16日受访时表示，UCI已将提升亚洲地区参与度作为全球战略重点，未来将进一步增加在华赛事数量，提升中国民众参与度。",
-        "pubDate": "2026-10-17T00:46:15+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "错估震级9.9级 日本气象厅两度召开记者会致歉",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716023.shtml",
-        "summary": "\n　　中新社东京10月16日电 (记者 朱晨曦)针对16日中午错误推测发生9.9级地震并发出相应警报一事，日本气象厅当日下午两度召开记者会致歉。日本气象厅表示，此次误发预警可能是震源位置推定错误所致。",
-        "pubDate": "2026-10-17T00:45:39+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "pubDate": "2026-10-16T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "Bringing GPT-Rosalind to academic research labs",
         "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -1904,9 +1914,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "link": "https://openai.com/index/asana-browser-agent",
-        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "link": "https://openai.com/index/sophos",
+        "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
         "pubDate": "2026-10-09T07:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1914,9 +1924,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "link": "https://openai.com/index/sophos",
-        "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "link": "https://openai.com/index/asana-browser-agent",
+        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
         "pubDate": "2026-10-09T07:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1997,16 +2007,6 @@
         "title": "How Jump Trading is scaling quant research with ChatGPT",
         "link": "https://openai.com/index/jump-trading",
         "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-        "pubDate": "2026-10-06T12:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "Sharing AI progress in mathematics",
-        "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
         "pubDate": "2026-10-06T12:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -2414,6 +2414,16 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度",
+        "link": "https://www.ithome.com/1/014/189.htm",
+        "summary": "IT之家 10 月 17 日消息，微软昨天（10 月 16 日）发布博文，邀请 Windows Insider 多个预览频道成员，测试适用于 Windows 11 的多版本预览更新，各频道版本如下：Beta 通道：Build 26220.9739（26H2）、Build 28020.3262（26H1）Experimental 通道：Build 26340.9750（26H2）、Build 28120.3272（26H1）Release Preview 通道：Build 26200.9807 / 26300.9807（25H2/26H2）、Build 28000.3351（26H1）本次更新同",
+        "pubDate": "2026-10-16T22:28:40+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
         "link": "https://www.ithome.com/1/014/188.htm",
         "summary": "IT之家 10 月 16 日消息，暴雪《暗黑破坏神》系列新作《暗黑破坏神 V》的过场动画拍摄工作已经启动。游戏系列电影导演尼尔 · 大卫 · 卡特（Neil David Carter）昨日在 X 上发布了一张摄影棚照片，并配文“First shoot #Diablo5”，透露该项目已开始进行首轮拍摄。此次拍摄进展指向游戏中的动画向内容的制作，并不代表游戏整体开发已经进入后期阶段。参考IT之家此前报道，暴雪已在 2026 年暴雪嘉年华（BlizzCon 2026）正式公布《暗黑破坏神 V》，并确认游戏正在开发中，计划于 2029 年春季推出。根据暴雪官方公告，新作将呈现一个已经沦陷的庇护之地：迪",
@@ -2604,40 +2614,10 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "泰坦军团 XDR 2000nits 显示器 P276MX ULTRA 发售：5K 双模 QD Mini LED，5555 元",
-        "link": "https://www.ithome.com/1/014/161.htm",
-        "summary": "IT之家 10 月 16 日消息，泰坦军团现已在京东上架“P276MX Ultra”27 英寸显示器，该机主打 5K 180Hz/2K 360Hz 双模，在 XDR 模式下亮度可达 2000nits，同时配备 AR 抗反射膜和 ATW 视角补偿膜，定价 5555 元。京东泰坦军团 P276MX Ultra 显示器 5555 元直达链接该机原生规格为 5120×2880 165Hz / 2560×1440 330Hz，在双模下分别超频至 180Hz 和 360Hz，灰阶 (GtG) 响应时间 1ms；拥有 2304 个背光分区，SDR 亮度 450nits、HDR 亮度 1400nits、XDR",
-        "pubDate": "2026-10-16T13:33:02+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
         "title": "兑现度的胜利，星尘智能再融10亿",
         "link": "https://www.tmtpost.com/8171189.html",
         "summary": "好消息是资本市场还在投，坏消息是，它越来越挑剔",
         "pubDate": "2026-10-16T22:24:09+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
-        "title": "BJ's Wholesale Club正按预期发展，这只股票还有更大上涨空间",
-        "link": "https://www.tmtpost.com/8171643.html",
-        "summary": "自从Barron's在1月将BJ’s选为推荐对象以来，BJ’s的表现一直优于竞争对手开市客（Costco）和沃尔玛（Walmart）。",
-        "pubDate": "2026-10-16T20:32:28+08:00",
-        "author": "",
-        "feedTitle": "钛媒体：引领未来商业与生活新知",
-        "feedName": "钛媒体",
-        "feedColor": "#ff7c7c"
-      },
-      {
-        "title": "KKR麦克维：企业正为\"万物安全\"加大投入，如何把握这波增长浪潮",
-        "link": "https://www.tmtpost.com/8171615.html",
-        "summary": "KKR全球宏观与资产配置主管亨利·麦克维表示，随着企业追求“万物安全”，印度、日本和波兰等市场都将从中受益。",
-        "pubDate": "2026-10-16T19:32:35+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
@@ -2778,6 +2758,26 @@
         "link": "https://www.tmtpost.com/8171199.html",
         "summary": "时隔近9年，特斯拉Roadster再次亮相，首次展示飞行能力，量产仍需等待。",
         "pubDate": "2026-10-16T15:46:49+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "Agent落地风电，将带来哪些改变？",
+        "link": "https://www.tmtpost.com/8171142.html",
+        "summary": "在新能源从补充能源变成主力能源的过程中，AI设备需要超越单点工具，突出系统协同价值。",
+        "pubDate": "2026-10-16T15:46:20+08:00",
+        "author": "",
+        "feedTitle": "钛媒体：引领未来商业与生活新知",
+        "feedName": "钛媒体",
+        "feedColor": "#ff7c7c"
+      },
+      {
+        "title": "日租金跌至几百元，人形机器人的“打工时代”来了",
+        "link": "https://www.tmtpost.com/8170280.html",
+        "summary": "实用经济的序幕正式拉开",
+        "pubDate": "2026-10-16T15:36:41+08:00",
         "author": "",
         "feedTitle": "钛媒体：引领未来商业与生活新知",
         "feedName": "钛媒体",
