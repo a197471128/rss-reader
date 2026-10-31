@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T16:59:32.197763+00:00",
+  "updated": "2026-10-31T21:10:55.527433+00:00",
   "summary": {
     "total": 78,
     "success": 32,
     "fail": 46,
-    "total_articles": 390
+    "total_articles": 394
   },
   "articles": {
     "hot": [
@@ -207,6 +207,26 @@
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 从选模型到派任务，我的多Agent 工作流走到哪一步 ",
+        "link": "https://www.huxiu.com/article/4902023.html?f=rss",
+        "summary": " 本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《从选模型到派任务，我的多 Agent 工作流走到哪一步》头条《当Agent能同时干活，谁来守住人的注意力》谈的是DeepSeek的Super-agent设计：任务多起来以后，系统需要接住分派与交接，把验收节点清楚地留给人。读到这里，我先想到自己每天在几个AI窗口之间来回切换的麻烦。一篇稿子要查资料、改文字、做图，可能由不同工具接力。换个窗口继续做，就要重新说一遍：哪份是当前稿，哪些判断查过来源，排完版能不能发。即使只用两款AI，这种交接也不会自动发生。写稿的一部分动作交给了工具，补背景、核对状态仍要人来做。我的",
+        "pubDate": "2026-11-01T03:20:31+08:00",
+        "author": " Dare to B2B ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 当Agent 能同时干活，谁来守住人的注意力 ",
+        "link": "https://www.huxiu.com/article/4902022.html?f=rss",
+        "summary": " 本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《当 Agent 能同时干活，谁来守住人的注意力》设想一个研发团队的工作日：群聊里有人报了问题，一条Pull Request收到评审意见，另有一项任务等着验收。每件事单独交给Agent，未必困难。难的是人要记住各自走到哪一步、哪条新消息属于哪项任务、什么时候需要自己出面。DeepSeek Harness团队在《Super-agent设计探索》和随文开源的研究原型中，直指问题卡点：单任务的上限更多取决于模型，多任务的上限会碰到人的注意力。他们尝试让系统接管任务分派、上下文衔接和异常恢复，使人不用一直守着多个对话窗口",
+        "pubDate": "2026-11-01T03:15:45+08:00",
+        "author": " Dare to B2B ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 红叶经济为什么这样红？：县域文旅的新逻辑 ",
@@ -2042,6 +2062,26 @@
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
         "feedColor": "#7cff7c"
+      },
+      {
+        "title": " 从选模型到派任务，我的多Agent 工作流走到哪一步 ",
+        "link": "https://www.huxiu.com/article/4902023.html?f=rss",
+        "summary": " 本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《从选模型到派任务，我的多 Agent 工作流走到哪一步》头条《当Agent能同时干活，谁来守住人的注意力》谈的是DeepSeek的Super-agent设计：任务多起来以后，系统需要接住分派与交接，把验收节点清楚地留给人。读到这里，我先想到自己每天在几个AI窗口之间来回切换的麻烦。一篇稿子要查资料、改文字、做图，可能由不同工具接力。换个窗口继续做，就要重新说一遍：哪份是当前稿，哪些判断查过来源，排完版能不能发。即使只用两款AI，这种交接也不会自动发生。写稿的一部分动作交给了工具，补背景、核对状态仍要人来做。我的",
+        "pubDate": "2026-11-01T03:20:31+08:00",
+        "author": " Dare to B2B ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 当Agent 能同时干活，谁来守住人的注意力 ",
+        "link": "https://www.huxiu.com/article/4902022.html?f=rss",
+        "summary": " 本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《当 Agent 能同时干活，谁来守住人的注意力》设想一个研发团队的工作日：群聊里有人报了问题，一条Pull Request收到评审意见，另有一项任务等着验收。每件事单独交给Agent，未必困难。难的是人要记住各自走到哪一步、哪条新消息属于哪项任务、什么时候需要自己出面。DeepSeek Harness团队在《Super-agent设计探索》和随文开源的研究原型中，直指问题卡点：单任务的上限更多取决于模型，多任务的上限会碰到人的注意力。他们尝试让系统接管任务分派、上下文衔接和异常恢复，使人不用一直守着多个对话窗口",
+        "pubDate": "2026-11-01T03:15:45+08:00",
+        "author": " Dare to B2B ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 红叶经济为什么这样红？：县域文旅的新逻辑 ",
