@@ -1,13 +1,103 @@
 {
-  "updated": "2026-11-06T19:02:42.191159+00:00",
+  "updated": "2026-11-07T00:00:22.350671+00:00",
   "summary": {
     "total": 78,
-    "success": 32,
-    "fail": 46,
-    "total_articles": 381
+    "success": 31,
+    "fail": 47,
+    "total_articles": 385
   },
   "articles": {
     "hot": [
+      {
+        "title": "公司的灯会让人变胖吗 热度：3415874",
+        "link": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%9A%84%E7%81%AF%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E8%83%96%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，“公司的灯会让人变胖”上热搜。此前，有网友发文称公司LED灯会抑制褪黑素和胰岛素分泌导致肥胖。医生表示，并非LED灯本身直接致胖，而是夜间长时...",
+        "pubDate": "2026-11-07T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "2030年前中国人要登月为何分两次 热度：3500069",
+        "link": "https://www.baidu.com/s?wd=2030%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A6%81%E7%99%BB%E6%9C%88+%E4%B8%BA%E4%BD%95%E5%88%86%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，中国载人航天工程副总设计师王翔在北京披露，2030年前中国将实施载人登月任务，方案采取分两次发射模式。解读指出，分两次发射并非因火箭推力不足，...",
+        "pubDate": "2026-11-07T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "郭碧婷呼吁妈咪包更名育儿包 热度：3595902",
+        "link": "https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%91%BC%E5%90%81%E5%A6%88%E5%92%AA%E5%8C%85%E6%9B%B4%E5%90%8D%E8%82%B2%E5%84%BF%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "演员郭碧婷呼吁将“妈咪包”更名为“育儿包”，认为育儿不应只由妈妈承担，需一家人共同分担。此举引发网友热议，部分网友支持称“育儿包”更中性，爸爸长辈背...",
+        "pubDate": "2026-11-07T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "小孩姐复原魔方快到看不清 热度：3776692",
+        "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%A7%90%E5%A4%8D%E5%8E%9F%E9%AD%94%E6%96%B9%E5%BF%AB%E5%88%B0%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-07T05:01:25+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "大爷每天看14小时短剧变“斗鸡眼” 热度：3904200",
+        "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E6%AF%8F%E5%A4%A9%E7%9C%8B14%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7%E5%8F%98%E2%80%9C%E6%96%97%E9%B8%A1%E7%9C%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，武汉65岁的黄大爷近两年日均观看14小时短剧，致使右眼明显向内偏斜变成“斗鸡眼”，确诊为急性共同性内斜视。医生提醒：沉迷短剧的中老年群体正成为...",
+        "pubDate": "2026-11-07T05:01:25+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "用智能设备测身体年龄靠谱吗 热度：4093006",
+        "link": "https://www.baidu.com/s?wd=%E7%94%A8%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87%E6%B5%8B%E8%BA%AB%E4%BD%93%E5%B9%B4%E9%BE%84%E9%9D%A0%E8%B0%B1%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近期，智能设备测“身体年龄”在社交平台引发讨论。专家解读称，目前没有公认的单一标准能完整代表衰老程度，各类设备因算法和指标不同导致测算结果有异。专家...",
+        "pubDate": "2026-11-07T05:01:24+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "老年人血压高了还能不能运动 热度：4162442",
+        "link": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%80%E5%8E%8B%E9%AB%98%E4%BA%86+%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E8%BF%90%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "老年高血压患者能运动，规律运动可使收缩压下降5～7毫米汞柱。但运动前需过血压、症状、用药“三关”。建议以有氧运动为主，遵循“STOP”原则，体动心静...",
+        "pubDate": "2026-11-07T05:01:24+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "S16淘汰赛：KC对决T1 热度：5988001",
+        "link": "https://www.baidu.com/s?wd=S16%E6%B7%98%E6%B1%B0%E8%B5%9B%EF%BC%9AKC%E5%AF%B9%E5%86%B3T1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-07T05:01:23+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "美媒曝韩女团NewJeans“卖身契” 热度：6191047",
+        "link": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E9%9F%A9%E5%A5%B3%E5%9B%A2NewJeans%E2%80%9C%E5%8D%96%E8%BA%AB%E5%A5%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间11月5日，美媒曝光NewJeans未成年时与HYBE及ADOR签的独家经纪合同，内含多项苛刻条款。媒体称这份合约堪比“卖身契”。此前New...",
+        "pubDate": "2026-11-07T05:01:23+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
       {
         "title": "攒了一抽屉外卖保温袋能不能用 热度：3107751",
         "link": "https://www.baidu.com/s?wd=%E6%94%92%E4%BA%86%E4%B8%80%E6%8A%BD%E5%B1%89%E5%A4%96%E5%8D%96%E4%BF%9D%E6%B8%A9%E8%A2%8B+%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news",
@@ -119,94 +209,24 @@
         "feedColor": "#7c9aff"
       },
       {
-        "title": "华尔街对冲基金扛不住了 热度：4943724",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%8E%E5%B0%94%E8%A1%97%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "AI热潮退潮，当地时间11月5日美股遭猛烈抛售，纳斯达克100指数暴跌6.4%创2020年3月来最大跌幅；多家华尔街对冲基金集体承压、巨额亏损，被迫...",
-        "pubDate": "2026-11-07T00:01:54+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 世界一下就切换到了禁止AI 的时间线 ",
+        "link": "https://www.huxiu.com/article/4903719.html?f=rss",
+        "summary": " 本文来自微信公众号： 橘AI ，作者：橘AI，原文标题：《世界一下就切换到了禁止 AI 的时间线》大家好，欢迎来到橘AI。今天我们来聊一聊，超级AI禁令和它背后的一些故事。昨天对世界来说是一个巨大的冲击，信息也比较混乱，或者说其实是有一点恐慌了。但这篇文章放出来的时候，世界应该已经从恐慌里慢慢恢复过来了，还是祈祷世界和平，平滑过渡。今天我来理性的讲讲到底发生了什么，以及背后的科技与人性冲突。导火索大家都在分析，市场到底发生了什么。11月4号，一位民主党的众议员在X上说了一句话。她说，民主党议程的第一天，最优先的事就是暂停人工智能研发，对这个失控的行业进行监督，以及禁止人工超级智能。这事本来没",
+        "pubDate": "2026-11-07T07:31:37+08:00",
+        "author": " 有机大橘子© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
-        "title": "金鸡奖开幕式女明星太会穿了 热度：5035811",
-        "link": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%B3%E6%98%8E%E6%98%9F%E5%A4%AA%E4%BC%9A%E7%A9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月6日，第39届金鸡奖开幕式举办，赵丽颖身穿阿玛尼抹胸高定亮片礼裙搭配丸子头，优雅大气；陈都灵以推介人身份穿挂脖白裙现身，自带清冷美；李思潼穿米...",
-        "pubDate": "2026-11-07T00:01:53+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "90后姑娘收集上万枚鸡蛋壳做白鹤裙 热度：5143522",
-        "link": "https://www.baidu.com/s?wd=90%E5%90%8E%E5%A7%91%E5%A8%98%E6%94%B6%E9%9B%86%E4%B8%8A%E4%B8%87%E6%9E%9A%E9%B8%A1%E8%9B%8B%E5%A3%B3%E5%81%9A%E7%99%BD%E9%B9%A4%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月5日，媒体报道上海90后姑娘花牧野用废料制作服装走红网络，网友惊叹“给巴黎世家投简历了吗”。其上万枚蛋壳拼凑的白鹤裙背后故事令人泪目：20多年...",
-        "pubDate": "2026-11-07T00:01:53+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "谷爱凌谈不要过度美化吃苦 热度：5237397",
-        "link": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%88%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%90%83%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "谷爱凌表示不要过度美化吃苦，吃苦本身不会带来奖赏。她质疑为受苦而受苦的效率，指出凌晨4点起床若导致睡眠不足未必高效。她强调如果一件事可以更轻松地做，...",
-        "pubDate": "2026-11-07T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "“易中天”同日大跌集体发声 热度：5335000",
-        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E6%98%93%E4%B8%AD%E5%A4%A9%E2%80%9D%E5%90%8C%E6%97%A5%E5%A4%A7%E8%B7%8C+%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月6日，新易盛、中际旭创、天孚通信三只股票大幅下跌，收盘跌幅分别为7.28%、9.19%和5.79%。当日，三家企业集体发布股份回购公告，均称生...",
-        "pubDate": "2026-11-07T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "酒店27层落地窗可外开且无护栏 热度：5504773",
-        "link": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%9727%E5%B1%82%E8%90%BD%E5%9C%B0%E7%AA%97%E5%8F%AF%E5%A4%96%E5%BC%80%E4%B8%94%E6%97%A0%E6%8A%A4%E6%A0%8F&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "1月6日南昌涉事酒店回应：网友反映半夜在27层光脚关外开窗时打滑险坠楼；酒店称房屋系开发商及房东装修、自身仅为承租人，已对20余个房型整改并固定外开...",
-        "pubDate": "2026-11-07T00:01:52+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "圆通总裁潘水苗心疼儿子Tim工作辛苦 热度：5713095",
-        "link": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim%E5%B7%A5%E4%BD%9C%E8%BE%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月6日，圆通速递总裁潘水苗接受采访称，其儿子潘天鸿（Tim）工作非常辛苦，一年要飞40万公里，日均飞一千多公里，远超常人想象。",
-        "pubDate": "2026-11-07T00:01:51+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "赵丽颖王仁君拥抱 热度：5810594",
-        "link": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月6日，第39届金鸡奖开幕式举办。赵丽颖以主评审身份亮相，入场时与王仁君相拥，随后挨坐热聊。此前两人曾饰演盛家兄妹明兰与长柏，此次同框被称“顶峰...",
-        "pubDate": "2026-11-07T00:01:51+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "国家卫健委党组：坚决拥护党中央决定 热度：5897370",
-        "link": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%85%9A%E7%BB%84%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月6日，国家卫生健康委党组召开会议，通报余艳红涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查有关情况。与会同志一致表示，坚决拥护党中央决...",
-        "pubDate": "2026-11-07T00:01:51+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
+        "title": " 谁在孵化约会软件上的优质男女？ ",
+        "link": "https://www.huxiu.com/article/4901769.html?f=rss",
+        "summary": " 出品 | 虎嗅青年文化组作者 | 阿珂可编辑 | 渣渣郡本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。2026，改造老剧《变形记》和《粉雄救兵》终于后继有人。只不过这次，改造对象不再是叛逆少年和时尚绝缘体，而是急着脱单的男男女女。中文互联网上，专供约会人士的优化服务正在全民普及。还不没搞懂爱情是啥的人，已经先开始卷约会简历了。在如今的年轻人眼里，约会可一点不风花雪月。它更像一套精密机器经过复杂运算后，吐出的绝对理性结果。这一点，在约会软件上体现得淋漓尽致。换句话说，年轻人的约会形式正无限趋近于大",
+        "pubDate": "2026-11-07T07:28:23+08:00",
+        "author": " 阿珂可 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 美国中期选举，暴露“共识赤字” ",
@@ -1621,6 +1641,136 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "美国10月非农就业新增16.5万 失业率4.1%",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
+        "summary": "\n　　中新社华盛顿11月6日电  美国劳工部6日发布数据显示，美国10月非农就业岗位增加16.5万个，失业率为4.1%。",
+        "pubDate": "2026-11-07T07:46:00+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
+        "summary": "\n　　记者昨天从中国证监会获悉，近日，中国证监会同意郑州商品交易所葵花籽油期货和期权注册。中国证监会将督促郑州商品交易所做好各项准备工作，确保葵花籽油期货和期权的平稳推出和稳健运行。",
+        "pubDate": "2026-11-07T07:44:20+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
+        "summary": "\n　　中新社布鲁塞尔11月6日电 (记者 德永健)欧盟6日宣布向缅甸和孟加拉国追加1600万欧元援助，应对缅甸国内和缅甸罗兴亚难民的人道主义需求。",
+        "pubDate": "2026-11-07T07:43:24+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "体检影像检查辐射会危害身体健康吗？这些误区要分清",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727740.shtml",
+        "summary": "\n　　真相来了丨体检影像检查辐射会危害身体健康吗？这些误区要分清",
+        "pubDate": "2026-11-07T07:42:46+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "网友自称“花260万元登顶珠峰”系谣言！",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
+        "summary": "\n　　真相来了丨网友自称“花260万元登顶珠峰”系谣言！",
+        "pubDate": "2026-11-07T07:09:30+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "11月7日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
+        "summary": "",
+        "pubDate": "2026-11-07T06:59:34+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+        "summary": "\n",
+        "pubDate": "2026-11-07T06:55:53+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "德国一小型飞机坠毁 机上2人遇难",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
+        "summary": "\n　　中新社柏林11月6日电 　德国萨克森-安哈尔特州马格德堡警方6日通报，一架小型飞机当天下午坠毁在该州境内的2号高速公路并起火，机上2人遇难。",
+        "pubDate": "2026-11-07T06:42:21+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
+        "summary": "\n　　中新社马尼拉11月7日电 (记者 周璟)来自菲律宾多个妇女组织的负责人、劳工权益倡导者和原住民代表6日在马尼拉举行发布会，反对美国扩大在菲军事存在及其主导的“硅和平”(Pax Silica)倡议，呼吁维护国家主权、保障劳动者权益。",
+        "pubDate": "2026-11-07T06:41:21+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
+        "summary": "\n　　中新社华盛顿11月6日电 美国总统特朗普6日宣布，斯蒂芬·米勒(Stephen Miller)将接替苏茜·怀尔斯出任白宫幕僚长。",
+        "pubDate": "2026-11-07T06:40:25+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
+        "link": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
+        "summary": "\n　　天气转凉，老年人就该“娇气”些",
+        "pubDate": "2026-11-07T06:35:56+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
+        "summary": "\n　　中央气象台11月7日06时发布暴雪黄色预警：",
+        "pubDate": "2026-11-07T06:24:02+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727729.shtml",
+        "summary": "\n　　近日，法国、保加利亚、捷克、奥地利、丹麦等国多架航班陆续收到炸弹威胁，相关机场相继启动排查。当地时间6日，爱尔兰、英国多家媒体机构也报告收到炸弹或安全威胁。此外，瑞士一处火车站当天因发现可疑行李被封锁。欧洲多地接连出现安全警报，相关部门正调查威胁来源，多起事件是否存在关联目前尚无定论。专家分析称，尽管多起威胁事件未造成实质性破坏，但其引发的地缘安全和政治影响远超事件本身。",
+        "pubDate": "2026-11-07T06:17:47+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
         "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
         "summary": "\n　　今天(6日)，全球首台4000米级浮空风力发电系统在湖南岳阳成功试飞。这是4000米级浮空风电系统首次在城市场景完成放飞试验。",
@@ -1689,136 +1839,6 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
-        "link": "https://www.chinanews.com.cn/cul/2026/11-06/10727710.shtml",
-        "summary": "\n　　中新网北京11月6日电 (记者 应妮)作为中国国家话剧院青年导演创作扶持计划第四季原创剧目，中国国家话剧院演员刘端端执导的话剧处女作《今宵酒·醒何处》5日在北京国话先锋智慧剧场首演。",
-        "pubDate": "2026-11-06T23:54:32+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
-        "summary": "\n　　中新网上海11月6日电 (记者 姜煜)跨国医药公司赛诺菲与上药控股有限公司6日在第九届进博会现场举行深化战略合作签约仪式，双方将在长期合作基础上，进一步发挥各自在全球创新与本土产业资源方面的优势，携手提升药品可及性，推动更多创新成果惠及中国患者。",
-        "pubDate": "2026-11-06T23:53:20+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "世界浙商杭州“开麦”：科创聚力向“新”而行",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727709.shtml",
-        "summary": "\n　　中新网杭州11月6日电(郭其钰)当AI浪潮重塑千行百业，浙商如何穿越周期、赢得主动？如何在高质量发展赛道上抢占先机、赢得未来？11月6日在浙江杭州开幕的第八届世界浙商大会，成为外界观察浙商识变求新、浙江厚植创新生态的窗口。",
-        "pubDate": "2026-11-06T23:53:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
-        "summary": "\n　　中新网无锡11月6日电 (孙权 唐娟)总投资8亿美元的联茂电子AI算力高端电子基板材料研发制造总部项目(简称“项目”)，6日在无锡锡山经济技术开发区开工。",
-        "pubDate": "2026-11-06T23:52:22+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "闽南师范大学举办第二季“美美与共”国际文化市集",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
-        "summary": "\n　　中新网漳州11月6日电 (胡娇阳)5日晚，第二季“美美与共”国际文化市集在位于福建省漳州市的闽南师范大学弦歌广场举办。来自越南、马来西亚、印度尼西亚、俄罗斯、老挝、菲律宾、喀麦隆、哈萨克斯坦等10余个国家的留学生，以及海峡两岸、港澳地区师生代表共500余人到场参加，共赴这场“美美与共·多彩互融”的中外文化交流盛宴。",
-        "pubDate": "2026-11-06T23:51:56+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "广西防城港医药出海成效凸显",
-        "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727706.shtml",
-        "summary": "\n　　中新网南宁11月6日电 (记者 冯抒敏)广西防城港市市长何翔6日在南宁表示，该市通过实施“人工智能+医疗卫生”举措，深化面向东盟、上海合作组织的开放合作，完善产业服务支撑体系，推动防城港国际医学开放试验区(以下简称“试验区”)从“物理集聚”向“化学融合”转变。",
-        "pubDate": "2026-11-06T23:50:30+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727716.shtml",
-        "summary": "\n　　十四届全国人大常委会第二十五次会议今天(6日)表决通过《中华人民共和国南极活动与环境保护法》，明年1月1日起施行。该法的通过，是我国严格遵守、切实履行国际南极治理的基石——《南极条约》的具体体现。它对外是一部履约法，对内则全面系统地将我国南极工作实践经验上升为法律，让各类南极活动有法可依。",
-        "pubDate": "2026-11-06T23:44:56+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727715.shtml",
-        "summary": "\n　　新华社北京11月6日电 11月6日，中共中央对外联络部部长刘海星在北京同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈。双方就共同落实好两党两国最高领导人重要共识，加强党际交往、推动中朝关系发展等交换意见。",
-        "pubDate": "2026-11-06T23:42:37+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "“中国南大门”广西凭祥：从边陲要塞变身热门跨境旅游打卡地",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727705.shtml",
-        "summary": "\n　　中新网广西凭祥11月6日电 题：“中国南大门”广西凭祥：从边陲要塞变身热门跨境旅游打卡地",
-        "pubDate": "2026-11-06T23:41:27+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "丝线与石刻间，国际摄影师看见广元苍溪的时间痕迹",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727704.shtml",
-        "summary": "\n　　中新网广元11月6日电 题：丝线与石刻间，国际摄影师看见广元苍溪的时间痕迹",
-        "pubDate": "2026-11-06T23:41:17+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "浙江开展长期照护师培训和技能竞赛 充实专业人才队伍",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727703.shtml",
-        "summary": "\n　　中新网湖州11月6日电(张煜欢)5日至6日，浙江省长期照护师政策业务系列培训班在浙江湖州举行，其间同步举办第二届长期护理保险职业技能竞赛，并开展管理服务体系建设培训。这是浙江首次将长期护理保险职业的师资培训、技能竞赛、管理服务体系建设培训合并举办，以赛促训、以训促建。",
-        "pubDate": "2026-11-06T23:40:33+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "AI评测技术赋能教育 助学生提升英语口语",
-        "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
-        "summary": "\n　　中新网广州11月6日电 (记者 王坚)2026移动网络大会正在广州举行。大会现场人山人海，教育展区内一台轻量学习终端吸引了不少观众驻足。它外形小巧，没有繁复的娱乐功能，核心能力只有一项：对着它读一句英语，系统能即时标注出发音偏差，并给出纠正建议。",
-        "pubDate": "2026-11-06T23:40:05+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "微改革微创新破局 广西防城港现代化临港产业提速突破",
-        "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727701.shtml",
-        "summary": "\n　　中新网南宁11月6日电 (记者 冯抒敏)广西防城港市通过打出机制赋能“闭环联动”攻坚拳、要素保障“靠前服务”突破拳两套改革“组合拳”，以“小而美”微改革微创新破除发展堵点，以重大项目建设扎实筑牢临港工业底盘。今年前三季度，全市规上工业增加值同比增长6.1%，外贸进出口同比增长20.7%。",
-        "pubDate": "2026-11-06T23:39:39+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
@@ -1828,6 +1848,16 @@
         "link": "https://openai.com/index/partnering-with-hacktron",
         "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
         "pubDate": "2026-11-06T08:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "pubDate": "2026-11-06T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2014,14 +2044,24 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Rewarding defenders with bigger bug bounties",
-        "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-        "pubDate": "2026-11-02T18:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 世界一下就切换到了禁止AI 的时间线 ",
+        "link": "https://www.huxiu.com/article/4903719.html?f=rss",
+        "summary": " 本文来自微信公众号： 橘AI ，作者：橘AI，原文标题：《世界一下就切换到了禁止 AI 的时间线》大家好，欢迎来到橘AI。今天我们来聊一聊，超级AI禁令和它背后的一些故事。昨天对世界来说是一个巨大的冲击，信息也比较混乱，或者说其实是有一点恐慌了。但这篇文章放出来的时候，世界应该已经从恐慌里慢慢恢复过来了，还是祈祷世界和平，平滑过渡。今天我来理性的讲讲到底发生了什么，以及背后的科技与人性冲突。导火索大家都在分析，市场到底发生了什么。11月4号，一位民主党的众议员在X上说了一句话。她说，民主党议程的第一天，最优先的事就是暂停人工智能研发，对这个失控的行业进行监督，以及禁止人工超级智能。这事本来没",
+        "pubDate": "2026-11-07T07:31:37+08:00",
+        "author": " 有机大橘子© ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 谁在孵化约会软件上的优质男女？ ",
+        "link": "https://www.huxiu.com/article/4901769.html?f=rss",
+        "summary": " 出品 | 虎嗅青年文化组作者 | 阿珂可编辑 | 渣渣郡本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。2026，改造老剧《变形记》和《粉雄救兵》终于后继有人。只不过这次，改造对象不再是叛逆少年和时尚绝缘体，而是急着脱单的男男女女。中文互联网上，专供约会人士的优化服务正在全民普及。还不没搞懂爱情是啥的人，已经先开始卷约会简历了。在如今的年轻人眼里，约会可一点不风花雪月。它更像一套精密机器经过复杂运算后，吐出的绝对理性结果。这一点，在约会软件上体现得淋漓尽致。换句话说，年轻人的约会形式正无限趋近于大",
+        "pubDate": "2026-11-07T07:28:23+08:00",
+        "author": " 阿珂可 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 美国中期选举，暴露“共识赤字” ",
@@ -2434,6 +2474,146 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "消息称台积电考虑进军先进内存芯片制造，有望为英伟达打造 3D DRAM",
+        "link": "https://www.ithome.com/1/023/619.htm",
+        "summary": "IT之家 11 月 7 日消息，科技媒体《The Information》昨日（11 月 6 日）援引两名知情人士报道，台积电正考虑扩大业务版图，进军先进内存芯片制造，以在快速扩张的 AI 硬件供应链中获取更大份额。报道称，台积电近期已应其最大客户英伟达的要求，开始规划生产一种名为“3D DRAM”的先进内存芯片。该架构通过垂直堆叠存储单元来提升容量，被视为应对 AI 算力对高带宽、高密度内存需求的关键方向之一。台积电目前尚未确定量产时间，也未最终决定产能来源。IT之家援引博文介绍，台积电正在评估两条路径：一是兴建专用新厂，二是收购现有晶圆厂并改造为内存生产设施。这一动向若落地，将意味着台积电",
+        "pubDate": "2026-11-06T23:59:05+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "理想 Mega 新版本 MPV 谍照疑曝光，车头缩短、前三角窗加大",
+        "link": "https://www.ithome.com/1/023/618.htm",
+        "summary": "IT之家 11 月 7 日消息，博主 @SugarDesign 昨日分享了一组新车谍照，猜测为理想 Mega 的新版本。从图上可以看到，该车车头变短，前三角窗更大。IT之家注意到，新一代理想 Mega Home 于 9 月 2 日发布，新车只提供一种配置，全国统一零售价 50.98 万元。作为参考，理想 Mega Home 可选灰 / 银 / 熊猫白 / 紫晶灰 / 新大象灰 5 种车色。该车新车前、后包围增加晶辉饰条装饰，新增智能三色星环灯提升精致感，车身长宽高分别为 5355*1965*1850mm，轴距 3300mm，提供 2.6m 长的 Sweet Home 超大迎宾光毯。内饰方面，新",
+        "pubDate": "2026-11-06T23:58:57+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌 YouTube 回应“半浅半深”界面：不是 Bug，测试“拼接”增强沉浸感",
+        "link": "https://www.ithome.com/1/023/617.htm",
+        "summary": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文，经官方确认部分用户遇到的“一半深色、一半浅色”YouTube 界面并非 Bug，是一项正在小范围开展的界面实验。IT之家附上相关截图如下：根据社区用户反馈，安卓和 iOS 版 YouTube 在观看页面出现“一半深色、一半浅色”的奇怪界面，一度被误认为是应用故障。而最新官方回应表示，新设计将视频播放器和评论区改为“环境模式”（Ambient mode）。在这种模式下，界面会随视频画面的主色调动态变化，让播放器与内容更融合，营造更强的沉浸感。用户向下滚动后，推荐视频区域则会按照其系统或",
+        "pubDate": "2026-11-06T23:51:37+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "苹果：超 10 万款应用已适配 iPhone Duo 折叠屏手机",
+        "link": "https://www.ithome.com/1/023/616.htm",
+        "summary": "IT之家 11 月 7 日消息，据 CNET 今日报道，随着苹果 iPhone Duo 折叠机型面向普通消费者发售，不少新机用户发现：部分常用 App 并未针对内屏做好适配。对于一款采用全新硬件设计的手机来说，这类情况十分常见，众多安卓折叠屏设备也经历过相同阶段，App 完成适配往往需要一定周期，苹果证实现状正在改善。苹果全球开发者关系副总裁苏珊・普雷斯科特向 CNET 表示：“如今 App Store 上已经上线超过 10 万款适配 iPhone Duo 的应用，并且每天都有成千上万款经过优化的新应用上架。”“仅过去一个月，全球 19 座城市就有数千名开发者参与我们的线下技术工坊，亲手体验 ",
+        "pubDate": "2026-11-06T23:48:34+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "三星电子 DX 部门员工抗议奖金分配不公，要求现金补偿及管理层道歉",
+        "link": "https://www.ithome.com/1/023/615.htm",
+        "summary": "IT之家 11 月 7 日消息，三星电子负责 Galaxy 手机、平板电脑、电视及家电业务的设备体验（DX）部门员工，因绩效奖金分配问题再次表达不满。据 Business Korea 当地时间 11 月 5 日报道，三星 DX 部门员工所属的“同行工会”（Donghaeng Union）近日在三星电子水原办公区外举行抗议活动，要求公司向 DX 部门员工提供现金补偿，并就此前的奖金分配争议作出道歉，同时要求建立面向 2027 年薪资谈判的联合协商机制。此次争议的核心在于，三星电子此前为负责半导体业务的设备解决方案（DS）部门员工设立了特别经营绩效奖金，而 DX 部门员工未能参与这项奖金计划。工会",
+        "pubDate": "2026-11-06T23:46:35+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+        "link": "https://www.ithome.com/1/023/614.htm",
+        "summary": "IT之家 11 月 7 日消息，美国卫星数据公司 Planet 于 11 月 5 日推出 Planet AI 应用，结合大语言模型与超过十年的全球卫星影像档案，让用户使用自然语言搜索、观察和分析地球表面的变化。IT之家附上演示视频如下：产品目前可通过 ai.planet.com 免费使用，用户登录 Planet Insights 账号后，未来可使用更多高级功能。Planet 强调，所有 AI 结论均以可查看的原始卫星影像为依据，以降低“AI 幻觉”带来的误判风险。用户只需用日常语言描述问题，即可在全球范围内搜索目标地点、追踪其时间变化，并生成对比图或延时影像。与需要专业 GIS 技能的传统遥感",
+        "pubDate": "2026-11-06T23:40:22+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+        "link": "https://www.ithome.com/1/023/613.htm",
+        "summary": "IT之家 11 月 7 日消息，Anthropic 昨日（11 月 6 日）发布研究文章《The components of agent memory》，系统拆解 Claude 智能体如何跨会话记忆、筛选、纠错和整理知识。该研究指出 AI 智能体可借鉴人脑“睡眠整理记忆”的机制，在空闲时间反思历史记录、纠错并构建知识结构，从而显著提升长周期任务表现。该研究将智能体记忆分为会话日志、记忆笔记、知识表征（如 Wiki）和注入上下文四层，并引入“做梦”（dreaming）机制，让模型在两次交互之间的空闲时间回顾日志、修正错误、提炼规则和更新知识库。研究团队认为，AI 可像人脑在睡眠中巩固记忆一样，将",
+        "pubDate": "2026-11-06T23:25:14+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+        "link": "https://www.ithome.com/1/023/612.htm",
+        "summary": "北京时间 11 月 7 日，据彭博社报道，知情人士称，OpenAI 新一轮融资已完成大约 110 亿美元的首期款项，对公司的估值为 1.25 万亿美元。据知情人士透露，截至周五，这笔资金已汇入 OpenAI 账户。其中一位知情人士称，本轮融资的剩余部分预计将在未来几周内完成，融资总额最高可能达到 200 亿美元。在推迟首次公开招股 (IPO) 计划后，OpenAI 已与投资者就大规模融资进行了一个多月的谈判。彭博社此前报道称，OpenAI 最初计划以 1.4 万亿美元的估值融资至少 300 亿美元。但随着 AI 股票在公开市场遭遇大幅抛售，该公司随后缩减了融资计划。知情人士表示，参与首期融资的",
+        "pubDate": "2026-11-06T23:24:12+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "文远知行创始人韩旭：希望四、五年内能坐上 Robotaxi 从广州直达香港",
+        "link": "https://www.ithome.com/1/023/611.htm",
+        "summary": "IT之家 11 月 7 日消息，据文远知行官方，公司创始人兼 CEO 韩旭于 11 月 2 日接受了 CNBC 专访，围绕 Robotaxi 规模化运营的机遇与挑战等行业话题进行了深入对话。他表示，文远知行已具备扩大 Robotaxi 车队规模的条件，希望四、五年内能坐上 Robotaxi 从广州直达香港。他提到：“中国正在推进粤港澳大湾区建设，包括广州、深圳和香港三个主要城市。我一直有一个梦想，希望有一天能坐上一辆自动驾驶出租车，在车上睡一觉，或者处理些工作。等我醒来，或是忙完手头的事，就已经到香港了。我相信五年内这一愿景有望实现。目前最关键的仍是监管问题，我们必须审慎处理。我们要让监管机构",
+        "pubDate": "2026-11-06T23:24:02+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
+        "link": "https://www.ithome.com/1/023/610.htm",
+        "summary": "IT之家 11 月 7 日消息，AI 编程工具 Cursor 昨日（11 月 6 日）宣布推出“与智能体实时语音聊天”（Voice Chat with Agents）功能。开发者现在可以通过语音与 Cursor 的编码智能体双向对话，例如口头描述代码修改需求、询问任务进展、查看差异和运行状态，同时让智能体继续在后台完成编码工作。该功能支持在 Cursor 的 Agents Window、IDE、网页端及 iOS 应用中使用。当智能体空闲且输入框为空时，用户可点击“Start voice chat”启动通话。在 iPhone 上，还可通过“Hey Siri, call Cursor”发起通话，并",
+        "pubDate": "2026-11-06T23:11:36+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "AI 编程工具 Amp 推出 Spaces：你的 AI 项目经理上线，自主编排 / 协调 Agent 干活",
+        "link": "https://www.ithome.com/1/023/609.htm",
+        "summary": "IT之家 11 月 7 日消息，AI 编程协作工具 Amp 昨日（11 月 6 日）宣布推出 Spaces，希望构建面向 AI 智能体（Agent）和团队协作的全新工作方式。对于用户而言，不再需要手动创建、命名和管理多个 Agent 线程，只需对话一个主 Agent，由它理解需求、拆解任务，并让其自动生成和协调其他 Agent 线程。IT之家附上相关截图如下：Amp 指出在传统多 Agent 工作流中，用户往往要自己决定拆分、分派以及追踪任务，Spaces 将这一层组织工作交给 Agent：每个 Space 是用户与单个 Agent 的对话，该 Agent 会为用户启动并协调多个并行线程。例如",
+        "pubDate": "2026-11-06T23:02:32+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+        "link": "https://www.ithome.com/1/023/607.htm",
+        "summary": "IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票，持仓市值约 5.48 亿美元（IT之家注：现汇率约合 36.62 亿元人民币），约占高通总股本 0.5%。根据美国证券监管文件披露，Alphabet 第三季度持仓总市值约为 883 亿美元（现汇率约合 5,900.67 亿元人民币），上一季度约为 991 亿美元（现汇率约合 6,622.38 亿元人民币），环比下降约 10.9%。当季新增 4 只股票持仓、增持 1 只股票、减持 3 只股票，并且清仓 3 只股票；前十大持仓合计占比达",
+        "pubDate": "2026-11-06T22:48:04+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+        "link": "https://www.ithome.com/1/023/606.htm",
+        "summary": "IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作。据介绍，微软此前已决定不再续签相关合同，然后近期开始关闭从甲骨文租用的部分计算资源。这也是微软重新评估数十亿美元云计算合作关系的一部分。知情人士透露，由于微软自身的技术规格不断变化，原先租用的计算资源逐渐无法满足其需求。甲骨文提供的服务器使用了较早一代的英伟达 GPU 芯片，因此对微软而言，这些算力的实用价值有所下降。甲骨文发言人表示，其 AI 基础设施需求依然强劲，其中也包括较早一代的 GPU。甲骨文此前在 9 月表示，部分使用约四年的 GPU 资源续约价格比最初合同价格高出 2",
+        "pubDate": "2026-11-06T22:44:15+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "微软发布 Win11 多预览版：改进 Windows Hello 登录体验",
+        "link": "https://www.ithome.com/1/023/605.htm",
+        "summary": "IT之家 11 月 7 日消息，微软当地时间 11 月 6 日发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。Beta 频道（26H2）：Build 26320.9876；Experimental 频道：Build 26340.9882；Beta 频道（26H1）：Build 28020.3445；Experimental 频道（26H1）：Build 28120.3454；Experimental（Future Platforms）频道：Build 29704.1000。IT之家附 Wi",
+        "pubDate": "2026-11-06T18:11:37+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "今日立冬：倏忽秋又尽，今朝恰立冬",
         "link": "https://www.ithome.com/1/023/601.htm",
         "summary": "IT之家 11 月 7 日消息，立冬是农历二十四节气之一，也是中国传统节日之一；时间点在公历每年 11 月 7-8 日之间。①今日立冬，冬天来了。水始冰，地渐冻，日照短，寒风劲；②我国民间习惯上把这一天当作冬季的开始；③“立冬补冬，补嘴空”，北方人吃饺子，南方人吃鸡鸭鱼肉；④起居应注意保暖，早睡晚起，勤晒太阳，并辅以运动和精神调养。《月令七十二候集解》是这样记载立冬的：“立冬，十月节。立，建始也，五行之气，往者过，来者续。冬，终也，万物收藏也。水始冰。水面初凝，未至于坚也。地始冻。土气凝寒，未至于拆。”立冬是农历二十四节气中的第十九个节气，时间点在每年 11 月 7 日或 8 日，这是一年中第",
@@ -2488,146 +2668,6 @@
         "link": "https://www.ithome.com/1/023/584.htm",
         "summary": "IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp，SK 集团会长崔泰源担任董事会主席。IT之家了解到，SK 海力士成立的这家子公司此前暂定名为 AI。该公司将加速全球市场 AI 发展，并寻找 AI 增长新引擎，计划向美国 AI 领域投资至多 100 亿美元（IT之家注：现汇率约合 668.25 亿元人民币）。此外，该子公司将通过重组 SK 海力士现有的美国业务部门 SK hynix NAND Product Solutions 组建。SK 海力士总裁宋贤钟（Song Hyun-jong）将出任 Hyaico CEO。",
         "pubDate": "2026-11-06T15:05:28+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "聚焦内容创作和传播推广两方面突出问题，广电总局开启新一轮微短剧专项治理",
-        "link": "https://www.ithome.com/1/023/579.htm",
-        "summary": "IT之家 11 月 6 日消息，据央视新闻今日报道，近日，国家广播电视总局在巩固前期微短剧低俗有害和侵权盗版专项治理成效的基础上，针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题：内容创作方面深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。传播推广方面治理片名、宣推素材、弹幕评论、引流片段中的低俗内容；治理同一剧集",
-        "pubDate": "2026-11-06T15:04:17+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%",
-        "link": "https://www.ithome.com/1/023/564.htm",
-        "summary": "IT之家 11 月 6 日消息，美国股市今日开盘后，AI 硬件产业链全线反弹，费城半导体指数最高涨 6.57%。个股方面，AMD 涨 13.2%，闪迪涨 11.75%，希捷科技涨 6.34%，美光科技涨 9.07%，迈威尔科技涨 9.46%，Lumentum 涨 9.58%；英伟达涨 6.44%，台积电涨 7.55%，博通涨 4.56%。IT之家注意到，美国股市 AI 概念相关股票当地时间周四迎来了暴跌，道琼斯工业平均指数收盘下跌超过 1,800 点，跌幅约 3.4%；标普 500 指数下跌 4.4%；纳斯达克综合指数暴跌 5.5%，创 2025 年 4 月以来最大单日跌幅，并跌入技术性回调区",
-        "pubDate": "2026-11-06T14:58:09+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《鸣潮》3.8 版本将为索尼 PS5 Pro 带来 PSSR，PC 端开放“资源分类下载”及“资源清理”功能",
-        "link": "https://www.ithome.com/1/023/563.htm",
-        "summary": "IT之家 11 月 6 日消息，库洛游戏今日发布《鸣潮》3.8 版本前瞻通讯，其中「旧梦凋零的百合」将于 11 月 12 日正式开启。IT之家了解到，《鸣潮》3.8 版本将为 PC 端带来移动端已支持的“资源分类下载”和“资源清理”功能（以限量测试形式陆续上线），支持在启动器选择下载全量资源或精简资源。同时，本次更新将为 PS5 Pro 和 Xbox Series X 带来性能优先 / 画质优先选项，玩家可根据需求选择。3.8 更新后 PS5 Pro 版本还将支持 PSSR（PlayStation 光谱超解析度）功能，启用后可通过超分技术，把画面分辨率提升至最高 4K。",
-        "pubDate": "2026-11-06T14:51:51+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "微信鸿蒙版 App 发布 8.0.23.35 邀测升级，灰度聊天消息长按问小微等功能",
-        "link": "https://www.ithome.com/1/023/562.htm",
-        "summary": "IT之家 11 月 6 日消息，据用户反馈，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.35 (8394531) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/6-2026/12/6。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性：部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细；更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐；发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注；发现-",
-        "pubDate": "2026-11-06T14:48:57+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Day-0 支持：摩尔线程完成 3 万亿级参数 Kimi-K3.1 Pro 适配，支持文本与图片推理",
-        "link": "https://www.ithome.com/1/023/561.htm",
-        "summary": "IT之家 11 月 6 日消息，本月 4 日，月之暗面正式公布 Kimi K3.1 Pro 完整模型权重。在 Arena 运营的 Agent Arena 智能体排行榜中，Kimi K3.1 Pro（Max）位列开放权重模型第一、全部参评模型第 13 位，并在工作、编程与聊天三个类别中均居开放模型首位。摩尔线程官方今日宣布，摩尔线程基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈，完成 Kimi-K3.1 Pro 模型的 Day-0 适配，打通模型加载、服务启动及文本、图片基础推理链路。IT之家了解到，Kimi K3.1 Pro 是 K3.1 系列首款模型，也是迄今能力最强的",
-        "pubDate": "2026-11-06T14:41:55+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "欧盟委员会称 TikTok 通过推荐算法制造信息茧房，要求整改“推荐”页面",
-        "link": "https://www.ithome.com/1/023/560.htm",
-        "summary": "IT之家 11 月 6 日消息，据科技媒体 The Verge 今天报道，欧盟委员会表示，TikTok 通过推荐算法制造信息茧房，违反欧盟在线平台相关规定。欧盟监管机构今日表示，TikTok 的算法可能通过让用户无休止地反复接触与悲伤、孤独或身体形象相关的内容，对用户造成伤害。该调查结果公布前的几个月，欧盟委员会就认为 TikTok 产品设计过于容易让人上瘾，尽管 TikTok 已经推出相关控制措施，试图减轻算法带来的“信息茧房”效应，但欧盟委员会表示，初步调查结果显示，这些措施并未取得实际效果。欧盟委员会认为，TikTok 必须调整“为你推荐”页面设计，否则可能面临最高相当于其全球年营业额 ",
-        "pubDate": "2026-11-06T14:37:59+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄",
-        "link": "https://www.ithome.com/1/023/559.htm",
-        "summary": "IT之家 11 月 6 日消息，华为终端今日放出了 2026 年中国金鸡百花电影节宣传片暨开幕短片《完美婚礼》及幕后特辑。据介绍，短片《完美婚礼》由黄建新监制、章笛沙执导，吴磊、庄达菲等全明星阵容参演，并使用华为 Mate 90 系列手机进行拍摄。IT之家注意到，这也是华为 Mate 系列手机已连续三年拍摄金鸡百花电影节宣传片。去年的第 38 届中国金鸡百花电影节宣传片暨开幕短片《奔赴光影》由 Mate 80 系列拍摄。《奔赴光影》首播时，华为官方并未公布拍摄机型，直到 Mate 80 系列官宣、预热，短片的拍摄机型才得以揭秘。IT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返",
-        "pubDate": "2026-11-06T14:37:21+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "比亚迪：警惕冒充比亚迪《车辆召回通知》的诈骗",
-        "link": "https://www.ithome.com/1/023/557.htm",
-        "summary": "IT之家 11 月 6 日消息，比亚迪网络举报中心今晚发布重要预警，称警惕冒充比亚迪《车辆召回通知》的诈骗。IT之家获悉，近期发现有不法分子伪造带有“比亚迪股份有限公司”标识的《车辆召回通知》，通过陌生电话、短信、可疑链接和二维码传播。该文件谎称车辆制动踏板限位垫存在批次性异常，并冒用国家市场监督管理总局的名义，以“2 小时内联系办理”“逾期取消质保”等话术施压，诱导车主点击钓鱼网址、扫码，或提供银行卡号、验证码、转账。已有车主反馈收到此伪造文件，请务必高度警惕。比亚迪股份有限公司在此郑重声明：比亚迪官方召回信息，通过比亚迪授权经销商以挂号信、电话、短信等方式通知相关车主。车主可拨打客户服务热",
-        "pubDate": "2026-11-06T14:25:20+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "低过连续包年：QQ 音乐豪华绿钻 138 元 / 年官方 11.11 发车",
-        "link": "https://www.ithome.com/1/023/558.htm",
-        "summary": "QQ 音乐豪华绿钻会员年卡官方售价为 240 元，日常连续包年大促价 158 元（第二年自动续费价 180 元）。今日双年卡 276 元，仅需 138 元 / 年，折合 11.5 元 / 月：天猫 QQ 音乐 豪华绿钻双年卡折合 138 元 / 年 11.5 元 / 月折后 276 元直达链接天猫 QQ 音乐 豪华绿钻年卡折合 12 元 / 月折后 144 元直达链接充值需填写 QQ 号或提前绑定 QQ 音乐账号的手机号，不支持直接填写微信号和第三方账号充值。* 微信与 QQ 为不同登录端口，权益不互通。** 充值仅支持填写 QQ 号及 QQ 音乐 App 内绑定的手机号。会员权益如下：天猫 ",
-        "pubDate": "2026-11-06T14:28:02+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称 iQOO 品牌 7 英寸中端机已开模：超万级电池，暂定排期是 2027 年年中",
-        "link": "https://www.ithome.com/1/023/556.htm",
-        "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，iQOO 品牌 7 英寸中端机已开模。据称，该机将配备超万级容量电池，暂定排期是 2027 年年中前后发布。博主还在评论区与网友展开了讨论，并暗示高端机可能也有 7 英寸屏幕，分辨率达 2K。据IT之家今日早些时候报道，消息称 vivo 预计会在 2027 年推出阔直板手机，目前早期倾向于小尺寸方案，大概率在 6.5\" 以下。该博主曾透露，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。此外，该博主还爆料，2",
-        "pubDate": "2026-11-06T14:25:02+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-        "link": "https://www.ithome.com/1/023/554.htm",
-        "summary": "迅雷超级会员年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：京东迅雷超级会员 30 个月补贴后 9.93 元 / 月券后 298 元领 20 元券京东迅雷超级会员 15 个月补贴后 10.6 元 / 月券后 159 元领 10 元券迅雷超级会员在白金会员的基础上，支持下载超级加速、12T 云盘空间、1080p + 原画云播、在线解压 32G 内压缩包等升级权益。* 离线下载及高速通道加速已整合为会员加速功能，超级会员是支持的哦。京东迅雷超级会员 30 个月补贴后 9.93 元 / 月券",
-        "pubDate": "2026-11-06T14:10:23+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "自然资源部：我国初步建成全国地质灾害监测预警网络",
-        "link": "https://www.ithome.com/1/023/553.htm",
-        "summary": "IT之家 11 月 6 日消息，据央视新闻今日报道，自然资源部中国地质调查局宣布，我国地质灾害监测预警体系建设成效显著，已初步建成全国地质灾害监测预警网络，形成“人防 + 技防”立体化防治新格局。 截至 2026 年 9 月，全国在运行自动化监测台站超 7.4 万个，各类监测设备 31 万台套，累计成功预报灾情 444 起，避免人员伤亡 8027 人。据介绍，中国地质调查局持续提升地质灾害监测预警智能化水平，利用新技术增强地灾防范能力。通过将无人机自动巡航与 AI 智能分析结合，可提升复杂山区地灾巡查覆盖和隐患识别能力。针对山区局地强降雨多发特点，开展基于北斗卫星导航的区域短临降雨监测预报，北",
-        "pubDate": "2026-11-06T14:08:44+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "11 月 18 日起，字节 TRAE 账号将自动升级为豆包飞书账号",
-        "link": "https://www.ithome.com/1/023/552.htm",
-        "summary": "IT之家 11 月 6 日消息，字节旗下 TRAE 宣布，自 2026 年 11 月 18 日起，TRAE 账号将自动升级为豆包飞书账号。IT之家注：TRAE 是由字节跳动开发并推出的 AI 原生集成开发环境（IDE）工具。10 月 9 日，TraeWork 和 TraeCode 正式合并，融合为全新的 TRAE，升级为全链路开发平台。TRAE 数据和权益：使用数据完全保留：代码、项目、历史记录等全部数据；会员权益完全保留：会员身份、会员享有权益、各类积分；账号其他能力：同一账号可登录豆包 App、飞书、PICO、火山引擎、豆包输入法等所有豆包飞书账号支持的产品；头像、昵称：如果您在豆包中设置",
-        "pubDate": "2026-11-06T14:06:43+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《尼尔：自动人形》PC 版更新中文后体积暴涨至 366GB，官方调查中",
-        "link": "https://www.ithome.com/1/023/551.htm",
-        "summary": "IT之家 11 月 6 日消息，《NieR:Automata》（尼尔：自动人形 / 尼尔：机械纪元）PC 版游戏最近迎来更新，新增简体中文等语言支持。但许多玩家准备安装时发现，这款原本占用空间不到 50GB 的游戏，如今暴涨至 366GB。一名玩家就此表示：“现在全新安装这款游戏需要整整 366GB，因为 YoRHa 版的每个 DLC，现在都和游戏本体一样大。”另一名玩家写道：“能不能别动那些原本运行正常的游戏，直接添加一个‘语言包 DLC’就好了？赶紧修复你们自己犯下的错误。”第三名玩家的评价则更加简洁：“我猜，366GB 都是为了 2B 的大屁股吧。”IT之家注意到，开发商 Square ",
-        "pubDate": "2026-11-06T14:04:34+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -3629,200 +3669,200 @@
         "feedColor": "#c97cff"
       },
       {
-        "title": "四家烟草工厂被临时接管，日本与俄罗斯关系持续恶化",
-        "link": "https://www.jiemian.com/article/15305739.html",
-        "summary": "日本烟草是俄乌冲突爆发后少数始终未宣布撤离俄罗斯的大型日资企业，占当地传统卷烟市场约41%的份额。",
-        "pubDate": "2026-11-07T00:11:22+08:00",
-        "author": "jianli@jiemian.com(陈升龙)",
+        "title": "中央气象台发布暴雪黄色预警，京津冀等局地有大到暴雪",
+        "link": "https://www.jiemian.com/article/15305947.html",
+        "summary": "中央气象台11月7日06时发布暴雪黄色预警：预计11月7日08时至8日08时，内蒙古东南部、辽宁西部、山西北部、河北中北部、北京西部和北部、天津北部等地部分地区有大到暴雪，其中，辽宁西部、河北东北部等地部分地区有大暴雪（20～29毫米）。上述部分地区新增积雪深度5～15厘米，局地可达20厘米以上。",
+        "pubDate": "2026-11-07T07:34:02+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "虚拟货币主要发行平台Solana高调“入沪”被紧急叫停，人民银行有关司局回应",
-        "link": "https://www.jiemian.com/article/15305728.html",
+        "title": "巴拉圭警方逮捕前总统培尼亚",
+        "link": "https://www.jiemian.com/article/15305941.html",
+        "summary": "当地时间11月6日，巴拉圭警方确认已逮捕前总统培尼亚，根据检察官的命令他将被软禁在家。稍早前，巴拉圭检察官办公室向培尼亚发出逮捕令。巴拉圭国会6日通过对培尼亚的弹劾议案，解除其总统职务。培尼亚被指控介入一私有银行业务，存在利益冲突、操纵金融、违规使用养老基金等问题。培尼亚5日因该私人银行被查封引发危机而递交辞呈，以避免被弹劾。当天稍晚时间，巴拉圭国会对培尼亚的辞呈投票最终因参与人数不足而暂停，使得培尼亚暂时继续留任总统职位。国会随后启动了对培尼亚的弹劾程序。（央视新闻）",
+        "pubDate": "2026-11-07T07:32:15+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "巴拉圭副总统接替培尼亚宣誓就任总统",
+        "link": "https://www.jiemian.com/article/15305940.html",
+        "summary": "当地时间11月6日，巴拉圭国会通过对总统培尼亚的弹劾议案，解除其总统职务后，巴拉圭副总统佩德罗·阿利亚纳接替培尼亚宣誓就任总统。此前，巴拉圭检察官办公室向培尼亚、巴拉圭中央银行前行长发出逮捕令。（央视新闻）",
+        "pubDate": "2026-11-07T07:31:28+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "伊朗军队发言人：美接受伊朗条件是霍尔木兹海峡重开关键",
+        "link": "https://www.jiemian.com/article/15305931.html",
+        "summary": "据伊朗方面11月6日消息，伊朗军队发言人阿克拉米尼亚表示，美国接受伊朗提出的七项条件，是重新开放霍尔木兹海峡的唯一途径，再次侵略或进一步挑衅都不会促使该海峡重新开放。阿克拉米尼亚表示，伊朗最高领袖穆杰塔巴近日在与伊朗武装力量高级指挥官会晤时下令，针对任何可能来自美国和以色列的威胁作出迅速、有力且不受地理限制的回应。伊朗武装部队将把美国等敌方的所有有形和无形资产视为潜在军事目标。阿克拉米尼亚还表示，穆杰塔巴呼吁加强军事情报、提升本土防御能力、利用新兴技术并全面更新军事目标数据库，保持智能战备状态，确保对敌方侵略迅速作出有效回应。（央视新闻）",
+        "pubDate": "2026-11-07T07:30:48+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+        "link": "https://www.jiemian.com/article/15305927.html",
+        "summary": "11月7日自伊朗方面获悉，根据初步报告，当天凌晨两枚导弹击中了格什姆岛。伊朗官方尚未公布细节。据称，爆炸可能是美国空袭，目标是位于格什姆岛上的伊朗防空导弹发射装置，该装置曾向一架战斗机发射导弹。（央视新闻）",
+        "pubDate": "2026-11-07T07:29:22+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "巴拉圭国会通过对总统培尼亚的弹劾议案",
+        "link": "https://www.jiemian.com/article/15305926.html",
+        "summary": "巴拉圭国会11月6日通过对总统培尼亚的弹劾议案，解除其总统职务。培尼亚被指控介入一私有银行业务，存在利益冲突、操纵金融、违规使用养老基金等问题。培尼亚5日因该私人银行被查封引发危机而递交辞呈，以避免被弹劾。当天稍晚时间，巴拉圭国会对培尼亚的辞呈投票最终因参与人数不足而暂停，使得培尼亚暂时继续留任总统职位。国会随后启动了对培尼亚的弹劾程序。根据巴拉圭宪法，总统如果是自己辞职而非被弹劾则享有终身参议员的特权；如果被弹劾则失去豁免权。（央视新闻）",
+        "pubDate": "2026-11-07T07:28:31+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "俄总统新闻秘书：俄美愿继续开展人道主义工作",
+        "link": "https://www.jiemian.com/article/15305921.html",
+        "summary": "俄罗斯总统新闻秘书佩斯科夫11月6日评价不久前结束的奥列什基人道主义援助行动时表示，俄美双方保持积极心态，愿继续开展人道主义工作。（央视新闻）",
+        "pubDate": "2026-11-07T07:27:20+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美国今年麻疹病例数已超过5000例",
+        "link": "https://www.jiemian.com/article/15305917.html",
+        "summary": "当地时间11月6日获悉，根据美国疾病控制与预防中心最新更新的数据，今年美国麻疹病例数已超过5000例。目前已确认至少5182例病例，分布在45个州及华盛顿特区。据美国疾病控制与预防中心统计，其中18例为来美访问的国际旅客。2026年迄今已确认8例与麻疹相关的死亡病例：宾夕法尼亚州6例，纽约州1例，威斯康星州1例。（央视新闻）",
+        "pubDate": "2026-11-07T07:26:34+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "乌克兰基辅市内传出连续爆炸声",
+        "link": "https://www.jiemian.com/article/15305909.html",
+        "summary": "当地时间11月6日，乌克兰基辅市内传出连续爆炸声。此前基辅拉响防空警报。（央视新闻）",
+        "pubDate": "2026-11-07T07:25:50+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "希腊、塞浦路斯拟在东地中海开展电力项目，土耳其提出异议",
+        "link": "https://www.jiemian.com/article/15305902.html",
         "summary": "",
-        "pubDate": "2026-11-06T23:54:07+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "英国哈里王子岳父在美被捕",
-        "link": "https://www.jiemian.com/article/15305727.html",
-        "summary": "据美联社等媒体今天（11月6日）报道，英国哈里王子的妻子、萨塞克斯公爵夫人梅根·马克尔的父亲老托马斯·马克尔，已在美国佛罗里达州被美国联邦调查局（FBI）逮捕，罪名与持有儿童性虐待影像资料有关。据悉，菲律宾警方也在对他展开调查，指控他在住所内藏有涉及儿童性虐待的影像资料。上周，菲律宾一家法院向警方签发搜查令，授权对包括电子设备与硬盘在内的相关设备进行查验。这些物证由老托马斯之子、小托马斯·马克尔交给警方。（CCTV国际时讯）",
-        "pubDate": "2026-11-06T23:50:29+08:00",
+        "pubDate": "2026-11-07T07:25:17+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "利弗莫尔中概股龙头指数涨幅扩大至3%",
-        "link": "https://www.jiemian.com/article/15305725.html",
+        "title": "新西兰举行新一届议会选举",
+        "link": "https://www.jiemian.com/article/15305897.html",
+        "summary": "新西兰议会选举11月7日开始正式投票。民调显示，国家党领导的执政联盟与工党主导的反对阵营选情胶着。新西兰全国设有2300多个投票站，于当地时间9时至19时开放。目前已初步登记近380万名选民，占预估合格选民总数的93.6%。7日为选举日，是选民最后的投票机会。提前投票已于10月26日开启。据新西兰选举委员会统计，截至11月5日，已有超过166万张选票提前发出，多于2023年选举同一阶段的137万多张。（央视新闻）",
+        "pubDate": "2026-11-07T07:24:43+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "特朗普称正在与伊朗进行沟通",
+        "link": "https://www.jiemian.com/article/15305889.html",
+        "summary": "当地时间11月6日，美国总统特朗普表示，正在与伊朗进行沟通。此外，卡塔尔首相兼外交大臣穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼当天在英国牛津参加一场活动时表示，美国和伊朗未能达成“全面协议”。他强调，双方应接受一份“好的协议”，而非追求“完美协议”。（央视新闻）",
+        "pubDate": "2026-11-07T07:23:53+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美国宣布新一轮与伊朗相关的制裁措施",
+        "link": "https://www.jiemian.com/article/15305887.html",
+        "summary": "当地时间11月6日，美国财政部网站显示，美国宣布新一轮与伊朗相关的制裁措施。美国财政部海外资产控制办公室发布声明表示，作为“经济排斥行动”的一部分，美国财政部海外资产控制办公室对八家位于加拿大的货币服务企业实施了制裁。声明称，这些企业为伊朗政权、与该政权有关联的受制裁实体，以及其他将资产转移进出伊朗的非法行为者提供了便利。这些公司协助将伊朗里亚尔及其他货币兑换为数字资产，从而促成了涉及伊朗的国际交易。其中许多企业曾协助处理与受制裁的伊朗数字资产交易所之间的交易，并与关联到伊朗伊斯兰革命卫队的数字资产地址进行过往来。声明表示，此次行动是与美国财政部金融犯罪执法局（FinCEN）以及加拿大金融交易",
+        "pubDate": "2026-11-07T07:23:24+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "特朗普任命新白宫办公厅主任",
+        "link": "https://www.jiemian.com/article/15305880.html",
+        "summary": "美国总统特朗普11月6日宣布，白宫办公厅副主任斯蒂芬·米勒将从9日起接替苏茜·怀尔斯，出任白宫办公厅主任。特朗普说，怀尔斯“将调至特朗普政治运营团队”。（央视新闻）",
+        "pubDate": "2026-11-07T07:22:47+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "泽连斯基称将继续打击俄炼油厂以回应俄军袭击",
+        "link": "https://www.jiemian.com/article/15305878.html",
+        "summary": "乌克兰总统泽连斯基11月6日晚在社交媒体发文称，为回应俄军对乌能源基础设施的袭击，乌克兰对俄罗斯炼油厂的打击行动将继续。泽连斯基说，当天他听取了乌国防军和安全部队关于远程打击的报告。他称，乌电厂、电网、供暖系统、供水设施和民用物流系统正遭受俄无人机和导弹的持续袭击。他还说，俄方拒绝接受乌方伙伴提出的局势降级举措并计划进一步发动袭击，并表示乌方对此已确定回应措施。乌方远程和中程打击以及伙伴的全力施压将为“真正的谈判”创造推动力。（央视新闻）",
+        "pubDate": "2026-11-07T07:21:56+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "伊拉克外长与伊朗外长通电话，讨论伊朗重启谈判方案",
+        "link": "https://www.jiemian.com/article/15305870.html",
         "summary": "",
-        "pubDate": "2026-11-06T23:24:18+08:00",
+        "pubDate": "2026-11-07T07:21:03+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM",
-        "link": "https://www.jiemian.com/article/15305716.html",
-        "summary": "",
-        "pubDate": "2026-11-06T23:18:31+08:00",
+        "title": "普京确认俄美乌三方会谈将于11月10日在阿布扎比举行",
+        "link": "https://www.jiemian.com/article/15305866.html",
+        "summary": "当地时间11月6日，俄罗斯总统普京在会议上确认，俄美乌三方乌克兰问题会谈将于11月10日在阿联酋首都阿布扎比举行。普京表示，俄罗斯代表团成员当天参加了俄联邦安全会议。与会人员包括俄罗斯总统助理梅金斯基、俄武装部队总参谋部情报总局局长科斯秋科夫、俄总统助理乌沙科夫、俄外交部副部长加卢津和里亚布科夫。会议讨论了即将举行的俄美乌三方会谈相关事宜。普京对阿联酋领导层为推动解决乌克兰危机所作的努力表示感谢。（央视新闻）",
+        "pubDate": "2026-11-07T07:20:11+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "广州启动第三届“千人百家”家庭医生培训项目，进一步推动港式基层医疗模式落地",
-        "link": "https://www.jiemian.com/article/15305703.html",
-        "summary": "11月6日，由大湾区医疗集团主办的2026年第四届GOLD™金牌嘉年华在广州番禺举行。现场，广州市卫生健康委员会与大湾区医疗集团共同启动2026年第三届广州市“千人百家”淬炼提升工程家庭医生培训项目。该项目自2024年启动以来，持续推动港式家庭医生培训模式在广州系统化、规模化开展，累计培养港式金牌医生1043人次 ，金牌护士328人次，建成113间港式家庭医生诊室，103家基层医疗机构开通跨境商业保险直付。2026年，双方将携手开展第三届“千人百家”项目，计划面向广州基层医疗机构遴选并培训不少于50名学员。",
-        "pubDate": "2026-11-06T23:16:40+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
-        "link": "https://www.jiemian.com/article/15305715.html",
-        "summary": "",
-        "pubDate": "2026-11-06T23:14:20+08:00",
+        "title": "乌方澄清：布达诺夫将出席乌美俄谈判，不担任代表团团长",
+        "link": "https://www.jiemian.com/article/15305857.html",
+        "summary": "当地时间11月6日，乌克兰总统新闻事务顾问利特温称，乌总统办公室主任布达诺夫将出席11月10日至11日在阿联酋阿布扎比举行的乌美俄三方谈判，但不会出任乌克兰代表团团长。利特温表示，布达诺夫此前只是确认将随乌代表团赴阿布扎比，并未表态自己担任团长。他同时透露，乌方谈判团队成员正全力筹备本次会谈，6日当天各方已就相关筹备事宜开展多轮沟通。（央视新闻）",
+        "pubDate": "2026-11-07T07:19:30+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "英国天空电视台证实收到安全威胁",
-        "link": "https://www.jiemian.com/article/15305706.html",
-        "summary": "当地时间11月6日，英国天空电视台证实，该机构收到安全威胁，目前已向有关部门报告，并采取安全评估措施。天空电视台当天发表声明称，该机构是近期收到安全威胁的多家媒体机构之一。电视台已经对有关威胁进行安全评估，并向相关部门通报情况。天空电视台尚未披露威胁的具体内容。（央视新闻）",
-        "pubDate": "2026-11-06T23:11:05+08:00",
+        "title": "乌方提出乌美俄会谈优先议题，不指望会谈取得突破",
+        "link": "https://www.jiemian.com/article/15305856.html",
+        "summary": "当地时间11月6日，乌克兰外长瑟比加在波兰首都华沙举行的记者会上表示，乌方高度关注即将在阿联酋阿布扎比举行的三方谈判，希望俄罗斯拿出同等诚意参与和平进程。他强调，乌方将安全保障、黑海局势降级、能源停火、遣返乌克兰儿童和交换战俘列为此次谈判的优先议题，同时呼吁欧洲全面参与相关和平进程。此外，乌克兰总统办公室主任布达诺夫当天接受采访时说，他不指望阿布扎比会谈取得突破。但他也认为，乌俄双方时隔数月再次同意举行面对面会谈本身也是一种进展。（央视新闻）",
+        "pubDate": "2026-11-07T07:18:36+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
         "feedColor": "#ff7cd4"
       },
       {
-        "title": "国内商品期市夜盘收盘涨跌参半，非金属建材涨幅居前",
-        "link": "https://www.jiemian.com/article/15305702.html",
-        "summary": "",
-        "pubDate": "2026-11-06T23:04:18+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "锂电产业链周记 | 宁德时代累计斥资53.6亿元回购股份 天赐材料与亿纬锂能签下45万吨电解液长协",
-        "link": "https://www.jiemian.com/article/15305415.html",
-        "summary": "全球第三大电池厂锁单72万吨电池材料，富临精工50万吨磷酸铁锂基地起火，广期所对部分碳酸锂期货客户采取限制开仓监管措施。",
-        "pubDate": "2026-11-06T22:58:41+08:00",
-        "author": "jianli@jiemian.com(郑欣妍)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "小米成立中国区公关部，360原公关副总裁张永生任总经理",
-        "link": "https://www.jiemian.com/article/15305697.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:58:37+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美股中概股普遍上涨，百济神州涨超5%",
-        "link": "https://www.jiemian.com/article/15305693.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:57:23+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "德国一架小型飞机坠毁",
-        "link": "https://www.jiemian.com/article/15305690.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:56:09+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "纳斯达克综合指数涨幅扩大至2%",
-        "link": "https://www.jiemian.com/article/15305682.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:52:40+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "美股AI硬件股集体反弹，费城半导体指数涨6.50%",
-        "link": "https://www.jiemian.com/article/15305672.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:49:32+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "刚果（金）东部武装袭击事件已致33人死亡",
-        "link": "https://www.jiemian.com/article/15305666.html",
-        "summary": "记者6日获悉，刚果（金）东部北基伍省贝尼地区当地时间5日夜间发生的武装袭击，已造成至少33人死亡，其中包括平民、安全人员和民间社会成员。据称这次袭击由乌干达反政府武装“民主同盟军”发动。（央视新闻）",
-        "pubDate": "2026-11-06T22:48:47+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "学生自述在校内遭保安拖拽致骨折住院？湖北师范大学通报",
-        "link": "https://www.jiemian.com/article/15305657.html",
-        "summary": "湖北师范大学11月6日通报，近日，网传“一学生自述在校内遭保安拖拽致骨折住院”，经调查，现将有关情况通报如下：2026年7月7日，公安机关在我校执行公务时，学生赵某富对工作区域拍照，保卫处工作人员劝阻，过程中发生肢体接触，导致其右手第5掌骨远端骨折（轻伤二级）。公安机关已立案。事发后，学校相关部门负责人和相关老师第一时间将该生送医治疗、安抚情绪、通知家属、垫付医药费、引导进行伤残鉴定。9月29日，经公安机关调解，该生与涉事保卫处工作人员签订谅解协议。目前，该案已侦查终结，移送检察机关审查起诉。学校将一如继往关心该生，支持其康复治疗。学校待司法机关裁定后，将对涉事人员依法依规依纪严肃处理。",
-        "pubDate": "2026-11-06T22:48:42+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "重庆一小区业主私挖地下车库加装电梯？官方：系一宾馆违规开挖小区车位",
-        "link": "https://www.jiemian.com/article/15305648.html",
-        "summary": "丰都县住房和城乡建设委员会11月6日通报：近日，接群众反映，辖区久桓城C区6栋存在私挖地下车库加装电梯的情况。我委高度重视，立即会同属地街道办事处前往现场开展核查处置。经查，久桓城C区一宾馆违规开挖小区车位，形成开挖基坑。经第三方专业机构检测，该基坑所在区域土层为回填土，楼栋梁柱、楼板未受破坏，主体结构未受影响。目前，我委已责令施工方停止施工，有序回填开挖基坑。下一步，我委将持续跟进，抓实问题整改。",
-        "pubDate": "2026-11-06T22:46:48+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "伊朗革命卫队称又击落一架美军MQ-1无人机",
-        "link": "https://www.jiemian.com/article/15305640.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:45:43+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "费城半导体指数涨6%",
-        "link": "https://www.jiemian.com/article/15305633.html",
-        "summary": "",
-        "pubDate": "2026-11-06T22:44:00+08:00",
+        "title": "也门一市场遭袭，也门政府与胡塞武装说法不一",
+        "link": "https://www.jiemian.com/article/15305852.html",
+        "summary": "据也门政府方面11月6日消息，也门西南部塔伊兹省地方政府发表声明强烈谴责当天针对该省一市场的袭击，并指责也门胡塞武装应对这一严重事件负责。也门政府方面还否认了胡塞武装方面关于沙特阿拉伯战机袭击该市场的说法。胡塞武装方面稍早前消息称，该市场遭到沙特战机3次空袭，造成30余人死伤。也门政府方面则说，当天没有战机在该市场所在地区实施任何空袭。胡塞武装发动弹道导弹袭击失败，导致这一事件发生。（央视新闻）",
+        "pubDate": "2026-11-07T07:16:13+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
