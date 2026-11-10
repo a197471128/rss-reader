@@ -1,212 +1,262 @@
 {
-  "updated": "2026-11-10T16:14:02.741961+00:00",
+  "updated": "2026-11-10T22:58:22.296387+00:00",
   "summary": {
     "total": 78,
     "success": 32,
     "fail": 46,
-    "total_articles": 379
+    "total_articles": 389
   },
   "articles": {
     "hot": [
       {
-        "title": "记者暗访调查啄木鸟维修乱象 热度：3130083",
-        "link": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E8%B0%83%E6%9F%A5%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E4%BF%AE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，记者暗访调查啄木鸟平台维修乱象。此前，记者给正常燃气灶换上一节没电电池并在该平台下单报修。维修师傅上门后谎称灶具总成有问题，报价316元后打折...",
-        "pubDate": "2026-11-10T20:02:26+08:00",
+        "title": "李庚希许魏洲开奖站错位置 热度：3136278",
+        "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%BA%9A%E5%B8%8C%E8%AE%B8%E9%AD%8F%E6%B4%B2%E5%BC%80%E5%A5%96%E7%AB%99%E9%94%99%E4%BD%8D%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月10日晚，李庚希和许魏洲作为开奖嘉宾上场站错地方，直接去了获奖演员发表感言的地方。主持人试图缓解尴尬：“等你们获奖了再来中间发表感言。”被指低...",
+        "pubDate": "2026-11-11T00:02:20+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "兰西雅获金鸡奖最佳女配角 热度：3238054",
-        "link": "https://www.baidu.com/s?wd=%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，第39届中国电影金鸡奖颁奖典礼在福建省厦门市举办。当晚，兰西雅凭借《震耳欲聋》获金鸡奖最佳女配角奖。此前，兰西雅多次入围白玉兰奖、金鹰...",
-        "pubDate": "2026-11-10T20:02:26+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中足联：中超本土球员年薪上限500万元 热度：3327605",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%B6%B3%E8%81%94%EF%BC%9A%E4%B8%AD%E8%B6%85%E6%9C%AC%E5%9C%9F%E7%90%83%E5%91%98%E5%B9%B4%E8%96%AA%E4%B8%8A%E9%99%90500%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，中足联印发《中国足球职业联赛俱乐部财务健康审核实施细则（试行）》，自2027年1月1日起试行。细则规定，中超俱乐部年度总支出不得超过6...",
-        "pubDate": "2026-11-10T20:02:26+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "李嘉诚之子创了一个世界纪录 热度：3411481",
-        "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E4%B9%8B%E5%AD%90%E5%88%9B%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，由李嘉诚之子李泽楷创立的富卫集团旗下高净值业务品牌FWDPrivate宣布，其在百慕大承保的一张人寿保险保单，获得吉尼斯世界纪录认证，成为全...",
-        "pubDate": "2026-11-10T20:02:25+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "AnthropicIPO发行价曝光 热度：3496368",
-        "link": "https://www.baidu.com/s?wd=Anthropic+IPO%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，Anthropic的最新招股说明书草案显示，该公司的首次公开募股（IPO）拟筹集高达644亿美元的资金。Anthropic和部分投资者...",
-        "pubDate": "2026-11-10T20:02:25+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "山姆现20元一包泡面网友吵起来了 热度：3597152",
-        "link": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E7%8E%B020%E5%85%83%E4%B8%80%E5%8C%85%E6%B3%A1%E9%9D%A2+%E7%BD%91%E5%8F%8B%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，“山姆现20元一包泡面”冲上热搜。山姆与康师傅联名牛肉面一箱79.9元，单包近20元。此外，该泡面需要下锅煮，不能开水直接泡，因此不少...",
-        "pubDate": "2026-11-10T20:02:24+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "吾守尔·赛来获金鸡奖最佳男配角 热度：3695189",
-        "link": "https://www.baidu.com/s?wd=%E5%90%BE%E5%AE%88%E5%B0%94%C2%B7%E8%B5%9B%E6%9D%A5%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，第39届中国电影金鸡奖颁奖典礼在福建省厦门市举办，吾守尔·赛来凭借电影《万桐书》斩获最佳男配角奖。",
-        "pubDate": "2026-11-10T20:02:24+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "樊振东十六字寄语BLG 热度：3802789",
-        "link": "https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%85%AD%E5%AD%97%E5%AF%84%E8%AF%ADBLG&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月9日，BLG挺进英雄联盟S16决赛，樊振东送上祝福，引发热议，不少网友直呼樊振东太懂电竞。BLG打破了T1对阵LPL的不败金身，他们将带着这份...",
-        "pubDate": "2026-11-10T20:02:24+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "幼儿园改养老院是一门好生意吗 热度：3876635",
-        "link": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B9%E5%85%BB%E8%80%81%E9%99%A2%E6%98%AF%E4%B8%80%E9%97%A8%E5%A5%BD%E7%94%9F%E6%84%8F%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "数据显示，全国幼儿园3年减少5.73万所，2025年末老年抚养比首次超过少儿抚养比，那么幼儿园改养老院是一门好生意吗？媒体指出，幼改老虽吸引社会资本...",
-        "pubDate": "2026-11-10T20:02:23+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国大客车在非洲突然多卖了一倍 热度：3997928",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AE%A2%E8%BD%A6%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%AA%81%E7%84%B6%E5%A4%9A%E5%8D%96%E4%BA%86%E4%B8%80%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年前九个月，中泰证券报告显示中国向非洲出口客车约1.48万辆，同比增长115%。出口激增起因于阿尔及利亚等国进入客车更新高峰：阿尔及利亚因客...",
-        "pubDate": "2026-11-10T20:02:23+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "出息了病毒吧吧主被官媒采访 热度：4099460",
-        "link": "https://www.baidu.com/s?wd=%E5%87%BA%E6%81%AF%E4%BA%86%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB%E8%A2%AB%E5%AE%98%E5%AA%92%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，官方媒体专访病毒吧吧主刘酸，其因长期无偿帮助网友解决电脑病毒问题而知名。",
-        "pubDate": "2026-11-10T20:02:22+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "白大拿明确拒绝担任白宫新闻秘书 热度：4162707",
-        "link": "https://www.baidu.com/s?wd=%E7%99%BD%E5%A4%A7%E6%8B%BF%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E6%8B%85%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "当地时间9日，美国终极格斗冠军赛总裁达纳·怀特在白宫明确拒绝出任白宫新闻秘书，称自己不想从政，特朗普随后离开并表示伤心。此前，特朗普任命的扎卡里亚上...",
-        "pubDate": "2026-11-10T20:02:22+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "刘昊然：金鸡奖能干的活都干了 热度：4263640",
-        "link": "https://www.baidu.com/s?wd=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A%E9%87%91%E9%B8%A1%E5%A5%96%E8%83%BD%E5%B9%B2%E7%9A%84%E6%B4%BB%E9%83%BD%E5%B9%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，刘昊然迎来金鸡奖主持首秀。“感觉金鸡奖能干的活都干了。”在现场，他回顾了自己从星辰大海成员到如今担任主持人的历程，表示金鸡奖舞台见证了...",
-        "pubDate": "2026-11-10T20:02:21+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "十元小贴纸硬控年轻人 热度：4375204",
-        "link": "https://www.baidu.com/s?wd=%E5%8D%81%E5%85%83%E5%B0%8F%E8%B4%B4%E7%BA%B8+%E7%A1%AC%E6%8E%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "目前，售价十几元的造景贴纸凭借场景搭建和解压属性走红，正形成包含画师、店铺和分销商的生意链条。与传统手账不同，造景贴纸通常自带场景参考图和辅助线，玩...",
-        "pubDate": "2026-11-10T20:02:21+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "300元卖掉你的脸下一秒成AI短剧主角 热度：4457506",
-        "link": "https://www.baidu.com/s?wd=300%E5%85%83%E5%8D%96%E6%8E%89%E4%BD%A0%E7%9A%84%E8%84%B8+%E4%B8%8B%E4%B8%80%E7%A7%92%E6%88%90AI%E7%9F%AD%E5%89%A7%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "如今，把脸“借给AI”，正在成为一门爆发中的生意。因为AI短剧“缺脸”。只要你想，300元就可以出售自己的真人肖像。但这种“卖脸”导致盗用、泄密和诈...",
-        "pubDate": "2026-11-10T20:02:21+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "韩网倒戈力挺BLG夺冠 热度：4562794",
-        "link": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "BLG与GEN的S16全球总决赛决赛定于北京时间11月15日凌晨3点在纽约布鲁克林巴克莱中心打响，韩网投票居然大部分支持BLG。",
-        "pubDate": "2026-11-10T20:02:20+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "快速路上男童半个身子探出天窗 热度：4651325",
-        "link": "https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%9F%E8%B7%AF%E4%B8%8A%E7%94%B7%E7%AB%A5%E5%8D%8A%E4%B8%AA%E8%BA%AB%E5%AD%90%E6%8E%A2%E5%87%BA%E5%A4%A9%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "怎么靠手感辨别羽绒服好坏 热度：3226678",
+        "link": "https://www.baidu.com/s?wd=%E6%80%8E%E4%B9%88%E9%9D%A0%E6%89%8B%E6%84%9F%E8%BE%A8%E5%88%AB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%BD%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-11-10T20:02:20+08:00",
+        "pubDate": "2026-11-11T00:02:20+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "女子露营遭陌生男子骚扰警方通报 热度：4741494",
-        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9C%B2%E8%90%A5%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，平遥警方通报，男子闫某滋扰露营游客赵某且阻碍执法，被行拘20日。此前11月8日凌晨，赵女士在平遥古城直播露营，闫某凭借直播中的画面找到赵某帐篷...",
-        "pubDate": "2026-11-10T20:02:19+08:00",
+        "title": "兰西雅用手语给檀健次加油 热度：3314052",
+        "link": "https://www.baidu.com/s?wd=%E5%85%B0%E8%A5%BF%E9%9B%85%E7%94%A8%E6%89%8B%E8%AF%AD%E7%BB%99%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，获金鸡奖最佳女配角的兰西雅在现场还原了开场时与檀健次的手语互动。她解释手语含义为“见到你很开心，今天看起来很棒，加油”，这份隔空打气令人动容。",
+        "pubDate": "2026-11-11T00:02:19+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "广州发布公积金新政 热度：4855312",
-        "link": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月10日，广州住房公积金管理中心印发《关于优化住房公积金提取政策的通知》。新政取消异地购房户籍限制，全国购房均可按规定提取，并将购房提取频次调整...",
-        "pubDate": "2026-11-10T20:02:19+08:00",
+        "title": "雪天骑车两人套纸壳变身“铠甲勇士” 热度：3509510",
+        "link": "https://www.baidu.com/s?wd=%E9%9B%AA%E5%A4%A9%E9%AA%91%E8%BD%A6%E4%B8%A4%E4%BA%BA%E5%A5%97%E7%BA%B8%E5%A3%B3%E5%8F%98%E8%BA%AB%E2%80%9C%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:19+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "吴克群回应“吴克穷” 热度：4931509",
-        "link": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E5%90%B4%E5%85%8B%E7%A9%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，针对“吴克穷”这一外号，吴克群回应称自己很喜欢。他表示，若能让所有人“克穷暴富”是超大福分，能当大家的锦鲤和财神很开心，觉得很有福分。",
-        "pubDate": "2026-11-10T20:02:19+08:00",
+        "title": "市监所收到比亚迪车主投诉轮毂装反 热度：3894222",
+        "link": "https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E6%89%80%E6%94%B6%E5%88%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E4%B8%BB%E6%8A%95%E8%AF%89%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，多位比亚迪大唐EV车主到4S店检查时得知车辆前后轮毂装反，且未收到厂家通知。深圳市市场监督管理局坪山分局马峦监管所表示，目前已收到相关舆情投诉...",
+        "pubDate": "2026-11-11T00:02:19+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": "许飞何炅拥抱太感人 热度：3969919",
+        "link": "https://www.baidu.com/s?wd=%E8%AE%B8%E9%A3%9E%E4%BD%95%E7%82%85%E6%8B%A5%E6%8A%B1%E5%A4%AA%E6%84%9F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "双11晚会期间，许飞空降亮相湖南台晚会，现场许飞与何炅相拥并合唱《思念的距离》，该曲创作于超女时期。两人同台引发网友唏嘘，感叹其15年的等待终获回报...",
+        "pubDate": "2026-11-11T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "伊朗公布新建“导弹城”画面 热度：4166991",
+        "link": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E6%96%B0%E5%BB%BA%E2%80%9C%E5%AF%BC%E5%BC%B9%E5%9F%8E%E2%80%9D%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间10日，伊朗伊斯兰革命卫队发布视频，公布了其新建的“导弹城”设施。此外，伊朗武装部队总参谋长阿卜杜拉希还视察了革命卫队航空航天部队的最新成果...",
+        "pubDate": "2026-11-11T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "“共享儿女”服务走红 热度：4259210",
+        "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E6%9C%8D%E5%8A%A1%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:18+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "7万亿建“六张网”钱从何来 热度：4364700",
+        "link": "https://www.baidu.com/s?wd=7%E4%B8%87%E4%BA%BF%E5%BB%BA%E2%80%9C%E5%85%AD%E5%BC%A0%E7%BD%91%E2%80%9D+%E9%92%B1%E4%BB%8E%E4%BD%95%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月6日，国务院常务会议指出加快“六张网”建设进度。包含水网、电网等在内的“六张网”正转入大规模落地阶段，2026年相关投资预计超7万亿元。那么钱...",
+        "pubDate": "2026-11-11T00:02:17+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Anthropic：年化营收约为810亿美元 热度：4475263",
+        "link": "https://www.baidu.com/s?wd=Anthropic%EF%BC%9A%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%BA%A6%E4%B8%BA810%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月10日，Anthropic表示，截至2026年10月31日，其年化营收约为810亿美元，较2026年9月30日增加100亿美元。",
+        "pubDate": "2026-11-11T00:02:17+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "男子在迪士尼拍打雪莉玫扮演者头部 热度：4573222",
+        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%8B%8D%E6%89%93%E9%9B%AA%E8%8E%89%E7%8E%AB%E6%89%AE%E6%BC%94%E8%80%85%E5%A4%B4%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:16+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "男子一口气买3块劳力士全是假的 热度：4734436",
+        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%8F%A3%E6%B0%94%E4%B9%B03%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E5%85%A8%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:16+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "推迟到校孩子的20分钟该归谁 热度：4833810",
+        "link": "https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1+%E5%AD%A9%E5%AD%90%E7%9A%8420%E5%88%86%E9%92%9F%E8%AF%A5%E5%BD%92%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月，全国多地中小学宣布推迟到校或取消早读，引发家长关于送学冲突及影响成绩的担忧。媒体评论指出，推迟到校不仅为减负，更应允许孩子拥有不被设计、自主...",
+        "pubDate": "2026-11-11T00:02:16+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "鲸鱼APP疑暴雷警方已立案 热度：4946830",
+        "link": "https://www.baidu.com/s?wd=%E9%B2%B8%E9%B1%BCAPP%E7%96%91%E6%9A%B4%E9%9B%B7+%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月10日，厦门警方对鲸鱼APP无法提现一事立案侦查，部分嫌疑人已到案，涉案资金被冻结。此前自10月28日起，多名网友反映该理财APP提现无门但仍...",
+        "pubDate": "2026-11-11T00:02:15+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "梁家辉此沙法拉利父子 热度：5039221",
+        "link": "https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%B6%E8%BE%89%E6%AD%A4%E6%B2%99+%E6%B3%95%E6%8B%89%E5%88%A9%E7%88%B6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月10日，梁家辉和此沙亮相2026中国金鸡百花电影节红毯，上演新老“法拉利”合体。",
+        "pubDate": "2026-11-11T00:02:15+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "广东一小区眼镜蛇2个月出现8次 热度：5128363",
+        "link": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%9C%BC%E9%95%9C%E8%9B%872%E4%B8%AA%E6%9C%88%E5%87%BA%E7%8E%B08%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:15+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "七巨头260亿美元“押注”Anthropic 热度：5223127",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%83%E5%B7%A8%E5%A4%B4260%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%BC%E6%B3%A8%E2%80%9DAnthropic&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "当地时间11月9日，Anthropic发布两款新模型，在性能与价格上直接叫板OpenAI。而目前Anthropic最快于10日启动IPO路演，谷歌等...",
+        "pubDate": "2026-11-11T00:02:14+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "《浪浪山小妖怪》获金鸡奖最佳动画片奖 热度：5599144",
+        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E3%80%8B%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E7%89%87%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月10日晚，第39届中国电影金鸡奖颁奖典礼暨2026年中国金鸡百花电影节闭幕式在厦门海峡大剧院举行。《浪浪山小妖怪》荣获最佳动画片奖，评委会提名...",
+        "pubDate": "2026-11-11T00:02:14+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "人民日报评“画地为牢”爆火出圈 热度：5702592",
+        "link": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E2%80%9D%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，综艺《后会友期》因台词“画地为牢”出圈。人民日报评论发文指出，该节目走红证明流量密码不靠刻意制造冲突与撕扯，而在于真诚安放情感。文章强调，文艺...",
+        "pubDate": "2026-11-11T00:02:13+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "女子为备婚瘦50斤婚礼惊艳全场 热度：5798679",
+        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%A4%87%E5%A9%9A%E7%98%A650%E6%96%A4%E5%A9%9A%E7%A4%BC%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-11T00:02:13+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 印度年轻人为什么还是找不到好工作？ ",
+        "link": "https://www.huxiu.com/article/4904589.html?f=rss",
+        "summary": " 本文来自微信公众号： 好望角view ，作者：好望角出海编辑部2026年7月29日，印度铁路部公布了一组招聘数据：一项涉及32438个基层岗位的招聘考试，有1082.8万人参加了机考。平均每个岗位，对应约334名考生。这些岗位包括铁路助手、轨道养护员、道岔操作员，都是基层岗位，但工作稳定，有固定工资和相对完善的劳动保障。在印度，这已经足够让上千万年轻人挤进同一个考场。同一时间，在南部泰米尔纳德邦的金奈，富士康的iPhone工厂每天有150多辆白色班车接送工人。约4万名员工分三班轮流生产，厂区占地160英亩，建有九栋宿舍楼。据路透社11月10日报道，全球约四分之一的iPhone已经在印度生产，",
+        "pubDate": "2026-11-11T02:12:25+08:00",
+        "author": " 好望角view ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 中国压铸厂，开始为车企的降本买单？ ",
+        "link": "https://www.huxiu.com/article/4904586.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室11月5日，广东鸿图披露了一张新订单：公司已进入丰田的一体化压铸供应链。此前，它的主要相关客户是小鹏汽车。公司预计，2026年一体化压铸产品收入接近7亿元，同比增长超过20%。同一时期，广东鸿图的利润走出了另一条曲线。前三季度营收65.02亿元，同比下降2.26%；归母净利润6068万元，同比下降71.10%。新业务在增长，整家公司赚到的钱却比去年同期少了约1.5亿元。压力也传到了同行。文灿股份2026年上半年营收28亿元，与上年基本持平，归母净利润亏损2.16亿元，去年同期仍盈利1311万元。生产超大型压铸设备的力劲科技，截至2026年",
+        "pubDate": "2026-11-11T00:50:37+08:00",
+        "author": " 汽车财报 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 未来5年，水处理市场的5个新增量 ",
+        "link": "https://www.huxiu.com/article/4904585.html?f=rss",
+        "summary": " 本文来自微信公众号： 青山产业评论 ，作者：青山研究院过去二十多年，水处理行业判断市场还有多大，最习惯看的一个指标是：每天还有多少万吨污水需要处理。一个城市缺20万吨处理能力，就再建一座厂；一个工业园区企业越来越多，就扩一条处理线。处理规模越大，工程越大，设备需求越多，市场自然也越大。这套逻辑支撑了中国水务行业很长一段时间。但到了今天，情况正在慢慢发生变化。问题已经不仅仅是还有多少水没有处理，而越来越变成：进来的到底是什么水？污染从哪里来？不同的水为什么要混在一起处理？出了问题能不能迅速找到源头？同样一个排放标准，放在不同河流里是不是都合适？这可能才是未来五年水治理市场真正值得关注的变化。污",
+        "pubDate": "2026-11-11T00:17:08+08:00",
+        "author": " 青山产业评论 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 一个小镇，竟有两家世界500强 ",
+        "link": "https://www.huxiu.com/article/4904584.html?f=rss",
+        "summary": " 本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《一个小镇，竟有两家世界500强！》2021年，我去苏州调研房地产，走进吴江区的一个别墅楼盘，销售在描述该楼盘如何高端的时候，讲了这样一段话，“来这里买房的业主中，相当一部分是盛泽镇的老板”。这是我第一次听说盛泽镇。无奈全国出名的古镇实在是太多了。江浙有周庄乌镇同里，佛山东莞有虎门长安顺德，还有景德平遥丽江西塘等闻名全国的小镇，盛泽这个平平无奇的小镇，且它还是以工业为主的乡镇，很难引起大家的注意。直到后来，等我多次往来苏州，也跟当地朋友深入了解盛泽后，才知道这里竟然是扫地僧一样的全国强镇：一个小镇，竟然诞生了两家世界500强：恒力、",
+        "pubDate": "2026-11-11T00:13:00+08:00",
+        "author": " 秦朔朋友圈 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 不要过度神话经济在婚姻中的作用 ",
+        "link": "https://www.huxiu.com/article/4904583.html?f=rss",
+        "summary": " 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston11月8日，英伟达CEO黄仁勋写了一封全员信。信里最重要的，是这句话：“我对妻子不忠。我的行为伤害了她和我们的孩子。对于我所做的一切，没有任何借口。”消息很快冲上了热搜，我身边的朋友、大大小小的群聊，也都在关注和讨论这件事。我发现这些反应中，有两种观点，比较典型。一种说，“男人有钱就变坏，意料之中。”另一种观点是，“原配陪了快四十年，真离了分黄仁勋一半身家，也不亏。”一个是在骂，一个是在算经济账。看起来讨论方向不同，但仔细想想看，这两种说法背后，其实藏着同一个前提。也就是，婚姻这件事，最终都可以用钱来解释。钱多，是出",
+        "pubDate": "2026-11-11T00:11:06+08:00",
+        "author": " 缸脑Preston ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       }
     ],
     "media": [
@@ -1611,6 +1661,156 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729880.shtml",
+        "summary": "\n　　新一轮俄罗斯、美国和乌克兰三方会谈11月10日在阿联酋首都阿布扎比举行，探讨推动乌克兰危机政治解决的途径。首日会谈持续近4小时，这也是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商，会谈将于11日继续进行。乌方称会谈富有建设性，美方评价积极，而俄方对停火持谨慎态度。与此同时，俄乌之间的军事互袭仍在继续。专家认为，各方的政治考量并不一致，推动谈判的节奏也不同步，难以实质性形成突破。",
+        "pubDate": "2026-11-11T06:50:41+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "11月11日新闻早报",
+        "link": "https://www.chinanews.com.cn/iframe/2026/11-11/10729879.shtml",
+        "summary": "",
+        "pubDate": "2026-11-11T06:48:33+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "吉姆·乔丹当选美国下一届国会众议院共和党领袖",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729878.shtml",
+        "summary": "\n　　央视记者当地时间11月10日获悉，美国国会众议院共和党人当天举行党内投票，以106票对73票选举俄亥俄州共和党籍众议员吉姆·乔丹担任下一届国会众议院共和党领袖，击败现任众议院多数党领袖史蒂夫·斯卡利斯。这是乔丹第三次竞选国会共和党领导职务。",
+        "pubDate": "2026-11-11T06:03:46+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "英国警方：一美军士兵因涉嫌从事与俄相关间谍活动在英被捕",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729877.shtml",
+        "summary": "\n　　当地时间11月10日，英国反恐警察表示，一名41岁的美国陆军士兵因涉嫌从事与俄罗斯有关的间谍活动，在英格兰格洛斯特附近被捕。该男子涉嫌协助外国情报机构、获取或泄露受保护信息，目前被拘押在伦敦一处警察局。",
+        "pubDate": "2026-11-11T06:02:34+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "约翰·图恩连任美国参议院共和党领袖",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729876.shtml",
+        "summary": "\n　　总台记者当地时间11月10日获悉，美国国会参议院共和党人当天举行领导层选举，参议员约翰·图恩获得连任，将在下一届国会继续担任参议院共和党领袖。",
+        "pubDate": "2026-11-11T06:01:46+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "英国央行副行长警示通胀有持续风险 释放进一步加息信号",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729870.shtml",
+        "summary": "\n　　中新社伦敦11月10日电 (记者 欧阳开宇)英国央行负责货币政策的副行长克莱尔·隆巴代利10日在一场央行会议上表示，英国通胀持续风险正在显现，若无通胀降温的明确证据，短期内大概率需要再度加息。",
+        "pubDate": "2026-11-11T05:59:52+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "今年前10个月柬埔寨实现国际贸易总额突破634亿美元",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729871.shtml",
+        "summary": "\n　　中新社金边11月10日电 (张堰林 杨强)柬埔寨海关总署当地时间10日发布的报告显示，今年前10个月该国实现货物进出口总额接近634.6亿美元，与上年同期相比增长20.9%。",
+        "pubDate": "2026-11-11T05:59:22+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "2026年全球健康峰会在泰国普吉岛举行",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729872.shtml",
+        "summary": "\n　　中新社曼谷11月10日电 (王茜 李映民)2026年全球健康峰会10日至13日在泰国普吉岛举行，约600名代表参会。",
+        "pubDate": "2026-11-11T05:58:42+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "南非第三季度失业率升至33.7%",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729873.shtml",
+        "summary": "\n　　中新社约翰内斯堡11月10日电 南非统计局10日发布的《季度劳动力调查报告》显示，今年第三季度南非失业率为33.7%，较第二季度上升0.1个百分点。",
+        "pubDate": "2026-11-11T05:58:10+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国10月CPI环比上涨0.4%",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729875.shtml",
+        "summary": "\n　　中新社华盛顿11月10日电 (记者 陈孟统)美国劳工部10日发布数据称，美国10月消费者价格指数(CPI)环比上涨0.4%，低于9月份0.6%的涨幅。",
+        "pubDate": "2026-11-11T05:57:44+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "柬埔寨侨界举办纪念孙中山诞辰160周年座谈会",
+        "link": "https://www.chinanews.com.cn/hr/2026/11-11/10729874.shtml",
+        "summary": "\n　　中新社金边11月10日电 (张安琪 张堰林 杨强)柬埔寨侨界纪念孙中山先生诞辰160周年座谈会10日在金边举行。中国驻柬埔寨大使汪文斌，柬埔寨中国和平统一促进会会长方侨生、柬埔寨中国港澳侨商总会会长黄瑞华、柬华理事总会轮值会长江创龙等侨界代表出席活动。",
+        "pubDate": "2026-11-11T05:56:26+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
+        "link": "https://www.chinanews.com.cn/ty/2026/11-11/10729869.shtml",
+        "summary": "\n　　中新社银川11月11日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛10日落幕，女子组赛事中，伊朗队夺冠，中国队获得亚军，中国香港队获得季军。",
+        "pubDate": "2026-11-11T05:55:56+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "英国军方采购新一批水下智能装备",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729868.shtml",
+        "summary": "\n　　中新社伦敦11月10日电 (记者 欧阳开宇)英国国防部10日宣布投入9000万英镑，采购一批新型无人潜航器、探测传感器以及配套人工智能监测系统，交由海军使用，用于北大西洋海域海底光缆、能源管线防护，同时开展水下目标搜寻。",
+        "pubDate": "2026-11-11T05:55:10+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "俄美乌三方结束阿布扎比首日会谈",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729867.shtml",
+        "summary": "\n　　中新社莫斯科11月10日电  俄罗斯、美国、乌克兰三方会谈代表10日在阿拉伯联合酋长国首都阿布扎比结束首日会谈。会谈历时4个半小时，其间休会约40分钟。三方会谈将于11日继续。",
+        "pubDate": "2026-11-11T05:54:38+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "泰国内阁批准数据中心七级监管政策",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729866.shtml",
+        "summary": "\n　　中新社曼谷11月10日电 (王茜 李映民)泰国内阁10日批准数据中心监管政策，决定按用电规模实施七级分类管理，20兆瓦及以上项目将面临更严格的选址要求。泰国副总理兼财政部长艾尼迪表示，政府将设立一站式服务中心，统筹数据中心项目审批。",
+        "pubDate": "2026-11-11T05:53:54+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "马来西亚前总理纳吉布开始居家服刑",
         "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
         "summary": "\n　　中新社吉隆坡11月10日电 (记者 刘育英)马来西亚吉隆坡高等法院10日裁定，前总理纳吉布即日起获准在位于首都吉隆坡的住所，以居家服刑方式完成SRC国际公司案的剩余刑期，直至2028年8月23日。当日晚，纳吉布已回到家中，开始居家服刑。",
@@ -1659,156 +1859,6 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-10/10729839.shtml",
-        "summary": "\n\n图为比赛现场，参赛选手专注制作熊猫酥面点。 殷缘 摄\n\n图为菜品融合戏曲脸谱元素，搭配精致摆盘与主题摆件。 殷缘 摄\n\n图为比赛现场设置非遗面塑技艺展演，吊脚楼、山水舟船等以面塑形式立体呈现。 殷缘 摄\n\n图为参赛选手讲解菜品创意，餐饮行业专家、美食评论家围绕作品呈现、口味质感等七个维度开展综合评判。 殷缘 摄\n\n图为参赛选手讲解菜品创意，餐饮行业专家、美食评论家围绕作品呈现、口味质感等七个维度开展综合评判。 殷缘 摄",
-        "pubDate": "2026-11-10T22:17:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-10/10729828.shtml",
-        "summary": "\n\n图为参会的柬埔寨嘉宾在会场合影留念。中新社记者 刘忠俊 摄\n\n图为“守护文化根脉 共促文明互鉴”议题嘉宾对话现场。中新社记者 刘忠俊 摄\n\n图为“数智化转型与新质生产力”议题嘉宾对话现场。中新社记者 刘忠俊 摄\n\n图为“织密友城网络 赋能务实合作”议题嘉宾对话现场。中新社记者 刘忠俊 摄",
-        "pubDate": "2026-11-10T22:16:32+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "韩国拟扩大派驻亚丁湾部队任务区域",
-        "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml",
-        "summary": "\n　　中新社首尔11月10日电 (记者 金旭)当地时间10日，韩国总统李在明在总统府青瓦台主持召开国务会议，审议通过关于延长清海部队派遣期限的修订同意案。该议案将提交韩国国会履行同意程序。",
-        "pubDate": "2026-11-10T22:10:52+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国深部岩芯钻探最大深度提升至7000米级",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729849.shtml",
-        "summary": "\n　　中新社济南11月10日电 (周艺伟)据山东省地质矿产勘查开发局11月10日消息，日前投用的中国地矿领域首台全自动化钻机——ZJ50DB/XD70DB，将中国深部岩芯钻探的最大深度提升至7000米级。",
-        "pubDate": "2026-11-10T22:10:18+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "河北邯郸：废弃锅炉房变身公共文化空间",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-10/10729811.shtml",
-        "summary": "\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内上形体课。刘沛宇 摄\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内上形体课。刘沛宇 摄\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内进行合唱排练。刘沛宇 摄\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内学习非洲鼓。刘沛宇 摄\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内练习太极拳。刘沛宇 摄\n\n11月10日，河北省邯郸市复兴区铁路大院社区的居民在辖区“红炉书苑”内学习手语。刘沛宇 摄",
-        "pubDate": "2026-11-10T22:08:36+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml",
-        "summary": "\n　　中新网安塔利亚11月10日电(记者 陈溯 徐峻杰)“2025年，中国单位国内生产总值二氧化碳排放比上年下降5.0%，建成全球最大、最完整的清洁能源产业链。”",
-        "pubDate": "2026-11-10T22:07:18+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-10/10729813.shtml",
-        "summary": "\n\n11月10日，候鸟在广东深圳福田红树林自然保护区飞翔。作为候鸟迁飞通道上的重要中转站与越冬地，深圳福田红树林自然保护区为南迁候鸟提供了充足的食物补给与安全的栖息空间。目前已有一批候鸟抵达深圳过冬，包括鸬鹚、黑尾塍鹬、大白鹭、红脚鹬、反嘴鹬等品种，其中，国家一级保护动物黑脸琵鹭也已现身。中新社记者 陈楚红 摄  \n\n11月10日，候鸟在广东深圳福田红树林自然保护区飞翔。作为候鸟迁飞通道上的重要中转站与越冬地，深圳福田红树林自然保护区为南迁候鸟提供了充足的食物补给与安全的栖息空间。目前已有一批候鸟抵达深圳过冬，包括鸬鹚、黑尾塍鹬、大白鹭、红脚鹬、反嘴鹬等品种，其中，国家一级保护动物黑脸琵鹭也已",
-        "pubDate": "2026-11-10T22:07:14+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "浙江义乌：“双十一”前夕直播忙",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-10/10729824.shtml",
-        "summary": "\n\n11月10日，直播镜头里的小商品。“双十一”前夕，浙江义乌国际商贸城内直播氛围火热。商户和主播忙着在镜头前推介各类商品，借助线上渠道拓展销路，抢抓销售旺季商机。中新社记者 刘子琳 摄\n\n11月10日，AI走播机器人正在工作。“双十一”前夕，浙江义乌国际商贸城内直播氛围火热。商户和主播忙着在镜头前推介各类商品，借助线上渠道拓展销路，抢抓销售旺季商机。中新社记者 刘子琳 摄\n\n11月10日，AI走播机器人正在介绍店铺。“双十一”前夕，浙江义乌国际商贸城内直播氛围火热。商户和主播忙着在镜头前推介各类商品，借助线上渠道拓展销路，抢抓销售旺季商机。中新社记者 刘子琳 摄\n\n11月10日，主播向观众推",
-        "pubDate": "2026-11-10T22:06:52+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "深圳APEC主题灯光秀吸引游客",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210504.shtml",
-        "summary": "",
-        "pubDate": "2026-11-10T22:06:32+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国首个实现沙漠化逆转的省区，如何做到？宁夏官员向世界分享生态保护经验",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729844.shtml",
-        "summary": "\n　　中新网安塔利亚11月10日电(记者 王庆凯 魏园)当地时间11月10日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会(COP31)中国角主题边会上，宁夏回族自治区生态环境厅宣传教育处处长王波分享了生态环境保护的宁夏探索实践。",
-        "pubDate": "2026-11-10T22:05:08+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
-        "summary": "\n　　中新社台北11月10日电 (记者 路梅)今年适逢孙中山先生诞辰160周年，中国国民党10日在位于台北的中央党部中山厅举办纪念座谈会。",
-        "pubDate": "2026-11-10T22:03:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "上海文艺创作成果“绽放”艺术节",
-        "link": "https://www.chinanews.com.cn/cul/2026/11-10/10729837.shtml",
-        "summary": "\n　　中新网上海11月10日电 (记者 王笈)音乐会《上海大歌剧院和她的朋友们》、舞剧《小刀会》、京剧《龙凤呈祥》、越剧《华山奇缘》、芭蕾《寻找木卡姆》、歌剧《爱之甘醇》……横跨多个艺术门类的“上海出品”力作“绽放”于第二十五届中国上海国际艺术节，集中展示了上海文艺创作的阶段性成果。",
-        "pubDate": "2026-11-10T22:03:06+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "中国地矿领域首台全自动化钻机在川西高原投用",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729835.shtml",
-        "summary": "\n　　中新网济南11月10日电(周艺伟 郭美丽)据山东省地质矿产勘查开发局(以下简称“山东省地矿局”)11月10日消息，日前投用的中国地矿领域首台全自动化钻机——ZJ50DB/XD70DB，将中国深部岩芯钻探的最大深度提升至7000米级。该设备由山东省地矿局第六地质大队联合中国地质装备集团有限公司研制，在四川省甘孜藏族自治州鲜水河断裂带科研钻探项目现场起塔投用。",
-        "pubDate": "2026-11-10T22:02:16+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210503.shtml",
-        "summary": "",
-        "pubDate": "2026-11-10T22:01:52+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "海南推进城乡建设低碳转型 全面推广绿色建筑",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729843.shtml",
-        "summary": "\n　　中新网海口11月10日电 (记者 王子谦)记者10日从《海南省应对气候变化的政策与行动2026年度报告》白皮书新闻发布会上获悉，海南近年来加快提升建筑领域绿色低碳发展质量，目前绿色建筑实现全面推广，装配式建造“应建尽建”。",
-        "pubDate": "2026-11-10T22:01:48+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
@@ -1818,6 +1868,16 @@
         "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
         "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
         "pubDate": "2026-11-10T12:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "Introducing Businesses in ChatGPT",
+        "link": "https://openai.com/index/introducing-businesses-chatgpt",
+        "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+        "pubDate": "2026-11-10T10:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
@@ -2004,14 +2064,54 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Introducing Images 2.6",
-        "link": "https://openai.com/index/introducing-images-2-6",
-        "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-        "pubDate": "2026-11-04T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
+        "title": " 印度年轻人为什么还是找不到好工作？ ",
+        "link": "https://www.huxiu.com/article/4904589.html?f=rss",
+        "summary": " 本文来自微信公众号： 好望角view ，作者：好望角出海编辑部2026年7月29日，印度铁路部公布了一组招聘数据：一项涉及32438个基层岗位的招聘考试，有1082.8万人参加了机考。平均每个岗位，对应约334名考生。这些岗位包括铁路助手、轨道养护员、道岔操作员，都是基层岗位，但工作稳定，有固定工资和相对完善的劳动保障。在印度，这已经足够让上千万年轻人挤进同一个考场。同一时间，在南部泰米尔纳德邦的金奈，富士康的iPhone工厂每天有150多辆白色班车接送工人。约4万名员工分三班轮流生产，厂区占地160英亩，建有九栋宿舍楼。据路透社11月10日报道，全球约四分之一的iPhone已经在印度生产，",
+        "pubDate": "2026-11-11T02:12:25+08:00",
+        "author": " 好望角view ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 中国压铸厂，开始为车企的降本买单？ ",
+        "link": "https://www.huxiu.com/article/4904586.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室11月5日，广东鸿图披露了一张新订单：公司已进入丰田的一体化压铸供应链。此前，它的主要相关客户是小鹏汽车。公司预计，2026年一体化压铸产品收入接近7亿元，同比增长超过20%。同一时期，广东鸿图的利润走出了另一条曲线。前三季度营收65.02亿元，同比下降2.26%；归母净利润6068万元，同比下降71.10%。新业务在增长，整家公司赚到的钱却比去年同期少了约1.5亿元。压力也传到了同行。文灿股份2026年上半年营收28亿元，与上年基本持平，归母净利润亏损2.16亿元，去年同期仍盈利1311万元。生产超大型压铸设备的力劲科技，截至2026年",
+        "pubDate": "2026-11-11T00:50:37+08:00",
+        "author": " 汽车财报 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 未来5年，水处理市场的5个新增量 ",
+        "link": "https://www.huxiu.com/article/4904585.html?f=rss",
+        "summary": " 本文来自微信公众号： 青山产业评论 ，作者：青山研究院过去二十多年，水处理行业判断市场还有多大，最习惯看的一个指标是：每天还有多少万吨污水需要处理。一个城市缺20万吨处理能力，就再建一座厂；一个工业园区企业越来越多，就扩一条处理线。处理规模越大，工程越大，设备需求越多，市场自然也越大。这套逻辑支撑了中国水务行业很长一段时间。但到了今天，情况正在慢慢发生变化。问题已经不仅仅是还有多少水没有处理，而越来越变成：进来的到底是什么水？污染从哪里来？不同的水为什么要混在一起处理？出了问题能不能迅速找到源头？同样一个排放标准，放在不同河流里是不是都合适？这可能才是未来五年水治理市场真正值得关注的变化。污",
+        "pubDate": "2026-11-11T00:17:08+08:00",
+        "author": " 青山产业评论 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 一个小镇，竟有两家世界500强 ",
+        "link": "https://www.huxiu.com/article/4904584.html?f=rss",
+        "summary": " 本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《一个小镇，竟有两家世界500强！》2021年，我去苏州调研房地产，走进吴江区的一个别墅楼盘，销售在描述该楼盘如何高端的时候，讲了这样一段话，“来这里买房的业主中，相当一部分是盛泽镇的老板”。这是我第一次听说盛泽镇。无奈全国出名的古镇实在是太多了。江浙有周庄乌镇同里，佛山东莞有虎门长安顺德，还有景德平遥丽江西塘等闻名全国的小镇，盛泽这个平平无奇的小镇，且它还是以工业为主的乡镇，很难引起大家的注意。直到后来，等我多次往来苏州，也跟当地朋友深入了解盛泽后，才知道这里竟然是扫地僧一样的全国强镇：一个小镇，竟然诞生了两家世界500强：恒力、",
+        "pubDate": "2026-11-11T00:13:00+08:00",
+        "author": " 秦朔朋友圈 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 不要过度神话经济在婚姻中的作用 ",
+        "link": "https://www.huxiu.com/article/4904583.html?f=rss",
+        "summary": " 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston11月8日，英伟达CEO黄仁勋写了一封全员信。信里最重要的，是这句话：“我对妻子不忠。我的行为伤害了她和我们的孩子。对于我所做的一切，没有任何借口。”消息很快冲上了热搜，我身边的朋友、大大小小的群聊，也都在关注和讨论这件事。我发现这些反应中，有两种观点，比较典型。一种说，“男人有钱就变坏，意料之中。”另一种观点是，“原配陪了快四十年，真离了分黄仁勋一半身家，也不亏。”一个是在骂，一个是在算经济账。看起来讨论方向不同，但仔细想想看，这两种说法背后，其实藏着同一个前提。也就是，婚姻这件事，最终都可以用钱来解释。钱多，是出",
+        "pubDate": "2026-11-11T00:11:06+08:00",
+        "author": " 缸脑Preston ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": "iPhone 18 Pro Max 配件毕业套装：倍思壳膜充",
@@ -2414,6 +2514,106 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
+        "link": "https://www.ithome.com/1/025/200.htm",
+        "summary": "IT之家 11 月 11 日消息，CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度报营业总收入：83.14 亿美元（IT之家注：现汇率约合 555.92 亿元人民币），同比增长 133.6%毛利润：55.36 亿美元（现汇率约合 370.17 亿元人民币），同比增长 111.7%毛利率：66.6%，同比下降 6.9 个百分点归母净利润：-20.75 亿美元（现汇率约合 -138.75 亿元人民币），同比亏损扩大 ",
+        "pubDate": "2026-11-10T21:11:03+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告",
+        "link": "https://www.ithome.com/1/025/206.htm",
+        "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，OpenAI 宣布推出 ChatGPT Businesses 测试版，为企业提供商家信息认领、资料管理、用户互动数据分析以及 AI 智能体等服务，帮助企业通过 ChatGPT 接触潜在客户。OpenAI 表示，目前全球每周有 12 亿人使用 ChatGPT。Businesses 功能将通过 Business Hub 提供，企业可以在其中认领自己在 ChatGPT 中的商家资料，并在完成身份验证后更新关键信息，还可以添加包含产品价格和库存情况的自助式产品数据源，让 ChatGPT 能够向用户提供更加准确、及时的商品和服务信息。符合条",
+        "pubDate": "2026-11-10T22:55:36+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗",
+        "link": "https://www.ithome.com/1/025/188.htm",
+        "summary": "IT之家 11 月 10 日消息，谷歌推出迄今为止能力最强的视觉-语言-动作（VLA）机器人模型 Gemini Robotics 2.5，大幅提升机器人可学习的技能广度与学习速度。该模型增强了机器人的灵巧度、可靠性与安全性，助力机器人走出实验室，进入更非结构化的真实环境，协助人类完成更多类型的任务。谷歌今年早些时候已为包括人形机器人在内的多种机器人引入全身智能。此次进展很大程度上得益于 Gemini 4 Argon 加速机器人研发的能力，进一步拓展了物理智能的边界。谷歌在超过 200 项不同任务中测试了 Gemini Robotics 2.5 的任务广度、性能与复杂度。Gemini Robot",
+        "pubDate": "2026-11-10T22:54:44+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
+        "link": "https://www.ithome.com/1/025/205.htm",
+        "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布联合 AI 模型评测机构 Artificial Analysis 推出多模态知识智能体基准测试 MKA（Multimodal Knowledge Agent），用于评估 AI 智能体处理视觉复杂文件、完成现实世界知识工作任务的能力。谷歌表示，其最新发布的 Gemini 4 Carbon 在该测试中取得了参测模型第二名的成绩，完成任务的平均成本仅为排名第一模型的约六分之一。谷歌 DeepMind 高级产品经理 Rohan Doshi 和首席工程师 Ben Caine 介绍称，现有不少知识工作基准测试仅依赖文本即可完成，而现实",
+        "pubDate": "2026-11-10T22:48:50+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程",
+        "link": "https://www.ithome.com/1/025/204.htm",
+        "summary": "IT之家 11 月 11 日消息，Anthropic 今日开始推出 Claude Whiteboards（白板）、Claude Sheets（表格）和 Claude Data（原 Claude Dashboards），把 AI 助手从“聊天问答”进一步推向团队协作工作台，用户可以在白板上梳理计划、在表格中搭建追踪器，并把业务数据变成可共享的仪表盘、数据故事或解说视频。三项产品面向所有付费计划提供，支持网页端、桌面端和移动端；其中白板应用 Whiteboards 与表格 Sheets 目前处于测试阶段，Claude Data 则已正式上线。官方希望让 Claude 从生成文字、代码或文档，转向直",
+        "pubDate": "2026-11-10T22:43:46+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全",
+        "link": "https://www.ithome.com/1/025/203.htm",
+        "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布正式开放 Gemini 4 Carbon 模型，面向开发者、企业、科研人员和消费者提供服务。谷歌高级副总裁、DeepMind 首席 AI 架构师 Koray Kavukcuoglu 介绍称，该模型是谷歌目前能力最强的推理模型，重点面向复杂软件工程、多步骤智能体任务、科学研究和网络安全等场景。Gemini 4 Carbon 于 10 月 28 日首次公布，此前通过 Fairwind Program（网络安全合作计划）向部分网络安全防御人员开放。此次则进一步扩大使用范围。谷歌称，相较于同期推出的 Gemini 4 Argon，",
+        "pubDate": "2026-11-10T22:43:37+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务",
+        "link": "https://www.ithome.com/1/025/202.htm",
+        "summary": "IT之家 11 月 11 日消息，Odessia 创始人弗朗西斯 · 戴维森（Francis Davidson）今天宣布，OpenAI 已收购 AI 旅行智能体公司 Odessia，他本人也已经加入 OpenAI，帮助这家 AI 初创公司探索旅游业务发展方向。据悉，Odessia 成立仅一年，就拿到了红杉资本领投的 600 万美元（IT之家注：现汇率约合 4,011.9 万元人民币）种子前融资，并在大约 5 个月前推出了 AI 旅游智能体服务，帮助早期用户规划价值数百万美元的旅行行程。OpenAI 发言人证实了上述信息，并表示：“我们非常欢迎戴维森加入 OpenAI，他是一名经验丰富的从业者，",
+        "pubDate": "2026-11-10T22:43:22+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件",
+        "link": "https://www.ithome.com/1/025/201.htm",
+        "summary": "IT之家 11 月 11 日消息，英伟达今日发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp; Katz，负责开展一项全面、独立的调查。IT之家注：此次调查此前已于 11 月 8 日对外宣布，调查工作将由金正贤及其所在律所参与推进。此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已经遭到",
+        "pubDate": "2026-11-10T22:32:07+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+        "link": "https://www.ithome.com/1/025/195.htm",
+        "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、云计算、企业应用等），本次发布的嵌入式 9006 系列 SP7 处理器主要面向半导体 ATE 测试设备、企业存储、高端网络防火墙等关键嵌入式场景。在插槽规格方面，AMD 霄龙嵌入式 9006 系列采用新一",
+        "pubDate": "2026-11-10T17:05:05+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass",
+        "link": "https://www.ithome.com/1/025/194.htm",
+        "summary": "IT之家 11 月 11 日消息，由 Sports Interactive 开发、SEGA 发行的足球策略模拟游戏《足球经理 27》（Football Manager 27，简称《FM27》）已正式在 Steam 平台正式发售，国区定价 268 元，不锁国区。IT之家附游戏商品页（https://store.steampowered.com/app/4530370/足球经理 27/?l=schinese&amp;cc=cn）。据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass 及 X",
+        "pubDate": "2026-11-10T16:14:15+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
         "link": "https://www.ithome.com/1/025/192.htm",
         "summary": "IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露，未来三年将推出三款新车，规划已进入执行阶段。此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造，全力聚焦中国市场是未来几年的核心任务。据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了奥迪、中国一汽与上汽",
@@ -2508,106 +2708,6 @@
         "link": "https://www.ithome.com/1/025/181.htm",
         "summary": "IT之家 11 月 10 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》已于 10 月 17 日再次上映。影片官方今日宣布，《三国第一部：争洛阳》密钥将延期至 2026 年 12 月 16 日。IT之家从电影《三国第一部：争洛阳》官方了解到，今年 10 月 23 日，本片累计票房破亿。本月初，猫眼专业版数据显示，电影《三国第一部：争洛阳》 重映票房破 1000 万。该电影原定 7 月 10 日上映，目前豆瓣评分 8.0 分，然而票房成绩不尽如人意，上映 15 天总票房仅八千多万元，于 7 月 25 日宣布撤档，另择档期上映。本片由谢君伟（代表作《长安三万里",
         "pubDate": "2026-11-10T14:35:38+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "消息称苹果计划明年上半年为 iPad Air 换用 OLED 面板，预计仍为 60Hz 刷新率",
-        "link": "https://www.ithome.com/1/025/179.htm",
-        "summary": "IT之家 11 月 10 日消息，据外媒 DigiTimes 报道，苹果计划于 2027 年（明年）上半年为 iPad Air 换用 OLED 面板。据报道，新款 iPad Air 预计将采用与 OLED iPad mini 相同的单层 OLED 发光结构，以及低温多晶硅（LTPS）背板技术。相比之下，现款 iPad Pro 使用双层 OLED 发光结构，以提升屏幕亮度，采用低温多晶氧化物（LTPO）背板技术。此外，OLED 版 iPad Air 预计仍将采用 60Hz 刷新率，不会支持 ProMotion 技术，这项功能将继续作为 iPad Pro 系列的专属卖点。供应链方面，三星显示预计将",
-        "pubDate": "2026-11-10T14:30:34+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "国漫《浪浪山小妖怪》获第 39 届中国电影金鸡奖最佳动画片奖",
-        "link": "https://www.ithome.com/1/025/178.htm",
-        "summary": "IT之家 11 月 10 日消息，国产动画电影《浪浪山小妖怪》今日宣布，本片获第 39 届中国电影金鸡奖“最佳动画片”奖。电影《浪浪山小妖怪》在去年暑期档电影中成功破圈。该片票房已突破 17.19 亿元，成为中国影史二维动画电影票房冠军。截至IT之家发文，该影片的豆瓣评分为 8.5 分。IT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！延伸阅读第 39 届中国电影金鸡奖颁奖典礼于 2026 年 11 月 10 日在福建省厦门市举行，2026 年中国金鸡百花电影节于 11 月 6 日至 11 月 10 日在厦门举办。本届金鸡奖将原“最佳美术片",
-        "pubDate": "2026-11-10T14:28:20+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "Adobe Creative Cloud 向第三方智能体大开城门，未来让 AI 帮你本地修图剪片",
-        "link": "https://www.ithome.com/1/025/177.htm",
-        "summary": "IT之家 11 月 10 日消息，在今天（10 日）于迈阿密举行的 Adobe MAX 大会上，Adobe 公布了一系列新功能：第三方 AI 智能体能直接访问和修改 Creative Cloud 项目、升级 Firefly AI 助手，支持智能体在后台持续处理定期任务。Adobe 在大会上展示了 Creative Cloud 的本地模型上下文协议（MCP）接入功能。用户不必局限于 Adobe 自己的 AI 助手，还可以调用日常使用的第三方智能体。通过 MCP，OpenAI、谷歌和 Anthropic 等公司的 AI 智能体可以直接在本地操作 Photoshop、Illustrator、Prem",
-        "pubDate": "2026-11-10T14:27:55+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "独立双系统：美的 575L 法式门双变频大冰箱京东 1868 元直降",
-        "link": "https://www.ithome.com/1/025/176.htm",
-        "summary": "美的 · 双系统法式门冰箱 575L 日常 3900 元左右，今晚京东自营直降至 1868 元好价：京东美的 双系统法式门冰箱 575L 券后 1878 元领 9 折券京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：点此抽取。冷冻室容积 211L，冷藏室容积 364L，合计 575L。独立双系统，减少串味真保鲜。支持连接美的美居 App，智慧保鲜自动调温。京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包。",
-        "pubDate": "2026-11-10T14:24:13+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "阿维塔副总裁雍军声明“坚决不造速成车”：车一旦速成，一个家庭没了的可能性就会增大",
-        "link": "https://www.ithome.com/1/025/175.htm",
-        "summary": "IT之家 11 月 10 日消息，阿维塔科技副总裁雍军今日发文，揭秘了直播中提及的价值 6 个亿的「废车场」具体所指：这些战损车，对阿维塔来说非常重要。不仅是因为这些车不便宜，更有一个共同点是：都不能卖给受众。因为在交到用户手里之前，每一台车都要经历大量严苛的测试。从整车耐久、高温、低温，到强化腐蚀、复杂路面冲击、涉水、碰撞安全、无框车门开合耐久... 等多项测试。有些车要经历「两冬两夏」，有些车要在极寒、极热环境下反复验证，有些车要跑几十万公里，有些车甚至要经历破坏性测试。说实话，这些投入确实不小，甚至有些测试，做完车就报废了。雍军表示，汽车研发没有捷径，研发测试的钱一分都不能省。阿维塔坚决",
-        "pubDate": "2026-11-10T14:20:54+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "育碧《舞力全开：传世金曲》登陆任天堂 Switch 2 平台：收录跨六十年金曲，5610 日元",
-        "link": "https://www.ithome.com/1/025/174.htm",
-        "summary": "IT之家 11 月 10 日消息，育碧舞力全开系列最新作《舞力全开：传世金曲（Just Dance: Decades of Hits）》现已正式登陆任天堂 Switch 2 平台，以 eShop 日服为例，本作定价为 5,610 日元（IT之家注：现汇率约合 237.2 元人民币），IT之家附游戏商品页（https://store-jp.nintendo.com/item/software/D70070000037871）。本作收录 35 首歌曲，横跨 20 世纪 70 年代至 2020 年代六个十年。官方公布的部分曲目包括 ABBA 的《Mamma Mia》、Billy Joel 的《Upt",
-        "pubDate": "2026-11-10T14:16:27+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
-        "link": "https://www.ithome.com/1/022/679.htm",
-        "summary": "百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。到手共 15 个月，折合 13.1 元 / 月、157 元 / 年：京东百度网盘 SVIP 超级会员 15 月卡券后 196 元领 10 元券百度网盘超级会员年卡 + B站大会员季卡 + 网易云音乐月卡今日折后仅需 176 元，也是好价。如果把百度年卡算作 157 元，B站季卡 + 网易云音乐月卡仅需 19 元：京东百度网盘 SVIP 超级会员年卡加赠B站季卡 + 网易云音乐月卡券后 176 元领 10 元券注：现购买权益时长 + 已有权益时长，不能超过 5 年，否则会充值失败。购买前需在百度网盘",
-        "pubDate": "2026-11-05T05:56:55+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "中国首部 8K 拍摄太空电影《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖",
-        "link": "https://www.ithome.com/1/025/172.htm",
-        "summary": "IT之家 11 月 10 日消息，据央视新闻今日报道，中国首部 8K 拍摄太空电影 ——《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖。IT之家注：《窗外是蓝星》是首部挂总台电影台标并登陆全国院线的电影，于去年 9 月 5 日全国公映。本片由总台影视剧纪录片中心导演朱翌冉执导，翟志刚、王亚平、叶光富三位神舟十三号航天员作为摄影师，在中国空间站拍摄。故事以神舟十三号飞行乘组首次执行在轨驻留 6 个月任务为蓝本，向观众呈现一场充满中国式太空美学的旅程。影片在中国空间站舱内以全新的拍摄模式完成，通过在轨航天员团队与地球主创团队的共同协作努力，以航天员的视角让影片呈现出独特张力。作为",
-        "pubDate": "2026-11-10T14:12:08+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "西门子 CEO 博乐仁：AI 不会取代人类，会用 AI 的人却能取代不会用 AI 的人",
-        "link": "https://www.ithome.com/1/025/170.htm",
-        "summary": "IT之家 11 月 10 日消息，据日经亚洲今天（10 日）下午报道，西门子 CEO 博乐仁认为，AI 不会直接取代人类，但会使用 AI 的人将越来越多地取代不会使用 AI 的人。随着企业开始思考 AI 将如何改变就业市场和岗位技能要求，掌握 AI 技术的重要性日益凸显。博乐仁认为，随着自动化和机器人技术的发展，大量体力劳动将被取代，但拥有创造力、具备电气工程或机械工程等专业基础知识的人仍有用武之地。他解释道：“设计编程可以交给 AI 智能体，但应该设计成什么样、具体要求该怎么定，我认为人类在这些方面仍远远领先于现有模型。所有大型 AI 模型本质上都是模式匹配工具…… 现有模型并不具备真正的创",
-        "pubDate": "2026-11-10T14:09:16+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
-        "link": "https://www.ithome.com/1/025/169.htm",
-        "summary": "格兰仕 DR 空气炸变频微波炉上市售价 2499 元，今日京东自营直降至 449 元。先领 8 折券：点此领券点击下方卡片 → 点击宝贝右上方“直播浮窗”→ 进入直播间下单下单时选择“以旧换新” → 个护健康 → 电动牙刷（不回收）实付 549 元直播间下单返 30 元 E 卡 + 晒单返 50 元 E 卡 + 小红书种草返 20 元 E 卡（详询客服），合计返 100 元 E 卡，返卡后低至 449 元。京东格兰仕 25L 微波炉宇宙厨房系列以旧换新 549 元领 8.5 折券京东 PLUS 会员可领 800-80 元专享券：点此查看（需 2 积分明日 10 点、20 点抢），券后仅需 48",
-        "pubDate": "2026-11-10T14:03:02+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -2857,7 +2957,7 @@
         "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
         "link": "https://www.iplaysoft.com/1111.html",
         "summary": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
-        "pubDate": "2026-10-15T12:00:48+00:00",
+        "pubDate": "2026-11-10T21:00:48+00:00",
         "author": "",
         "feedTitle": "异次元软件世界",
         "feedName": "异次元软件",
