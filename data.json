@@ -1,212 +1,222 @@
 {
-  "updated": "2026-11-14T16:26:34.690869+00:00",
+  "updated": "2026-11-14T22:08:53.561615+00:00",
   "summary": {
     "total": 78,
-    "success": 32,
-    "fail": 46,
-    "total_articles": 366
+    "success": 31,
+    "fail": 47,
+    "total_articles": 368
   },
   "articles": {
     "hot": [
       {
-        "title": "花1千6买的北面冲锋衣有浓烈香水味 热度：3141526",
-        "link": "https://www.baidu.com/s?wd=%E8%8A%B11%E5%8D%836%E4%B9%B0%E7%9A%84%E5%8C%97%E9%9D%A2%E5%86%B2%E9%94%8B%E8%A1%A3%E6%9C%89%E6%B5%93%E7%83%88%E9%A6%99%E6%B0%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，一女子花费1593.3元在电商平台北面旗舰店购买全新冲锋衣，拆包后却发现口袋里有陌生人的身份证，衣服还有明显穿着痕迹和浓烈香水味。客服称商品均...",
-        "pubDate": "2026-11-14T20:02:05+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《持械入宋》第11季将播出 热度：3234739",
-        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E7%AC%AC11%E5%AD%A3%E5%B0%86%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "截至目前，草根团队制作的AI穿越短剧《持械入宋》全网播放量已突破120亿次，成为现象级作品。全剧至今已更新约1000集，累计收藏超1100万，11月...",
-        "pubDate": "2026-11-14T20:02:04+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "金价较年内最高点跌超500元 热度：3308948",
-        "link": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BE%83%E5%B9%B4%E5%86%85%E6%9C%80%E9%AB%98%E7%82%B9%E8%B7%8C%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "Meta被意大利罚款8.05亿欧元 热度：3202536",
+        "link": "https://www.baidu.com/s?wd=Meta%E8%A2%AB%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BD%9A%E6%AC%BE8.05%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-11-14T20:02:04+08:00",
+        "pubDate": "2026-11-15T05:01:32+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "在美华人称已在机场等候超5小时 热度：3409073",
-        "link": "https://www.baidu.com/s?wd=%E5%9C%A8%E7%BE%8E%E5%8D%8E%E4%BA%BA%E7%A7%B0%E5%B7%B2%E5%9C%A8%E6%9C%BA%E5%9C%BA%E7%AD%89%E5%80%99%E8%B6%855%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "国乒WTT伊斯坦布尔站无人晋级决赛 热度：3485150",
+        "link": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92WTT%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E7%AB%99%E6%97%A0%E4%BA%BA%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间11月14日晚，在WTT伊斯坦布尔常规挑战赛单打1/4决赛中，中国男队李天阳、女队纵歌曼均以2比3负于对手。至此，中国队在5个项目中全部出局...",
+        "pubDate": "2026-11-15T05:01:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "WB捧起圣龙杯 热度：3677215",
+        "link": "https://www.baidu.com/s?wd=WB%E6%8D%A7%E8%B5%B7%E5%9C%A3%E9%BE%99%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月14日，2026KPL年度总决赛迎来巅峰对决，对阵双方为北京JDG与北京WB。最终北京WB4-3击败北京JDG，问鼎2026KPL年度总冠军，...",
+        "pubDate": "2026-11-15T05:01:32+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "中美竞争人工智能欧洲为何焦虑 热度：3905855",
+        "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E7%AB%9E%E4%BA%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AC%A7%E6%B4%B2%E4%B8%BA%E4%BD%95%E7%84%A6%E8%99%91&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-11-14T20:02:04+08:00",
+        "pubDate": "2026-11-15T05:01:31+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "国产独游又出了款冷门黑马 热度：3499734",
-        "link": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%8B%AC%E6%B8%B8%E5%8F%88%E5%87%BA%E4%BA%86%E6%AC%BE%E5%86%B7%E9%97%A8%E9%BB%91%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "2026年10月，单人开发的国产独游《地渊珠宝匠》试玩版上线，目前在Steam获特别好评，愿望单达17万，入围indiePlay最佳设计。",
-        "pubDate": "2026-11-14T20:02:03+08:00",
+        "title": "老林：喜欢北京WB不让你们吃亏 热度：4191202",
+        "link": "https://www.baidu.com/s?wd=%E8%80%81%E6%9E%97%EF%BC%9A%E5%96%9C%E6%AC%A2%E5%8C%97%E4%BA%ACWB%E4%B8%8D%E8%AE%A9%E4%BD%A0%E4%BB%AC%E5%90%83%E4%BA%8F&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "‌11月14日晚，2026年KPL年度总决赛决赛中，北京WB4-3力克北京JDG，夺得冠军。赛后，北京WB主教练‌老林哽咽发声：喜欢北京WB不让你们...",
+        "pubDate": "2026-11-15T05:01:31+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "90后女老师转行汽修门店年营收千万 热度：3611609",
-        "link": "https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%BD%AC%E8%A1%8C%E6%B1%BD%E4%BF%AE+%E9%97%A8%E5%BA%97%E5%B9%B4%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "武汉90后教师王一诺30岁后跨界汽修，零基础创业。历经5年，其经营的两家门店年营收突破1000万元，实现从讲台到汽修车间的身份跨越。",
-        "pubDate": "2026-11-14T20:02:03+08:00",
+        "title": "KPL总决赛周深开场高音绝了 热度：4454999",
+        "link": "https://www.baidu.com/s?wd=KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%91%A8%E6%B7%B1%E5%BC%80%E5%9C%BA%E9%AB%98%E9%9F%B3%E7%BB%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月14日晚，2026KPL总决赛，北京JDG对阵北京WB，歌手周深亮相总决赛并献唱，开场高音绝了。",
+        "pubDate": "2026-11-15T05:01:30+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "金世佳回应拒上综艺 热度：3684577",
-        "link": "https://www.baidu.com/s?wd=%E9%87%91%E4%B8%96%E4%BD%B3%E5%9B%9E%E5%BA%94%E6%8B%92%E4%B8%8A%E7%BB%BC%E8%89%BA&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月14日报道，金世佳回应拒上综艺原因，称演戏只是工作，没必要在真实生活中与观众相见，划清了演员工作与私生活的边界。",
-        "pubDate": "2026-11-14T20:02:03+08:00",
+        "title": "泽连斯基：美曾建议乌割领土加入北约 热度：4561637",
+        "link": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E7%BE%8E%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B9%8C%E5%89%B2%E9%A2%86%E5%9C%9F%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "11月14日，乌总统泽连斯基表示，美国曾询问乌克兰是否愿放弃顿巴斯地区以换取北约成员国资格。泽连斯基重申不会放弃领土，并称加入北约话题已“重新回到议...",
+        "pubDate": "2026-11-15T05:01:30+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "点进这类链接请立即断网 热度：3774499",
-        "link": "https://www.baidu.com/s?wd=%E7%82%B9%E8%BF%9B%E8%BF%99%E7%B1%BB%E9%93%BE%E6%8E%A5+%E8%AF%B7%E7%AB%8B%E5%8D%B3%E6%96%AD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月以来，北京警方通报虚假“车辆召回”类诈骗多发。诈骗分子冒充车企客服发召回短信，诱导车主点击链接及屏幕共享转账。车主张女士轻信“线上理赔”被转走...",
-        "pubDate": "2026-11-14T20:02:02+08:00",
+        "title": "吃饭打包丢脸吗？语文题被打叉引热议 热度：4651955",
+        "link": "https://www.baidu.com/s?wd=%E5%90%83%E9%A5%AD%E6%89%93%E5%8C%85%E4%B8%A2%E8%84%B8%E5%90%97%EF%BC%9F%E8%AF%AD%E6%96%87%E9%A2%98%E8%A2%AB%E6%89%93%E5%8F%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "杭州一名三年级学生因写“吃饭不必打包，觉得丢脸”被语文题打叉，引发家长热议。老师称题目旨在引导节俭，语文表达可多元，但价值观应有方向。",
+        "pubDate": "2026-11-15T05:01:29+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "一袋垃圾能给手机充电50次 热度：3905879",
-        "link": "https://www.baidu.com/s?wd=%E4%B8%80%E8%A2%8B%E5%9E%83%E5%9C%BE%E8%83%BD%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B550%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "今年以来，深圳一座将垃圾变电能的园区已接待1200多名境外访客考察打卡。在深圳，一袋生活垃圾可转化为电能将手机充满50次，焚烧一抓斗垃圾的发电量够一...",
-        "pubDate": "2026-11-14T20:02:02+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "帆布鞋不那么香了 热度：3978564",
-        "link": "https://www.baidu.com/s?wd=%E5%B8%86%E5%B8%83%E9%9E%8B%E4%B8%8D%E9%82%A3%E4%B9%88%E9%A6%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，数据显示匡威2026财年营收同比下滑31%，Vans二季度全球收入下降约8%，帆布鞋不再受热捧。起因是市场环境高度细分，消费者习惯趋理性务实，...",
-        "pubDate": "2026-11-14T20:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "白小纯太敢说了 热度：4097387",
-        "link": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A4%AA%E6%95%A2%E8%AF%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，白小纯在节目上自曝在天霸未受公平对待，直指青雉是天霸“太子爷”。此番言论炸响电竞圈，网友直呼其魄力强大引发热议。",
-        "pubDate": "2026-11-14T20:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "央视曝光后桂林抢修天桥扶梯 热度：4185712",
-        "link": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E%E6%A1%82%E6%9E%97%E6%8A%A2%E4%BF%AE%E5%A4%A9%E6%A1%A5%E6%89%B6%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月12日，央视曝光桂林多座人行天桥扶梯停运后，当地迅速开展抢修。截至当日17时，已有14部扶梯恢复运行，剩余扶梯将按既定时限推进维修，力争尽早恢...",
-        "pubDate": "2026-11-14T20:02:01+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "《后会友期》市占率碾压式吸干大盘 热度：4274269",
-        "link": "https://www.baidu.com/s?wd=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%B8%82%E5%8D%A0%E7%8E%87+%E7%A2%BE%E5%8E%8B%E5%BC%8F%E5%90%B8%E5%B9%B2%E5%A4%A7%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "本周，综艺《后会友期》数据再创新高，新增市占率达94.6%，热综市占率高达64%。该节目不仅几乎吸干综艺大盘，热度连同期电视剧都望尘莫及，甚至迫使顶...",
-        "pubDate": "2026-11-14T20:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "领导淋雨讲话学生台下撑伞听 热度：4381573",
-        "link": "https://www.baidu.com/s?wd=%E9%A2%86%E5%AF%BC%E6%B7%8B%E9%9B%A8%E8%AE%B2%E8%AF%9D+%E5%AD%A6%E7%94%9F%E5%8F%B0%E4%B8%8B%E6%92%91%E4%BC%9E%E5%90%AC&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月14日，广西北部湾大学保卫处处长回应“军训大会领导淋雨讲话学生撑伞”属实。此前，11月13日该校举行军训总结大会时突降暴雨，台上4位领导未撑雨...",
-        "pubDate": "2026-11-14T20:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "82岁老太太徒步8小时登顶三峡之巅 热度：4473513",
-        "link": "https://www.baidu.com/s?wd=82%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E5%BE%92%E6%AD%A58%E5%B0%8F%E6%97%B6%E7%99%BB%E9%A1%B6%E4%B8%89%E5%B3%A1%E4%B9%8B%E5%B7%85&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月12日，重庆奉节一位82岁老太太坚持徒步8小时，登上海拔1388米的三峡之巅。途中腿部一度抽筋，景区蓝天救援队队员全程搀扶陪同，登顶后还获赠一...",
-        "pubDate": "2026-11-14T20:02:00+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "男子勒死妻子后自杀此前曾砍伤妻子 热度：4555390",
-        "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8B%92%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%90%8E%E8%87%AA%E6%9D%80+%E6%AD%A4%E5%89%8D%E6%9B%BE%E7%A0%8D%E4%BC%A4%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，山西太原一男子持菜刀砍伤妻子及岳母，致两人均构成轻伤二级，检察院作出不予批捕决定，男子随后被取保候审。不久后，男子在家中勒死妻子并自杀，家属要...",
-        "pubDate": "2026-11-14T20:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "辅警多次在派出所内盗窃获刑四年 热度：4657836",
-        "link": "https://www.baidu.com/s?wd=%E8%BE%85%E8%AD%A6%E5%A4%9A%E6%AC%A1%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%86%85%E7%9B%97%E7%AA%83+%E8%8E%B7%E5%88%91%E5%9B%9B%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "95后辅警祁某在派出所值班期间，多次盗走被扣押财物，含价值30余万劳力士等，并转走他人12.5万余元。因祁某主动投案、认罪认罚及家属退赔18万，法院...",
-        "pubDate": "2026-11-14T20:01:59+08:00",
-        "author": "",
-        "feedTitle": "百度实时热点",
-        "feedName": "百度热搜",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "哈尔滨手机店挂满锦旗 热度：4754270",
-        "link": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%89%8B%E6%9C%BA%E5%BA%97%E6%8C%82%E6%BB%A1%E9%94%A6%E6%97%97&sa=fyb_news&rsv_dl=fyb_news",
+        "title": "女子斑马线神反应躲过飞驰小车 热度：4761921",
+        "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%91%E9%A9%AC%E7%BA%BF%E7%A5%9E%E5%8F%8D%E5%BA%94%E8%BA%B2%E8%BF%87%E9%A3%9E%E9%A9%B0%E5%B0%8F%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
         "summary": "",
-        "pubDate": "2026-11-14T20:01:58+08:00",
+        "pubDate": "2026-11-15T05:01:29+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "啄木鸟离职工人：被逼着跟客户多要钱 热度：4839808",
-        "link": "https://www.baidu.com/s?wd=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%A6%BB%E8%81%8C%E5%B7%A5%E4%BA%BA%EF%BC%9A%E8%A2%AB%E9%80%BC%E7%9D%80%E8%B7%9F%E5%AE%A2%E6%88%B7%E5%A4%9A%E8%A6%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "11月13日，多位啄木鸟前维修工人爆料平台考核严苛，逼迫师傅“小病乱修”。随后暗访发现，多家上门维修平台涉嫌“无病乱修”，如拔开阀门谎报故障收费24...",
-        "pubDate": "2026-11-14T20:01:58+08:00",
+        "title": "泰安罕见病家庭救命药正式进医保 热度：4930671",
+        "link": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E7%BD%95%E8%A7%81%E7%97%85%E5%AE%B6%E5%BA%AD%E6%95%91%E5%91%BD%E8%8D%AF%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-15T05:01:29+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
       },
       {
-        "title": "乌对俄发动近5年来最大规模空袭 热度：4945741",
-        "link": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%AF%B9%E4%BF%84%E5%8F%91%E5%8A%A8%E8%BF%915%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
-        "summary": "近日，乌克兰向俄罗斯目标发动大规模无人机袭击，俄方称一夜拦截并摧毁1198架无人机，涉及俄罗斯17个地区及莫斯科周边，造成多人伤亡，多处工业设施和炼...",
-        "pubDate": "2026-11-14T20:01:58+08:00",
+        "title": "S16开幕式拉完了 热度：5213931",
+        "link": "https://www.baidu.com/s?wd=S16%E5%BC%80%E5%B9%95%E5%BC%8F+%E6%8B%89%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "日前，有网友吐槽S16开幕式表演“拉完了”。对比S8、S9时期的史诗感，直言今年开幕式情怀滤镜尽碎，是“工业糖精”，建议观众不如直接看BP和比赛。",
+        "pubDate": "2026-11-15T05:01:28+08:00",
         "author": "",
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": "KDA新歌 热度：5991318",
+        "link": "https://www.baidu.com/s?wd=KDA%E6%96%B0%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间11月15日凌晨，英雄联盟S16总决赛在纽约开战，虚拟女团KDA时隔六年携新EP《FIRESTARTER》登台开幕式，助战GEN对阵BLG。",
+        "pubDate": "2026-11-15T05:01:28+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "LPL战队都在为BLG加油 热度：6085966",
+        "link": "https://www.baidu.com/s?wd=LPL%E6%88%98%E9%98%9F%E9%83%BD%E5%9C%A8%E4%B8%BABLG%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，LNG、JDG、WE等所有LPL战队纷纷发文为BLG应援。起因是BLG将在英雄联盟全球总决赛最后的舞台出战，昔日赛场上针锋相对的对手在赛区面前...",
+        "pubDate": "2026-11-15T05:01:27+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "BLGViper：想让Ruler再感受一次遗憾 热度：6176547",
+        "link": "https://www.baidu.com/s?wd=BLG+Viper%EF%BC%9A%E6%83%B3%E8%AE%A9Ruler%E5%86%8D%E6%84%9F%E5%8F%97%E4%B8%80%E6%AC%A1%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间11月15日凌晨，英雄联盟S16总决赛GEN对阵BLG赛前，BLG选手Viper接受采访。Viper称，对Ruler曾经的感受很遗憾，但这次...",
+        "pubDate": "2026-11-15T05:01:27+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "龚俊为BLG加油 热度：6948332",
+        "link": "https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E4%B8%BABLG%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "北京时间11月15日凌晨，2026英雄联盟全球总决赛决赛打响。明星龚俊发声为晋级决赛的BLG战队助威，他表示“一路打到这里真的太不容易了”，并祝愿B...",
+        "pubDate": "2026-11-15T05:01:27+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "左手隐身ON打得太急 热度：7236078",
+        "link": "https://www.baidu.com/s?wd=%E5%B7%A6%E6%89%8B%E9%9A%90%E8%BA%AB+ON%E6%89%93%E5%BE%97%E5%A4%AA%E6%80%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "在2026全球总决赛决赛中，BLG首局0-1不敌GEN。赛前国内主播全部预测BLG能夺冠。比赛中BLG前期曾取得优势，但因ON开团太急及上单存在差距...",
+        "pubDate": "2026-11-15T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "BLG拿了龙魂输了团战 热度：7427187",
+        "link": "https://www.baidu.com/s?wd=BLG%E6%8B%BF%E4%BA%86%E9%BE%99%E9%AD%82%E8%BE%93%E4%BA%86%E5%9B%A2%E6%88%98&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "在英雄联盟S16全球总决赛首局中，BLG不敌GEN。BLG虽拿到电龙魂，但低估了GEN双Poke阵容在后期资源团的统治力，且下路组合在受限地形下难输...",
+        "pubDate": "2026-11-15T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "S16总决赛：BLG0比1落后GEN 热度：7808794",
+        "link": "https://www.baidu.com/s?wd=S16%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9ABLG0%E6%AF%941%E8%90%BD%E5%90%8EGEN&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "",
+        "pubDate": "2026-11-15T05:01:26+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "在“一半青涩一半纯真”BGM里住下了 热度：3142110",
+        "link": "https://www.baidu.com/s?wd=%E5%9C%A8%E2%80%9C%E4%B8%80%E5%8D%8A%E9%9D%92%E6%B6%A9%E4%B8%80%E5%8D%8A%E7%BA%AF%E7%9C%9F%E2%80%9DBGM%E9%87%8C%E4%BD%8F%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，董真演唱的《繁花》因歌词“一半青涩一半纯真”受到关注，不少网友将其作为视频BGM，搭配青春回忆、人物变化等画面，熟悉的旋律配上温柔的歌词，让人...",
+        "pubDate": "2026-11-15T00:02:04+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "导演：作品没做好不能赖短剧和AI 热度：3217805",
+        "link": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%BD%9C%E5%93%81%E6%B2%A1%E5%81%9A%E5%A5%BD%E4%B8%8D%E8%83%BD%E8%B5%96%E7%9F%AD%E5%89%A7%E5%92%8CAI&sa=fyb_news&rsv_dl=fyb_news",
+        "summary": "近日，第35届飞天奖优秀导演奖获得者刘家成表示，不能将作品没做好归咎于短剧和AI。他认为短剧和AI有其价值与功能，犹如快餐与大餐互不伤害。创作者应做...",
+        "pubDate": "2026-11-15T00:02:03+08:00",
+        "author": "",
+        "feedTitle": "百度实时热点",
+        "feedName": "百度热搜",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 德国本土的汽车工业正在经历一次大收缩 ",
+        "link": "https://www.huxiu.com/article/4905659.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室2025年，德国生产了414.9万辆乘用车，同比增长2%。整车产量连续第三年维持在410万辆以上，零部件行业却在大规模裁员。德国汽车工业协会VDA在2025年10月公布的一份调查，揭示了两者之间的反差。158家受访汽车供应商及中型制造企业中，77%遭遇严重订单短缺，创下该系列调查的最高纪录。80%准备推迟、转移或取消德国境内投资，其中28%计划将投资搬到海外。2026年6月，VDA再次调查116家企业，67%准备调整德国投资，54%正在德国裁员。其中，44%一边削减德国岗位，一边在海外招聘。德国汽车企业仍然在全球生产和销售汽车，供应商的新",
+        "pubDate": "2026-11-15T00:23:47+08:00",
+        "author": " 汽车财报 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 杀疯了的恋陪剧本杀 ",
@@ -2034,6 +2044,16 @@
         "feedColor": "#7cff7c"
       },
       {
+        "title": " 德国本土的汽车工业正在经历一次大收缩 ",
+        "link": "https://www.huxiu.com/article/4905659.html?f=rss",
+        "summary": " 本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室2025年，德国生产了414.9万辆乘用车，同比增长2%。整车产量连续第三年维持在410万辆以上，零部件行业却在大规模裁员。德国汽车工业协会VDA在2025年10月公布的一份调查，揭示了两者之间的反差。158家受访汽车供应商及中型制造企业中，77%遭遇严重订单短缺，创下该系列调查的最高纪录。80%准备推迟、转移或取消德国境内投资，其中28%计划将投资搬到海外。2026年6月，VDA再次调查116家企业，67%准备调整德国投资，54%正在德国裁员。其中，44%一边削减德国岗位，一边在海外招聘。德国汽车企业仍然在全球生产和销售汽车，供应商的新",
+        "pubDate": "2026-11-15T00:23:47+08:00",
+        "author": " 汽车财报 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
         "title": " 杀疯了的恋陪剧本杀 ",
         "link": "https://www.huxiu.com/article/4905657.html?f=rss",
         "summary": " 本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣先来看笔账单。上海一位年轻姑娘，半年里在同一家剧本杀剧场“打榜”，花掉近40万元。这笔钱换不来任何实物：她买下的是一场“恋陪”——剧场里有一位演员，专门根据特定剧本扮演爱她的那个人。告诉我这个故事的人叫佳奈，留美归国，玩剧本杀已有七年，花钱的是她的朋友小王。没几天，做品牌广告的朋友Yvonne也提起，想去体验恋陪剧本杀或RPG剧场《幽州》。可我们研究预约时，先被黑话、组局和选角规则拦在门外。后来我在大众点评搜了一圈：普通体验并不难找，难约的是热门演员和热门场次。为弄懂这门生意，我找了三位身处不同位置的亲历者：资深玩家但普通消费者佳奈；2020年入",
@@ -2456,7 +2476,7 @@
       {
         "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
         "link": "https://www.ithome.com/1/027/247.htm",
-        "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但我从来没有怀疑过他会兑现承诺。”据IT之家了解，就在昨天，马斯克发文回应网友关于“约 1600 名英伟达员工呼吁黄仁勋回归”的推文：一项要求让黄仁勋复职的请愿正在进行，我也会签署。相关阅读：《马斯克声援黄仁勋：",
+        "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但在他兑现承诺这件事上，我从来没有怀疑过。”据IT之家了解，就在昨天，马斯克发文回应网友关于“约 1600 名英伟达员工呼吁黄仁勋回归”的推文：一项要求让黄仁勋复职的请愿正在进行，我也会签署。相关阅读：《马斯克声",
         "pubDate": "2026-11-14T15:28:14+00:00",
         "author": "",
         "feedTitle": "IT之家",
