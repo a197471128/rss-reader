@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T17:40:35.766502+00:00",
+  "updated": "2026-11-22T23:23:27.944919+00:00",
   "summary": {
     "total": 78,
     "success": 32,
     "fail": 46,
-    "total_articles": 373
+    "total_articles": 377
   },
   "articles": {
     "hot": [
@@ -207,6 +207,26 @@
         "feedTitle": "百度实时热点",
         "feedName": "百度热搜",
         "feedColor": "#7c9aff"
+      },
+      {
+        "title": " 我最近听到最有水平的两句话 ",
+        "link": "https://www.huxiu.com/article/4907013.html?f=rss",
+        "summary": " 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实：我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。情绪本来是向外的，我们却拿它对内审判自己。想法本来是向内的，我们却急着把它",
+        "pubDate": "2026-11-23T07:18:40+08:00",
+        "author": " 缸脑Preston ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 腾讯到最危险的时刻了？ ",
+        "link": "https://www.huxiu.com/article/4906811.html?f=rss",
+        "summary": " 出品｜虎嗅黄青春频道作者｜商业消费主笔&nbsp;黄青春题图｜视觉中国一周前，马化腾撂下&ldquo;生死存亡&rdquo;四个字警示腾讯当下处境，措辞之激烈为 28 年罕见：&ldquo;远处的浪潮已经吞没一个个山丘，你不能还坐着欣赏。要着急、站起来，准备新打法，找到高地，搬物资、上船，从陆战转海战。过去 28 年的存在，就为今天可以投入这样一个改变世界的技术潮流。&rdquo;话音刚落，2026Q3 财报就把这份危机感砸在了纸面上，核心数据全面承压，转型直接击穿了利润表：季度营收同比增长 8% 至 2073.36 亿元，增速较上季度放缓、低于市场预期；Non-IFRS 经营利润同比减少 ",
+        "pubDate": "2026-11-23T07:07:07+08:00",
+        "author": " 黄青春 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 递归自我改进：AI 已经走到了哪一步？ ",
@@ -1661,6 +1681,66 @@
         "feedColor": "#7cfff0"
       },
       {
+        "title": "古特雷斯发表声明 对COP31未就政治决定达成一致表示失望",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml",
+        "summary": "\n　　中新网11月23日电 据联合国官网消息，当地时间22日，联合国秘书长古特雷斯发表声明，对《联合国气候变化框架公约》第三十一次缔约方大会(COP31)未能就政治决定达成一致表示失望。",
+        "pubDate": "2026-11-23T07:10:29+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "11月23日新闻夜读",
+        "link": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml",
+        "summary": "",
+        "pubDate": "2026-11-23T06:55:54+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
+        "summary": "\n　　中新网11月23日电 据美国有线电视新闻网(CNN)等美媒报道，美国达美航空公司技术系统出现故障，导致当地时间22日该公司的航班在全美出现大量延误。该公司当天下午表示，其技术系统问题已得到解决。",
+        "pubDate": "2026-11-23T06:47:58+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736221.shtml",
+        "summary": "\n　　当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。",
+        "pubDate": "2026-11-23T06:39:07+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "是什么让多国紧急关停大批政企网络？国家安全部提示",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml",
+        "summary": "\n　　是什么，让多国紧急关停大批政企网络？",
+        "pubDate": "2026-11-23T06:37:41+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
+        "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
+        "summary": "\n　　随着气温持续走低，您家里的暖气热起来了吗？作为我国南方首个核能供热示范工程所在地，浙江嘉兴海盐县本周正式开启供暖。而今年，当地“核能供暖版图”持续扩容，服务范围从居民小区、工业企业，进一步延伸至文旅酒店等，让“零碳暖流”覆盖更多场景。",
+        "pubDate": "2026-11-23T06:25:51+08:00",
+        "author": "",
+        "feedTitle": "中新网即时新闻",
+        "feedName": "中新网",
+        "feedColor": "#7cff7c"
+      },
+      {
         "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
         "link": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
         "summary": "\n　　中新社香港11月22日电 香港特区行政长官李家超22日向2026年香港特区选举委员会(简称“选委会”)界别分组一般选举当选委员致贺。他期望所有选委会委员秉持“爱国者治港”原则履职尽责，为“一国两制”实践行稳致远贡献力量。",
@@ -1799,70 +1879,20 @@
         "feedTitle": "中新网即时新闻",
         "feedName": "中新网",
         "feedColor": "#7cff7c"
-      },
-      {
-        "title": "毕马威发布能源转型新书 助企业明确自身角色",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
-        "summary": "\n　　中新网北京11月22日电 (记者 张素)近日发布的能源转型新书提出“定位—路径—资产重估—能力—底线”五层决策框架，旨在帮助企业明确自身在能源转型中的角色。",
-        "pubDate": "2026-11-22T20:57:55+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
-        "summary": "\n　　中新网拉萨11月22日电 (记者 贡桑拉姆)近日，西藏山南市扎囊县联合湖南省第十一批援藏工作队株洲组，举办全县首届农牧民淡季区外就业援藏专场招聘会。活动吸引68家用人单位参会，提供就业岗位770个，20名农牧民与用工单位达成就业意向。",
-        "pubDate": "2026-11-22T20:50:21+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "全国大学生文旅与会展竞赛吸引多国学子参赛",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
-        "summary": "\n　　中新网哈尔滨11月22日电 (韩竺夏)22日，第二十届全国大学生文化旅游与会展竞赛(全国高校商业精英挑战赛文旅与会展创新创业实践竞赛)总决赛精英赛(以下简称“竞赛”)在黑龙江财经学院落幕。",
-        "pubDate": "2026-11-22T20:50:03+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
-        "summary": "\n\n图为北京体育大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄\n\n图为中国海洋大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄\n\n图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄\n\n图为南开大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄\n\n图为比赛现场。中新社记者 张浪 摄\n\n图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄\n\n图为西南大学参赛选手冲线夺冠。中新社记者 张浪 摄\n\n图为中国海洋大学参赛选手完成比赛。中新社记者 张浪 摄\n\n图为比赛现场。中新社记者 张浪 摄",
-        "pubDate": "2026-11-22T20:48:33+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "光影绘山河 生态护拉萨",
-        "link": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
-        "summary": "\n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  \n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  \n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  \n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  \n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  \n\n图为当地市民观展。  中新社记者 贡嘎来松 摄  ",
-        "pubDate": "2026-11-22T20:47:27+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
-      },
-      {
-        "title": "“香港精神号”艺术涂装客机模型将亮相香港西九海滨",
-        "link": "https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
-        "summary": "\n　　中新网香港11月22日电 据香港西九文化区22日消息，香港西九海滨长廊将设置一架机身长达3米、披上“‘香港精神号’——80周年纪念版”艺术涂装的国泰航空波音777#8209;300ER客机模型。",
-        "pubDate": "2026-11-22T20:47:15+08:00",
-        "author": "",
-        "feedTitle": "中新网即时新闻",
-        "feedName": "中新网",
-        "feedColor": "#7cff7c"
       }
     ],
     "finance": [],
     "tech": [
+      {
+        "title": "Perplexity and Intelligence",
+        "link": "https://openai.com/index/perplexity-and-intelligence",
+        "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "pubDate": "2026-11-22T00:00:00+00:00",
+        "author": "",
+        "feedTitle": "OpenAI News",
+        "feedName": "OPENAI",
+        "feedColor": "#7cff7c"
+      },
       {
         "title": "Combatting adversarial distillation",
         "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -1904,9 +1934,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Explore the Codex Security Plugin",
-        "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+        "title": "Deploying Daybreak Red",
+        "link": "https://openai.com/business/learn/deploying-daybreak-red",
+        "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
         "pubDate": "2026-11-19T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1934,9 +1964,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Deploying Daybreak Red",
-        "link": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+        "title": "Explore the Codex Security Plugin",
+        "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
         "pubDate": "2026-11-19T00:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1954,9 +1984,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-        "link": "https://openai.com/business/customer-stories/sumitomo-life",
-        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "title": "Research acceleration: The jagged frontier",
+        "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
         "pubDate": "2026-11-18T08:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -1964,9 +1994,9 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Research acceleration: The jagged frontier",
-        "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "link": "https://openai.com/business/customer-stories/sumitomo-life",
+        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
         "pubDate": "2026-11-18T08:00:00+00:00",
         "author": "",
         "feedTitle": "OpenAI News",
@@ -2044,16 +2074,6 @@
         "feedColor": "#7cff7c"
       },
       {
-        "title": "Astra for Law leads in legal intelligence",
-        "link": "https://openai.com/index/astra-law-6-2",
-        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-        "pubDate": "2026-11-17T00:00:00+00:00",
-        "author": "",
-        "feedTitle": "OpenAI News",
-        "feedName": "OPENAI",
-        "feedColor": "#7cff7c"
-      },
-      {
         "title": "Introducing OpenAI for Chile",
         "link": "https://openai.com/index/introducing-openai-for-chile",
         "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
@@ -2062,6 +2082,26 @@
         "feedTitle": "OpenAI News",
         "feedName": "OPENAI",
         "feedColor": "#7cff7c"
+      },
+      {
+        "title": " 我最近听到最有水平的两句话 ",
+        "link": "https://www.huxiu.com/article/4907013.html?f=rss",
+        "summary": " 本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实：我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。情绪本来是向外的，我们却拿它对内审判自己。想法本来是向内的，我们却急着把它",
+        "pubDate": "2026-11-23T07:18:40+08:00",
+        "author": " 缸脑Preston ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
+      },
+      {
+        "title": " 腾讯到最危险的时刻了？ ",
+        "link": "https://www.huxiu.com/article/4906811.html?f=rss",
+        "summary": " 出品｜虎嗅黄青春频道作者｜商业消费主笔&nbsp;黄青春题图｜视觉中国一周前，马化腾撂下&ldquo;生死存亡&rdquo;四个字警示腾讯当下处境，措辞之激烈为 28 年罕见：&ldquo;远处的浪潮已经吞没一个个山丘，你不能还坐着欣赏。要着急、站起来，准备新打法，找到高地，搬物资、上船，从陆战转海战。过去 28 年的存在，就为今天可以投入这样一个改变世界的技术潮流。&rdquo;话音刚落，2026Q3 财报就把这份危机感砸在了纸面上，核心数据全面承压，转型直接击穿了利润表：季度营收同比增长 8% 至 2073.36 亿元，增速较上季度放缓、低于市场预期；Non-IFRS 经营利润同比减少 ",
+        "pubDate": "2026-11-23T07:07:07+08:00",
+        "author": " 黄青春 ",
+        "feedTitle": " 虎嗅 ",
+        "feedName": "虎嗅",
+        "feedColor": "#c97cff"
       },
       {
         "title": " 递归自我改进：AI 已经走到了哪一步？ ",
@@ -2514,6 +2554,56 @@
         "feedColor": "#ffd47c"
       },
       {
+        "title": "涉案金额超 3 亿元，北京查处首例区块链虚拟货币新型协助传销案",
+        "link": "https://www.ithome.com/1/030/723.htm",
+        "summary": "IT之家 11 月 23 日消息，据央视新闻今日报道，日前，北京首例利用区块链、虚拟货币技术为传销活动提供协助的违法案件被查处，涉案金额超 3 亿元人民币。据报道，涉案科技公司是某公链的外包服务商，提供运营、市场推广、交易所对接和维护等服务。该公链推出多款理财项目，兜售相关虚拟货币，以高额收益回报为诱饵，售出价值人民币超 3 亿元的虚拟货币。北京市海淀区市场监管综合执法大队执法人员胡日露表示，该公司光是质押母币的收益就已高达年化 20 个点以上，子币的收益可能更高，远远超过 20%。相关推荐会更多宣扬技术，“在技术水平的掩饰之下，会让大家觉得自己是在参与一个高科技企业的投资”。经多方调查取证，",
+        "pubDate": "2026-11-22T23:16:27+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "微软计划 2027 年将 Wi-Fi 驱动移出 Win11 内核，降低蓝屏风险",
+        "link": "https://www.ithome.com/1/030/722.htm",
+        "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，微软计划于 2027 年将 Wi-Fi 驱动从 Win11 内核迁移至用户模式，降低驱动程序故障导致整个系统崩溃的风险。这项调整是微软「驱动质量计划」（DQI）的一部分，旨在减少内核模式驱动的使用，提升 Win11 稳定性和安全性。微软 Windows 产品经理 Mehmet Kucukgoz 在 Ignite 2026 大会确认开发上述方案，预计 2027 年推出。作为参考，Windows 目前会将 Wi-Fi 驱动运行在内核模式下，一旦驱动出现兼容性问题或在系统更新后故障，就可能引发蓝屏。例如，英特尔 W",
+        "pubDate": "2026-11-22T23:14:13+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "郑州“7·6”火灾调查报告公布：非法改装电摩入户充电，锂电池爆燃引发事故致 5 人死亡",
+        "link": "https://www.ithome.com/1/030/721.htm",
+        "summary": "IT之家 11 月 23 日消息，郑州市消防救援支队于 11 月 20 日晚发布了《郑州市惠济区和昌珑悦小区“7·6”较大火灾事故调查报告》。郑州市人民政府事故调查组认定，这起造成 5 人死亡、1 人受伤的火灾，是一起由电动摩托车非法改装、违规进楼入户充电、锂电池热失控后爆燃直接引发的责任事故。事故过火面积约 15 平方米，直接经济损失 530.75 万元。调查显示，该电动摩托车（小牛 N Play）最初由商丘的刘某鸣（不满 14 岁）要求线下门店进行改装，此后经过四次私下转卖，于 2026 年 6 月 14 日转入代某辉（15 岁）手中。改装内容涉及电池与车辆电气系统，为后续的电池热失控埋下",
+        "pubDate": "2026-11-22T23:13:11+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+        "link": "https://www.ithome.com/1/030/720.htm",
+        "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 的对",
+        "pubDate": "2026-11-22T22:50:46+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
+        "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
+        "link": "https://www.ithome.com/1/030/719.htm",
+        "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。古尔曼认为，苹果在 AI Agent 竞争中面临的主要问题并非缺乏资金或技术资源，而是传统软硬件开发模式已经难以适应 AI 行业快速迭代的节奏。他指出，苹果过去依靠生态系统建立了竞争优势。用户在 iCloud 中存储邮件、联系人、照片和视频，同时通过",
+        "pubDate": "2026-11-22T22:42:26+00:00",
+        "author": "",
+        "feedTitle": "IT之家",
+        "feedName": "IT之家",
+        "feedColor": "#7c9aff"
+      },
+      {
         "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
         "link": "https://www.ithome.com/1/030/717.htm",
         "summary": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群，每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍。不过，这些数据来自基于 7 纳米工艺的模拟设计，Frostbite 尚未真正流片，因此还没有实际芯片可以验证。由于法律方面的原因，Arc",
@@ -2658,56 +2748,6 @@
         "link": "https://www.ithome.com/1/030/700.htm",
         "summary": "IT之家 11 月 22 日消息，贝尔金现已在京东上架新款 40W 单 USB-C 充电头，定价为 77 元。京东贝尔金 40W 充电头 77 元直达链接该产品采用柔和沙色配色，整体造型圆润，尺寸为 34x38x33mm，重量为 57g，匹配可折叠插脚，正面提供一个 USB-C 40W 接口，支持 PD 3.2 和 PPS 协议。IT之家附产品参数：",
         "pubDate": "2026-11-22T11:27:34+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
-        "link": "https://www.ithome.com/1/030/699.htm",
-        "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 Transformer 模型。在 486 电脑时代，普通 PC 格式化软盘的存储容量还不到 147.5 万字节，因此想要在如此有限的空间内运行现代 AI 软件并不",
-        "pubDate": "2026-11-22T11:24:43+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
-        "link": "https://www.ithome.com/1/030/698.htm",
-        "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片出货量的 20%。调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变，正是在供应链紧张与资料中心供电受限下所做的调整。另据韩媒 Chosun Biz 消息，谷歌正通过",
-        "pubDate": "2026-11-22T11:20:07+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速",
-        "link": "https://www.ithome.com/1/030/697.htm",
-        "summary": "IT之家 11 月 22 日消息，开发商 Supernova Games Studios 宣布旗下《神力科莎：拉力（Assetto Corsa Rally）》迎来 0.7 版本更新，新增瑞典拉力赛：包含 2 条独具特色的特殊赛段、14 种赛段布局，以及超过 30 公里经过高精度激光扫描测绘的雪地赛道。此外，本次更新还加入 1986 款 B 组蓝旗亚 Delta S4、由 Italtecnica 打造的 2021 款蓝旗亚 Delta S4 Evo2，以及 4 个全新赛事分组，共计 48 场全新赛事。价格方面，以 Steam 国区为例，本作定价为 128 元，8 折后到手价低至 102.4 元，",
-        "pubDate": "2026-11-22T11:18:30+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
-        "link": "https://www.ithome.com/1/030/696.htm",
-        "summary": "IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。据IT之家了解，Domino 由 Mumford &amp; Sons 乐队成员、本 · 洛维特（Ben Lovett）创立。网站原本希望通过 The Strokes 乐队、仓库派对等元素，重现威廉斯堡昔日的独立音乐文化。但网站上的 AI 生成图片却问题频出：不仅出现了一张从未真实举办过的 The Strokes 演唱会门票，还存在文字模糊、拼写错误等问题。图片上还",
-        "pubDate": "2026-11-22T11:13:03+00:00",
-        "author": "",
-        "feedTitle": "IT之家",
-        "feedName": "IT之家",
-        "feedColor": "#7c9aff"
-      },
-      {
-        "title": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年",
-        "link": "https://www.ithome.com/1/030/694.htm",
-        "summary": "IT之家 11 月 22 日消息，据格隆汇报道，在零跑汽车 2026 年 Q3 业绩电话会上，零跑汽车副总裁李腾飞谈及与欧宝车型合作时称，整体的 1 亿欧元（现汇率约合 7.34 亿元人民币）包含项目开发费及授权使用费等，整体收入确认贯穿今年底、明年初至项目量产、及量产后的 2 到 3 年，项目量产后还会有相关零部件的交易，核心零部件都会有零跑去提供。李腾飞指出，此次与欧宝的车型合作只是开端，标志着零跑与 Stellantis 集团迈入一个新的合作阶段，“类似这样的合作项目，我们还有多个项目在深入洽谈当中，有些项目商务谈判已到了最后的收官阶段。”据IT之家此前报道，11 月 20 日，零跑科技",
-        "pubDate": "2026-11-22T11:02:37+00:00",
         "author": "",
         "feedTitle": "IT之家",
         "feedName": "IT之家",
@@ -3548,6 +3588,176 @@
         "feedColor": "#c97cff"
       },
       {
+        "title": "锚定硬科技前沿，券商系股权基金密集落子",
+        "link": "https://www.jiemian.com/article/15359543.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:10:35+08:00",
+        "author": "jianli@jiemian.com(界面)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "微亿智造：拟全球发售3727.58万股H股，发售价不超15.69港元",
+        "link": "https://www.jiemian.com/article/15359544.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:10:16+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "以色列正直党与利库德集团组阁谈判未达成共识",
+        "link": "https://www.jiemian.com/article/15359538.html",
+        "summary": "当地时间11月22日，埃森科特领导的正直党与以色列看守政府总理内塔尼亚胡领导的利库德集团发表简短的联合声明称，两党谈判团队当天举行超过4小时的组阁会谈，就一系列实质性议题阐述立场并进行深入讨论。声明表示，双方决定举行后续会谈，但未公布具体时间。据以色列方面消息，两党代表在当天的会谈中讨论了多个存在分歧的议题，但双方未达成任何共识。据悉，双方会谈未涉及总理轮流执政的方案。（央视新闻）",
+        "pubDate": "2026-11-23T07:07:02+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "古特雷斯对COP31未就政治决定达成一致表示失望",
+        "link": "https://www.jiemian.com/article/15359531.html",
+        "summary": "联合国秘书长古特雷斯11月22日发表声明，对《联合国气候变化框架公约》第三十一次缔约方大会（COP31）未能就政治决定达成一致表示失望。古特雷斯说，他对大会在未就总体成果达成共识的情况下闭幕深感失望，他与所有期望各国政府挺身应对气候危机的人们一样深感沮丧。他说，此次大会未达成共识并不能改变气候变化的事实，气温升高不断刷新纪录，气候极端事件持续加剧，温室气体排放量仍居高不下。而每一次拖延都让任务更艰难、代价更高昂。他强调，将升温上限控制在1.5摄氏度的时间窗口正在迅速关闭。古特雷斯敦促各国摆脱化石燃料、加大减排力度。他呼吁发达国家兑现气候融资承诺。他还敦促民间社会、青年、原住民、科学家和气候变化",
+        "pubDate": "2026-11-23T07:06:23+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "肯尼亚与刚果（金）同意全面恢复外交关系",
+        "link": "https://www.jiemian.com/article/15359526.html",
+        "summary": "肯尼亚总统鲁托与刚果（金）总统齐塞克迪11月22日在刚果（布）北部城市奥约举行的四方峰会上达成共识，两国同意通过恢复大使往来等措施推动全面恢复外交关系，加强经济合作，共同维护地区和平与稳定。据鲁托当天在社交媒体平台发布的峰会公报，两国领导人重申尊重国家主权、领土完整、不干涉内政、睦邻友好及和平解决争端等原则，承诺优先通过外交渠道及现有地区和非洲大陆相关机制解决共同关切和潜在分歧。公报说，双方同意通过持续磋商、外交对话及恢复大使往来等方式改善双边关系，并加强在大湖地区问题国际会议和东非共同体等地区机制框架内的合作，共同促进地区和平、安全与一体化进程。（央视新闻）",
+        "pubDate": "2026-11-23T07:05:48+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "胡塞武装：沙特主导的联军对也门发动81次袭击",
+        "link": "https://www.jiemian.com/article/15359524.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:05:07+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+        "link": "https://www.jiemian.com/article/15359520.html",
+        "summary": "据消息人士表示，以色列方面目前不仅在等待美国总统特朗普的决定，还在高度保密的状态下密集讨论各种可行方案。在上周举行的一场小范围闭门会议上，以军军事情报局明确发出警告，称以色列若对伊朗动武，恐将导致局势外溢至黎巴嫩、叙利亚以及加沙地带，引发黎真主党等多方同时卷入的多战线冲突。据悉，这一安全评估与内塔尼亚胡此前设想的“仅持续数天的定点打击”明显不符。（央视新闻）",
+        "pubDate": "2026-11-23T07:04:43+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "现货黄金日内涨幅扩大至1%",
+        "link": "https://www.jiemian.com/article/15359517.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:04:07+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美国提醒在巴林公民提高警惕，称敌对行动可能升级",
+        "link": "https://www.jiemian.com/article/15359508.html",
+        "summary": "美国驻巴林大使馆11月22日发布安全提醒称，也门胡塞武装的袭击威胁加剧，同时“伊朗企图袭击该地区的美国政府官员和设施”，要求在巴林的美国公民提高警惕。安全提醒说，伊朗已对美国在科威特和巴林的设施发动袭击，胡塞武装则对沙特阿拉伯的民用机场及其他关键基础设施发动袭击，造成平民伤亡和严重交通中断。“敌对行动有可能迅速升级。”（央视新闻）",
+        "pubDate": "2026-11-23T07:04:07+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "中央气象台发布大风蓝色预警",
+        "link": "https://www.jiemian.com/article/15359502.html",
+        "summary": "中央气象台11月23日06时继续发布大风蓝色预警：预计，11月23日08时至24日08时，内蒙古中东部、甘肃西部、山西北部、河北西北部、北京西部山区、辽宁北部、吉林中西部、黑龙江南部、山东半岛、西藏中部、青海东北部等地部分地区有5～7级风，阵风8~9级，局地10级。渤海、渤海海峡、黄海大部海域、东海大部海域、台湾海峡、巴士海峡、南海东北部部分海域将有7级、阵风8~9级的大风，其中东海南部部分海域风力可达8级，阵风9~10级。预计，11月24日08时至25日08时，内蒙古、甘肃西部、河北北部、辽宁北部、吉林东部、黑龙江东部、山东半岛、西藏中部、青海东北部等地部分地区有5～7级风，阵风8~9级，局",
+        "pubDate": "2026-11-23T07:04:01+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "土耳其外长：美伊冲突给多国造成的经济负担日益加重",
+        "link": "https://www.jiemian.com/article/15359500.html",
+        "summary": "土耳其外长费丹11月21日在接受采访时表示，美伊冲突持续，迟迟缺乏解决方案，给多国造成的经济负担日益加重，并可能产生极具破坏性的影响。美伊达成协议不仅对恢复霍尔木兹海峡的通航至关重要，而且对进一步缓解全球金融危机也具有重要意义。费丹说，目前围绕霍尔木兹海峡问题的谈判虽然一定程度上陷入僵局，但外交斡旋仍在继续，美伊双方仍在互相传递消息并提出各自诉求。土耳其正尽一切努力推动相关谈判取得成果。费丹强调，应避免美国再次对伊朗发动袭击，各方应为此作出努力。（央视新闻）",
+        "pubDate": "2026-11-23T07:03:37+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "现货白银向上触及42美元/盎司",
+        "link": "https://www.jiemian.com/article/15359497.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:03:35+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "也门胡塞武装称打击沙特炼油厂和雷达",
+        "link": "https://www.jiemian.com/article/15359492.html",
+        "summary": "",
+        "pubDate": "2026-11-23T07:03:08+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "因达美航空系统故障，美国亚特兰大机场逾360架次航班延误",
+        "link": "https://www.jiemian.com/article/15359483.html",
+        "summary": "当地时间11月22日，据美国方面消息，因美国达美航空公司系统故障，亚特兰大哈茨菲尔德-杰克逊国际机场当天上午364架次航班出现延误。据悉，美国联邦航空管理局当天上午一度发布地面停飞令，随后调整为地面延误措施，预计于当地时间12时59分到期。此次故障涉及达美航空用于计算出发航班重量和平衡的自动化系统，航空公司工作人员正进行人工操作，以确保航班安全起飞。航班追踪数据显示，364架次延误航班中，约200架次为进港航班，164架次为出港航班，平均延误时间约57分钟。（央视新闻）",
+        "pubDate": "2026-11-23T07:02:42+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "伊朗称又有油轮在霍尔木兹海峡东部触雷起火",
+        "link": "https://www.jiemian.com/article/15359482.html",
+        "summary": "当地时间11月22日晚，伊朗军队海军宣布，当天下午，两艘油轮关闭导航系统，无视伊朗发出的警告，擅自进入霍尔木兹海峡东部禁航区，随后触雷起火。伊朗伊斯兰革命卫队海军同日表示，两艘超级油轮在霍尔木兹海峡附近海域航行时，未遵守革命卫队海军发布的指令，擅自通过未经伊朗授权的航线，结果在霍尔木兹海峡以东、盖奈姆岛以北海域触雷爆炸并被迫停航。（央视新闻）",
+        "pubDate": "2026-11-23T07:02:09+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "美股股指期货高开",
+        "link": "https://www.jiemian.com/article/15359480.html",
+        "summary": "纳指期货涨幅扩大至2%。",
+        "pubDate": "2026-11-23T07:01:54+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
+        "title": "伊拉克称安全部队打死一名“伊斯兰国”头目",
+        "link": "https://www.jiemian.com/article/15359476.html",
+        "summary": "当地时间11月22日，据伊拉克国家安全局声明，伊拉克安全部队根据情报追踪，在伊东部迪亚拉省对化名为“哈塔卜·贾齐拉”（Khattab Jazeera）的极端组织“伊斯兰国”成员实施行动。双方发生交火后，该人员被打死，数名随行人员受伤后逃离。声明称，被打死的成员曾担任该组织地区分队指挥官和军事负责人，涉嫌策划针对伊拉克安全部队、“人民动员组织”营地以及与安全机构合作的伊拉克平民的袭击。（央视新闻）",
+        "pubDate": "2026-11-23T07:01:43+08:00",
+        "author": "jianli@jiemian.com(界面快报)",
+        "feedTitle": "界面rss订阅",
+        "feedName": "界面新闻",
+        "feedColor": "#ff7cd4"
+      },
+      {
         "title": "联合国气候变化安塔利亚大会闭幕",
         "link": "https://www.jiemian.com/article/15359444.html",
         "summary": "《联合国气候变化框架公约》第三十一次缔约方大会（COP31）11月22日闭幕，未就政治决定达成一致。（新华社）",
@@ -3572,176 +3782,6 @@
         "link": "https://www.jiemian.com/article/15359429.html",
         "summary": "当地时间11月22日，乌克兰总统泽连斯基在社交媒体发文说，过去一周，乌克兰20个州遭到俄军空袭，乌方必须加强防空，当务之急是美方批准移交“爱国者”拦截弹。泽连斯基表示，当天早上，基辅州一栋居民楼遭无人机袭击坍塌，目前仍有14人下落不明。过去一周，俄军向乌克兰20个州共发射了约2700架无人机、约1460枚航空炸弹和165枚各型导弹。泽连斯基称，乌方必须加强防空，当务之急是美方批准移交“爱国者”拦截弹，乌方伙伴已通过“乌克兰优先需求清单”机制为此支付了款项。他还表示，继续为“乌克兰优先需求清单”出资至关重要，这是乌克兰获得反导能力的“主要来源”。（央视新闻）",
         "pubDate": "2026-11-22T22:53:27+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "广西金秀通报非法捕猎：截至目前，全县共立刑事案件12起、抓获涉案人员12人",
-        "link": "https://www.jiemian.com/article/15359424.html",
-        "summary": "11月22日，广西来宾金秀瑶族自治县林业局发布情况通报：近日，接到关于我县出现非法猎捕、贩卖野生鸟类的举报线索后，我局高度重视，立即联合县公安局、县市场监管局以及各乡（镇）开展全面排查，依法从严打击相关违法犯罪活动。截至目前，全县共立刑事案件12起、抓获涉案人员12人，查扣鸟网657张、诱捕器34个等作案工具。对相关媒体报道的涉案人员、餐饮店均已开展查处。",
-        "pubDate": "2026-11-22T22:52:12+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "马斯克：AI行业明年可能面临严重资金短缺",
-        "link": "https://www.jiemian.com/article/15359418.html",
-        "summary": "",
-        "pubDate": "2026-11-22T22:46:54+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "印尼糖果厂火灾现场整理出24个尸袋",
-        "link": "https://www.jiemian.com/article/15359413.html",
-        "summary": "印度尼西亚警方11月22日表示，救援人员已从该国21日晚发生火灾的糖果厂现场整理出24个尸袋，另有约30人失联。（央视新闻）",
-        "pubDate": "2026-11-22T22:38:43+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "一艘俄罗斯船只在利比亚一海军基地遭无人机袭击",
-        "link": "https://www.jiemian.com/article/15359408.html",
-        "summary": "据利比亚媒体11月22日报道，一艘停泊在利比亚班加西海军基地的俄罗斯船只当天凌晨遭无人机袭击。（新华社）",
-        "pubDate": "2026-11-22T22:38:05+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "水贝商户一天卖数公斤黄金，金价跌了多地现购金热潮",
-        "link": "https://www.jiemian.com/article/15359403.html",
-        "summary": "近期金价变动，搅动年末的黄金消费市场。随着伦敦现货黄金失守3600美元/盎司，国内黄金消费市场迎来小高潮。在北京市西城区的菜百首饰总店，柜台前挤满了前来选购黄金饰品的消费者。不少购买婚嫁首饰的消费者在持续观望后，选择在这个时机入手婚嫁用品。这周末，深圳水贝各大商场的柜台前人头攒动，迎来了近几个月来最大客流，各楼层柜台前几乎被围得水泄不通。有商户表示：“这段时间都是人挤人，销售吃饭都没时间。”“每天基本上都要加班到八九点，每天大概销售黄金几公斤，挺火爆的。”除了婚庆刚需，金条也成为这波购金潮中的亮点。明年是羊年，部分顾客将目光投向羊年主题的生肖金条。",
-        "pubDate": "2026-11-22T22:36:32+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "《三体短篇集：平行之境》定档12月23日",
-        "link": "https://www.jiemian.com/article/15359402.html",
-        "summary": "11月22日晚，B站2026—2027年国创动画作品发布会举办。会上介绍，《三体短篇集：平行之境》将于2026年12月23日开播，由六个独立的动画故事组成。制片人杜杨阳正式确认，《灵笼》系列续作《灵笼：落子无悔》将在2027年下半年上线。《雾山五行》导演林魂宣布，团队已启动《雾山五行·封界大战》的制作，最终季将以电影形式搬上大银幕。",
-        "pubDate": "2026-11-22T22:27:36+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "乌称基辅州一住宅楼遭袭，已致2死4伤",
-        "link": "https://www.jiemian.com/article/15359393.html",
-        "summary": "当地时间11月22日，乌克兰国家紧急情况局基辅州分局通报称，俄军对基辅州一栋五层住宅楼的袭击已造成2人死亡、4人受伤，伤者包括一名儿童，另有11人失联。现场搜救工作仍在持续，伤亡及失联人员信息正在进一步核实中。截至目前，俄罗斯方面对此暂无回应。（央视新闻）",
-        "pubDate": "2026-11-22T22:06:07+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "短道速滑世巡赛首尔站：中国队1金1铜收官",
-        "link": "https://www.jiemian.com/article/15359390.html",
-        "summary": "2026-2027赛季短道速滑世界巡回赛第三站首尔站11月22日收官，中国队收获1金1铜。当天举行的混合团体接力决赛中，荷兰队以2分37秒610夺冠，来自俄罗斯的中立队以2分37秒895获亚军，中国队以2分38秒069摘铜。前一比赛日，中国队夺得女子3000米接力冠军，收获新赛季首枚世巡赛金牌。（新华社）",
-        "pubDate": "2026-11-22T21:58:57+08:00",
-        "author": "jianli@jiemian.com(界面)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "金价一周跌近9%，报告称黄金短期仍有下行压力",
-        "link": "https://www.jiemian.com/article/15359381.html",
-        "summary": "当地时间11月20日，也就是本周最后一个交易日，现货黄金价格盘中最低触及每盎司3502美元，创14个月来新低。过去五个交易日累计跌幅接近9%，为八个月来最差单周表现。此外，黄金期货主力合约价格过去五个交易日的累计跌幅也接近9%。专家认为，近期黄金暴跌的头号推手是美联储政策的转向。瑞银在近期报告中指出，黄金目前较为重要的技术支撑位在每盎司3500美元附近，短期仍面临下行压力。不过瑞银认为，目前黄金相对于其他资产的估值已接近长期平均水平，技术指标也显示黄金处于超卖状态；此外，全球央行出于外汇储备多元化目的持续购金，以及金价回落后黄金首饰需求的恢复，也有助于稳定金价。（央视财经）",
-        "pubDate": "2026-11-22T21:56:26+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "新疆阿克苏地区拜城县发生3.7级地震，震源深度14千米",
-        "link": "https://www.jiemian.com/article/15359371.html",
-        "summary": "中国地震台网正式测定：11月22日21时43分在新疆阿克苏地区拜城县（北纬41.94度，东经82.46度）发生3.7级地震，震源深度14千米。",
-        "pubDate": "2026-11-22T21:50:01+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "夯实成长板块流动性底座！创业板拟引入做市商，科创板做市商规则将修订",
-        "link": "https://www.jiemian.com/article/15359311.html",
-        "summary": "一“新增”、一“优化”，A股成长板块的做市交易布局正在逐步走向完善。",
-        "pubDate": "2026-11-22T21:40:55+08:00",
-        "author": "jianli@jiemian.com(孙艺真)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "柬埔寨时隔两年半再现猴痘病例",
-        "link": "https://www.jiemian.com/article/15359363.html",
-        "summary": "柬埔寨卫生部11月22日宣布，时隔两年半，该国再次发现一例猴痘病例。柬埔寨卫生部在通报中说，该患者于20日确诊，目前正在医院接受治疗。卫生部呼吁民众采取严格的预防措施，以防猴痘进一步传播。（央视新闻）",
-        "pubDate": "2026-11-22T21:40:01+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "MiniMax公布最新内部模型的自动化密码分析研究进展",
-        "link": "https://www.jiemian.com/article/15359361.html",
-        "summary": "11月22日晚，MiniMax公布最新内部模型的密码分析研究进展。MiniMax研究团队利用内部模型对现代密码方案开展了系统性的自动化密码分析，发掘出多处此前未知的算法构造缺陷，并将多项原本停留在理论的攻击，推进到秒级至分钟级的高效破解。根据MiniMax公布的进展，针对历届NIST国际密码标准化竞赛，该内部模型首次攻破了多个此前尚无已知实际攻击的候选算法。",
-        "pubDate": "2026-11-22T21:38:43+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "宁泉资产宣布恢复新投资者申购",
-        "link": "https://www.jiemian.com/article/15359348.html",
-        "summary": "11月22日，上海宁泉资产管理有限公司公告称，根据公司投资管理运作需要，公司作为管理人管理的私募基金，决定自2026年11月23日起，恢复接受公司旗下所有基金的新投资者“首次”申购申请。",
-        "pubDate": "2026-11-22T21:13:43+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "南苏丹发生武装袭击事件，已致15名平民死亡",
-        "link": "https://www.jiemian.com/article/15359344.html",
-        "summary": "当地时间11月21日晚，南苏丹反对派武装在该国西北部瓦拉普州发动袭击。截至目前，袭击已造成至少15名平民死亡。（央视新闻）",
-        "pubDate": "2026-11-22T21:00:27+08:00",
-        "author": "jianli@jiemian.com(界面快报)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "全球最惨减重biotech，吹响反攻号角",
-        "link": "https://www.jiemian.com/article/15359251.html",
-        "summary": "站在资本市场视角下，这意味着港股一批股价“处于谷底”的biotech，值得重新审视。",
-        "pubDate": "2026-11-22T20:55:28+08:00",
-        "author": "jianli@jiemian.com(氨基观察)",
-        "feedTitle": "界面rss订阅",
-        "feedName": "界面新闻",
-        "feedColor": "#ff7cd4"
-      },
-      {
-        "title": "深天马A：公司非显业务总体规模还很小",
-        "link": "https://www.jiemian.com/article/15359330.html",
-        "summary": "11月20日，深天马A接待机构调研时表示，公司持续聚焦显示主业，同时也依托面板领域技术积累与先进制造工艺等核心优势，积极推进非显示应用技术开发，建立了MPG平台（多项目玻璃基板技术平台），稳步推进与行业伙伴在面板级智能天线、智能调光玻璃、玻璃基封装基板、微流控生物芯片、指纹识别等领域开展技术开发与合作，将面板制造技术赋能更广泛的应用领域，逐步打造创新业务矩阵，为公司培育新业务发展方向。截至目前，公司非显业务总体规模还很小，主要还处在孵化和培育期，对公司现有经营业绩无明显影响，未来公司能否实现在相关领域的规模量产及预期效益，存在不确定性。公司将持续加大研发力度，加强非显领域的产品方案迭代与市场拓",
-        "pubDate": "2026-11-22T20:54:27+08:00",
         "author": "jianli@jiemian.com(界面快报)",
         "feedTitle": "界面rss订阅",
         "feedName": "界面新闻",
